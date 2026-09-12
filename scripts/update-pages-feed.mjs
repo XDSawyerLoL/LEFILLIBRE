@@ -8,8 +8,8 @@ const FEEDS = [
   { url: 'https://fr.euronews.com/rss?format=mrss&level=theme&name=news', domain: 'euronews.com', source: 'Euronews' },
 ];
 
-const POWER_STORY = /gouvernement|minist(?:re|ères?)|garde des sceaux|présiden(?:t|ce)|élysée|matignon|assemblée nationale|sénat|parlement|député|loi\b|décret|budget|déficit|dette publique|sanctions? économiques?|cour des comptes|commission européenne|conseil de l['’]ue|fonction publique|réforme|impôt|taxe\b|fiscal|administration|État\b|etat\b|défenseur des droits|administration pénitentiaire|inspection générale de la police|IGPN\b|CGLPL\b|droits fondamentaux|marchés? publics?|collectivités|justice|magistrat|tribunal|police|préfecture|mairie|région|département/i;
-const OUTSIDE_SCOPE = /déraillement|accident|crash|football|judo|tennis|rugby|championnat|ligue 1|match\b|concert|actrice|acteur|célébrité|people|résultat sportif/i;
+const POWER_STORY = /gouvernement|minist(?:re|ères?)|garde des sceaux|présiden(?:t|ce)|élysée|matignon|assemblée nationale|sénat|parlement|député|loi\b|décret|budget|déficit|dette publique|sanctions? économiques?|cour des comptes|commission européenne|conseil de l['’]ue|fonction publique|réforme|impôt|taxe\b|fiscal|administration|État\b|etat\b|défenseur des droits|administration pénitentiaire|inspection générale de la police|IGPN\b|CGLPL\b|droits fondamentaux|marchés? publics?|collectivités|justice|magistrat|tribunal|police|préfecture|mairie|région|département|immigration|asile|ICE\b|contrat public|commande publique|autorité publique/i;
+const OUTSIDE_SCOPE = /déraillement|accident|crash|football|judo|tennis|rugby|championnat|ligue 1|match\b|concert|chanteu(?:r|se)|musique|actrice|acteur|célébrité|people|résultat sportif/i;
 
 function decodeXml(value='') {
   return value
@@ -42,6 +42,16 @@ function publisherUrl(url, domain) {
   } catch { return false; }
 }
 
+function inScope(item) {
+  const text = `${item.title ?? ''} ${item.summary ?? ''}`;
+  return POWER_STORY.test(text) && !OUTSIDE_SCOPE.test(text);
+}
+
+function recentEnough(item, now) {
+  const age = now - Date.parse(item.publishedAt);
+  return Number.isFinite(age) && age >= 0 && age < SIX_HOURS;
+}
+
 async function fetchFeed(feed) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 9000);
@@ -69,21 +79,29 @@ async function fetchFeed(feed) {
 }
 
 const now = Date.now();
+let previous = null;
+try { previous = JSON.parse(await readFile('feed.json', 'utf8')); } catch {}
+
 const settled = await Promise.allSettled(FEEDS.map(fetchFeed));
 for (let i = 0; i < settled.length; i++) if (settled[i].status === 'rejected') console.warn(String(settled[i].reason));
 
 const seen = new Set();
 const recent = settled.flatMap(r => r.status === 'fulfilled' ? r.value : []).filter(item => {
-  const age = now - Date.parse(item.publishedAt);
-  if (age < 0 || age >= SIX_HOURS || seen.has(item.url)) return false;
+  if (!recentEnough(item, now) || seen.has(item.url)) return false;
   seen.add(item.url);
   return true;
 }).sort((a,b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 
-let items = recent.filter(item => POWER_STORY.test(item.title) && !OUTSIDE_SCOPE.test(item.title)).slice(0, 18);
-// Evite une page totalement vide si un flux utilise un titre trop elliptique :
-// dans ce cas, on garde seulement les trois informations les plus récentes comme veille brute.
-if (items.length === 0) items = recent.slice(0, 3);
+let items = recent.filter(inScope).slice(0, 18);
+
+// Aucun remplissage avec du people, du sport ou des faits divers : si les flux ne
+// contiennent rien dans la ligne du journal, on conserve uniquement les brèves
+// éditoriales encore fraîches déjà présentes. Sinon la page assume qu'il n'y a rien.
+if (items.length === 0) {
+  items = (previous?.items ?? []).filter(item =>
+    recentEnough(item, now) && (String(item.source ?? '').startsWith('Le Fil Libre') || inScope(item))
+  ).slice(0, 18);
+}
 
 const cleanItems = items.map(({title,url,source,publishedAt,summary,image}) => ({
   title, url, source, publishedAt,
@@ -91,8 +109,6 @@ const cleanItems = items.map(({title,url,source,publishedAt,summary,image}) => (
   ...(image ? { image } : {}),
 }));
 
-let previous = null;
-try { previous = JSON.parse(await readFile('feed.json', 'utf8')); } catch {}
 const previousItems = JSON.stringify(previous?.items ?? []);
 const nextItems = JSON.stringify(cleanItems);
 if (previousItems === nextItems) {
