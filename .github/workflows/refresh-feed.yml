@@ -32,19 +32,19 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Refresh six-hour feed
+      - name: Refresh six-hour feed and share pages
         run: node scripts/update-pages-feed.mjs
 
-      - name: Commit feed when it changed
+      - name: Commit feed and share pages when changed
         shell: bash
         run: |
-          if git diff --quiet -- feed.json; then
-            echo "No feed change to publish."
+          if [ -z "$(git status --porcelain -- feed.json articles)" ]; then
+            echo "No feed or share-page change to publish."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed.json
-          git commit -m "chore: refresh six-hour news feed"
+          git add feed.json articles
+          git commit -m "chore: refresh six-hour news feed and share pages"
           git pull --rebase origin main
           git push origin HEAD:main
