@@ -13,10 +13,11 @@ const FEEDS = [
   { url: 'https://www.frandroid.com/feed/', domain: 'frandroid.com', source: 'Frandroid', kind: 'tech' },
 ];
 
+const TECH_SOURCES = new Set(['Numerama', '01net', 'Frandroid']);
 const POWER_STORY = /gouvernement|minist(?:re|ères?)|garde des sceaux|présiden(?:t|ce)|élysée|matignon|assemblée nationale|sénat|parlement|député|loi\b|décret|budget|déficit|dette publique|sanctions? économiques?|cour des comptes|commission européenne|conseil de l['’]ue|fonction publique|réforme|impôt|taxe\b|fiscal|administration|État\b|etat\b|défenseur des droits|administration pénitentiaire|inspection générale de la police|IGPN\b|CGLPL\b|droits fondamentaux|marchés? publics?|collectivités|justice|magistrat|tribunal|police|préfecture|mairie|région|département|parti|élection|immigration|occupation|onu|droits humains|manifest/i;
-const TECH_STORY = /intelligence artificielle|\bIA\b|artificial intelligence|OpenAI|ChatGPT|Anthropic|Claude|Gemini|Mistral AI|DeepSeek|Perplexity|Hugging Face|Nvidia|robot(?:ique|s?)?|androïde|agent(?:s)? IA|LLM\b|modèle(?:s)? de langage|machine learning|apprentissage automatique|cybersécurité|cyberattaque|piratage|hack(?:er|ing)?|quantique|ordinateur|processeur|puce|GPU\b|semi-conducteur|data ?center|cloud|logiciel|smartphone|Apple|Google|Microsoft|Meta\b|SpaceX|Tesla|internet|numérique|technolog|5G\b|6G\b|Wi-?Fi|drone|satellite/i;
+const TECH_STORY = /intelligence artificielle|\bIA\b|artificial intelligence|OpenAI|ChatGPT|Anthropic|Claude|Gemini|Mistral AI|DeepSeek|Perplexity|Hugging Face|Nvidia|robot(?:ique|s?)?|androïde|agent(?:s)? IA|LLM\b|modèle(?:s)? de langage|machine learning|apprentissage automatique|cybersécurité|cyberattaque|piratage|hack(?:er|ing)?|quantique|ordinateur|processeur|puce|GPU\b|semi-conducteur|data ?center|cloud|logiciel|smartphone|Apple|Google|Microsoft|Meta\b|SpaceX|Tesla|internet|numérique|technolog|5G\b|6G\b|Wi-?Fi|satellite/i;
 const OUTSIDE_SCOPE = /déraillement|accident|crash|football|judo|tennis|rugby|championnat|ligue 1|match\b|concert|chanteu(?:r|se)|actrice|acteur|célébrité|people|résultat sportif/i;
-const TECH_NOISE = /bon plan|promo(?:tion)?|soldes|french days|code promo|réduction|comparatif|guide d['’]achat|meilleur prix|moins cher|test\b/i;
+const TECH_NOISE = /bon(?:s)? plan|promo(?:tion)?|soldes|french days|code promo|réduction|comparatif|guide d['’]achat|meilleur(?:s|es)?\b|quel(?:le)? .* choisir|prix réduit|moins cher|chute sous|\boffre(?:s)?\b/i;
 
 function decodeXml(value='') {
   return value
@@ -66,7 +67,7 @@ function textOf(item) {
 }
 
 function isTech(item) {
-  return item.kind === 'tech' || item.category === 'IA & Tech' || TECH_STORY.test(textOf(item));
+  return item.kind === 'tech' || TECH_SOURCES.has(item.source) || TECH_STORY.test(textOf(item));
 }
 
 function absoluteImage(item) {
@@ -126,22 +127,21 @@ const fetchedRecent = settled.flatMap(r => r.status === 'fulfilled' ? r.value : 
   seen.add(item.url); return true;
 });
 
-// Preserve still-fresh previous stories if a publisher feed has a temporary failure.
 const previousFresh = (previous?.items || []).filter(item => {
   const age = now - Date.parse(item.publishedAt);
   return age >= 0 && age < SIX_HOURS && item.url && !seen.has(item.url);
-}).map(item => ({ ...item, kind: isTech(item) ? 'tech' : 'general' }));
+}).map(item => ({ ...item, kind: TECH_SOURCES.has(item.source) || TECH_STORY.test(textOf(item)) ? 'tech' : 'general' }));
 
 const recent = [...fetchedRecent, ...previousFresh]
   .sort((a,b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
 
-const cleanTech = recent.filter(item => isTech(item) && !OUTSIDE_SCOPE.test(textOf(item)) && !TECH_NOISE.test(textOf(item)));
-const allTech = recent.filter(item => isTech(item) && !OUTSIDE_SCOPE.test(textOf(item)));
-const techPool = [...cleanTech, ...allTech.filter(item => !cleanTech.some(x => x.url === item.url))];
+const preferredTech = recent.filter(item => isTech(item) && !OUTSIDE_SCOPE.test(textOf(item)) && !TECH_NOISE.test(textOf(item)));
+const fallbackTech = recent.filter(item => isTech(item) && !OUTSIDE_SCOPE.test(textOf(item)) && TECH_NOISE.test(textOf(item)));
+const techPool = [...preferredTech, ...fallbackTech.filter(item => !preferredTech.some(x => x.url === item.url))];
 const requiredTech = techPool.slice(0, 2);
 
-const powerPool = recent.filter(item => POWER_STORY.test(textOf(item)) && !OUTSIDE_SCOPE.test(textOf(item)));
-const combined = [...requiredTech, ...powerPool, ...techPool.slice(2)];
+const powerPool = recent.filter(item => POWER_STORY.test(textOf(item)) && !OUTSIDE_SCOPE.test(textOf(item)) && !TECH_NOISE.test(textOf(item)));
+const combined = [...requiredTech, ...powerPool, ...preferredTech.slice(2)];
 const selected = [];
 const selectedUrls = new Set();
 for (const item of combined) {
@@ -151,8 +151,6 @@ for (const item of combined) {
   if (selected.length >= 18) break;
 }
 
-// Never fill the page with random entertainment/sports. If the editorial pool is empty,
-// keep only recent technology stories rather than unrelated general news.
 const items = selected.length ? selected : techPool.slice(0, 3);
 
 await mkdir('articles', { recursive: true });
