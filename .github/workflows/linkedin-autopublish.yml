@@ -1,0 +1,27 @@
+name: LinkedIn autopublish
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger secure LinkedIn publisher
+        env:
+          BACKEND_URL: ${{ secrets.LEFIL_BACKEND_URL }}
+          CRON_SECRET: ${{ secrets.LEFIL_CRON_SECRET }}
+        run: |
+          if [ -z "$BACKEND_URL" ] || [ -z "$CRON_SECRET" ]; then
+            echo "LinkedIn autopublish is not configured yet. Add LEFIL_BACKEND_URL and LEFIL_CRON_SECRET repository secrets."
+            exit 0
+          fi
+          curl --fail-with-body --silent --show-error \
+            -X POST "${BACKEND_URL%/}/jobs/publish" \
+            -H "x-cron-secret: $CRON_SECRET" \
+            -H "accept: application/json"
