@@ -1,23 +1,52 @@
 {
-  "updatedAt": "2026-09-12T20:31:57.514Z",
+  "updatedAt": "2026-09-12T22:25:39.017Z",
   "items": [
     {
-      "title": "On a testé le Minisforum N5 MAX AI NAS, le NAS cinq baies qui joue aussi les mini-PC surpuissants",
-      "url": "https://www.frandroid.com/marques/minisforum/3226029_on-a-teste-le-minisforum-n5-max-ai-nas-le-nas-cinq-baies-qui-joue-aussi-les-mini-pc-surpuissants",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-12T16:02:00.000Z",
-      "summary": "À l'origine de nombreux mini-PC, Minisforum est maintenant une marque bien connue. Comme d'autres fabricants chinois, elle a toutefois décidé d’ajouter une corde à son arc en se tournant vers le monde du NAS, autrefois largement dominé par Synology. Mais, histoire de se distinguer, NAS et mini-PC ont été réunis au sein",
+      "title": "Le patron d'Anthropic appelle à ralentir le développement de l'intelligence artificielle",
+      "url": "https://www.rfi.fr/fr/monde/20260912-le-patron-d-anthropic-veut-ralentir-sur-l-ia-musk-et-altman-le-soutiennent",
+      "source": "RFI",
+      "publishedAt": "2026-09-12T22:10:15.000Z",
+      "summary": "Le patron d'Anthropic, Dario Amodei, a appelé samedi à ralentir la vitesse de développement de l'intelligence artificielle (IA), un message auquel se sont rapidement rallié Elon Musk et Sam Altman (OpenAI).",
+      "image": "https://s.rfi.fr/media/display/e82912b0-1523-11f1-9179-005056bfb2b6/w:1024/p:16x9/2026-02-19T075350Z-964903979-RC2UOJAO2BED-RTRMADP-3-INDIA-AI.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/on-a-teste-le-minisforum-n5-max-ai-nas-le-nas-cinq-baies-qui-joue-aussi--ce77f56d0b.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-patron-d-anthropic-appelle-a-ralentir-le-developpement-de-l-intellige-ab91e14c0d.html"
     },
     {
-      "title": "Faillite du n°1 du vélo, panneaux solaires pour chauffer et recharger, promos électriques : la semaine sur Survoltés",
-      "url": "https://www.frandroid.com/survoltes/3245487_faillite-du-n1-du-velo-panneaux-solaires-pour-chauffer-et-recharger-promos-electriques-la-semaine-sur-survoltes",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-12T18:01:00.000Z",
-      "summary": "Une semaine qui va du chevet du géant européen du vélo aux bonnes affaires de la rentrée sur les voitures électriques, en passant par deux façons d'exploiter le soleil chez soi. Voici les actualités les plus lues sur Survoltés.",
+      "title": "L'IA d'Anthropic Claude a été utilisée pour des opérations d'influence dans plusieurs pays d'Afrique",
+      "url": "https://www.rfi.fr/fr/afrique/20260912-l-ia-d-anthropic-claude-a-%C3%A9t%C3%A9-utilis%C3%A9e-pour-des-op%C3%A9rations-d-influence-dans-plusieurs-pays-d-afrique",
+      "source": "RFI",
+      "publishedAt": "2026-09-12T21:42:11.000Z",
+      "summary": "Dans un rapport sur les usages malveillants de son propre agent IA que l'entreprise américaine vient de publier, celle-ci révèle qu'il a permis d'accélérer des campagnes de propagande ou de concevoir des plateformes de surveillance de masse dans plusieurs pays du continent africain. La RDC, la Centrafrique, le Kenya, l",
+      "image": "https://s.rfi.fr/media/display/5d2fd1c6-95ac-11f1-84bf-005056bfb2b6/w:1024/p:16x9/2026-07-20T075308Z-837554484-RC2JHMASKFBM-RTRMADP-3-ANTHROPIC-AI.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/faillite-du-n-1-du-velo-panneaux-solaires-pour-chauffer-et-recharger-pro-1c243f2c42.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ia-d-anthropic-claude-a-ete-utilisee-pour-des-operations-d-influence-d-9350411ad6.html"
+    },
+    {
+      "title": "Yémen: 76 000 déplacés depuis juillet, l’OIM alerte sur une crise qui «s’aggrave rapidement»",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20260912-y%C3%A9men-76-000-d%C3%A9plac%C3%A9s-depuis-juillet-l-oim-alerte-sur-une-crise-qui-s-aggrave-rapidement",
+      "source": "RFI",
+      "publishedAt": "2026-09-12T21:49:42.000Z",
+      "summary": "Au moins 76 000 personnes ont été déplacées au Yémen depuis juillet, leur nombre ayant quadruplé au cours de la semaine écoulée en raison d’une recrudescence des combats, a annoncé l’ONU samedi 12 septembre. Face à l’avancée militaire des Houthis, des milliers de familles ont pris la route, notamment vers le sud du pay",
+      "image": "https://s.rfi.fr/media/display/dd60fa0c-aebe-11f1-bab5-005056a97e36/w:1024/p:16x9/AP26255544592639.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yemen-76-000-deplaces-depuis-juillet-l-oim-alerte-sur-une-crise-qui-s-ag-d3e7689efe.html"
+    },
+    {
+      "title": "«Il ne sait absolument pas de quoi il parle»: les propos de Trump sur une Irlande «unifiée» surprennent",
+      "url": "https://www.rfi.fr/fr/europe/20260912-il-ne-sait-absolument-pas-de-quoi-il-parle-les-propos-de-trump-sur-une-irlande-unifi%C3%A9e-surprennent",
+      "source": "RFI",
+      "publishedAt": "2026-09-12T21:24:06.000Z",
+      "summary": "En déplacement en Irlande, le président américain a fait des déclarations plaidant pour une Irlande « unifiée ». Des propos qui ont surpris au sein de la population irlandaise, surtout au sein du cortège de personnes qui protestaient contre la venue de Donald Trump dans leur pays.",
+      "image": "https://s.rfi.fr/media/display/3cd1a32a-aef0-11f1-9060-005056a90284/w:1024/p:16x9/000-C84L3KN.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/il-ne-sait-absolument-pas-de-quoi-il-parle-les-propos-de-trump-sur-une-i-6654ce7d6c.html"
+    },
+    {
+      "title": "Allemagne: des dizaines de milliers de manifestants contre l'extrême droite après sa victoire en Saxe-Anhalt",
+      "url": "https://www.rfi.fr/fr/europe/20260912-allemagne-des-dizaines-de-milliers-de-manifestants-contre-l-extr%C3%AAme-droite-apr%C3%A8s-sa-victoire-en-saxe-anhalt",
+      "source": "RFI",
+      "publishedAt": "2026-09-12T20:50:26.000Z",
+      "summary": "Des dizaines de milliers de personnes ont manifesté samedi 12 septembre à Berlin contre l’extrême droite, une semaine après la victoire de l’Alternative pour l’Allemagne (AfD) en Saxe-Anhalt, où le parti a recueilli près de 44% des voix. À l’appel de 80 organisations, partis, syndicats et associations, les manifestants",
+      "image": "https://s.rfi.fr/media/display/061a7e3e-aee0-11f1-aa52-005056bf30b7/w:1024/p:16x9/2026-09-12T140423Z-12947997-RC2QHNATLE9B-RTRMADP-3-GERMANY-ELECTION-MECKLENBURG-WESTERN-POMERANIA-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-des-dizaines-de-milliers-de-manifestants-contre-l-extreme-droi-33910d5e51.html"
     },
     {
       "title": "Maroc : Abdelmalek Alaoui, la puissance peut-elle profiter à tous ?",
@@ -54,15 +83,6 @@
       "summary": "Quelque 150 000 personnes ont manifesté samedi dans une vingtaine de villes allemandes, dont Berlin, Hambourg et Munich, pour protester contre l'AfD qui s'apprête à diriger la région de Saxe-Anhalt, dans l'est du pays. Ces manifestations répondaient à une campagne nationale qui réclame l'interdiction du parti d'extrême",
       "image": "https://s.france24.com/media/display/83bf7692-aecb-11f1-b02e-005056a97e36/w:1024/p:16x9/000-C84J6TY.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/interdisez-l-afd-des-dizaines-de-milliers-d-allemands-manifestent-contre-5ffc063a92.html"
-    },
-    {
-      "title": "Les BRICS exhortent à la \"retenue maximale\" dans le conflit au Moyen-Orient",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260912-les-brics-exhortent-%C3%A0-la-retenue-maximale-dans-le-conflit-au-moyen-orient",
-      "source": "France 24",
-      "publishedAt": "2026-09-12T15:55:11.000Z",
-      "summary": "Les dirigeants des pays des BRICS, dont l'Inde, la Chine, la Russie, l'Iran et les Emirats, sont parvenus samedi à New Delhi à surmonter leurs différences sur le conflit au Moyen-Orient pour exhorter ensemble les parties à la \"retenue maximale\".",
-      "image": "https://s.france24.com/media/display/13c2f5bc-aec1-11f1-b0f5-005056bf30b7/w:1024/p:16x9/FR-20260912-170709-170902-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-brics-exhortent-a-la-retenue-maximale-dans-le-conflit-au-moyen-orien-49237d7830.html"
     }
   ]
 }
