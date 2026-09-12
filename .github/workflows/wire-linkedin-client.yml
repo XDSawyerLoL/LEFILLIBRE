@@ -1,0 +1,41 @@
+name: Wire LinkedIn client
+
+on:
+  push:
+    paths:
+      - '.github/workflows/wire-linkedin-client.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  wire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Inject secure LinkedIn client scripts
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          injection = '  <script src="./lefillibre-config.js"></script>\n  <script src="./linkedin-client.js"></script>\n'
+          if './linkedin-client.js' not in s:
+              s = s.replace('</body>', injection + '</body>')
+              p.write_text(s, encoding='utf-8')
+          PY
+      - name: Commit wiring
+        run: |
+          if git diff --quiet -- index.html; then
+            echo "Already wired."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Wire secure LinkedIn OAuth client into site"
+          git pull --rebase origin main
+          git push origin HEAD:main
