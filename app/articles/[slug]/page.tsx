@@ -1,0 +1,9 @@
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { ArrowLeft, ArrowUpRight } from "lucide-react";
+import { articles, isFreshArticle } from "@/lib/articles";
+export const dynamic = "force-dynamic";
+export default async function ArticlePage({params}:{params:Promise<{slug:string}>}){
+  const {slug}=await params; const article=articles.find(a=>a.slug===slug);if(!article||!isFreshArticle(article))notFound();
+  return <main className="site-shell article-page"><header className="detail-header"><Link href="/" className="detail-brand">LE FIL <em>LIBRE</em></Link><Link href="/" className="back-link"><ArrowLeft size={16}/> Retour au fil</Link></header><article className="detail-main"><div className="detail-eyebrow">{article.category} <span>·</span> {new Intl.DateTimeFormat("fr-FR",{dateStyle:"short",timeStyle:"short",timeZone:"Europe/Paris"}).format(new Date(article.publishedAt!))}</div><h1>{article.title}</h1>{article.image&&<figure className="detail-image"><img src={article.image} alt="Illustration éditoriale, non photographie des faits"/><figcaption>{article.imageCredit??"Illustration originale · Le Fil Libre"}</figcaption></figure>}<p className="detail-summary">{article.summary}</p><div className="detail-byline">LE FIL LIBRE <span>·</span> {article.sources.length} SOURCE{article.sources.length>1?"S":""}</div><div className="detail-body">{article.paragraphs.map((p,i)=><p key={i}>{p}</p>)}</div><aside className="angle-box"><span>CE QU’IL FAUT RETENIR</span><p>{article.angle}</p></aside><div className="source-box"><h2>Les sources</h2><p>Les liens d’origine permettent de vérifier ce que les documents établissent.</p><ul>{article.sources.map(s=><li key={s.url}><a href={s.url} target="_blank" rel="noopener noreferrer">{s.name} <ArrowUpRight size={16}/></a></li>)}</ul></div></article><footer className="detail-footer"><Link href="/">← Revenir au fil</Link><Link href="/methode">Notre méthode</Link></footer></main>;
+}
