@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-13T21:32:37.851Z",
+  "updatedAt": "2026-09-13T23:29:51.111Z",
   "items": [
+    {
+      "title": "Irlande: les data centers de la tech menacent-ils le réseau électrique?",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260913-irlande-les-data-centers-de-la-tech-menacent-ils-le-r%C3%A9seau-%C3%A9lectrique",
+      "source": "RFI",
+      "publishedAt": "2026-09-13T22:05:05.000Z",
+      "summary": "Dublin, c'est le fief des géants de la tech : Google, Amazon, Meta s’y sont tous installés et ont construit aux alentours leurs data centers, ces gros centres de données indispensables à leur fonctionnement. Résultat : l'Irlande compte aujourd'hui 89 data centers ! De quoi offrir à la République irlandaise le titre de ",
+      "image": "https://s.rfi.fr/media/display/59743dd0-e877-11ef-8cdb-005056a97e36/w:1024/p:16x9/AP25029546152022.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irlande-les-data-centers-de-la-tech-menacent-ils-le-reseau-electrique-d6e1620a8a.html"
+    },
     {
       "title": "Test de la Paperslate Pro : une tablette E-Ink prometteuse mais freinée par ses propres lenteurs",
       "url": "https://www.frandroid.com/test/3170433_test-de-la-paperslate-pro-une-tablette-e-ink-prometteuse-mais-freinee-par-ses-propres-lenteurs",
@@ -11,13 +21,13 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/test-de-la-paperslate-pro-une-tablette-e-ink-prometteuse-mais-freinee-pa-1fa7336283.html"
     },
     {
-      "title": "Revolut confirme avoir transmis passeports, selfies et historiques bitcoin de clients à des escrocs usurpant une agence gouvernementale",
-      "url": "https://www.frandroid.com/services/banque-en-ligne/3245871_revolut-confirme-avoir-transmis-passeports-selfies-et-historiques-bitcoin-de-clients-a-des-escrocs-usurpant-une-agence-gouvernementale",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-13T17:56:45.000Z",
-      "summary": "Revolut a remis passeports, selfies et historiques de transactions de certains clients à un inconnu qui écrivait depuis une vraie adresse gouvernementale.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/revolut-confirme-avoir-transmis-passeports-selfies-et-historiques-bitcoi-f2e59d7d2b.html"
+      "title": "Territoires palestiniens: les législatives du 28 novembre auront-elles bien lieu?",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20260913-territoires-palestiniens-les-l%C3%A9gislatives-du-28-novembre-auront-elles-bien-lieu",
+      "source": "RFI",
+      "publishedAt": "2026-09-13T21:31:19.000Z",
+      "summary": "Les élections législatives palestiniennes auront-elles lieu comme prévu le 28 novembre ? La question se pose depuis que Jibril Rajoub, secrétaire général du Comité central du Fatah, a affirmé, jeudi 10 septembre, que le scrutin ne se tiendrait pas à cette date. Il a appelé à un dialogue national et à l’organisation pré",
+      "image": "https://s.rfi.fr/media/display/6d5059e4-4189-11f1-a834-005056a90284/w:1024/p:16x9/AP26115247208984.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/territoires-palestiniens-les-legislatives-du-28-novembre-auront-elles-bi-abcca42502.html"
     },
     {
       "title": "Santé mentale en Afrique : comment briser le tabou du suicide ?",
@@ -74,6 +84,15 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-suede-la-gauche-et-l-extreme-droite-au-coude-a-coude-le--6c5e0531d5.html"
     },
     {
+      "title": "Revolut confirme avoir transmis passeports, selfies et historiques bitcoin de clients à des escrocs usurpant une agence gouvernementale",
+      "url": "https://www.frandroid.com/services/banque-en-ligne/3245871_revolut-confirme-avoir-transmis-passeports-selfies-et-historiques-bitcoin-de-clients-a-des-escrocs-usurpant-une-agence-gouvernementale",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-13T17:56:45.000Z",
+      "summary": "Revolut a remis passeports, selfies et historiques de transactions de certains clients à un inconnu qui écrivait depuis une vraie adresse gouvernementale.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/revolut-confirme-avoir-transmis-passeports-selfies-et-historiques-bitcoi-f2e59d7d2b.html"
+    },
+    {
       "title": "France: Marine Le Pen place la «priorité nationale» et le logement au cœur de son projet présidentiel",
       "url": "https://www.rfi.fr/fr/france/20260913-france-marine-le-pen-place-la-priorit%C3%A9-nationale-et-le-logement-au-c%C5%93ur-de-son-projet-pr%C3%A9sidentiel",
       "source": "RFI",
@@ -81,16 +100,6 @@
       "summary": "Très discrète depuis la fin des vacances, Marine Le Pen, favorite des sondages pour la présidentielle de 2027, a prononcé dimanche 13 septembre un premier grand discours dans son fief d’Hénin-Beaumont, dans le nord de la France. Si elle assure que sa campagne démarrera véritablement en octobre à Orléans, la dirigeante ",
       "image": "https://s.rfi.fr/media/display/f679efa6-af92-11f1-bf7f-005056a97e36/w:1024/p:16x9/2026-09-13T141757Z-155880492-RC2EINASP7KH-RTRMADP-3-FRANCE-POLITICS-RN.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-marine-le-pen-place-la-priorite-nationale-et-le-logement-au-c-ur--f497ae276c.html"
-    },
-    {
-      "title": "Coup de tonnerre chez Valve : le Steam Frame fuite de partout",
-      "url": "https://www.01net.com/actualites/coup-de-tonnerre-chez-valve-le-steam-frame-fuite-de-partout.html",
-      "source": "01net",
-      "publishedAt": "2026-09-13T16:30:37.000Z",
-      "summary": "Valve cultive le secret au point d'officialiser ses produits sans prix ni date de sortie. Un carton parti trop tôt et un test publié en avance viennent de faire le travail à sa place.",
-      "image": "https://www.01net.com/app/uploads/2026/09/Canva-1920x1440-88-1344x896.jpeg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/coup-de-tonnerre-chez-valve-le-steam-frame-fuite-de-partout-4784203914.html"
     }
   ]
 }
