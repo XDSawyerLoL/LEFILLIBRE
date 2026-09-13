@@ -1,79 +1,23 @@
 {
-  "updatedAt": "2026-09-13T00:05:29.228Z",
+  "updatedAt": "2026-09-13T04:41:50.038Z",
   "items": [
     {
-      "title": "Le patron d'Anthropic appelle à ralentir le développement de l'intelligence artificielle",
-      "url": "https://www.rfi.fr/fr/monde/20260912-le-patron-d-anthropic-veut-ralentir-sur-l-ia-musk-et-altman-le-soutiennent",
+      "title": "Jeux olympiques de la Jeunesse 2026: le Sénégal accueille la flamme olympique à Dakar",
+      "url": "https://www.rfi.fr/fr/afrique/20260913-jeux-olympiques-de-la-jeunesse-2026-le-s%C3%A9n%C3%A9gal-accueille-la-flamme-olympique-%C3%A0-dakar",
       "source": "RFI",
-      "publishedAt": "2026-09-12T22:10:15.000Z",
-      "summary": "Le patron d'Anthropic, Dario Amodei, a appelé samedi à ralentir la vitesse de développement de l'intelligence artificielle (IA), un message auquel se sont rapidement rallié Elon Musk et Sam Altman (OpenAI).",
-      "image": "https://s.rfi.fr/media/display/e82912b0-1523-11f1-9179-005056bfb2b6/w:1024/p:16x9/2026-02-19T075350Z-964903979-RC2UOJAO2BED-RTRMADP-3-INDIA-AI.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-patron-d-anthropic-appelle-a-ralentir-le-developpement-de-l-intellige-ab91e14c0d.html"
+      "publishedAt": "2026-09-13T02:51:26.000Z",
+      "summary": "Après avoir été remise au président Bassirou Diomaye Faye dans le courant de la matinée, la flamme olympique arrivée dans le pays en fin de semaine a été mise à l'honneur lors d'une grande cérémonie organisée place du Souvenir africain, samedi 12 septembre.",
+      "image": "https://s.rfi.fr/media/display/78f04da0-af0b-11f1-af8d-005056a90284/w:1024/p:16x9/AP26255645262760.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jeux-olympiques-de-la-jeunesse-2026-le-senegal-accueille-la-flamme-olymp-9937bb59e6.html"
     },
     {
-      "title": "L'IA d'Anthropic Claude a été utilisée pour des opérations d'influence dans plusieurs pays d'Afrique",
-      "url": "https://www.rfi.fr/fr/afrique/20260912-l-ia-d-anthropic-claude-a-%C3%A9t%C3%A9-utilis%C3%A9e-pour-des-op%C3%A9rations-d-influence-dans-plusieurs-pays-d-afrique",
+      "title": "Suède: les électeurs appelés aux urnes pour des législatives au résultat très incertain",
+      "url": "https://www.rfi.fr/fr/europe/20260913-su%C3%A8de-les-%C3%A9lecteurs-appel%C3%A9s-aux-urnes-pour-des-l%C3%A9gislatives-au-r%C3%A9sultat-tr%C3%A8s-incertain",
       "source": "RFI",
-      "publishedAt": "2026-09-12T21:42:11.000Z",
-      "summary": "Dans un rapport sur les usages malveillants de son propre agent IA que l'entreprise américaine vient de publier, celle-ci révèle qu'il a permis d'accélérer des campagnes de propagande ou de concevoir des plateformes de surveillance de masse dans plusieurs pays du continent africain. La RDC, la Centrafrique, le Kenya, l",
-      "image": "https://s.rfi.fr/media/display/5d2fd1c6-95ac-11f1-84bf-005056bfb2b6/w:1024/p:16x9/2026-07-20T075308Z-837554484-RC2JHMASKFBM-RTRMADP-3-ANTHROPIC-AI.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ia-d-anthropic-claude-a-ete-utilisee-pour-des-operations-d-influence-d-9350411ad6.html"
-    },
-    {
-      "title": "Yémen: 76 000 déplacés depuis juillet, l’OIM alerte sur une crise qui «s’aggrave rapidement»",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260912-y%C3%A9men-76-000-d%C3%A9plac%C3%A9s-depuis-juillet-l-oim-alerte-sur-une-crise-qui-s-aggrave-rapidement",
-      "source": "RFI",
-      "publishedAt": "2026-09-12T21:49:42.000Z",
-      "summary": "Au moins 76 000 personnes ont été déplacées au Yémen depuis juillet, leur nombre ayant quadruplé au cours de la semaine écoulée en raison d’une recrudescence des combats, a annoncé l’ONU samedi 12 septembre. Face à l’avancée militaire des Houthis, des milliers de familles ont pris la route, notamment vers le sud du pay",
-      "image": "https://s.rfi.fr/media/display/dd60fa0c-aebe-11f1-bab5-005056a97e36/w:1024/p:16x9/AP26255544592639.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yemen-76-000-deplaces-depuis-juillet-l-oim-alerte-sur-une-crise-qui-s-ag-d3e7689efe.html"
-    },
-    {
-      "title": "«Il ne sait absolument pas de quoi il parle»: les propos de Trump sur une Irlande «unifiée» surprennent",
-      "url": "https://www.rfi.fr/fr/europe/20260912-il-ne-sait-absolument-pas-de-quoi-il-parle-les-propos-de-trump-sur-une-irlande-unifi%C3%A9e-surprennent",
-      "source": "RFI",
-      "publishedAt": "2026-09-12T21:24:06.000Z",
-      "summary": "En déplacement en Irlande, le président américain a fait des déclarations plaidant pour une Irlande « unifiée ». Des propos qui ont surpris au sein de la population irlandaise, surtout au sein du cortège de personnes qui protestaient contre la venue de Donald Trump dans leur pays.",
-      "image": "https://s.rfi.fr/media/display/3cd1a32a-aef0-11f1-9060-005056a90284/w:1024/p:16x9/000-C84L3KN.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/il-ne-sait-absolument-pas-de-quoi-il-parle-les-propos-de-trump-sur-une-i-6654ce7d6c.html"
-    },
-    {
-      "title": "Allemagne: des dizaines de milliers de manifestants contre l'extrême droite après sa victoire en Saxe-Anhalt",
-      "url": "https://www.rfi.fr/fr/europe/20260912-allemagne-des-dizaines-de-milliers-de-manifestants-contre-l-extr%C3%AAme-droite-apr%C3%A8s-sa-victoire-en-saxe-anhalt",
-      "source": "RFI",
-      "publishedAt": "2026-09-12T20:50:26.000Z",
-      "summary": "Des dizaines de milliers de personnes ont manifesté samedi 12 septembre à Berlin contre l’extrême droite, une semaine après la victoire de l’Alternative pour l’Allemagne (AfD) en Saxe-Anhalt, où le parti a recueilli près de 44% des voix. À l’appel de 80 organisations, partis, syndicats et associations, les manifestants",
-      "image": "https://s.rfi.fr/media/display/061a7e3e-aee0-11f1-aa52-005056bf30b7/w:1024/p:16x9/2026-09-12T140423Z-12947997-RC2QHNATLE9B-RTRMADP-3-GERMANY-ELECTION-MECKLENBURG-WESTERN-POMERANIA-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-des-dizaines-de-milliers-de-manifestants-contre-l-extreme-droi-33910d5e51.html"
-    },
-    {
-      "title": "Maroc : Abdelmalek Alaoui, la puissance peut-elle profiter à tous ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260912-maroc-abdelmalek-alaoui-la-puissance-peut-elle-profiter-%C3%A0-tous",
-      "source": "France 24",
-      "publishedAt": "2026-09-12T20:29:49.000Z",
-      "summary": "Le Maroc est-il devenu une puissance régionale ? Et surtout : cette puissance profite-t-elle à tous ? Dans \"Maroc, le défi de la puissance\" (Ed. Du cherche Midi), l’économiste, entrepreneur et essayiste Abdelmalek Alaoui retrace 70 ans de transformation du Royaume. Industrialisation, infrastructures, investissements en",
-      "image": "https://s.france24.com/media/display/08808422-aee8-11f1-9266-005056bf30b7/w:1024/p:16x9/FR-20260912-214800-215646-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-abdelmalek-alaoui-la-puissance-peut-elle-profiter-a-tous-237b7891ba.html"
-    },
-    {
-      "title": "Royaume-Uni: le parti anti-immigration Reform UK engrange deux dons record de cryptomilliardaires",
-      "url": "https://www.rfi.fr/fr/europe/20260912-royaume-uni-le-parti-anti-immigration-reform-uk-engrange-deux-dons-record-de-cryptomilliardaires",
-      "source": "RFI",
-      "publishedAt": "2026-09-12T18:41:21.000Z",
-      "summary": "Au Royaume-Uni, le parti populiste et anti-immigration Reform UK vient d'engranger une somme record, propulsé par les fortunes de l’univers des cryptomonnaies.",
-      "image": "https://s.rfi.fr/media/display/df744980-770b-11ef-8d09-005056a97e36/w:1024/p:16x9/000_364Q7MC.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-le-parti-anti-immigration-reform-uk-engrange-deux-dons-recor-1b4737a544.html"
-    },
-    {
-      "title": "«C’est pour nous chasser définitivement»: en Cisjordanie occupée, Masafer Yatta face à la violence qui s’intensifie",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260912-c-est-pour-nous-chasser-d%C3%A9finitivement-en-cisjordanie-occup%C3%A9e-masafer-yatta-face-%C3%A0-la-violence-qui-s-intensifie",
-      "source": "RFI",
-      "publishedAt": "2026-09-12T18:11:52.000Z",
-      "summary": "L’ONU a alerté vendredi 11 septembre sur l’accélération des déplacements forcés en Cisjordanie occupée et sur la destruction, en seulement deux jours, de trois communautés palestiniennes à Masafer Yatta. Une soixantaine de personnes, dont la moitié sont des enfants, ont été sommées de partir. Cette région du sud de la ",
-      "image": "https://s.rfi.fr/media/display/481a6de0-aebc-11f1-a4d7-005056a97e36/w:1024/p:16x9/AP26196570033578-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/c-est-pour-nous-chasser-definitivement-en-cisjordanie-occupee-masafer-ya-006a8aace0.html"
+      "publishedAt": "2026-09-13T02:50:34.000Z",
+      "summary": "Le scrutin de ce dimanche 13 septembre oppose principalement la coalition de droite du Premier ministre sortant Ulf Kristersson à l'opposition de gauche emmenée par la sociale-démocrate Magdalena Andersson. Si le premier a promis de faire entrer des ministres d'extrême droite dans sa future équipe en cas de victoire, à",
+      "image": "https://s.rfi.fr/media/display/9b3d71e4-af1a-11f1-9dcb-005056bfb2b6/w:1024/p:16x9/2026-09-11T141025Z-452742694-RC21HNAU7ZEI-RTRMADP-3-SWEDEN-ELECTION.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/suede-les-electeurs-appeles-aux-urnes-pour-des-legislatives-au-resultat--2fb9776527.html"
     }
   ]
 }
