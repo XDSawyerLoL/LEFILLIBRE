@@ -1,88 +1,114 @@
 {
-  "updatedAt": "2026-09-15T00:37:42.651Z",
+  "updatedAt": "2026-09-15T05:20:45.772Z",
   "items": [
     {
-      "title": "L'yttrium, l’arme économique de la Chine contre les États-Unis",
-      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20260914-l-yttrium-l-arme-%C3%A9conomique-de-la-chine-contre-les-%C3%A9tats-unis",
-      "source": "RFI",
-      "publishedAt": "2026-09-14T22:05:09.000Z",
-      "summary": "C'est un métal peu connu, assimilé à la famille des terres rares. L'yttrium sert autant à l'industrie de l'aérospatiale, qu'à celle des semi-conducteurs et pourrait être à l'ordre du jour de la prochaine visite de Xi Jinping à Washington.",
-      "image": "https://s.rfi.fr/media/display/d4fe6698-b061-11f1-8ff0-005056a90284/w:1024/p:16x9/Yttrium-sublimed-dendritic-and-1cm3-cube.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-yttrium-l-arme-economique-de-la-chine-contre-les-etats-unis-cbaaab2dfe.html"
-    },
-    {
-      "title": "Xiaomi 18 Pro : double capteur 200 mégapixels et batterie 7 000 mAh dans les fuites",
-      "url": "https://www.frandroid.com/marques/xiaomi/3247365_xiaomi-18-pro-double-capteur-200-megapixels-et-batterie-7-000-mah-dans-les-fuites",
+      "title": "Dreame, Dyson, Mova, Roborock : pourquoi les constructeurs veulent vous vendre leur détergent, et ce qu’on peut mettre à la place",
+      "url": "https://www.frandroid.com/produits-android/maison-connectee/aspirateurs-balais-sans-fil/aspirateur-laveur/3247463_dreame-dyson-mova-roborock-pourquoi-les-constructeurs-veulent-vous-vendre-leur-detergent-et-ce-quon-peut-mettre-a-la-place",
       "source": "Frandroid",
-      "publishedAt": "2026-09-14T18:57:07.000Z",
-      "summary": "Une vidéo de coques diffusée par le leaker XimiTime dévoile le Xiaomi 18 Pro, attendu fin septembre avec un double capteur photo de 200 mégapixels, une puce Snapdragon 8 Elite Gen 6 Pro gravée en 2 nanomètres et une batterie d'au moins 7 000 mAh.",
+      "publishedAt": "2026-09-15T05:17:46.000Z",
+      "summary": "Dans le carton de tout balai laveur ou robot laveur, un petit flacon de détergent maison. Et une injonction plus ou moins ferme à n'utiliser que celui-là. Mais qu'en est-il ?",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/xiaomi-18-pro-double-capteur-200-megapixels-et-batterie-7-000-mah-dans-l-9eb86ea32c.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dreame-dyson-mova-roborock-pourquoi-les-constructeurs-veulent-vous-vendr-baed491fff.html"
     },
     {
-      "title": "«Plus personne n’a de véritable emploi du temps»: à Kiev, les familles vivent au rythme des alertes aériennes",
-      "url": "https://www.rfi.fr/fr/europe/20260914-plus-personne-n-a-de-v%C3%A9ritable-emploi-du-temps-%C3%A0-kiev-les-familles-vivent-au-rythme-des-alertes-a%C3%A9riennes",
-      "source": "RFI",
-      "publishedAt": "2026-09-14T22:41:52.000Z",
-      "summary": "L’Ukraine prendra des « mesures de désescalade » si la Russie fait de même, a déclaré lundi 14 septembre le président ukrainien Volodymyr Zelensky, sans toutefois confirmer les affirmations de Donald Trump selon lesquelles Moscou et Kiev auraient accepté de ne plus frapper leurs infrastructures énergétiques. En attenda",
-      "image": "https://s.rfi.fr/media/display/936df5e6-b088-11f1-99ae-005056a97e36/w:1024/p:16x9/AP26244440819118.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/plus-personne-n-a-de-veritable-emploi-du-temps-a-kiev-les-familles-viven-8000e6ff42.html"
-    },
-    {
-      "title": "L'Ukraine se dit prête à des \"mesures de désescalade\" si la Russie fait de même",
-      "url": "https://www.france24.com/fr/europe/20260914-ukraine-mesures-desescalade-russie-zelensky-infrastructures-energetiques-trump",
-      "source": "France 24",
-      "publishedAt": "2026-09-14T21:45:43.000Z",
-      "summary": "Le président ukrainien Volodymyr Zelensky a évoqué lundi une possible désescalade dans la guerre contre l'invasion russe, sans confirmer l'affirmation de Donald Trump selon laquelle Kiev et Moscou auraient accepté un arrêt mutuel des frappes sur les infrastructures énergétiques.",
-      "image": "https://s.france24.com/media/display/183b4120-b084-11f1-9cad-005056a90284/w:1024/p:16x9/AP26239577216137.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ukraine-se-dit-prete-a-des-mesures-de-desescalade-si-la-russie-fait-de-0fa1ced69a.html"
-    },
-    {
-      "title": "Mali : le Premier ministre algérien Sifi Ghrieb à Bamako pour relancer la coopération",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260914-mali-le-premier-ministre-alg%C3%A9rien-sifi-ghrieb-%C3%A0-bamako-pour-relancer-la-coop%C3%A9ration",
-      "source": "France 24",
-      "publishedAt": "2026-09-14T21:02:25.000Z",
-      "summary": "Le Premier ministre algérien Sifi Ghrieb est arrivé lundi à Bamako pour une visite visant à consolider le rapprochement entre l'Algérie et le Mali, après plus d'un an de fortes tensions diplomatiques entre les deux voisins sahéliens. Cette visite intervient trois semaines après celle effectuée le 24 août par Abdoulaye ",
-      "image": "https://s.france24.com/media/display/6a185e90-b07c-11f1-a26f-005056a90284/w:1024/p:16x9/DN196847-A-01-20260909-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-le-premier-ministre-algerien-sifi-ghrieb-a-bamako-pour-relancer-la--12382fd65b.html"
-    },
-    {
-      "title": "Fragilisée par l’envolée du kérosène, Air Baltic se place sous protection de la loi sur les faillites",
-      "url": "https://www.rfi.fr/fr/europe/20260914-fragilis%C3%A9e-par-l-envol%C3%A9e-du-k%C3%A9ros%C3%A8ne-air-baltic-se-place-sous-protection-de-la-loi-sur-les-faillites",
-      "source": "RFI",
-      "publishedAt": "2026-09-14T18:53:10.000Z",
-      "summary": "La guerre au Moyen-Orient fait une nouvelle victime dans le transport aérien. La compagnie lettone Air Baltic a annoncé lundi 14 septembre s’être placée sous la protection du « chapitre 11 » de la loi américaine sur les faillites, une procédure qui lui permet de restructurer sa dette sous la supervision d’un tribunal t",
-      "image": "https://s.rfi.fr/media/display/17140b78-b05d-11f1-9dfc-005056a97e36/w:1024/p:16x9/2026-08-17T154443Z-732069865-RC28GV9M0J4M-RTRMADP-3-AIR-BALTIC-DEBT.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fragilisee-par-l-envolee-du-kerosene-air-baltic-se-place-sous-protection-03e5facb12.html"
-    },
-    {
-      "title": "Le conflit au Yémen pousse de plus en plus de personnes sur la route de l'exil vers Djibouti",
-      "url": "https://www.rfi.fr/fr/afrique/20260914-le-conflit-au-y%C3%A9men-pousse-de-plus-en-plus-de-personnes-sur-la-route-de-l-exil-vers-djibouti",
-      "source": "RFI",
-      "publishedAt": "2026-09-14T18:44:39.000Z",
-      "summary": "Les réfugiés en provenance du Yémen continuent d’arriver sur les côtes de Djibouti. Ils étaient plus de 2 000 rien que ce week-end, selon le ministre de l’Économie djiboutien. Depuis jeudi 10 septembre, les Houthis - groupe armé soutenu par l’Iran - se sont emparés de plusieurs localités sur la côte du Yémen. De nombre",
-      "image": "https://s.rfi.fr/media/display/380a9834-b05c-11f1-9d8f-005056bfb2b6/w:1024/p:16x9/000-C8936L2.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-conflit-au-yemen-pousse-de-plus-en-plus-de-personnes-sur-la-route-de--a996e847fa.html"
-    },
-    {
-      "title": "Espace: satellites et débris s’accumulent autour de la Terre, l’ESA alerte sur les risques de collision",
-      "url": "https://www.rfi.fr/fr/environnement/20260914-espace-satellites-et-d%C3%A9bris-s-accumulent-autour-de-la-terre-l-esa-alerte-sur-les-risques-de-collision",
-      "source": "RFI",
-      "publishedAt": "2026-09-14T18:40:24.000Z",
-      "summary": "L’orbite terrestre est de plus en plus encombrée par un nombre croissant de satellites et de débris qui augmentent le risque de collisions, selon un nouveau document de l’Agence spatiale européenne (ESA) publié ce lundi 14 septembre. Malgré certains progrès pour limiter cette pollution, l’agence estime que les efforts ",
-      "image": "https://s.rfi.fr/media/display/5fe2427e-b068-11f1-be65-005056bf30b7/w:1024/p:16x9/AP26231740297469.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espace-satellites-et-debris-s-accumulent-autour-de-la-terre-l-esa-alerte-4547027214.html"
-    },
-    {
-      "title": "Des milliers de batteries solaires reliées en « centrale virtuelle » pour faire baisser l’électricité",
-      "url": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3247031_des-milliers-de-batteries-solaires-reliees-en-centrale-virtuelle-pour-faire-baisser-lelectricite",
+      "title": "Bose lance discrètement la TV Speaker 2, avec tweeter central et design revu",
+      "url": "https://www.frandroid.com/marques/bose/3247447_bose-lance-discretement-la-tv-speaker-2-avec-tweeter-central-et-design-revu",
       "source": "Frandroid",
-      "publishedAt": "2026-09-14T18:40:16.000Z",
-      "summary": "Personne n’aurait imaginé que les batteries solaires domestiques joueraient un rôle au-delà du stockage de l’énergie au sein des foyers. Aujourd’hui, les quelques kilowattheures de capacité unitaire peuvent soutenir le réseau et pourraient même contribuer à ralentir le « supercycle » des prix de l’électricité que le se",
+      "publishedAt": "2026-09-15T05:04:00.000Z",
+      "summary": "Bose vient de mettre à jour son site Internet avec une nouvelle version de sa barre de son d'entrée de gamme TV Speaker. Ce modèle de seconde génération veut optimiser la restitution des dialogues grâce à un tweeter central inédit, tout en adoptant un design plus arrondi.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-milliers-de-batteries-solaires-reliees-en-centrale-virtuelle-pour-fa-22565d579e.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bose-lance-discretement-la-tv-speaker-2-avec-tweeter-central-et-design-r-7c2bfb2555.html"
+    },
+    {
+      "title": "Pourquoi les forces yéménites n’ont-elles pas réussi à stopper l’offensive des Houthis ?",
+      "url": "https://www.france24.com/fr/moyen-orient/20260915-houthis-yemen-offensive-forces-gouvernementales-arabie-saoudite-mokha-mer-rouge",
+      "source": "France 24",
+      "publishedAt": "2026-09-15T05:05:47.000Z",
+      "summary": "Les forces gouvernementales yéménites, pourtant soutenues militairement et financièrement par l’Arabie saoudite, ont cédé en quelques jours face à l’offensive des Houthis sur la côte de la mer Rouge. Une victoire qui est autant le produit de leur propre discipline que de la désunion persistante du camp gouvernemental.",
+      "image": "https://s.france24.com/media/display/5b0b7c0c-aacd-11f1-b7f8-005056bf30b7/w:1024/p:16x9/000-C7EW4UQ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pourquoi-les-forces-yemenites-n-ont-elles-pas-reussi-a-stopper-l-offensi-ec04b28de7.html"
+    },
+    {
+      "title": "Des avions de l’Otan abattent un drone volant au-dessus de la Lituanie",
+      "url": "https://www.rfi.fr/fr/europe/20260915-des-avions-de-l-otan-abattent-un-drone-volant-au-dessus-de-la-lituanie",
+      "source": "RFI",
+      "publishedAt": "2026-09-15T05:04:56.000Z",
+      "summary": "Des avions de chasse de l'Otan ont abattu un drone au-dessus de la Lituanie, a annoncé mardi 15 septembre le président de ce pays membre de l'Alliance atlantique, Gitanas Nauseda. Selon des médias locaux, le drone serait originaire de Biélorussie, grand alliée de Moscou, qui multiplie les attaques et menaces hybrides e",
+      "image": "https://s.rfi.fr/media/display/e0e2c948-b0c2-11f1-bb93-005056a90284/w:1024/p:16x9/AP26257298646464.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-avions-de-l-otan-abattent-un-drone-volant-au-dessus-de-la-lituanie-af438e7845.html"
+    },
+    {
+      "title": "Inde: cinq Iraniens passibles de la peine de mort sont menacés d'expulsion vers Téhéran pour séjour illégal",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20260915-inde-cinq-iraniens-passibles-de-la-peine-de-mort-sont-menac%C3%A9s-d-expulsion-vers-t%C3%A9h%C3%A9ran-pour-s%C3%A9jour-ill%C3%A9gal",
+      "source": "RFI",
+      "publishedAt": "2026-09-15T04:38:21.000Z",
+      "summary": "En Inde, cinq exilés iraniens arrêtés pour séjour illégal risquent d’être expulsés vers Téhéran, notamment une artiste et des militants convertis qui encourent la peine de mort pour apostasie. Le Haut-Commissariat aux réfugiés tente de leur trouver un asile avant que la justice indienne ne tranche.",
+      "image": "https://s.rfi.fr/media/display/ed85ec7c-3c26-11f1-bd6e-005056bfb2b6/w:1024/p:16x9/AP25305260453610.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/inde-cinq-iraniens-passibles-de-la-peine-de-mort-sont-menaces-d-expulsio-6e8c9b9ed4.html"
+    },
+    {
+      "title": "Guerre en Ukraine : des avions de chasse de l'Otan abattent un drone au-dessus de la Lituanie",
+      "url": "https://www.france24.com/fr/europe/20260915-guerre-ukraine-avions-de-chasse-otan-abattent-drone-lituanie-bielorussie-russie",
+      "source": "France 24",
+      "publishedAt": "2026-09-15T03:24:28.000Z",
+      "summary": "Un drone survolant la Lituanie a été détruit dans la nuit de lundi à mardi par des chasseurs de l'Otan, a annoncé le président lituanien. Selon la radio nationale lituanienne, le drone est venu de la Biélorussie voisine et se dirigeait vers l'Ouest.",
+      "image": "https://s.france24.com/media/display/9f07fdca-b07f-11f0-88ad-005056a90284/w:1024/p:16x9/AP25296268775720.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-des-avions-de-chasse-de-l-otan-abattent-un-drone-au-de-5727b8dcdb.html"
+    },
+    {
+      "title": "Mali: à Bamako, le Premier ministre algérien plaide pour un renforcement des relations entre les deux pays",
+      "url": "https://www.rfi.fr/fr/afrique/20260915-mali-%C3%A0-bamako-le-premier-ministre-alg%C3%A9rien-plaide-pour-un-renforcement-des-relations-entre-les-deux-pays",
+      "source": "RFI",
+      "publishedAt": "2026-09-15T03:01:21.000Z",
+      "summary": "Dans la foulée de la visite du Premier ministre malien Abdoulaye Maïga à Alger le 24 août dernier, son homologue algérien Sifi Ghrieb s'est rendu à Bamako, lundi 14 septembre. Un déplacement dont l'objectif était d'entériner le réchauffement des relations entre les deux capitales après plusieurs mois de tensions.",
+      "image": "https://s.rfi.fr/media/display/1b0c3248-b092-11f1-b5bf-005056a97e36/w:1024/p:16x9/AP26257549762089.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-a-bamako-le-premier-ministre-algerien-plaide-pour-un-renforcement-d-90fbfc0a75.html"
+    },
+    {
+      "title": "États-Unis: l'administration Trump supprime les limites d'émissions polluantes imposées aux centrales électriques",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260915-%C3%A9tats-unis-l-administration-trump-supprime-les-limites-d-%C3%A9missions-polluantes-impos%C3%A9es-aux-centrales-%C3%A9lectriques",
+      "source": "RFI",
+      "publishedAt": "2026-09-15T03:01:05.000Z",
+      "summary": "Mise en place par Joe Biden il y a deux ans, la mesure abrogée lundi 14 septembre avait pour but de contraindre les centrales thermiques à charbon et au gaz naturel à se préparer à capturer 90% des gaz à effet de serre qu’elles rejetaient dans l’atmosphère. L'initiative représente un nouveau coup dur porté aux réglemen",
+      "image": "https://s.rfi.fr/media/display/4c387d7e-b09a-11f1-b567-005056bf30b7/w:1024/p:16x9/AP26257540442676.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-l-administration-trump-supprime-les-limites-d-emissions-pollu-fa2f682de5.html"
+    },
+    {
+      "title": "États-Unis: la Cour suprême rejette un recours de l'administration Trump visant à restreindre le vote par correspondance",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260915-%C3%A9tats-unis-la-cour-supr%C3%AAme-rejette-un-recours-de-l-administration-trump-visant-%C3%A0-restreindre-le-vote-par-correspondance",
+      "source": "RFI",
+      "publishedAt": "2026-09-15T03:00:44.000Z",
+      "summary": "La plus haute juridiction américaine a confirmé, lundi 14 septembre, la suspension des nouvelles règles plus strictes édictées par l'administration Trump pour le vote par correspondance prononcée par une juge fédérale. Le gouvernement américain voulait notamment que la mesure entre en vigueur dès les élections de mi-ma",
+      "image": "https://s.rfi.fr/media/display/6ac88a16-1187-11f1-b135-005056a90284/w:1024/p:16x9/AP26052103019266.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-la-cour-supreme-rejette-un-recours-de-l-administration-trump--83490d2551.html"
+    },
+    {
+      "title": "La Cour suprême contrecarre les plans de Donald Trump sur le vote par correspondance",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260915-la-cour-supr%C3%AAme-rejette-une-attaque-de-trump-contre-le-vote-par-correspondance",
+      "source": "France 24",
+      "publishedAt": "2026-09-15T00:39:13.000Z",
+      "summary": "Donald Trump a essuyé lundi un nouvel échec dans la bataille judiciaire autour du vote par correspondance aux États-Unis, à quelques semaines des élections de mi-mandat. La Cour suprême à majorité conservatrice a rejeté un recours de l'administration concernant un décret visant à encadrer davantage le vote postal.",
+      "image": "https://s.france24.com/media/display/def44e4c-b09d-11f1-be01-005056a90284/w:1024/p:16x9/bb30b5bf37e781f443665b25112221e81b7c2d36.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-cour-supreme-contrecarre-les-plans-de-donald-trump-sur-le-vote-par-co-ee5acb432a.html"
+    },
+    {
+      "title": "Invité par Washington, le Venezuela va participer au G20 consacré à l'énergie",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260914-invit%C3%A9-par-washington-le-venezuela-va-participer-au-g20-consacr%C3%A9-%C3%A0-l-%C3%A9nergie",
+      "source": "France 24",
+      "publishedAt": "2026-09-14T23:59:12.000Z",
+      "summary": "Caracas participe cette semaine à la réunion des ministres de l'Énergie du G20 à Houston, sur l'invitation des États-Unis, alors que Donald Trump cherche à revigorer l'exploitation des immenses réserves pétrolières du Venezuela.",
+      "image": "https://s.france24.com/media/display/47d96d1c-b098-11f1-9021-005056a97e36/w:1024/p:16x9/ea7607de8aa30c2ff2134ead7b6e53246246fe8f.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/invite-par-washington-le-venezuela-va-participer-au-g20-consacre-a-l-ene-1dbecfa019.html"
+    },
+    {
+      "title": "Les séries \"Widow's Bay\" et \"The Pitt\" triomphent aux Emmy Awards",
+      "url": "https://www.france24.com/fr/culture/20260915-les-s%C3%A9ries-widow-s-bay-et-the-pitt-triomphent-aux-emmy-awards",
+      "source": "France 24",
+      "publishedAt": "2026-09-15T00:17:13.000Z",
+      "summary": "La comédie d'épouvante \"Widow's Bay\" a dominé la cérémonie des Emmy Awards lundi soir à Los Angeles, tandis que \"The Pitt\" a remporté pour la deuxième année consécutive le titre de meilleure série dramatique. La soirée a aussi vu Jean Smart décrocher un cinquième Emmy pour son rôle dans \"Hacks\".",
+      "image": "https://s.france24.com/media/display/7c651036-b0b6-11f1-9f0b-005056a90284/w:1024/p:16x9/3eb504c70f9a25ce340bdd12ac12147e31f58225.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-series-widow-s-bay-et-the-pitt-triomphent-aux-emmy-awards-bea3858193.html"
     }
   ]
 }
