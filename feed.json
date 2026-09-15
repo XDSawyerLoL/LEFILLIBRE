@@ -1,24 +1,117 @@
 {
-  "updatedAt": "2026-09-15T10:14:23.439Z",
+  "updatedAt": "2026-09-15T15:01:25.459Z",
   "items": [
     {
-      "title": "Android Auto : le compteur de vitesse de Google Maps ne s’affiche qu’à une condition",
-      "url": "https://www.01net.com/actualites/android-auto-google-explique-pourquoi-compteur-vitesse-saffiche-pas-toujours-sur-maps.html",
-      "source": "01net",
-      "publishedAt": "2026-09-15T10:07:16.000Z",
-      "summary": "Le compteur de vitesse de Google Maps a-t-il disparu d'Android Auto ? Rassurez-vous, la fonctionnalité n'a pas été supprimée, mais il y a une subtilité à connaître.",
-      "image": "https://www.01net.com/app/uploads/2026/06/Xpeng-P7-Android-Auto-1344x896.jpg",
+      "title": "MSI confirme qu’une Claw 8 moins puissante… mais aussi moins chère, est bien en route",
+      "url": "https://www.frandroid.com/marques/msi/3247861_msi-confirme-quune-claw-8-moins-puissante-mais-aussi-moins-chere-est-bien-en-route",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-15T14:35:36.000Z",
+      "summary": "MSI s'apprête à lancer une nouvelle mouture, un peu plus abordable, de sa console portable Claw 8 EX AI+. Cette machine semble toutefois s'appuyer sur la puce Arc G3 « classique » déjà connue, et non sur la nouvelle référence attendue sur l'entrée de gamme d'Intel. On fait le point.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/android-auto-le-compteur-de-vitesse-de-google-maps-ne-s-affiche-qu-a-une-8b9acc89eb.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/msi-confirme-qu-une-claw-8-moins-puissante-mais-aussi-moins-chere-est-bi-d5df9e57a7.html"
     },
     {
-      "title": "Le Galaxy Z Fold 8 Ultra, pliable le plus fin de Samsung, voit déjà son prix chuter de 600 €",
-      "url": "https://www.frandroid.com/bons-plans/3247757_le-galaxy-z-fold-8-ultra-pliable-le-plus-fin-de-samsung-voit-deja-son-prix-chuter-de-600-e",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-15T10:04:49.000Z",
-      "summary": "Le Samsung Galaxy Z Fold 8 Ultra est l'un des derniers pliables de la marque sud-coréenne, le plus fin de sa lignée, à retrouver pour 1 599 euros au lieu de 2 199 euros sur Amazon.",
+      "title": "AirPods : Apple fait le service minimum avec son égaliseur dans iOS 27",
+      "url": "https://www.01net.com/actualites/airpods-apple-fait-le-service-minimum-avec-son-egaliseur-dans-ios-27.html",
+      "source": "01net",
+      "publishedAt": "2026-09-15T14:29:37.000Z",
+      "summary": "Des années que les utilisateurs d'AirPods supplient Apple de les laisser régler le son de leurs écouteurs. iOS 27 exauce enfin leur vœu, à la manière d'un génie de mauvaise foi : trois curseurs, et pas pour tout le monde.",
+      "image": "https://www.01net.com/app/uploads/2026/04/apple-airpods-pro-3-anc-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-galaxy-z-fold-8-ultra-pliable-le-plus-fin-de-samsung-voit-deja-son-pr-6330d07010.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/airpods-apple-fait-le-service-minimum-avec-son-egaliseur-dans-ios-27-eb5d68428a.html"
+    },
+    {
+      "title": "Apple intègre Apple TV et Arcade sans surcoût dans iCloud+, mais pas en France",
+      "url": "https://www.frandroid.com/marques/apple/3248339_apple-integre-apple-tv-et-arcade-sans-surcout-dans-icloud-mais-pas-en-france",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-15T14:23:50.000Z",
+      "summary": "Apple inclut désormais Apple TV et Apple Arcade sans surcoût dans son abonnement iCloud+, dans plus de 100 pays. La France et les États-Unis ne sont pas concernés, contrairement à une large partie de l'Afrique francophone.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apple-integre-apple-tv-et-arcade-sans-surcout-dans-icloud-mais-pas-en-fr-53f891159c.html"
+    },
+    {
+      "title": "Puce M5 Max, 36 Go, SSD 2 To : ce MacBook Pro 16, un monstre de puissance pour les pros, profite d’une remise de 600 €",
+      "url": "https://www.frandroid.com/bons-plans/3248197_puce-m5-max-36-go-ssd-2-to-ce-macbook-pro-16-un-monstre-de-puissance-pour-les-pros-profite-dune-remise-de-600-e",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-15T14:12:00.000Z",
+      "summary": "Les professionnels qui exécutent des tâches très lourdes au quotidien, et qui ont un budget conséquent, pourront se tourner vers le MacBook Pro 16 M5 Max, actuellement proposé à 4 499 euros au lieu de 5 099 euros sur Amazon.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/puce-m5-max-36-go-ssd-2-to-ce-macbook-pro-16-un-monstre-de-puissance-pou-333e6cbed0.html"
+    },
+    {
+      "title": "Roumanie : la colère des agriculteurs dégénère en affrontements à Bucarest",
+      "url": "https://fr.euronews.com/video/2026/09/15/des-agriculteurs-roumains-affrontent-la-police-a-bucarest-contre-linterdiction-europeenne",
+      "source": "Euronews",
+      "publishedAt": "2026-09-15T13:53:39.000Z",
+      "summary": "À Bucarest, une manifestation d’agriculteurs contre l’interdiction d’exporter du bétail dégénère en heurts avec la police.",
+      "image": "https://images.euronews.com/articles/stories/09/91/44/77/696x392_cmsv2_4c8db832-c13a-5d64-8746-c6d016abcd88-9914477.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/roumanie-la-colere-des-agriculteurs-degenere-en-affrontements-a-bucarest-85833bd05b.html"
+    },
+    {
+      "title": "Spotify lance une fonction que toute l’industrie du streaming devrait adopter",
+      "url": "https://www.01net.com/actualites/spotify-lance-une-fonction-que-toute-lindustrie-du-streaming-devrait-adopter.html",
+      "source": "01net",
+      "publishedAt": "2026-09-15T13:48:26.000Z",
+      "summary": "La plate-forme de musique en streaming vient d’annoncer l’arrivée d’une nouvelle fonctionnalité qui devrait particulièrement intéresser les parents. Spotify vous permet désormais d’exclure la musique écoutée par vos enfants de vos recommandations.",
+      "image": "https://www.01net.com/app/uploads/2026/04/Spotify-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/spotify-lance-une-fonction-que-toute-l-industrie-du-streaming-devrait-ad-3fc64b583b.html"
+    },
+    {
+      "title": "HP casse le prix de son laptop gamer avec RTX 5090, 64 Go de RAM et 2 To de SSD",
+      "url": "https://www.frandroid.com/bons-plans/3248021_hp-casse-le-prix-de-son-laptop-gamer-avec-rtx-5090-64-go-de-ram-et-2-to-de-ssd",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-15T13:22:41.000Z",
+      "summary": "Le HP Omen Max 16-ah0023nf embarque une RTX 5090, un Intel Core Ultra 9, 64 Go de RAM et 2 To de SSD, de quoi jouer en Ultra sans compromis. Et même s'il demande un budget conséquent, son prix s'allège et passe de 6 199 euros à 4 099 euros sur le site de HP.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/hp-casse-le-prix-de-son-laptop-gamer-avec-rtx-5090-64-go-de-ram-et-2-to--76dd7b94de.html"
+    },
+    {
+      "title": "L'armée américaine dit faire face à une pénurie de munitions liée à la guerre avec l'Iran",
+      "url": "https://fr.euronews.com/2026/09/15/larmee-americaine-dit-faire-face-a-une-penurie-de-munitions-liee-a-la-guerre-avec-liran",
+      "source": "Euronews",
+      "publishedAt": "2026-09-15T13:10:28.000Z",
+      "summary": "Le président Trump a continué de balayer ces inquiétudes, affirmant il y a quelques semaines à peine que les États-Unis disposaient de stocks \"pratiquement illimités\".",
+      "image": "https://images.euronews.com/articles/stories/09/91/36/53/696x392_cmsv2_aa66dc3a-7387-5099-b11f-94f87d9ce9e2-9913653.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-armee-americaine-dit-faire-face-a-une-penurie-de-munitions-liee-a-la-g-a968bc68df.html"
+    },
+    {
+      "title": "Avis aux coureurs, la Garmin Forerunner 570 profite enfin d’une belle baisse de prix",
+      "url": "https://www.frandroid.com/bons-plans/2919445_avis-aux-coureurs-la-garmin-forerunner-570-profite-enfin-dune-belle-baisse-de-prix",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-15T12:33:20.000Z",
+      "summary": "Avec son écran AMOLED particulièrement lumineux, un GPS ultra-précis et un suivi de santé très complet, la Garmin Forerunner 570 séduit immédiatement. C'est une alliée de choix pour tous les runners. Bonne nouvelle : elle passe aujourd'hui à 469 euros au lieu de 549 euros à sa sortie.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/avis-aux-coureurs-la-garmin-forerunner-570-profite-enfin-d-une-belle-bai-446a0dc49b.html"
+    },
+    {
+      "title": "Syrie : al-Charaa appelle au calme malgré l’escalade régionale",
+      "url": "https://fr.euronews.com/2026/09/15/al-sharaa-sur-lescalade-en-route-mais-la-region-doit-rester-calme-declare-t-il-a-euronews",
+      "source": "Euronews",
+      "publishedAt": "2026-09-15T12:06:12.000Z",
+      "summary": "Répondant à une question d'Euronews au Sommet arabe des médias à Dubaï, le président syrien a dit espérer que la situation \"reste stable\", tout en admettant que \"personne ne peut prévoir\" la suite et en appelant les pays arabes à s'unir.",
+      "image": "https://images.euronews.com/articles/stories/09/91/43/59/696x392_cmsv2_bbf8ebfc-a271-5b68-bb76-fcd31e551702-9914359.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/syrie-al-charaa-appelle-au-calme-malgre-l-escalade-regionale-8b2ffa2010.html"
+    },
+    {
+      "title": "Victoire à l’unanimité : le Renault Trafic électrique réussit un coup de maître",
+      "url": "https://www.01net.com/actualites/renault-coup-maitre-trafic-elu-vehicule-utilitaire-annee-2027.html",
+      "source": "01net",
+      "publishedAt": "2026-09-15T11:40:01.000Z",
+      "summary": "Le nouveau Renault Trafic a été élu Véhicule utilitaire de l’année 2027 à l’unanimité. Le français distance ainsi ses adversaires au bout de cette sélection impitoyable qui s’est tenue au Salon IAA Transport de Hanovre.",
+      "image": "https://www.01net.com/app/uploads/2026/09/renault-trafic-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/victoire-a-l-unanimite-le-renault-trafic-electrique-reussit-un-coup-de-m-337d1809b3.html"
+    },
+    {
+      "title": "« Nous n’allons pas laisser cela se produire » : Trump appelle le patron de Nvidia en pleine conférence",
+      "url": "https://www.01net.com/actualites/nous-nallons-pas-laisser-cela-se-produire-trump-appelle-le-patron-de-nvidia-en-pleine-conference.html",
+      "source": "01net",
+      "publishedAt": "2026-09-15T10:57:08.000Z",
+      "summary": "Alors qu’il participait à un podcast sur une scène du sommet All-In, Jensen Huang, PDG de Nvidia, a reçu un appel de Donald Trump. Si les appels à ralentir le rythme de développement de l’IA se sont multipliés ces derniers temps, le patron de Nvidia a pris une position à contre-courant : « Nous n'allons pas laisser cel",
+      "image": "https://www.01net.com/app/uploads/2026/02/donald-trump-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nous-n-allons-pas-laisser-cela-se-produire-trump-appelle-le-patron-de-nv-bcd4d12a36.html"
     },
     {
       "title": "« C’est un canular » : Donald Trump appelle le patron de Nvidia en pleine conférence pour balayer les craintes sur l’IA",
@@ -39,131 +132,40 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rachat-de-sfr-les-syndicats-assignent-la-direction-d-altice-france-en-ju-cf281bd6ab.html"
     },
     {
-      "title": "Interdiction des réseaux sociaux aux moins de 15 ans : la France repart à l’attaque avec l’aide de l’Europe",
-      "url": "https://www.frandroid.com/culture-tech/politique/3247713_interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-la-france-repart-a-lattaque-avec-laide-de-leurope",
+      "title": "Le Sony Xperia 1 IX pourrait intégrer un nouveau capteur photo après 3 ans sans évolution",
+      "url": "https://www.frandroid.com/marques/sony/3248203_le-sony-xperia-1-ix-pourrait-integrer-un-nouveau-capteur-photo-apres-3-ans-sans-evolution",
       "source": "Frandroid",
-      "publishedAt": "2026-09-15T08:23:28.000Z",
-      "summary": "Emmanuel Macron en a fait une mesure phare de la fin de son quinquennat et ne veut pas lâcher le morceau. Après une première censure par le Conseil constitutionnel, le président de la République pousse pour un nouveau texte interdisant l’accès des plus jeunes aux réseaux sociaux.",
+      "publishedAt": "2026-09-15T14:09:49.000Z",
+      "summary": "Depuis la sortie du Xperia 1 V en 2023, le capteur photo principal de la gamme est resté le même. Les dernières rumeurs suggèrent cependant un changement avec le futur Xperia 1 IX.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-la-france-repart-a--354641ac6b.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-sony-xperia-1-ix-pourrait-integrer-un-nouveau-capteur-photo-apres-3-a-05f5019973.html"
     },
     {
-      "title": "La responsabilité de la monarchie britannique dans l'esclavage pointée par une enquête du Guardian",
-      "url": "https://www.rfi.fr/fr/europe/20260915-la-responsabilit%C3%A9-de-la-monarchie-britannique-dans-l-esclavage-point%C3%A9e-par-une-enqu%C3%AAte-du-guardian",
-      "source": "RFI",
-      "publishedAt": "2026-09-15T07:59:43.000Z",
-      "summary": "Le Royaume-Uni se penche sur une page particulièrement sombre de son histoire : l’esclavage. Une nouvelle enquête du Guardian parue le 14 septembre révèle l’ampleur de l’implication britannique dans la traite transatlantique des esclaves, et particulièrement celle de la monarchie : des milliers d’investisseurs, des par",
-      "image": "https://s.rfi.fr/media/display/ced407b4-b0d9-11f1-bcb5-005056bfb2b6/w:1024/p:16x9/AP26232452057915.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-responsabilite-de-la-monarchie-britannique-dans-l-esclavage-pointee-p-dfb020270a.html"
-    },
-    {
-      "title": "Cet antivol vélo se déverrouille presque tout seul quand vous vous approchez de lui",
-      "url": "https://www.frandroid.com/survoltes/velo-electrique/3247649_cet-antivol-velo-se-deverrouille-presque-tout-seul-quand-vous-vous-approchez-de-lui",
+      "title": "Orange va fermer un service historique en 2027, c’est officiel",
+      "url": "https://www.frandroid.com/marques/orange/3248267_orange-va-fermer-un-service-historique-en-2027-cest-officiel",
       "source": "Frandroid",
-      "publishedAt": "2026-09-15T07:56:08.000Z",
-      "summary": "TMD Locks lance la TMD Chain Lock, une chaîne antivol qui se déverrouille sans clé, grâce au smartphone. Comptez à partir de 229 euros pour ce modèle certifié ART-2 et doté d'une alarme intégrée.",
+      "publishedAt": "2026-09-15T13:49:16.000Z",
+      "summary": "Les clients d'Orange qui consultent leur boîte vocale sur Internet voient en ce moment s'afficher un message annonçant la fin prochaine de cet accès web. Il faudra lui dire adieu en 2027.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cet-antivol-velo-se-deverrouille-presque-tout-seul-quand-vous-vous-appro-17acd1d629.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/orange-va-fermer-un-service-historique-en-2027-c-est-officiel-a4dab750cc.html"
     },
     {
-      "title": "Syrie: à Kobané, des tensions persistent malgré l'intégration des zones kurdes à l'État central",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260915-syrie-%C3%A0-koban%C3%A9-des-tensions-persistent-malgr%C3%A9-l-int%C3%A9gration-des-zones-kurdes-%C3%A0-l-%C3%A9tat-central",
-      "source": "RFI",
-      "publishedAt": "2026-09-15T07:55:18.000Z",
-      "summary": "À Kobané, en Syrie, les corps de neuf détenus kurdes morts après avoir mis le feu à leurs cellules jeudi 10 septembre ont été enterrés lundi 14 septembre au soir. La ville symbole avait vu auparavant exploser des heurts à la suite de la mort d'un ancien combattant kurde, sur fond de tensions avec des tribus arabes. Ces",
-      "image": "https://s.rfi.fr/media/display/f97ec162-b0d8-11f1-ad58-005056bf30b7/w:1024/p:16x9/AP26257490416140.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/syrie-a-kobane-des-tensions-persistent-malgre-l-integration-des-zones-ku-28d3c4f3f8.html"
-    },
-    {
-      "title": "L'Ukraine prendra des \"mesures de désescalade\" si la Russie fait de même, affirme Zelensky",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260915-l-ukraine-prendra-des-mesures-de-d%C3%A9sescalade-si-la-russie-fait-de-m%C3%AAme-affirme-zelensky",
-      "source": "France 24",
-      "publishedAt": "2026-09-15T07:22:39.000Z",
-      "summary": "Le président Volodymyr Zelensky a affirmé lundi que l'Ukraine était prête à prendre des \"mesures de désescalade\" si la Russie en faisait de même, sans confirmer l'affirmation de Donald Trump selon laquelle Moscou et Kiev ont accepté de ne plus frapper d'infrastructures énergétiques.",
-      "image": "https://s.france24.com/media/display/3736da90-b0d3-11f1-b47d-005056bf30b7/w:1024/p:16x9/FR-20260915-080253-080412-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ukraine-prendra-des-mesures-de-desescalade-si-la-russie-fait-de-meme-a-247da91c0b.html"
-    },
-    {
-      "title": "Philippines: un vote historique dans la région autonome du Bangsamoro marqué par des violences électorales",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20260915-philippines-un-vote-historique-dans-la-r%C3%A9gion-autonome-du-bangsamoro-marqu%C3%A9-par-des-violences-%C3%A9lectorales",
-      "source": "RFI",
-      "publishedAt": "2026-09-15T07:13:26.000Z",
-      "summary": "La région à majorité musulmane de Bangsamoro, dans le sud des Philippines, est dans l'attente des résultats, après des élections historiques lundi 14 septembre. Pour la première fois depuis qu'elle est devenue autonome en 2019, ses deux millions d'électeurs ont pu se rendre aux urnes pour élire leurs parlementaires loc",
-      "image": "https://s.rfi.fr/media/display/ecf18ffc-b0c8-11f1-8284-005056bf30b7/w:1024/p:16x9/AP26257144569913.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/philippines-un-vote-historique-dans-la-region-autonome-du-bangsamoro-mar-16e4a0c384.html"
-    },
-    {
-      "title": "Le projet d’un méga-incinérateur de déchets fait polémique à Vitry-sur-Seine",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260915-le-projet-d-un-m%C3%A9ga-incin%C3%A9rateur-de-d%C3%A9chets-fait-pol%C3%A9mique-%C3%A0-vitry-sur-seine",
-      "source": "RFI",
-      "publishedAt": "2026-09-15T07:01:10.000Z",
-      "summary": "Le projet d’un méga-incinérateur de déchets, baptisé « Thermo-sur-Seine », suscite l’inquiétude des habitants et associations à Vitry-sur-Seine, dans le Val-de-Marne. Le 16 juillet, ils ont manifesté devant l’Hôtel de Ville pour faire part de leur opposition. L’installation doit contribuer à alimenter en chaleur des lo",
-      "image": "https://s.rfi.fr/media/display/a6c06e4e-b060-11f1-92fd-005056bfb2b6/w:1024/p:16x9/000-479C9HH.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-projet-d-un-mega-incinerateur-de-dechets-fait-polemique-a-vitry-sur-s-4afb549d75.html"
-    },
-    {
-      "title": "En Serbie, les étudiants lancent leur liste face au pouvoir Vučić",
-      "url": "https://fr.euronews.com/video/2026/09/15/des-etudiants-lancent-la-liste-etudiante-pour-bousculer-les-elections-en-serbie",
-      "source": "Euronews",
-      "publishedAt": "2026-09-15T06:20:29.000Z",
-      "summary": "Les étudiants des universités serbes sont officiellement entrés dans la course électorale lundi 14 septembre, défiant le président Aleksandar Vučić lors des législatives anticipées du 25 octobre.",
-      "image": "https://images.euronews.com/articles/stories/09/91/34/73/696x392_cmsv2_44aefb0e-db38-5b9b-8752-6ec106029b8f-9913473.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-serbie-les-etudiants-lancent-leur-liste-face-au-pouvoir-vucic-de9ec39a04.html"
-    },
-    {
-      "title": "1 000 km d’autonomie et fusées à gaz froid : l’incroyable Tesla Roadster officiellement présentée le 1er octobre",
-      "url": "https://www.01net.com/actualites/1-000-km-autonomie-fusees-gaz-froid-incroyable-tesla-roadster-presentee-1er-octobre.html",
-      "source": "01net",
-      "publishedAt": "2026-09-15T05:53:32.000Z",
-      "summary": "La nouvelle Tesla Roadster sera présentée le 1er octobre, 9 ans après la révélation d’un prototype très prometteur. L’avant-goût montré par la marque suggère que le système de propulsion avec des fusées à gaz froid est toujours de la partie.",
-      "image": "https://www.01net.com/app/uploads/2026/09/tesla-roadster-2-1344x896.jpg",
+      "title": "Une autonomie XXL vendue à prix d’or : pourquoi le nouveau Volvo XC60 hybride n’a aucun sens face au EX60 électrique",
+      "url": "https://www.frandroid.com/marques/volvo/3247933_une-autonomie-xxl-vendue-a-prix-dor-pourquoi-le-nouveau-volvo-xc60-hybride-na-aucun-sens-face-au-ex60-electrique",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-15T13:48:35.000Z",
+      "summary": "Volvo vient de lancer une nouvelle version de son XC60 hybride rechargeable, notamment avec une batterie proposant jusqu'à 200 km d'autonomie. Problème : la comparaison avec l'EX60, le nouveau SUV électrique de la marque, rend la version hybride quasi obsolète à tous les points de vue.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/1-000-km-d-autonomie-et-fusees-a-gaz-froid-l-incroyable-tesla-roadster-o-810f62a6a1.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-autonomie-xxl-vendue-a-prix-d-or-pourquoi-le-nouveau-volvo-xc60-hybr-1873396c3d.html"
     },
     {
-      "title": "Dan Wang: «La Chine ne dépassera jamais les États-Unis»",
-      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260915-dan-wang-la-chine-ne-d%C3%A9passera-jamais-les-%C3%A9tats-unis",
-      "source": "RFI",
-      "publishedAt": "2026-09-15T05:50:31.000Z",
-      "summary": "Dan Wang, chercheur à la Hoover Institution de l'université Stanford aux États-Unis et auteur du livre La Chine à toute vitesse (éd. Arpa), est l'invité de RFI ce 15 septembre 2026. Sa clé pour comprendre le face-à-face entre Pékin et Washington : un « État-ingénieur » chinois face à un « État légaliste » américain. Co",
-      "image": "https://s.rfi.fr/media/display/580634a8-b0d0-11f1-a42c-005056bfb2b6/w:1024/p:16x9/dan-wang-HD.jpeg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dan-wang-la-chine-ne-depassera-jamais-les-etats-unis-521d39e861.html"
-    },
-    {
-      "title": "Les États-Unis en manque de munitions à cause de la guerre en Iran",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260915-%C3%A9tats-unis-manque-munitions-guerre-iran-pentagone-defense",
-      "source": "France 24",
-      "publishedAt": "2026-09-15T05:45:25.000Z",
-      "summary": "Après sept mois de conflit contre l'Iran, le Pentagone a reconnu lundi pour la première fois \"une pénurie de munitions\". Dans un rapport, le ministère américain de la Défense évoque quelque 22,3 milliards dépensés uniquement en munitions tirées, pour un coût global de 33,4 milliards.",
-      "image": "https://s.france24.com/media/display/76716e8e-b0c7-11f1-9d6d-005056a90284/w:1024/p:16x9/000-C8744CR.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-etats-unis-en-manque-de-munitions-a-cause-de-la-guerre-en-iran-930bdd7ae1.html"
-    },
-    {
-      "title": "Olivier Grondeau, de l'enfer des prisons iraniennes à la première sélection du Goncourt",
-      "url": "https://www.france24.com/fr/moyen-orient/20260915-olivier-grondeau-de-l-enfer-des-prisons-iraniennes-%C3%A0-la-premi%C3%A8re-s%C3%A9lection-du-goncourt",
-      "source": "France 24",
-      "publishedAt": "2026-09-15T05:34:32.000Z",
-      "summary": "Arrêté en Iran en 2022 et détenu pendant deux ans et demi, Olivier Grondeau raconte son expérience carcérale dans \"Joseph dans la nuit\" (L’Iconoclaste). Un récit nourri de ses rencontres en prison, qui figure dans la première sélection du prix Goncourt 2026.",
-      "image": "https://s.france24.com/media/display/a615ffca-b044-11f1-bf1c-005056a97e36/w:1024/p:16x9/olivier-grondeau-dorian-prost-ok.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/olivier-grondeau-de-l-enfer-des-prisons-iraniennes-a-la-premiere-selecti-13ea56318c.html"
-    },
-    {
-      "title": "La «Tara Polar Station» dans la banquise pour étudier la biodiversité et le climat en Arctique",
-      "url": "https://www.rfi.fr/fr/science/20260915-la-tara-polar-station-dans-la-banquise-pour-%C3%A9tudier-la-biodiversit%C3%A9-et-le-climat-en-arctique",
-      "source": "RFI",
-      "publishedAt": "2026-09-15T05:13:36.000Z",
-      "summary": "La mission s'appelle « Tara Polaris I ». Le 9 septembre, un laboratoire de la fondation Tara Océan a commencé sa dérive sur la banquise de l'Arctique, une opération devant se prolonger jusqu'à fin 2027, à travers la partie centrale du plus septentrional des océans.",
-      "image": "https://s.rfi.fr/media/display/53bee106-af81-11f1-84be-005056a90284/w:1024/p:16x9/Capture-d-e%CC%81cran-2026-09-13-a%CC%80-16-41-53.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-tara-polar-station-dans-la-banquise-pour-etudier-la-biodiversite-et-l-772542c0f2.html"
-    },
-    {
-      "title": "Pourquoi les forces yéménites n’ont-elles pas réussi à stopper l’offensive des Houthis ?",
-      "url": "https://www.france24.com/fr/moyen-orient/20260915-houthis-yemen-offensive-forces-gouvernementales-arabie-saoudite-mokha-mer-rouge",
-      "source": "France 24",
-      "publishedAt": "2026-09-15T05:05:47.000Z",
-      "summary": "Les forces gouvernementales yéménites, pourtant soutenues militairement et financièrement par l’Arabie saoudite, ont cédé en quelques jours face à l’offensive des Houthis sur la côte de la mer Rouge. Une victoire qui est autant le produit de leur propre discipline que de la désunion persistante du camp gouvernemental.",
-      "image": "https://s.france24.com/media/display/5b0b7c0c-aacd-11f1-b7f8-005056bf30b7/w:1024/p:16x9/000-C7EW4UQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pourquoi-les-forces-yemenites-n-ont-elles-pas-reussi-a-stopper-l-offensi-ec04b28de7.html"
+      "title": "Mon MacBook a planté après la mise à jour macOS 27, un autre Mac l’a réparé",
+      "url": "https://www.frandroid.com/marques/apple/3248253_mon-macbook-a-plante-apres-la-mise-a-jour-macos-27-un-autre-mac-la-repare",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-15T13:41:06.000Z",
+      "summary": "Mon MacBook Neo a raté sa mise à jour vers macOS 27 Golden Gate au point d'être en panne, mais heureusement, il est possible de réparer un Mac avec un autre Mac.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mon-macbook-a-plante-apres-la-mise-a-jour-macos-27-un-autre-mac-l-a-repa-ee74f6b2ef.html"
     }
   ]
 }
