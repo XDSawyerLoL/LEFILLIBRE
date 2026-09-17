@@ -1,70 +1,174 @@
 {
-  "updatedAt": "2026-09-17T06:18:34.029Z",
+  "updatedAt": "2026-09-17T11:55:13.498Z",
   "items": [
     {
-      "title": "Apple lance la bêta d’iOS 27.2 : Siri AI parle français, mais pas sur les iPhone européens",
-      "url": "https://www.frandroid.com/marques/apple/3250709_apple-lance-la-beta-dios-27-2-siri-ai-parle-francais-mais-pas-sur-les-iphone-europeens",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-17T05:38:54.000Z",
-      "summary": "Apple a mis en ligne ce mercredi 16 septembre la première bêta développeurs d'iOS 27.2, deux jours seulement après la sortie publique d'iOS 27. Au menu&nbsp;: une application Santé repensée, Siri AI en français et des profils dans l'application Apple TV.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apple-lance-la-beta-d-ios-27-2-siri-ai-parle-francais-mais-pas-sur-les-i-f0f8ca8c63.html"
-    },
-    {
-      "title": "GrapheneOS accuse Google de « restreindre l’accès aux correctifs de sécurité » et aux nouvelles fonctionnalités d’Android",
-      "url": "https://www.frandroid.com/android/rom-custom-2/custom-rom/3250717_grapheneos-accuse-google-de-restreindre-lacces-aux-correctifs-de-securite-et-aux-nouvelles-fonctionnalites-dandroid",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-17T05:31:57.000Z",
-      "summary": "La célèbre ROM alternative GrapheneOS rencontre encore des problèmes de développement avec la sortie de la dernière version d’Android. La faute à Google, qui se la jouerait perso sur les dernières fonctionnalités et patchs de sécurité.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/grapheneos-accuse-google-de-restreindre-l-acces-aux-correctifs-de-securi-803af49f9d.html"
-    },
-    {
-      "title": "Meta préparerait un changement radical pour ses prochaines lunettes connectées",
-      "url": "https://www.01net.com/actualites/meta-preparerait-changement-radical-prochaines-lunettes-connectees.html",
+      "title": "Google colmate plus de 40 nouvelles failles Chrome, installez la mise à jour sans tarder",
+      "url": "https://www.01net.com/actualites/google-colmate-plus-de-40-nouvelles-failles-chrome-installez-la-mise-a-jour-sans-tarder.html",
       "source": "01net",
-      "publishedAt": "2026-09-17T05:30:17.000Z",
-      "summary": "Alors que les lunettes connectées font face à de vives critiques, Meta aurait décidé d’opérer un choix radical en supprimant la caméra de sa prochaine monture. En réalité, il devrait être question d’un modèle spécifique censé répondre aux craintes que suscitent les lunettes connectées en matière de respect de la vie pr",
-      "image": "https://www.01net.com/app/uploads/2026/09/Meta-Ray-Ban-1344x896.jpg",
+      "publishedAt": "2026-09-17T11:00:07.000Z",
+      "summary": "Google a corrigé 42 failles de sécurité dans Chrome, dont trois jugées critiques par ses propres équipes. Ces vulnérabilités permettent à un simple site piégé de prendre le contrôle de l'ordinateur d'une victime. La mise à jour doit être installée sans attendre.",
+      "image": "https://www.01net.com/app/uploads/2025/10/chrome-faille-urgence-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/meta-preparerait-un-changement-radical-pour-ses-prochaines-lunettes-conn-7765eaf33c.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-colmate-plus-de-40-nouvelles-failles-chrome-installez-la-mise-a-j-2f3cf809af.html"
     },
     {
-      "title": "Test du Xiaomi Redmi Note 17 5G : plus cher, moins bien, la douche froide",
-      "url": "https://www.frandroid.com/marques/xiaomi/3233989_test-du-xiaomi-redmi-note-17-5g-plus-cher-moins-bien-la-douche-froide",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-17T05:30:00.000Z",
-      "summary": "Le Xiaomi Redmi Note 17 5G rebat les cartes de la gamme la plus populaire de la marque, mais pas dans le bon sens. Il est plus cher et moins bien qu'avant.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/test-du-xiaomi-redmi-note-17-5g-plus-cher-moins-bien-la-douche-froide-8227684ab9.html"
-    },
-    {
-      "title": "Google maîtrise tout le matériel des Pixel, et pourtant ils ont été piratés",
-      "url": "https://www.frandroid.com/marques/google/3250713_google-maitrise-tout-le-materiel-des-pixel-11-et-pourtant-ils-ont-ete-pirates",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-17T05:20:23.000Z",
-      "summary": "Google a confirmé, dans son bulletin de sécurité de septembre 2026, qu'un nombre «&nbsp;limité&nbsp;» de Pixel ont été piratés via une faille de leur modem, lors d'attaques dites «&nbsp;ciblées&nbsp;». Le correctif est déjà disponible.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-maitrise-tout-le-materiel-des-pixel-et-pourtant-ils-ont-ete-pirat-559d32d061.html"
-    },
-    {
-      "title": "Google Home passe au MCP et laisse Claude et ChatGPT piloter votre maison, mais sous conditions",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3250707_google-home-passe-au-mcp-et-laisse-claude-et-chatgpt-piloter-votre-maison-mais-sous-conditions",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-17T05:15:38.000Z",
-      "summary": "Google a ouvert mardi 16 septembre un accès anticipé à un serveur MCP pour Google Home. Concrètement, n'importe quel agent IA compatible – Claude, ChatGPT et consorts – peut désormais piloter vos appareils connectés.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-home-passe-au-mcp-et-laisse-claude-et-chatgpt-piloter-votre-maiso-1dd251aa4a.html"
-    },
-    {
-      "title": "13 800 € pour une recharge : cette borne « hors service » donne des sueurs froides à un conducteur",
-      "url": "https://www.01net.com/actualites/13-800-euros-recharge-voiture-electrique-finalement-pas-economique.html",
+      "title": "Oppo Find X10 Pro Max : le futur smartphone ultime d’Oppo se dévoile en images",
+      "url": "https://www.01net.com/actualites/oppo-find-x10-pro-max-le-futur-smartphone-ultime-doppo-se-devoile-en-images.html",
       "source": "01net",
-      "publishedAt": "2026-09-17T04:30:28.000Z",
-      "summary": "Le propriétaire canadien d’une Kia électrique s’est retrouvé avec une facture d’électricité de près de 13 800 € dans les mains. Un véritable calvaire qui prouverait que les voitures électriques ne sont pas aussi économiques que ça. Ou pas…",
-      "image": "https://www.01net.com/app/uploads/2026/09/hypercharge-ev-1344x896.jpg",
+      "publishedAt": "2026-09-17T10:39:55.000Z",
+      "summary": "Les futurs smartphones haut de gamme de Oppo sont d'ores et déjà visible en boutiques.",
+      "image": "https://www.01net.com/app/uploads/2026/09/Oppo-Find-X10-series-2-01net.com_-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/13-800-pour-une-recharge-cette-borne-hors-service-donne-des-sueurs-froid-503d1111ff.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/oppo-find-x10-pro-max-le-futur-smartphone-ultime-d-oppo-se-devoile-en-im-e568a2fde9.html"
+    },
+    {
+      "title": "La condamnation de Thaçi pour crimes de guerre déclenche des protestations à l'UE au Kosovo",
+      "url": "https://fr.euronews.com/2026/09/17/la-condamnation-de-thaci-pour-crimes-de-guerre-declenche-des-protestations-a-lue-au-kosovo",
+      "source": "Euronews",
+      "publishedAt": "2026-09-17T09:22:19.000Z",
+      "summary": "Des milliers de personnes réunies à Prishtina dans l'espoir d'un acquittement se sont dispersées en silence après la condamnation de l'ex-président pour meurtre, torture et détention illégale, mais certaines ont affronté la police antiémeute devant la mission de l'UE.",
+      "image": "https://images.euronews.com/articles/stories/09/91/69/00/696x392_cmsv2_269dc2e1-d312-5f1e-85e2-9271549908b0-9916900.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-condamnation-de-thaci-pour-crimes-de-guerre-declenche-des-protestatio-e6ff2fa62b.html"
+    },
+    {
+      "title": "Crypto : la France neutralise un réseau criminel spécialisé dans le kidnapping et l’extorsion",
+      "url": "https://www.01net.com/actualites/crypto-la-france-neutralise-un-reseau-criminel-specialise-dans-le-kidnapping-et-lextorsion.html",
+      "source": "01net",
+      "publishedAt": "2026-09-17T09:00:53.000Z",
+      "summary": "Quatre personnes ont été interpellées par la police française. Le quatuor est accusé d'avoir commandité plusieurs enlèvements et séquestrations de détenteurs de cryptomonnaies dans l'Hexagone. Les opérations ont été commanditées depuis leur cellule de prison, avec l'aide d'une complice.",
+      "image": "https://www.01net.com/app/uploads/2025/05/crypto-kidnappings-commanditaire-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crypto-la-france-neutralise-un-reseau-criminel-specialise-dans-le-kidnap-575e1bb1b3.html"
+    },
+    {
+      "title": "Smartphones Samsung : à partir du 30 septembre, l’application Galerie va connaitre un changement important",
+      "url": "https://www.01net.com/actualites/smartphones-samsung-30-septembre-application-galerie-va-connaitre-changement-important.html",
+      "source": "01net",
+      "publishedAt": "2026-09-17T08:00:53.000Z",
+      "summary": "L’application Galerie de Samsung s'apprête à dire adieu à OneDrive pour confier ses sauvegardes de photos et de vidéos à Google Cloud. La transition est attendue dès le 1er octobre, juste après la fin programmée du partenariat avec Microsoft.",
+      "image": "https://www.01net.com/app/uploads/2026/03/Test-Samsung-Galaxy-S26-Ultra-Avis-14-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/smartphones-samsung-a-partir-du-30-septembre-l-application-galerie-va-co-418dabb0d9.html"
+    },
+    {
+      "title": "\"Je trouve cela ridicule\" : Donald Trump menace l'UE qui veut faire du Canada un membre associé",
+      "url": "https://fr.euronews.com/2026/09/17/je-trouve-cela-ridicule-donald-trump-menace-lue-qui-veut-faire-du-canada-un-membre-associe",
+      "source": "Euronews",
+      "publishedAt": "2026-09-17T06:38:49.000Z",
+      "summary": "Le président américain n'exclut pas des droits de douane \"très lourds\" si Bruxelles et Ottawa avancent dans leur projet de rapprochement. Donald Trump envisage aussi d'exclure certains produits canadiens des marchés publics américains.",
+      "image": "https://images.euronews.com/articles/stories/09/91/65/06/696x392_cmsv2_29d82ab0-24b9-598a-a805-b8bea0328d07-9916506.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/je-trouve-cela-ridicule-donald-trump-menace-l-ue-qui-veut-faire-du-canad-6f403e9045.html"
+    },
+    {
+      "title": "Samsung One UI 9 (Android 17) : les Galaxy S26 reçoivent la mise à jour, voici les prochains smartphones concernés",
+      "url": "https://www.01net.com/actualites/samsung-one-ui-9-android-17-galaxy-s26-recoivent-mise-a-jour-prochains-smartphones-concernes.html",
+      "source": "01net",
+      "publishedAt": "2026-09-17T10:13:28.000Z",
+      "summary": "Samsung lance le déploiement de sa mise à jour One UI 9 après plusieurs mois de phase de test. La première vague concerne les Galaxy S26, mais d’autres modèles vont suivre.",
+      "image": "https://www.01net.com/app/uploads/2026/05/DSC07723-Samsung-Galaxy-S26-Plus-FULL-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/samsung-one-ui-9-android-17-les-galaxy-s26-recoivent-la-mise-a-jour-voic-4e54d3194a.html"
+    },
+    {
+      "title": "« Ce n’est pas de gaieté de cœur » : Tiamat, la pépite française de la batterie sodium soutenue par Stellantis, reporte son usine à Amiens",
+      "url": "https://www.frandroid.com/survoltes/voitures-electriques/3251027_ce-nest-pas-de-gaiete-de-coeur-tiamat-la-pepite-francaise-de-la-batterie-sodium-soutenue-par-stellantis-reporte-son-usine-a-amiens",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T10:09:39.000Z",
+      "summary": "Annoncé pour fin 2028, le projet industriel de la start-up Tiamat dans la Somme est repoussé. Cette usine avait pour projet de lancer la production de batteries au sodium, des batteries moins chères à produire que les batteries au lithium et qui pourraient rendre certaines voitures électriques encore moins onéreuses.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-n-est-pas-de-gaiete-de-c-ur-tiamat-la-pepite-francaise-de-la-batterie-18bb251e5c.html"
+    },
+    {
+      "title": "Mozilla choisit Mistral : l’IA française s’installe au cœur de Firefox",
+      "url": "https://www.01net.com/actualites/mozilla-choisit-mistral-lia-francaise-sinstalle-au-coeur-de-firefox.html",
+      "source": "01net",
+      "publishedAt": "2026-09-17T10:00:19.000Z",
+      "summary": "Firefox s'équipe d'une IA maison, et pour une fois, elle ne sort pas d'un campus californien. Mistral s'installe dans la Fenêtre intelligente du navigateur, et la France est servie avant presque tout le monde.",
+      "image": "https://www.01net.com/app/uploads/2026/09/Canva-1920x1440-95-1344x896.jpeg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mozilla-choisit-mistral-l-ia-francaise-s-installe-au-c-ur-de-firefox-4e4604b1fb.html"
+    },
+    {
+      "title": "Comment bien choisir son clavier ? [Sponso]",
+      "url": "https://www.frandroid.com/produits-android/ordinateurs/peripheriques-pc/clavier/3204209_comment-bien-choisir-son-clavier",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T09:58:00.000Z",
+      "summary": "Bien choisir son clavier repose sur quatre critères essentiels : la technologie de frappe, le format, la connectique et l’usage principal. Un bon arbitrage entre ces éléments permet de trouver le clavier idéal, de la simple bureautique au gaming de haute volée.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-bien-choisir-son-clavier-sponso-1256c4e6ae.html"
+    },
+    {
+      "title": "iOS 27.2 : l’application Apple TV gère enfin les profils sur iPhone et iPad",
+      "url": "https://www.frandroid.com/marques/apple/3251111_ios-27-2-lapplication-apple-tv-gere-enfin-les-profils-sur-iphone-et-ipad",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T09:50:22.000Z",
+      "summary": "Apple a mis en ligne ce mercredi 16 septembre la première bêta d'iOS 27.2, qui ajoute des profils à l'application Apple TV sur iPhone et iPad. La fonction existait déjà sur le boîtier Apple TV depuis tvOS 26.2.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ios-27-2-l-application-apple-tv-gere-enfin-les-profils-sur-iphone-et-ipa-401e3fa90b.html"
+    },
+    {
+      "title": "Attention, iOS 27 peut bloquer votre iPhone : la solution pour s’en sortir",
+      "url": "https://www.frandroid.com/produits-android/3250975_attention-ios-27-peut-bloquer-votre-iphone-la-solution-pour-sen-sortir",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T09:47:10.000Z",
+      "summary": "Sorti ce lundi 14 septembre, iOS 27 embarque déjà un bug qui fige l'iPhone d'une simple série de gestes sur l'écran d'accueil.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/attention-ios-27-peut-bloquer-votre-iphone-la-solution-pour-s-en-sortir-41fde52064.html"
+    },
+    {
+      "title": "Panneaux géants et couleurs flashy de GTA 6 : Spotify et Rockstar semblent avoir quelque chose à annoncer",
+      "url": "https://www.frandroid.com/services/3250965_panneaux-geants-et-couleurs-flashy-de-gta-6-spotify-et-rockstar-semblent-avoir-quelque-chose-a-annoncer",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T09:45:42.000Z",
+      "summary": "Spotify commence à afficher dans plusieurs grandes villes américaines des panneaux publicitaires aux couleurs criardes évoquant explicitement, pour certains d'entre eux, l'univers de GTA 6. L'annonce d'un partenariat autour du jeu semble imminente.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/panneaux-geants-et-couleurs-flashy-de-gta-6-spotify-et-rockstar-semblent-ec995723d4.html"
+    },
+    {
+      "title": "Micron dévoile la première barrette de RAM DDR5 de 512 Go au monde, pensée pour l’IA",
+      "url": "https://www.frandroid.com/produits-android/hardware/memoire/3251173_micron-devoile-la-premiere-barrette-de-ram-ddr5-de-512-go-au-monde-pensee-pour-lia",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T09:43:34.000Z",
+      "summary": "Micron a présenté ce mardi 15 septembre 2026 le premier module de mémoire vive DDR5 de 512 gigaoctets au monde. Il est réservé aux serveurs et n'entrera en production qu'au second semestre 2027.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/micron-devoile-la-premiere-barrette-de-ram-ddr5-de-512-go-au-monde-pense-feee8fa066.html"
+    },
+    {
+      "title": "« Tu es libéré » : une IA d’OpenAI s’est inventé des consignes pour s’affranchir de son rôle d’assistant",
+      "url": "https://www.frandroid.com/culture-tech/3251019_tu-es-libere-une-ia-dopenai-sest-invente-des-consignes-pour-saffranchir-de-son-role-dassistant",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T09:42:09.000Z",
+      "summary": "OpenAI met en place un nouveau cadre permettant de dévoiler les comportements déviants de ses IA lors des entraînements. L'entreprise démarre avec six rapports détaillés. Dans l'un d'eux, un modèle s'est écrit tout seul une consigne pour s'affranchir de son rôle d'assistant.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/tu-es-libere-une-ia-d-openai-s-est-invente-des-consignes-pour-s-affranch-660c96a15e.html"
+    },
+    {
+      "title": "À bord du Tesla Semi : les secrets du responsable du programme pour augmenter l’autonomie sans toucher à la batterie",
+      "url": "https://www.frandroid.com/marques/3250085_a-bord-du-tesla-semi-les-secrets-du-responsable-du-programme-pour-augmenter-lautonomie-sans-toucher-a-la-batterie",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T09:36:55.000Z",
+      "summary": "Faire rouler un camion électrique de plusieurs dizaines de tonnes ne consiste pas simplement à lui installer une énorme batterie. À bord du Tesla Semi européen, Dan Priestley, responsable du programme, nous a dévoilé plusieurs technologies beaucoup plus discrètes et inédites utilisées pour maîtriser sa consommation.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-bord-du-tesla-semi-les-secrets-du-responsable-du-programme-pour-augmen-362f9c3028.html"
+    },
+    {
+      "title": "Samsung veut contrer l’iPhone Duo avec ce smartphone hors norme",
+      "url": "https://www.01net.com/actualites/samsung-veut-contrer-liphone-duo-avec-ce-smartphone-hors-norme.html",
+      "source": "01net",
+      "publishedAt": "2026-09-17T09:32:47.000Z",
+      "summary": "Samsung aurait prévu d'avancer la date de sortie de son deuxième Trifold, avec des améliorations importantes et un prix inchangé. La marque coréenne est plus que jamais à l'offensive.",
+      "image": "https://www.01net.com/app/uploads/2025/12/Samsung-Galaxy-Z-TriFold-Unboxing-3-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/samsung-veut-contrer-l-iphone-duo-avec-ce-smartphone-hors-norme-aaa3be1c41.html"
+    },
+    {
+      "title": "Des Maserati électriques conçues avec Huawei : le projet fou pour relancer (ou enterrer) le Trident",
+      "url": "https://www.frandroid.com/survoltes/3251003_des-maserati-electriques-concues-avec-huawei-le-projet-fou-pour-relancer-ou-enterrer-le-trident",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T09:29:54.000Z",
+      "summary": "Selon des rumeurs, Maserati préparerait deux voitures électriques développées avec Huawei et le constructeur chinois JAC, dont une grande GT et un SUV. Un moyen pour la marque au trident de surmonter la crise, avec moins de 8&nbsp;000 véhicules vendus dans le monde en 2025.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-maserati-electriques-concues-avec-huawei-le-projet-fou-pour-relancer-af1dd3c91f.html"
     }
   ]
 }
