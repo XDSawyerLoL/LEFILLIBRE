@@ -1,23 +1,141 @@
 {
-  "updatedAt": "2026-09-17T15:56:00.920Z",
+  "updatedAt": "2026-09-17T19:28:23.775Z",
   "items": [
     {
-      "title": "2 fois moins chère qu’une Xiaomi et charge en 9 minutes : on a essayé en Chine la berline électrique qui s’attaque à BYD",
-      "url": "https://www.frandroid.com/survoltes/voitures-electriques/2946681_2-fois-moins-chere-quune-xiaomi-et-charge-en-9-minutes-on-a-essaye-en-chine-la-berline-electrique-qui-sattaque-a-byd",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-17T15:47:59.000Z",
-      "summary": "Après avoir analysé les ambitions premium-luxe du groupe BAIC avec la Stelato S9, j’ai pris le volant d’une berline d’une autre marque du groupe qui a pour vocation de démocratiser le segment des berlines sportives: l’Arcfox Alpha S5.",
+      "title": "Lune: la découverte d'un nouveau cratère dévoile les secrets du sous-sol lunaire",
+      "url": "https://www.rfi.fr/fr/science/20260917-lune-la-d%C3%A9couverte-d-un-nouveau-crat%C3%A8re-d%C3%A9voile-les-secrets-du-sous-sol-lunaire",
+      "source": "RFI",
+      "publishedAt": "2026-09-17T17:05:46.000Z",
+      "summary": "Un nouveau cratère sur la Lune a été découvert par la Nasa, et c'est d'ailleurs le plus grand connu du système solaire formé ces dernières années. C'est un satellite de l'agence spatiale américaine orbitant autour de la Lune qui l'a repéré et qui a également découvert que la formation de ce cratère avait eu des conséqu",
+      "image": "https://s.rfi.fr/media/display/e0a10de8-b2b9-11f1-b4ee-5570cf9529c5/w:1024/p:16x9/000-C8JG9NT.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/2-fois-moins-chere-qu-une-xiaomi-et-charge-en-9-minutes-on-a-essaye-en-c-288282730a.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/lune-la-decouverte-d-un-nouveau-cratere-devoile-les-secrets-du-sous-sol--7b3e006a0f.html"
     },
     {
-      "title": "La bague connectée Oura Ring 4 revient à un super prix : une bonne affaire malgré la sortie du nouveau modèle ?",
-      "url": "https://www.frandroid.com/bons-plans/3190627_la-bague-connectee-oura-ring-4-revient-a-un-super-prix-une-bonne-affaire-malgre-la-sortie-du-nouveau-modele",
+      "title": "Ecovacs Deebot X12 OmniCyclone : ce robot aspirateur capable de franchir des marches perd plus de 500 € sur Amazon",
+      "url": "https://www.frandroid.com/bons-plans/3251753_ecovacs-deebot-x12-omnicyclone-ce-robot-aspirateur-capable-de-franchir-des-marches-perd-plus-de-500-e-sur-amazon",
       "source": "Frandroid",
-      "publishedAt": "2026-09-17T15:44:52.000Z",
-      "summary": "L'Oura Ring 4, la bague connectée en titane qui suit votre sommeil, votre stress et votre fréquence cardiaque 24 heures sur 24, est en ce moment à 265 euros au lieu de 399 euros sur fnac.com. La sortie récente de l'Oura Ring 5 fait mécaniquement baisser le tarif de ce modèle encore très performant, mais est-ce une bonn",
+      "publishedAt": "2026-09-17T16:36:00.000Z",
+      "summary": "Robot aspirateur et laveur haut de gamme, l'Ecovacs Deebot X12 OmniCyclone mise sur une automatisation poussée pour venir à bout des saletés incrustées. Annoncé à 1 399 euros, il tombe aujourd'hui à 881,30 euros sur Amazon.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-bague-connectee-oura-ring-4-revient-a-un-super-prix-une-bonne-affaire-98a398786d.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ecovacs-deebot-x12-omnicyclone-ce-robot-aspirateur-capable-de-franchir-d-07ccda0088.html"
+    },
+    {
+      "title": "France : pourquoi la colère des pêcheurs gagne du terrain ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-france-pourquoi-la-col%C3%A8re-des-p%C3%AAcheurs-gagne-du-terrain",
+      "source": "France 24",
+      "publishedAt": "2026-09-17T18:43:34.000Z",
+      "summary": "Des pêcheurs se mobilisent dans plusieurs ports du sud de la France pour dénoncer la flambée du prix du carburant et leurs conditions de travail. Malgré le relèvement de l'aide gouvernementale de 25 à 35 centimes par litre, la profession juge les mesures insuffisantes et prévient que le mouvement pourrait se poursuivre",
+      "image": "https://s.france24.com/media/display/8be67dca-b2c7-11f1-8ac3-8bce42b8e305/w:1024/p:16x9/capture-2781486116aac3499aed8b2-36628980.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-pourquoi-la-colere-des-pecheurs-gagne-du-terrain-35d4a9f09b.html"
+    },
+    {
+      "title": "Énergie : la France paye le prix fort ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260917-%C3%A9nergie-la-france-paye-le-prix-fort",
+      "source": "France 24",
+      "publishedAt": "2026-09-17T18:42:49.000Z",
+      "summary": "Les tensions au Moyen-Orient provoquent une hausse des prix de l’énergie et une forte inflation dans de nombreux pays. En France, cette situation fragilise les entreprises, notamment les pêcheurs, qui ont bloqué plusieurs ports en Méditerranée et un dépôt pétrolier. Le gouvernement a annoncé, ce jeudi soir, prendre des",
+      "image": "https://s.france24.com/media/display/bc81e4b0-b146-11f1-957a-f72ea3a769d9/w:1024/p:16x9/XX-NW-OOV-ECO-COLERE-FOS-SUR-MER-RAFFINERIE-BLOQUEE-MANENT-Laure-transfer.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/energie-la-france-paye-le-prix-fort-0840ec8a49.html"
+    },
+    {
+      "title": "Afrique du Sud : une série de féminicides suscite l’émoi à Johannesburg",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-afrique-du-sud-une-s%C3%A9rie-de-f%C3%A9minicides-suscite-l-%C3%A9moi-%C3%A0-johannesburg",
+      "source": "France 24",
+      "publishedAt": "2026-09-17T18:23:32.000Z",
+      "summary": "Neuf femmes ont été retrouvées mortes en deux mois dans la même zone de l’Est de Johannesburg. Les victimes étaient âgées de 20 à 30 ans. La police tente désormais de déterminer si ces meurtres sont liés.",
+      "image": "https://s.france24.com/media/display/9543b2f8-b2c1-11f1-abf8-61f6f55d211c/w:1024/p:16x9/Couv-AFSUD-FEMINICIDE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-une-serie-de-feminicides-suscite-l-emoi-a-johannesburg-e37aa90078.html"
+    },
+    {
+      "title": "Israël : à un mois des législatives, le documentaire \"Naza\" pris dans une tempête politique",
+      "url": "https://www.france24.com/fr/moyen-orient/20260917-isra%C3%ABl-l%C3%A9gislatives-documentaire-naza-temp%C3%AAte-politique-netanyahu-gaza",
+      "source": "France 24",
+      "publishedAt": "2026-09-17T17:53:01.000Z",
+      "summary": "Le Premier ministre israélien Benjamin Netanyahu a annoncé mercredi vouloir \"déchoir de leur citoyenneté\" les personnes qui \"diffament\" l'armée israélienne, quelques jours après que le documentaire \"Naza\" a été récompensé à la Mostra de Venise. Le film donne la parole à des sources israéliennes anonymes accusant l'armé",
+      "image": "https://s.france24.com/media/display/c69183f2-b2b8-11f1-a9f1-61f6f55d211c/w:1024/p:16x9/AP26258555934130.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-a-un-mois-des-legislatives-le-documentaire-naza-pris-dans-une-tem-7906c4017f.html"
+    },
+    {
+      "title": "France: Sébastien Lecornu présente un budget «offensif» pour 2027, avec 54 milliards d'économies",
+      "url": "https://www.rfi.fr/fr/france/20260917-france-s%C3%A9bastien-lecornu-pr%C3%A9sente-un-budget-offensif-pour-2027-avec-54-milliards-d-%C3%A9conomies",
+      "source": "RFI",
+      "publishedAt": "2026-09-17T17:42:04.000Z",
+      "summary": "Sébastien Lecornu a présenté jeudi 17 septembre les grandes lignes d'un budget pour 2027 qu'il veut « offensif » avec un « effort » d'économies sans guère de précédent de 54 milliards d'euros, laissant au Parlement le soin de trancher certaines mesures comme celles, sensibles, concernant les retraités.",
+      "image": "https://s.rfi.fr/media/display/dc7d0358-b2bd-11f1-9499-5570cf9529c5/w:1024/p:16x9/000-C7WK3HB.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-sebastien-lecornu-presente-un-budget-offensif-pour-2027-avec-54-m-93afda18e2.html"
+    },
+    {
+      "title": "France: l'association e-Enfance alerte sur les dangers potentiels liés à la plateforme Discord",
+      "url": "https://www.rfi.fr/fr/france/20260917-france-l-association-e-enfance-alerte-sur-les-dangers-potentiels-li%C3%A9s-%C3%A0-la-plateforme-discord",
+      "source": "RFI",
+      "publishedAt": "2026-09-17T17:10:07.000Z",
+      "summary": "La présidente de la Commission européenne, Ursula von der Leyen, a annoncé ce mercredi le Kids Act, un projet de loi pour limiter l'accès des moins de 15 ans aux réseaux sociaux et autres plateformes en ligne. Objectif : les protéger de leurs effets néfastes. Parmi les risques, les sollicitations à caractère sexuel. C'",
+      "image": "https://s.rfi.fr/media/display/2610d1ac-b24e-11ee-948d-005056a97e36/w:1024/p:16x9/000_1SD4EH.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-l-association-e-enfance-alerte-sur-les-dangers-potentiels-lies-a--bd3bde4912.html"
+    },
+    {
+      "title": "Présidentielle française 2027: Gabriel Attal se présente en candidat de l'Europe",
+      "url": "https://www.rfi.fr/fr/france/20260917-pr%C3%A9sidentielle-fran%C3%A7aise-2027-gabriel-attal-se-pr%C3%A9sente-en-candidat-de-l-europe",
+      "source": "RFI",
+      "publishedAt": "2026-09-17T17:01:59.000Z",
+      "summary": "Au lendemain du discours sur l'état de l'Union prononcé par la présidente de la Commission européenne, Ursula von der Leyen, Gabriel Attal a présenté ce jeudi 17 septembre à Reims sa vision et son programme pour l'Europe. Avec un objectif : relancer le projet de créer les États-Unis d'Europe. Le patron de Renaissance e",
+      "image": "https://s.rfi.fr/media/display/500ff42c-b2b6-11f1-a771-5570cf9529c5/w:1024/p:16x9/000-C78K3HG.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-francaise-2027-gabriel-attal-se-presente-en-candidat-de-l-defc07d524.html"
+    },
+    {
+      "title": "Trump déterminé à mettre fin bientôt à la guerre avec l'Iran, affirme un haut conseiller à Euronews",
+      "url": "https://fr.euronews.com/2026/09/17/trump-determine-a-mettre-fin-bientot-a-la-guerre-avec-liran-affirme-un-haut-conseiller-a-e",
+      "source": "Euronews",
+      "publishedAt": "2026-09-17T16:50:48.000Z",
+      "summary": "Massad Boulos, conseiller du président américain pour le monde arabe, affirme que Donald Trump veut mettre fin à une guerre qui s'éternise et le décrit comme un \"homme qui tient parole\".",
+      "image": "https://images.euronews.com/articles/stories/09/91/77/13/696x392_cmsv2_4c44ca5b-6b3d-5bd7-8175-cba994e67722-9917713.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-determine-a-mettre-fin-bientot-a-la-guerre-avec-l-iran-affirme-un--44686009e0.html"
+    },
+    {
+      "title": "Prix des carburants : La colère monte, le gouvernement sous pression",
+      "url": "https://www.france24.com/fr/%C3%A9missions/politique/20260917-prix-des-carburants-la-col%C3%A8re-monte-le-gouvernement-sous-pression",
+      "source": "France 24",
+      "publishedAt": "2026-09-17T16:48:58.000Z",
+      "summary": "La hausse du prix des carburants agit comme un catalyseur : les pêcheurs bloquent des dépôts pétroliers et les appels à la mobilisation se multiplient. A 7 mois de la présentielle, des partis, comme le RN et LFI, comptent bien capitaliser sur cette colère. Le gouvernement est sous pression et a déjà annoncé la prolonga",
+      "image": "https://s.france24.com/media/display/0251eec4-b2b7-11f1-816f-5570cf9529c5/w:1024/p:16x9/capture-2615912636aac18daecc445-92783177.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/prix-des-carburants-la-colere-monte-le-gouvernement-sous-pression-aacb19fded.html"
+    },
+    {
+      "title": "Cette vidéo ne prouve pas que Xi Jinping a fait un malaise au sommet des Brics",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260917-cette-vid%C3%A9o-ne-prouve-pas-que-xi-jinping-a-fait-un-malaise-au-sommet-des-brics",
+      "source": "France 24",
+      "publishedAt": "2026-09-17T16:29:52.000Z",
+      "summary": "Des internautes affirment que Xi Jinping aurait fait un malaise cardiaque lors du dernier sommet des Brics en Inde. Ils présentent pour preuve une vidéo de l’événement où le Premier ministre indien semble s'inquiéter de la santé du président chinois. En réalité, Xi Jinping rencontrait un problème technique avec son app",
+      "image": "https://s.france24.com/media/display/3fb396ee-b2af-11f1-bb98-7922de457103/w:1024/p:16x9/image2-134.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cette-video-ne-prouve-pas-que-xi-jinping-a-fait-un-malaise-au-sommet-des-f040ebd3ad.html"
+    },
+    {
+      "title": "Israël: une loi pour déchoir les réalisateurs du documentaire choc «Naza» de la nationalité israélienne",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20260917-isra%C3%ABl-une-loi-pour-d%C3%A9choir-les-r%C3%A9alisateurs-du-documentaire-choc-naza-de-la-nationalit%C3%A9-isra%C3%A9lienne",
+      "source": "RFI",
+      "publishedAt": "2026-09-17T16:27:30.000Z",
+      "summary": "La polémique autour du documentaire Naza continue en Israël. Le film réalisé par Yuval Abraham et Rachel Szor, consacré aux morts de civils à Gaza, a reçu le Prix spécial du jury à la Mostra de Venise, samedi 12 septembre. À partir de témoignages anonymes, ce dernier affirme que les morts de civils à Gaza auraient été ",
+      "image": "https://s.rfi.fr/media/display/5c2e64be-b2b1-11f1-ad25-61f6f55d211c/w:1024/p:16x9/AP26255700977392.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-une-loi-pour-dechoir-les-realisateurs-du-documentaire-choc-naza-d-48e86c8a84.html"
+    },
+    {
+      "title": "Vénézuela : un magnat du pétrole relaie la parole américaine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-v%C3%A9n%C3%A9zuela-un-magnat-du-p%C3%A9trole-relaie-la-parole-am%C3%A9ricaine",
+      "source": "France 24",
+      "publishedAt": "2026-09-17T16:00:22.000Z",
+      "summary": "La famille du controversé homme d'affaires vénézuélien Alejandro Betancourt a annoncé, mercredi 16 septembre, conserver une participation majoritaire dans Nabep. Il s'agit de l'entreprise choisie pour gérer l'accord pétrolier inédit qui voit les Etats-Unis prendre contrôle de 20 % des gigantesques réserves pétrolières ",
+      "image": "https://s.france24.com/media/display/8689d854-b2ae-11f1-954f-5570cf9529c5/w:1024/p:16x9/FR-20260917-161249-161907-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/venezuela-un-magnat-du-petrole-relaie-la-parole-americaine-cf8bd3bb98.html"
+    },
+    {
+      "title": "Législatives en Suède : le Premier ministre démissionne après la défaite de son camp",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-l%C3%A9gislatives-en-su%C3%A8de-le-premier-ministre-d%C3%A9missionne-apr%C3%A8s-la-d%C3%A9faite-de-son-camp",
+      "source": "France 24",
+      "publishedAt": "2026-09-17T15:55:10.000Z",
+      "summary": "Le Premier ​ministre suédois Ulf Kristersson a annoncé jeudi 17 septembre sa démission après la défaite de son camp aux élections législatives. Le bloc d'opposition de ​centre-gauche a remporté 176 sièges aux élections législatives de dimanche 13 septembre, tandis que la coalition de droite qui était au pouvoir en a ob",
+      "image": "https://s.france24.com/media/display/efb909b2-b2ae-11f1-9ff3-1d1125ed9143/w:1024/p:16x9/2026-09-14T092806Z-1696396212-RC2VINAUELR6-RTRMADP-3-SWEDEN-ELECTION.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-suede-le-premier-ministre-demissionne-apres-la-defaite-d-f15ae6450d.html"
     },
     {
       "title": "Sécheresse au Soudan et au Tchad: «On se retrouve avec des hauteurs d’eau qui reviennent aux années les plus sèches»",
@@ -46,123 +164,6 @@
       "summary": "Depuis la révocation de son procureur, Mame Mandiaye Niang assure l'intérim à la tête de la Cour pénale internationale. Alors que l'institution crée en 2002 traverse une crise inédite, le haut magistrat sénégalais a défendu sur France 24 le bilan de la CPI, notamment le mandat d'arrêt délivré contre le Premier ministre",
       "image": "https://s.france24.com/media/display/b37e7978-b2a4-11f1-bb37-6db10b20ba37/w:1024/p:16x9/000-333Y28F.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sanctions-contre-la-cpi-c-est-difficile-mais-cela-ne-nous-empechera-pas--42f8a10fb7.html"
-    },
-    {
-      "title": "En matière d'hydrologie, «l'anormal devient normal» selon l’Organisation météorologique mondiale",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260917-en-mati%C3%A8re-d-hydrologie-l-anormal-devient-normal-selon-l-organisation-m%C3%A9t%C3%A9orologique-mondiale",
-      "source": "RFI",
-      "publishedAt": "2026-09-17T15:21:52.000Z",
-      "summary": "L’année 2025 a été l’une des plus sèches depuis trente-cinq ans en matière de débits fluviaux, alerte l’Organisation météorologique mondiale (OMM) dans un rapport sur l'état des ressources en eau dans le monde, publié ce jeudi 17 septembre. Selon cette agence onusienne, le cycle de l'eau est globalement devenu « plus i",
-      "image": "https://s.rfi.fr/media/display/43f2a870-aacc-11f1-804e-005056bf30b7/w:1024/p:16x9/ap24289454097517.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-matiere-d-hydrologie-l-anormal-devient-normal-selon-l-organisation-me-e3c3744b3e.html"
-    },
-    {
-      "title": "Carney appelle à une alliance renforcée avec l’UE sous les applaudissements des eurodéputés",
-      "url": "https://fr.euronews.com/video/2026/09/17/carney-plaide-pour-des-liens-plus-etroits-avec-lue-au-parlement-europeen-et-est-applaudi",
-      "source": "Euronews",
-      "publishedAt": "2026-09-17T15:05:44.000Z",
-      "summary": "Le Premier ministre canadien Mark Carney appelle à un renforcement historique des liens entre le Canada et l'Union européenne, qu'un ordre géopolitique en mutation pousse vers une alliance stratégique plus étroite.",
-      "image": "https://images.euronews.com/articles/stories/09/91/75/19/696x392_cmsv2_1e4b3ba3-b3c9-5465-b8b3-b9671f73eeae-9917519.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/carney-appelle-a-une-alliance-renforcee-avec-l-ue-sous-les-applaudisseme-fca0c5d0c8.html"
-    },
-    {
-      "title": "L'Est de l'Espagne en proie à de violentes inondations",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-l-est-de-l-espagne-en-proie-%C3%A0-de-violentes-inondations",
-      "source": "France 24",
-      "publishedAt": "2026-09-17T14:44:51.000Z",
-      "summary": "En Espagne, des pluies diluviennes se sont abattues en Catalogne et dans la région de Valence. Près de Barcelone, un homme a été retrouvé mort après que sa voiture ait été emportée. Les autorités appellent les habitants à éviter tout déplacement inutile.",
-      "image": "https://s.france24.com/media/display/0e4c51a8-b2a6-11f1-aee0-991cccd3bb73/w:1024/p:16x9/2026-09-16T234048Z-1711250317-RC2NKNAKH1M4-RTRMADP-3-EUROPE-WEATHER-SPAIN-FLOODS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-est-de-l-espagne-en-proie-a-de-violentes-inondations-db4429a297.html"
-    },
-    {
-      "title": "Le Maroc et Israël vont ouvrir des ambassades respectives",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-le-maroc-et-isra%C3%ABl-vont-ouvrir-des-ambassades-respectives",
-      "source": "France 24",
-      "publishedAt": "2026-09-17T14:39:04.000Z",
-      "summary": "Israël et le Maroc vont ouvrir des ambassades dans leurs pays respectifs, a annoncé mercredi 16 septembre le ministère israélien des Affaires étrangères, après une rencontre entre les deux chefs de la diplomatie sous l'égide américaine. Tel Aviv vante \"une relation renforcée\".",
-      "image": "https://s.france24.com/media/display/1f799140-b2a4-11f1-9a6f-991cccd3bb73/w:1024/p:16x9/FR-20260917-150740-150909-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-maroc-et-israel-vont-ouvrir-des-ambassades-respectives-f9e32a31fe.html"
-    },
-    {
-      "title": "La colère des pêcheurs enfle en France : blocage du port de Nice",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-la-col%C3%A8re-des-p%C3%AAcheurs-enfle-en-france-blocage-du-port-de-nice",
-      "source": "France 24",
-      "publishedAt": "2026-09-17T14:24:20.000Z",
-      "summary": "Emmanuel Macron recevra vendredi 18 septembre les chefs de parti politiques, un échange à l'Élysée qui se concentrera sur la \"dégradation rapide\" de la situation internationale et ses \"conséquences en France\", notamment autour des prix à la pompe. Les marins pêcheurs se mobilisent face à cette inflation. Ce jeudi 17 se",
-      "image": "https://s.france24.com/media/display/15272128-b29d-11f1-bfe6-d7a11ace016d/w:1024/p:16x9/FR-20260917-150132-150311-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-colere-des-pecheurs-enfle-en-france-blocage-du-port-de-nice-7090e6ed8b.html"
-    },
-    {
-      "title": "Après les Pays-Bas, l'Irlande boycotte à nouveau l'Eurovision en raison de la guerre à Gaza",
-      "url": "https://www.france24.com/fr/europe/20260917-apr%C3%A8s-les-pays-bas-l-irlande-boycotte-%C3%A0-nouveau-l-eurovision-en-raison-de-la-guerre-%C3%A0-gaza",
-      "source": "France 24",
-      "publishedAt": "2026-09-17T14:23:54.000Z",
-      "summary": "Le groupe audiovisuel public irlandais RTÉ a annoncé, jeudi, que l'Irlande ne participera pas à l'édition 2027 de l'Eurovision, comme en 2026, en raison de la situation à Gaza. Le groupe a notamment mentionné les pertes humaines \"effroyables\" et la crise humanitaire qui y règne.",
-      "image": "https://s.france24.com/media/display/2e99dae4-b29b-11f1-878d-991cccd3bb73/w:1024/p:16x9/AP26260416490287.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-les-pays-bas-l-irlande-boycotte-a-nouveau-l-eurovision-en-raison-d-e9c4bf1537.html"
-    },
-    {
-      "title": "Flambée des prix du carburant en France : les pêcheurs se mobilisent",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260917-flamb%C3%A9e-des-prix-du-carburant-en-france-les-p%C3%AAcheurs-se-mobilisent",
-      "source": "France 24",
-      "publishedAt": "2026-09-17T14:17:16.000Z",
-      "summary": "Remontés contre le gouvernement et la flambée du gazole, les pêcheurs rencontrent la ministre de la Pêche, jeudi 17 septembre à Paris, pour obtenir plus d'aides. Des pêcheurs bloquent de nouveau, depuis ce matin, l'accès à un dépôt pétrolier à Frontignan (Hérault), ainsi que le port de Nice. Les précisions de Manuel Ma",
-      "image": "https://s.france24.com/media/display/a6b83526-b29a-11f1-b112-d7a11ace016d/w:1024/p:16x9/FR-20260917-130202-132724-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/flambee-des-prix-du-carburant-en-france-les-pecheurs-se-mobilisent-c57e66ddac.html"
-    },
-    {
-      "title": "Congo-B: des organisations pointent les dégâts de l'exploitation pétrolière sur l'environnement",
-      "url": "https://www.rfi.fr/fr/afrique/20260917-congo-b-des-organisations-pointent-les-d%C3%A9g%C3%A2ts-de-l-exploitation-p%C3%A9troli%C3%A8re-sur-l-environnement",
-      "source": "RFI",
-      "publishedAt": "2026-09-17T13:41:42.000Z",
-      "summary": "Au Congo-Brazzaville, la Commission Justice et Paix du diocèse de Pointe-Noire alerte sur les conséquences dramatiques de l'exploitation pétrolière sur les cultures des populations riveraines dans le département du Kouilou. En partenariat avec deux instituts de recherche au Congo et avec les organisations Caritas et le",
-      "image": "https://s.rfi.fr/media/display/d0a2f1d2-2c50-11ea-989d-005056bff430/w:1024/p:16x9/c99267fc1749d4b2a138c791ff4ea17b8cd9898b.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/congo-b-des-organisations-pointent-les-degats-de-l-exploitation-petrolie-a74f519cff.html"
-    },
-    {
-      "title": "Débats Euronews : libérer le potentiel du Kazakhstan en tant que plaque tournante du commerce régional",
-      "url": "https://fr.euronews.com/2026/09/17/debats-euronews-liberer-le-potentiel-du-kazakhstan-en-tant-que-plaque-tournante-du-comme",
-      "source": "Euronews",
-      "publishedAt": "2026-09-17T13:00:04.000Z",
-      "summary": "Lors des Astana Finance Days 2026, les intervenants ont examiné comment le Kazakhstan pouvait dépasser son rôle traditionnel de pays de transit pour devenir une plaque tournante régionale en matière de production, de commerce et d'investissement.",
-      "image": "https://images.euronews.com/articles/stories/09/91/27/39/696x392_cmsv2_33dfa4a6-6906-5f40-b6ae-bca91d9f72ac-9912739.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/debats-euronews-liberer-le-potentiel-du-kazakhstan-en-tant-que-plaque-to-949d7f1f11.html"
-    },
-    {
-      "title": "Devant le Parlement européen, le Premier ministre canadien salue une alliance «phare pour les démocraties»",
-      "url": "https://www.rfi.fr/fr/europe/20260917-devant-le-parlement-europ%C3%A9en-le-premier-ministre-canadien-salue-une-alliance-phare-pour-les-d%C3%A9mocraties",
-      "source": "RFI",
-      "publishedAt": "2026-09-17T12:57:03.000Z",
-      "summary": "Mark Carney a été accueilli avec enthousiasme au Parlement européen à Strasbourg. Le Premier ministre canadien a prononcé en fin de matinée jeudi 17 septembre un discours en forme de plaidoyer pour une alliance la plus solide et la plus resserrée possible. L’Europe et le Canada peuvent devenir par cette alliance un « p",
-      "image": "https://s.rfi.fr/media/display/12931924-b295-11f1-9a52-4daf57bffe27/w:1024/p:16x9/2026-09-17T111429Z-522437808-RC2ZKNANECW5-RTRMADP-3-EU-CANADA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/devant-le-parlement-europeen-le-premier-ministre-canadien-salue-une-alli-6c20814c0a.html"
-    },
-    {
-      "title": "Le vaccin canin le plus vendu en Russie est lié à une série de décès d'animaux dans tout le pays",
-      "url": "https://fr.euronews.com/2026/09/17/le-vaccin-canin-le-plus-vendu-en-russie-est-lie-a-une-serie-de-deces-danimaux-dans-tout-le",
-      "source": "Euronews",
-      "publishedAt": "2026-09-17T12:47:34.000Z",
-      "summary": "L'autorité vétérinaire d'État a confirmé que le lot 20 de Multican-8 contenait un virus vivant d'Aujeszky, mortel pour les chiens, après des centaines de décès signalés depuis août dans au moins 10 régions russes.",
-      "image": "https://images.euronews.com/articles/stories/09/91/73/05/696x392_cmsv2_b3d55de4-db65-53f4-ab91-35bc429b6adb-9917305.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-vaccin-canin-le-plus-vendu-en-russie-est-lie-a-une-serie-de-deces-d-a-76bbe3730e.html"
-    },
-    {
-      "title": "Nouvelles sanctions américaines contre la Russie : la Chine et l’Inde également ciblées",
-      "url": "https://fr.euronews.com/2026/09/17/nouvelles-sanctions-americaines-contre-la-russie-la-chine-et-linde-egalement-ciblees",
-      "source": "Euronews",
-      "publishedAt": "2026-09-17T12:45:16.000Z",
-      "summary": "Les parlementaires américains ont approuvé de nouvelles sanctions visant l’économie russe et l’entourage de Vladimir Poutine. Donald Trump doit désormais signer un texte qui prévoit également d'important droits de douane contre les principaux acheteurs de pétrole russe, notamment la Chine et l’Inde.",
-      "image": "https://images.euronews.com/articles/stories/09/91/67/66/696x392_cmsv2_e8c6846e-48f0-5512-9966-47937d0db90e-9916766.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelles-sanctions-americaines-contre-la-russie-la-chine-et-l-inde-egal-dc1345eaa8.html"
-    },
-    {
-      "title": "Mahmoud Abbas privé de visa pour se rendre à l'ONU",
-      "url": "https://fr.euronews.com/2026/09/17/mahmoud-abbas-prive-de-visa-pour-se-rendre-a-lonu",
-      "source": "Euronews",
-      "publishedAt": "2026-09-17T12:43:26.000Z",
-      "summary": "Washington refuse des visas à Mahmoud Abbas et à des dizaines de responsables palestiniens avant l'Assemblée générale de l'ONU, pour la deuxième année consécutive.",
-      "image": "https://images.euronews.com/articles/stories/09/91/69/67/696x392_cmsv2_2be94837-c94c-5ad1-9372-9d25505893a9-9916967.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mahmoud-abbas-prive-de-visa-pour-se-rendre-a-l-onu-1fc6c0cf79.html"
     }
   ]
 }
