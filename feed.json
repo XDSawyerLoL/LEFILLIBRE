@@ -1,14 +1,70 @@
 {
-  "updatedAt": "2026-09-17T01:22:19.330Z",
+  "updatedAt": "2026-09-17T06:18:34.029Z",
   "items": [
     {
-      "title": "J’ai testé la MG IM5 : MG s’attaque à Audi et BMW avec cette grande berline électrique, mais quelques couacs gâchent la fête",
-      "url": "https://www.frandroid.com/marques/mg/3248591_jai-teste-la-mg-im5-mg-sattaque-a-audi-et-bmw-avec-cette-grande-berline-electrique-mais-quelques-couacs-gachent-la-fete",
+      "title": "Apple lance la bêta d’iOS 27.2 : Siri AI parle français, mais pas sur les iPhone européens",
+      "url": "https://www.frandroid.com/marques/apple/3250709_apple-lance-la-beta-dios-27-2-siri-ai-parle-francais-mais-pas-sur-les-iphone-europeens",
       "source": "Frandroid",
-      "publishedAt": "2026-09-16T22:01:00.000Z",
-      "summary": "Exit la petite voiture abordable chez MG, bonjour la berline premium. Avec sa nouvelle IM5, le constructeur chinois s'attaque frontalement aux reines européennes ou américaines. Fiche technique délirante, habitacle truffé d'écrans et recharge ultra-rapide : MG veut prouver qu'il sait aussi faire du performant et du hau",
+      "publishedAt": "2026-09-17T05:38:54.000Z",
+      "summary": "Apple a mis en ligne ce mercredi 16 septembre la première bêta développeurs d'iOS 27.2, deux jours seulement après la sortie publique d'iOS 27. Au menu&nbsp;: une application Santé repensée, Siri AI en français et des profils dans l'application Apple TV.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-teste-la-mg-im5-mg-s-attaque-a-audi-et-bmw-avec-cette-grande-berlin-113f2a3f46.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apple-lance-la-beta-d-ios-27-2-siri-ai-parle-francais-mais-pas-sur-les-i-f0f8ca8c63.html"
+    },
+    {
+      "title": "GrapheneOS accuse Google de « restreindre l’accès aux correctifs de sécurité » et aux nouvelles fonctionnalités d’Android",
+      "url": "https://www.frandroid.com/android/rom-custom-2/custom-rom/3250717_grapheneos-accuse-google-de-restreindre-lacces-aux-correctifs-de-securite-et-aux-nouvelles-fonctionnalites-dandroid",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T05:31:57.000Z",
+      "summary": "La célèbre ROM alternative GrapheneOS rencontre encore des problèmes de développement avec la sortie de la dernière version d’Android. La faute à Google, qui se la jouerait perso sur les dernières fonctionnalités et patchs de sécurité.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/grapheneos-accuse-google-de-restreindre-l-acces-aux-correctifs-de-securi-803af49f9d.html"
+    },
+    {
+      "title": "Meta préparerait un changement radical pour ses prochaines lunettes connectées",
+      "url": "https://www.01net.com/actualites/meta-preparerait-changement-radical-prochaines-lunettes-connectees.html",
+      "source": "01net",
+      "publishedAt": "2026-09-17T05:30:17.000Z",
+      "summary": "Alors que les lunettes connectées font face à de vives critiques, Meta aurait décidé d’opérer un choix radical en supprimant la caméra de sa prochaine monture. En réalité, il devrait être question d’un modèle spécifique censé répondre aux craintes que suscitent les lunettes connectées en matière de respect de la vie pr",
+      "image": "https://www.01net.com/app/uploads/2026/09/Meta-Ray-Ban-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/meta-preparerait-un-changement-radical-pour-ses-prochaines-lunettes-conn-7765eaf33c.html"
+    },
+    {
+      "title": "Test du Xiaomi Redmi Note 17 5G : plus cher, moins bien, la douche froide",
+      "url": "https://www.frandroid.com/marques/xiaomi/3233989_test-du-xiaomi-redmi-note-17-5g-plus-cher-moins-bien-la-douche-froide",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T05:30:00.000Z",
+      "summary": "Le Xiaomi Redmi Note 17 5G rebat les cartes de la gamme la plus populaire de la marque, mais pas dans le bon sens. Il est plus cher et moins bien qu'avant.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/test-du-xiaomi-redmi-note-17-5g-plus-cher-moins-bien-la-douche-froide-8227684ab9.html"
+    },
+    {
+      "title": "Google maîtrise tout le matériel des Pixel, et pourtant ils ont été piratés",
+      "url": "https://www.frandroid.com/marques/google/3250713_google-maitrise-tout-le-materiel-des-pixel-11-et-pourtant-ils-ont-ete-pirates",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T05:20:23.000Z",
+      "summary": "Google a confirmé, dans son bulletin de sécurité de septembre 2026, qu'un nombre «&nbsp;limité&nbsp;» de Pixel ont été piratés via une faille de leur modem, lors d'attaques dites «&nbsp;ciblées&nbsp;». Le correctif est déjà disponible.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-maitrise-tout-le-materiel-des-pixel-et-pourtant-ils-ont-ete-pirat-559d32d061.html"
+    },
+    {
+      "title": "Google Home passe au MCP et laisse Claude et ChatGPT piloter votre maison, mais sous conditions",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3250707_google-home-passe-au-mcp-et-laisse-claude-et-chatgpt-piloter-votre-maison-mais-sous-conditions",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-17T05:15:38.000Z",
+      "summary": "Google a ouvert mardi 16 septembre un accès anticipé à un serveur MCP pour Google Home. Concrètement, n'importe quel agent IA compatible – Claude, ChatGPT et consorts – peut désormais piloter vos appareils connectés.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-home-passe-au-mcp-et-laisse-claude-et-chatgpt-piloter-votre-maiso-1dd251aa4a.html"
+    },
+    {
+      "title": "13 800 € pour une recharge : cette borne « hors service » donne des sueurs froides à un conducteur",
+      "url": "https://www.01net.com/actualites/13-800-euros-recharge-voiture-electrique-finalement-pas-economique.html",
+      "source": "01net",
+      "publishedAt": "2026-09-17T04:30:28.000Z",
+      "summary": "Le propriétaire canadien d’une Kia électrique s’est retrouvé avec une facture d’électricité de près de 13 800 € dans les mains. Un véritable calvaire qui prouverait que les voitures électriques ne sont pas aussi économiques que ça. Ou pas…",
+      "image": "https://www.01net.com/app/uploads/2026/09/hypercharge-ev-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/13-800-pour-une-recharge-cette-borne-hors-service-donne-des-sueurs-froid-503d1111ff.html"
     }
   ]
 }
