@@ -1,23 +1,95 @@
 {
-  "updatedAt": "2026-09-18T09:44:24.881Z",
+  "updatedAt": "2026-09-18T13:52:23.714Z",
   "items": [
     {
-      "title": "50 % des sièges auto sont mal fixés : l’idée surprenante de Thule avec Apple CarPlay et Android Auto",
-      "url": "https://www.frandroid.com/marques/thule/3252321_50-des-sieges-auto-sont-mal-fixes-lidee-surprenante-de-thule-avec-apple-carplay-et-android-auto",
+      "title": "Le Honor 700 Pro s’inspirerait de Xiaomi avec un écran au dos",
+      "url": "https://www.frandroid.com/produits-android/3252413_le-futur-honor-700-pro-se-devoile-avec-un-ecran-secondaire-au-dos-et-un-capteur-de-200-megapixels",
       "source": "Frandroid",
-      "publishedAt": "2026-09-18T09:42:48.000Z",
-      "summary": "Thule commercialise deux sièges auto connectés, le Maple et l'Elm Connect, qui affichent leurs instructions d'installation sur l'écran de la voiture via Apple CarPlay ou Android Auto. De quoi éviter la mauvaise installation, qui toucherait la moitié des sièges auto.",
+      "publishedAt": "2026-09-18T13:33:53.000Z",
+      "summary": "Le futur Honor 700 Pro embarquerait un petit écran secondaire au dos et un capteur photo de 200 mégapixels. Une idée que Xiaomi a remise à la mode l'an dernier.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/50-des-sieges-auto-sont-mal-fixes-l-idee-surprenante-de-thule-avec-apple-7c38376358.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-honor-700-pro-s-inspirerait-de-xiaomi-avec-un-ecran-au-dos-d2c59ba3ae.html"
     },
     {
-      "title": "Piratage de Brevo : comment une clé compromise a menacé plus de 100 000 sites",
-      "url": "https://www.frandroid.com/culture-tech/3252317_piratage-de-brevo-comment-une-cle-compromise-a-menace-plus-de-100-000-sites",
+      "title": "Après Doom, ce cerveau de mouche modélisé par Google gagne maintenant à Balatro",
+      "url": "https://www.frandroid.com/culture-tech/3252303_apres-doom-ce-cerveau-de-mouche-modelise-par-google-gagne-maintenant-a-balatro",
       "source": "Frandroid",
-      "publishedAt": "2026-09-18T09:37:14.000Z",
-      "summary": "Ce lundi 14 septembre 2026, des pirates ont détourné une clé Cloudflare de Brevo, l'ex-Sendinblue, pour glisser du code malveillant dans des ressources reprises par plus de 100 000 sites. C'est le deuxième incident de sécurité en cinq jours pour cette plateforme française d'emailing.",
+      "publishedAt": "2026-09-18T13:22:10.000Z",
+      "summary": "Jouer à Balatro à partir du cerveau d'une mouche cartographié par Google, c'est l'exploit réalisé par un internaute.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/piratage-de-brevo-comment-une-cle-compromise-a-menace-plus-de-100-000-si-b93d367d32.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-doom-ce-cerveau-de-mouche-modelise-par-google-gagne-maintenant-a-b-7dc367af7c.html"
+    },
+    {
+      "title": "Nigeria: les fausses Unes de journaux se multiplient avant l'élection",
+      "url": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox-la-chronique/20260918-nigeria-les-fausses-unes-de-journaux-se-multiplient-avant-l-%C3%A9lection",
+      "source": "RFI",
+      "publishedAt": "2026-09-18T12:24:37.000Z",
+      "summary": "Au Nigeria, la commission électorale a publié samedi 12 septembre la liste définitive des candidats à l’élection présidentielle du 16 janvier 2027. Le président sortant Bola Ahmed Tinubu fera notamment face à Atiku Abubakar, ancien vice-président, et Peter Obi arrivé troisième lors de la présidentielle de 2023. Alors q",
+      "image": "https://s.rfi.fr/media/display/c6a72b10-b31e-11f1-b2bd-8bce42b8e305/w:1024/p:16x9/Nigeria-fausses-Unes-infox-Une.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nigeria-les-fausses-unes-de-journaux-se-multiplient-avant-l-election-f56f0a75d0.html"
+    },
+    {
+      "title": "Législatives russes : « un rituel que le Kremlin considère comme nécessaire »",
+      "url": "https://fr.euronews.com/2026/09/18/legislatives-russes-un-rituel-que-le-kremlin-considere-comme-necessaire",
+      "source": "Euronews",
+      "publishedAt": "2026-09-18T12:16:09.000Z",
+      "summary": "Scrutin sur trois jours pour 450 sièges à la Douma et 11 gouverneurs régionaux, seuls les partis pro-Poutine et favorables à la guerre en Ukraine en lice. Le vote est dominé par la crainte d'une mobilisation.",
+      "image": "https://images.euronews.com/articles/stories/09/91/88/05/696x392_cmsv2_652b7102-b5e0-526a-a99a-53a3c63c0b62-9918805.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-russes-un-rituel-que-le-kremlin-considere-comme-necessaire-eba3377f2a.html"
+    },
+    {
+      "title": "Après leur défaite aux élections législatives, les Démocrates de Suède, pointent le «vote islamiste»",
+      "url": "https://www.rfi.fr/fr/europe/20260918-apr%C3%A8s-leur-d%C3%A9faite-aux-%C3%A9lections-l%C3%A9gislatives-les-d%C3%A9mocrates-de-su%C3%A8de-pointent-le-vote-islamiste",
+      "source": "RFI",
+      "publishedAt": "2026-09-18T11:58:19.000Z",
+      "summary": "Alors que la gauche remporte de justesse les législatives en Suède, les Démocrates de Suède (SD) enregistrent, eux, leur premier revers lors d’une élection législative depuis leur entrée au Parlement en 2010. Le parti de Jimmie Åkesson recueille 17,5 % des voix, contre 20,5 % en 2022, et perd sa deuxième place au profi",
+      "image": "https://s.rfi.fr/media/display/0090ae66-b34a-11f1-8380-994e92b1193e/w:1024/p:16x9/AP26256809033805.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-leur-defaite-aux-elections-legislatives-les-democrates-de-suede-po-1fa5677068.html"
+    },
+    {
+      "title": "Éliminatoires CAN 2027: la première liste de Patrick Vieira pour le Sénégal sans Sadio Mané",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20260918-%C3%A9liminatoires-la-premi%C3%A8re-liste-de-patrick-vieira-pour-le-s%C3%A9n%C3%A9gal-sans-sadio-man%C3%A9",
+      "source": "RFI",
+      "publishedAt": "2026-09-18T11:56:50.000Z",
+      "summary": "Vendredi 18 septembre, le nouveau sélectionneur du Sénégal Patrick Vieira a dévoilé sa liste de 29 joueurs retenus pour le début des éliminatoires de la CAN 2027. Les Lions de la Téranga affronteront le Mozambique et l'Éthiopie lors des deux premières journées.",
+      "image": "https://s.rfi.fr/media/display/f3692f48-b357-11f1-9e28-af2d0a26bd49/w:1024/p:16x9/AP26182798552433.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/eliminatoires-can-2027-la-premiere-liste-de-patrick-vieira-pour-le-seneg-775c14f1a9.html"
+    },
+    {
+      "title": "Détroit d'Ormuz: Séoul enverra la frégate «Chonghae», mais pas de troupes",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20260918-d%C3%A9troit-d-ormuz-s%C3%A9oul-enverra-la-fr%C3%A9gate-chonghae-mais-pas-de-troupes",
+      "source": "RFI",
+      "publishedAt": "2026-09-18T11:35:53.000Z",
+      "summary": "En Corée du Sud, le gouvernement dit non à une intervention militaire dans le détroit d'Ormuz malgré les appels répétés de son allié américain à le rejoindre. Depuis le début du conflit et malgré le fait qu'un tanker sud-coréen a été endommagé par un missile iranien, le gouvernement s'était refusé à intervenir. Mais un",
+      "image": "https://s.rfi.fr/media/display/c54048de-b336-11f1-8082-430f3874e448/w:1024/p:16x9/AP26261105549275.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/detroit-d-ormuz-seoul-enverra-la-fregate-chonghae-mais-pas-de-troupes-af76ea7462.html"
+    },
+    {
+      "title": "Le président sud-coréen exhorte Trump à dialoguer avec Pyongyang",
+      "url": "https://fr.euronews.com/2026/09/18/le-president-sud-coreen-exhorte-trump-a-dialoguer-avec-pyongyang",
+      "source": "Euronews",
+      "publishedAt": "2026-09-18T10:54:04.000Z",
+      "summary": "En août, Trump a annoncé qu'il comptait rencontrer cette année le dirigeant nord-coréen Kim Jong-un, vantant encore leur relation. Pyongyang a peu réagi.",
+      "image": "https://images.euronews.com/articles/stories/09/91/84/28/696x392_cmsv2_2291f488-cf1c-5096-99ab-5b2950e62b0f-9918428.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-president-sud-coreen-exhorte-trump-a-dialoguer-avec-pyongyang-075323e303.html"
+    },
+    {
+      "title": "Macron à Saint-Pierre-et-Miquelon : souveraineté, ambition maritime et un invité de marque",
+      "url": "https://fr.euronews.com/2026/09/18/macron-a-saint-pierre-et-miquelon-souverainete-ambition-maritime-et-un-invite-de-marque",
+      "source": "Euronews",
+      "publishedAt": "2026-09-18T10:08:32.000Z",
+      "summary": "Emmanuel Macron se rend à Saint-Pierre-et-Miquelon ce week-end, \"un archipel central pour la France d'aujourd'hui\", bordé par le Canada. Le Premier ministre Mark Carney l'y rejoindra pour une visite historique.",
+      "image": "https://images.euronews.com/articles/stories/09/91/80/80/696x392_cmsv2_c94bb0e6-4683-5218-aae9-1100b6b50fc3-9918080.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/macron-a-saint-pierre-et-miquelon-souverainete-ambition-maritime-et-un-i-faf570f317.html"
+    },
+    {
+      "title": "Ukraine : un centre commercial à Zaporizhzhia ravagé par une attaque de drones",
+      "url": "https://fr.euronews.com/video/2026/09/18/des-drones-russes-ravagent-un-centre-commercial-a-zaporijjia",
+      "source": "Euronews",
+      "publishedAt": "2026-09-18T09:55:33.000Z",
+      "summary": "Un centre commercial de Zaporijjia a été touché par une frappe russe, faisant un blessé et déclenchant un incendie qui s’est propagé sur plus de 10 000 mètres carrés, selon le Service d’État ukrainien des situations d’urgence.",
+      "image": "https://images.euronews.com/articles/stories/09/91/86/18/696x392_cmsv2_e688f01e-807e-5508-817f-ad0ed877a1d4-9918618.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-un-centre-commercial-a-zaporizhzhia-ravage-par-une-attaque-de-dr-ec6e7377f9.html"
     },
     {
       "title": "La Russie organise des élections législatives: la guerre en Ukraine bouscule le vote",
@@ -38,13 +110,13 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-la-niaque-comment-devenir-plus-que-soi-un-ouvrage-de-jacques-atta-2145044e54.html"
     },
     {
-      "title": "EN DIRECT - La Russie fait état de centaines de drones ukrainiens lancés sur Moscou avant les élections législatives",
+      "title": "EN DIRECT - Les attaques hybrides russes ne resteront «pas sans réponse», prévient Emmanuel Macron",
       "url": "https://www.rfi.fr/fr/europe/20260918-en-direct-la-russie-fait-%C3%A9tat-de-centaines-de-drones-ukrainiens-lanc%C3%A9s-sur-moscou-avant-les-%C3%A9lections-l%C3%A9gislatives",
       "source": "RFI",
       "publishedAt": "2026-09-18T09:32:52.000Z",
       "summary": "La défense anti-aérienne russe a détecté 350 drones ukrainiens volant vers Moscou dans la nuit de jeudi à vendredi, premier jour des élections législatives en Russie, selon un nouveau bilan du maire de la ville, Sergueï Sobianine.",
       "image": "https://s.rfi.fr/media/display/ebe89a4a-b340-11f1-acef-d16598924449/w:1024/p:16x9/2026-09-18T084718Z-1224791204-RC2HLNACK20H-RTRMADP-3-RUSSIA-ELECTION.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-la-russie-fait-etat-de-centaines-de-drones-ukrainiens-lances-s-623e2b341b.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-les-attaques-hybrides-russes-ne-resteront-pas-sans-reponse-pre-623e2b341b.html"
     },
     {
       "title": "France : la colère des pêcheurs retombe, les blocages levés",
@@ -90,80 +162,6 @@
       "summary": "En Russie, le vote pour renouveler les 450 sièges de la Douma, la chambre basse du Parlement russe, est prévu pour durer jusqu'à dimanche 20 septembre à 18 h 00 GMT. Les premiers résultats doivent tomber dans la foulée. Les précisions de Gauthier Rybinski, chroniqueur international à France 24.",
       "image": "https://s.france24.com/media/display/e9874562-b340-11f1-8026-d16598924449/w:1024/p:16x9/2026-09-18T082823Z-497129536-RC2JLNACJQBU-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-ELECTION.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-legislatives-en-russie-un-scrutin-observe-par-le-kremlin-ddeaae191e.html"
-    },
-    {
-      "title": "ICE au Texas : vivre dans la peur",
-      "url": "https://www.france24.com/fr/%C3%A9missions/reporters/20260918-ice-au-texas-vivre-dans-la-peur",
-      "source": "France 24",
-      "publishedAt": "2026-09-18T09:17:20.000Z",
-      "summary": "Depuis le retour de Donald Trump, plus de 400 000 personnes ont été placées en détention par ICE, la police fédérale de l'immigration et près de 60 000 migrants y sont enfermés. Mais que deviennent les personnes arrêtées ? Dans quelles conditions vivent-elles ? Et pourquoi des enfants sont-ils eux aussi détenus ? Enquê",
-      "image": "https://s.france24.com/media/display/ae2b1e1a-b2b1-11f1-9246-8bce42b8e305/w:1024/p:16x9/b9bee77c-e915-4587-826e-f11ca249f51c.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ice-au-texas-vivre-dans-la-peur-687906fd9f.html"
-    },
-    {
-      "title": "Après le transfert de leurs actifs à une société russe, Auchan et Nestlé cherchent la parade",
-      "url": "https://www.france24.com/fr/europe/20260918-russie-transfert-actifs-entreprises-fran%C3%A7aises-auchan-nestl%C3%A9-leroy-merlin-poutine",
-      "source": "France 24",
-      "publishedAt": "2026-09-18T09:05:29.000Z",
-      "summary": "Alors que Vladimir Poutine a ordonné le placement sous \"administration temporaire\" des actifs russes de Nestlé et de trois entreprises françaises, selon un décret publié jeudi, le géant de l'agroalimentaire suisse dit prendre acte et évaluer ses options, tandis que le distributeur français Auchan affirme avoir demandé ",
-      "image": "https://s.france24.com/media/display/652a0772-b33c-11f1-b4cf-9f16a64db909/w:1024/p:16x9/000-97249KE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-le-transfert-de-leurs-actifs-a-une-societe-russe-auchan-et-nestle--ce90b44745.html"
-    },
-    {
-      "title": "Feu vert de l'administration Trump à la vente de 48 F-35 à l'Arabie saoudite",
-      "url": "https://www.france24.com/fr/moyen-orient/20260918-administration-trump-donne-feu-vert-vente-48-avions-f-35-arabie-saoudite",
-      "source": "France 24",
-      "publishedAt": "2026-09-18T07:17:48.000Z",
-      "summary": "L'administration Trump a approuvé jeudi la vente de 48 avions de combat furtifs F-35 à l'Arabie saoudite, pour un montant de 24,3 milliards de dollars. Le projet doit encore être examiné par le Congrès, où des élus s'inquiètent notamment que la technologie de l'appareil ne fuite vers la Chine.",
-      "image": "https://s.france24.com/media/display/b5501408-b328-11f1-82fe-1d1125ed9143/w:1024/p:16x9/2026-09-09T121806Z-145721001-RC2OFNAVWHNC-RTRMADP-3-NORWAY-ROYALS-KING-HARALD-FUNERAL.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/feu-vert-de-l-administration-trump-a-la-vente-de-48-f-35-a-l-arabie-saou-a4ca3f5785.html"
-    },
-    {
-      "title": "Israël : des manifestants dénoncent un possible report des élections de 2026",
-      "url": "https://fr.euronews.com/video/2026/09/18/des-pancartes-missiles-et-des-masques-netanyahu-alors-que-des-israeliens-defendent-le-vote",
-      "source": "Euronews",
-      "publishedAt": "2026-09-18T07:15:59.000Z",
-      "summary": "À Jérusalem, des manifestants dénoncent un risque de « sabotage électoral » et veulent empêcher tout report des élections du 27 octobre 2026.",
-      "image": "https://images.euronews.com/articles/stories/09/91/80/68/696x392_cmsv2_fa8864a8-ba2b-532b-b336-fbb47c3407aa-9918068.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-des-manifestants-denoncent-un-possible-report-des-elections-de-20-4427833a94.html"
-    },
-    {
-      "title": "À San Francisco, des manifestants réclament une pause dans la course à l’IA",
-      "url": "https://fr.euronews.com/video/2026/09/18/des-manifestants-visent-openai-et-anthropic-a-san-francisco-pour-la-securite-de-lia",
-      "source": "Euronews",
-      "publishedAt": "2026-09-18T07:04:20.000Z",
-      "summary": "À San Francisco, des manifestants de Stop the AI Race réclament une pause dans les systèmes d’IA avancés et un traité mondial pour encadrer ces technologies.",
-      "image": "https://images.euronews.com/articles/stories/09/91/82/89/696x392_cmsv2_2b5f1060-bcd0-53eb-85e1-5e3baf8d4662-9918289.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-san-francisco-des-manifestants-reclament-une-pause-dans-la-course-a-l--5b3f865411.html"
-    },
-    {
-      "title": "Allemagne: après la débâcle de la CDU, l’avenir de Friedrich Merz en question",
-      "url": "https://www.rfi.fr/fr/europe/20260918-allemagne-apr%C3%A8s-la-d%C3%A9b%C3%A2cle-de-la-cdu-l-avenir-de-friedrich-merz-en-question",
-      "source": "RFI",
-      "publishedAt": "2026-09-18T06:42:21.000Z",
-      "summary": "En Allemagne, c'est la question qui agite le pays ces jours-ci : les jours du chancelier Friedrich Merz à la tête du pays sont-ils comptés ? Le dirigeant chrétien-démocrate a subi un échec cuisant il y a près de deux semaines en Saxe-Anhalt après la victoire historique de l'extrême droite. Deux autres élections régiona",
-      "image": "https://s.rfi.fr/media/display/6d43ea48-b32a-11f1-80a9-5570cf9529c5/w:1024/p:16x9/2026-09-17T160832Z-1474003519-RC24LNAV76VG-RTRMADP-3-GERMANY-ELECTION-BERLIN-MERZ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-apres-la-debacle-de-la-cdu-l-avenir-de-friedrich-merz-en-quest-81c48712d5.html"
-    },
-    {
-      "title": "Robert Malley: «Le bilan américain au Proche-Orient est désastreux»",
-      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260918-robert-malley-le-bilan-am%C3%A9ricain-au-proche-orient-est-d%C3%A9sastreux",
-      "source": "RFI",
-      "publishedAt": "2026-09-18T06:37:49.000Z",
-      "summary": "Robert Malley, ancien conseiller pour le Moyen-Orient des présidents américains Bill Clinton, Barack Obama et Joe Biden, et co-auteur de Demain c'est hier (Ed. Max Milo) est l'invité de RFI ce 18 septembre 2026. Il pointe la mort du processus de paix israélo-palestinien et se désole de l'échec du médiateur américain. R",
-      "image": "https://s.rfi.fr/media/display/ebf98934-b329-11f1-8d06-61f6f55d211c/w:1024/p:16x9/Studio-31-2026-09-18T04-41-32-635Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/robert-malley-le-bilan-americain-au-proche-orient-est-desastreux-11427a25e5.html"
-    },
-    {
-      "title": "Russie : coup d'envoi des législatives sur fond de guerre avec l'Ukraine",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260918-russie-les-l%C3%A9gislatives-s-ouvrent-en-pleine-guerre-en-ukraine",
-      "source": "France 24",
-      "publishedAt": "2026-09-18T06:02:34.000Z",
-      "summary": "Les bureaux de vote ont ouvert vendredi en Russie pour trois jours de législatives, les premières depuis le début de la guerre à grande échelle en Ukraine en 2022. En l'absence de véritable opposition, le parti de Vladimir Poutine devrait remporter ce scrutin, également organisé dans les territoires ukrainiens occupés ",
-      "image": "https://s.france24.com/media/display/d5909d0e-b2f7-11f1-9d96-7922de457103/w:1024/p:16x9/AP26260552487595.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/russie-coup-d-envoi-des-legislatives-sur-fond-de-guerre-avec-l-ukraine-a9107147d9.html"
     }
   ]
 }
