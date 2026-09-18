@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-18T17:23:24.687Z",
+  "updatedAt": "2026-09-18T19:48:56.224Z",
   "items": [
+    {
+      "title": "Yémen, guerre \"hybride\" de la Russie et dangers de l'IA",
+      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260918-y%C3%A9men-guerre-hybride-de-la-russie-et-dangers-de-l-ia",
+      "source": "France 24",
+      "publishedAt": "2026-09-18T19:10:36.000Z",
+      "summary": "Au sommaire cette semaine : la guerre au Moyen-Orient et le front yéménite qui continue de s'embraser, les attaques hybrides menées par la Russie contre les pays européens et le débat autour des dangers de l'IA, qui pourrait anéantir l'Humanité selon certains lanceurs d'alerte.",
+      "image": "https://s.france24.com/media/display/742725ec-b392-11f1-8689-07e67e0fe38e/w:1024/p:16x9/Francais-2026-09-18T17-18-48-751Z-1.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yemen-guerre-hybride-de-la-russie-et-dangers-de-l-ia-9198d70177.html"
+    },
     {
       "title": "J’ai testé le Leica SL3-P : 45 Mpx, 40 i/s… le Leica qui veut tout faire",
       "url": "https://www.frandroid.com/marques/leica/3235591_jai-teste-le-leica-sl3-p-45-mpx-40-i-s-le-leica-qui-veut-tout-faire",
@@ -11,13 +21,40 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-teste-le-leica-sl3-p-45-mpx-40-i-s-le-leica-qui-veut-tout-faire-fc957f0d10.html"
     },
     {
-      "title": "Pour ses 80 ans, EDF ouvre 70 sites secrets au public, dont ses centrales nucléaires",
-      "url": "https://www.frandroid.com/survoltes/energie/3252663_pour-ses-80-ans-edf-ouvre-70-sites-secrets-au-public-dont-ses-centrales-nucleaires",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-18T16:57:51.000Z",
-      "summary": "Vous faites quoi ce week-end ? Nous, on pourrait bien se rendre à Civaux ou à Flamanville pour visiter les installations nucléaires d'EDF. Pour ses 80 ans, l'électricien français met le paquet à l'occasion des journées du patrimoine 2026, et ouvre les portes de 70 sites de production.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pour-ses-80-ans-edf-ouvre-70-sites-secrets-au-public-dont-ses-centrales--bb02f70b27.html"
+      "title": "Sénégal : Patrick Vieira dévoile sa première liste à la tête des Lions de la Teranga",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260918-s%C3%A9n%C3%A9gal-patrick-vieira-d%C3%A9voile-sa-premi%C3%A8re-liste-%C3%A0-la-t%C3%AAte-des-lions-de-la-teranga",
+      "source": "France 24",
+      "publishedAt": "2026-09-18T19:25:33.000Z",
+      "summary": "🇸🇳 Patrick Vieira a dévoilé sa première liste avec le Sénégal pour les éliminatoires de la CAN 2027. Sadio Mané, absent pour un pépin physique, n’en fait pas partie. Le sélectionneur convoque 29 joueurs, avec les cadres et de nouveaux appelés dont Malang Sarr.",
+      "image": "https://s.france24.com/media/display/824d1734-b393-11f1-aaeb-ef66b27ea756/w:1024/p:16x9/Couv-SENEGAL-Liste-Vieira.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-patrick-vieira-devoile-sa-premiere-liste-a-la-tete-des-lions-de--eaac547f53.html"
+    },
+    {
+      "title": "Budget 2027: les étrangers ont-ils vraiment moins de délais de carence que les Français de retour d’expatriation?",
+      "url": "https://www.rfi.fr/fr/france/20260918-budget-2027-les-%C3%A9trangers-ont-ils-vraiment-moins-de-d%C3%A9lais-de-carence-que-les-fran%C3%A7ais-de-retour-d-expatriation",
+      "source": "RFI",
+      "publishedAt": "2026-09-18T19:23:36.000Z",
+      "summary": "Les Français expatriés ont-ils moins de droits qu'un étranger nouvellement arrivé, comme le dit le Premier ministre ? Sébastien Lecornu affirme qu’un étranger arrivant légalement en France peut ouvrir ses droits sans délai, contrairement à un Français de l’étranger qui doit respecter un délai de carence. Le Premier min",
+      "image": "https://s.rfi.fr/media/display/ab1eb47c-3877-11ef-b552-005056bfb2b6/w:1024/p:16x9/000_Par7989123.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/budget-2027-les-etrangers-ont-ils-vraiment-moins-de-delais-de-carence-qu-b70677c264.html"
+    },
+    {
+      "title": "L'UEFA et la Concacaf réclament à la Fifa \"10 millions de dollars\" pour chaque fédération",
+      "url": "https://www.france24.com/fr/sports/20260918-l-uefa-et-la-concacaf-r%C3%A9clament-%C3%A0-la-fifa-de-verser-10-millions-de-dollars-%C3%A0-chaque-f%C3%A9d%C3%A9ration",
+      "source": "France 24",
+      "publishedAt": "2026-09-18T18:03:51.000Z",
+      "summary": "Les présidents de l'UEFA et la Concacaf ont demandé, vendredi, au président de la Fifa, Gianni Infantino, de verser \"au moins 10 millions de dollars\" à chacune des 211 associations membres. Une somme qu'ils justifient par les réserves d'environ six milliards de dollars détenues par la fédération internationale.",
+      "image": "https://s.france24.com/media/display/b0165db4-b38a-11f1-aee7-6f779f079bc8/w:1024/p:16x9/000-C6C88F3.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-uefa-et-la-concacaf-reclament-a-la-fifa-10-millions-de-dollars-pour-ch-ceb5ae1eea.html"
+    },
+    {
+      "title": "Les effets du phénomène El Nino se font ressentir jusqu'aux Antilles",
+      "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20260918-les-effets-du-ph%C3%A9nom%C3%A8ne-el-nino-se-font-ressentir-jusqu-aux-antilles",
+      "source": "France 24",
+      "publishedAt": "2026-09-18T17:35:21.000Z",
+      "summary": "La Martinique subit une nouvelle vague de chaleur. Des températures records ont été enregistrées ces dernières semaines. La faute, notamment, au phénomène El Nino, particulièrement intense cette année.",
+      "image": "https://s.france24.com/media/display/3262b90a-b383-11f1-aab4-07e67e0fe38e/w:1024/p:16x9/capture-7405859596aad6f6cc8e817-35632581.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-effets-du-phenomene-el-nino-se-font-ressentir-jusqu-aux-antilles-8e4d74862d.html"
     },
     {
       "title": "REPLAY - Zidane dévoile sa première liste en tant que sélectionneur de l'équipe de France",
@@ -38,13 +75,13 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-crainte-d-une-nouvelle-mobilisation-pousse-des-jeunes-russes-a-fuir-83d3cb5c03.html"
     },
     {
-      "title": "Bo French, ou quand les outrances Maga risque de remettre les clés du pétrole texan aux démocrates",
+      "title": "Bo French, ou quand les outrances Maga risquent de remettre les clés du pétrole texan aux démocrates",
       "url": "https://www.france24.com/fr/am%C3%A9riques/20260918-bo-french-texas-commission-ferroviaire-racisme-maga-trump-risque-p%C3%A9trole-d%C3%A9mocrates",
       "source": "France 24",
       "publishedAt": "2026-09-18T16:51:07.000Z",
       "summary": "Les outrances racistes de Bo French, candidat républicain à la direction de la commission ferroviaire du Texas, ont fait de cette obscure élection un phénomène médiatique national de la campagne des midterms. Il en va à la fois de la crédibilité électorale du mouvement Maga et de qui va diriger l’une des commissions le",
       "image": "https://s.france24.com/media/display/130cbc84-b36c-11f1-aa0b-d16598924449/w:1024/p:16x9/bo-french.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bo-french-ou-quand-les-outrances-maga-risque-de-remettre-les-cles-du-pet-38d9a2083f.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bo-french-ou-quand-les-outrances-maga-risquent-de-remettre-les-cles-du-p-38d9a2083f.html"
     },
     {
       "title": "Tchad : la « Chad Jazz Education Academy » ouvre ses portes à Ndjamena",
@@ -126,43 +163,6 @@
       "summary": "Les forces russes ont attaqué jeudi 17 septembre, un centre commercial dans la ville de Zaporijia, d'après la déclaration du gouverneur régional ukrainien Ivan Fedorov. Aucune victime n'a été signalée lors de cette attaque, qui a eu lieu la veille du début des élections législatives en Russie.",
       "image": "https://s.france24.com/media/display/e167cf36-b373-11f1-8009-9ff5c3f464d4/w:1024/p:16x9/Thumb-FR-Zapo-2.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-centre-commercial-de-zaproijia-en-flammes-apres-une-frappe-russe-8b2ee3f00b.html"
-    },
-    {
-      "title": "Israël : le documentaire \"Naza\" au cœur d’une tempête politique",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260918-isra%C3%ABl-le-documentaire-naza-au-c%C5%93ur-d-une-temp%C3%AAte-politique",
-      "source": "France 24",
-      "publishedAt": "2026-09-18T15:26:44.000Z",
-      "summary": "Le documentaire \"Naza\" est au cœur de la polémique en Israël. Récompensé à la Mostra de Venise, le film donne la parole à des sources israéliennes anonymes accusant l'armée de tuer intentionnellement des civils à Gaza. En réponse, le Premier ministre israélien Benjamin Netanyahu a notamment annoncé, mercredi 16 septemb",
-      "image": "https://s.france24.com/media/display/2b322268-b36c-11f1-8cdd-2b7cd267a8ec/w:1024/p:16x9/Minia-Naza.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-le-documentaire-naza-au-c-ur-d-une-tempete-politique-1d8cc5e63f.html"
-    },
-    {
-      "title": "Chine: l'IA, danger mortel pour le Parti communiste?",
-      "url": "https://www.rfi.fr/fr/podcasts/l-asie-en-mouvement/20260918-chine-l-ia-danger-mortel-pour-le-parti-communiste",
-      "source": "RFI",
-      "publishedAt": "2026-09-18T15:19:04.000Z",
-      "summary": "Ce sera l'un des sujets majeurs de discussion entre Xi Jinping et Donald Trump à la Maison Blanche le 24 septembre : le contrôle de l'intelligence artificielle. En la matière, la Chine ne partage pas les mêmes peurs que l'Occident. Elle ne veut pas freiner le développement de l'IA. Mais Pékin a peur d'une chose : que l",
-      "image": "https://s.rfi.fr/media/display/e3c0b1b6-a046-11f1-bfaa-005056bf30b7/w:1024/p:16x9/000-1RT59D.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chine-l-ia-danger-mortel-pour-le-parti-communiste-489f96fe1e.html"
-    },
-    {
-      "title": "En Suède, la cheffe des sociaux-démocrates au défi de former un gouvernement",
-      "url": "https://www.france24.com/fr/europe/20260918-en-su%C3%A8de-la-cheffe-des-sociaux-d%C3%A9mocrates-au-d%C3%A9fi-de-former-un-gouvernement",
-      "source": "France 24",
-      "publishedAt": "2026-09-18T15:16:08.000Z",
-      "summary": "Le président du parlement suédois, Andreas Norlén, a chargé, vendredi, la cheffe des sociaux-démocrates, Magdalena Andersson, de former un nouveau gouvernement, au lendemain de la courte victoire de son camp aux élections législatives. Des tractations s'ouvrent au sein d'un bloc de gauche très morcelé, entre centristes",
-      "image": "https://s.france24.com/media/display/40e68e1e-b36c-11f1-b0a0-af2d0a26bd49/w:1024/p:16x9/2026-09-18T081854Z-1103190166-RC2JLNAQH6AJ-RTRMADP-3-SWEDEN-POLITICS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-suede-la-cheffe-des-sociaux-democrates-au-defi-de-former-un-gouvernem-5f26600594.html"
-    },
-    {
-      "title": "Benjamin Netanyahu, la stratégie de la guerre",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A9tats/20260918-benjamin-netanyahu-la-strat%C3%A9gie-de-la-guerre",
-      "source": "France 24",
-      "publishedAt": "2026-09-18T15:16:03.000Z",
-      "summary": "Israël entre en campagne électorale dans un contexte de guerres multiples et avec un Premier ministre sortant et candidat qui insiste d'abord sur la sécurité mais n'entend pas rendre de comptes. Pour évoquer ce sujet, notre invité : David Khalfa, codirecteur de l'Observatoire du Moyen-Orient à la Fondation Jean-Jaurès ",
-      "image": "https://s.france24.com/media/display/11e7187c-b371-11f1-87ce-ed3d9e22a40f/w:1024/p:16x9/EDITION-MONDE-TOUS-ETATS-MEA-16-9-190926.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/benjamin-netanyahu-la-strategie-de-la-guerre-3aa90a2507.html"
     }
   ]
 }
