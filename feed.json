@@ -1,24 +1,41 @@
 {
-  "updatedAt": "2026-09-19T09:05:16.680Z",
+  "updatedAt": "2026-09-19T13:07:39.478Z",
   "items": [
     {
-      "title": "0,82 € les 100 km : l’incroyable exploit de cette Lancia électrique sur le périphérique parisien",
-      "url": "https://www.01net.com/actualites/082-euros-100-km-incroyable-exploit-lancia-electrique-peripherique-parisien.html",
-      "source": "01net",
-      "publishedAt": "2026-09-19T09:00:34.000Z",
-      "summary": "En ces temps de carburants chers, Lancia vient d’établir un record d’efficience. Une Ypsilon a en effet bouclé 22 tours du périphérique parisien avec une consommation moyenne de seulement 6,2 kWh/100 km. De quoi rouler quasiment gratuitement…",
-      "image": "https://www.01net.com/app/uploads/2026/09/lancia-ypsilon-1344x896.jpg",
+      "title": "On a testé la Navee GT5 Max, une trottinette électrique qui secoue Segway et Xiaomi",
+      "url": "https://www.frandroid.com/survoltes/trottinette-electrique/3249113_essai-navee-gt5-max-une-trottinette-electrique-qui-peut-secouer-segway-et-xiaomi",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-19T12:02:00.000Z",
+      "summary": "Plus puissante et promettant plus d’autonomie, la trottinette électrique Navee GT5 Max monte en gamme par rapport à la GT3... sans toucher au prix, mais sans régler quelques défauts – freinage, vibrations – qui la privent de la perfection. Voici notre test complet.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/0-82-les-100-km-l-incroyable-exploit-de-cette-lancia-electrique-sur-le-p-20c6e132ed.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/on-a-teste-la-navee-gt5-max-une-trottinette-electrique-qui-secoue-segway-bb1cae77aa.html"
     },
     {
-      "title": "ChatGPT s’installe gratuitement dans Microsoft Word pour tout le monde",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3253521_chatgpt-sinstalle-gratuitement-dans-microsoft-word-pour-tout-le-monde",
+      "title": "La dernière tablette de Honor, compatible avec l’IMAX, perd 50 euros et s’accompagne d’un casque sans fil",
+      "url": "https://www.frandroid.com/bons-plans/3251353_la-derniere-tablette-de-honor-compatible-avec-limax-perd-50-euros-et-saccompagne-dun-casque-sans-fil",
       "source": "Frandroid",
-      "publishedAt": "2026-09-19T09:00:00.000Z",
-      "summary": "Ce jeudi 17 septembre, OpenAI a lancé l'intégration officielle de ChatGPT dans Microsoft Word, gratuite sur tous les forfaits. L'assistant vient s'installer dans le traitement de texte de Microsoft, partenaire et investisseur d'OpenAI, qui y pousse déjà son propre Copilot.",
+      "publishedAt": "2026-09-19T09:27:00.000Z",
+      "summary": "La Honor Pad X9 Max est une tablette qui embarque une batterie de 10 100 mAh pour une quinzaine d'heures d'autonomie annoncée et, en ce moment, elle est disponible pour moins de 450 euros.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chatgpt-s-installe-gratuitement-dans-microsoft-word-pour-tout-le-monde-80ec08bb55.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-derniere-tablette-de-honor-compatible-avec-l-imax-perd-50-euros-et-s--648cb677c1.html"
+    },
+    {
+      "title": "Allemagne: Elif Eralp, la tête de lice de Die Linke veut conquérir la mairie de Berlin",
+      "url": "https://www.rfi.fr/fr/europe/20260919-allemagne-elif-eralp-la-t%C3%AAte-de-lice-de-die-linke-veut-conqu%C3%A9rir-la-mairie-de-berlin",
+      "source": "RFI",
+      "publishedAt": "2026-09-19T11:26:43.000Z",
+      "summary": "Deux élections régionales ont lieu dimanche 20 septembre en Allemagne, dans le Mecklembourg, mais aussi dans la capitale, Berlin, où le parti de gauche fait la course en tête dans les sondages. La tête de lice de Die Linke, Elif Eralp, d'origine étrangère, écrirait une double-page d'histoire si elle devait conquérir la",
+      "image": "https://s.rfi.fr/media/display/15b90e6e-b417-11f1-8c93-5b4fdf021577/w:1024/p:16x9/000-C8PP32W.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-elif-eralp-la-tete-de-lice-de-die-linke-veut-conquerir-la-mair-8a9d46e655.html"
+    },
+    {
+      "title": "États-Unis: Donald Trump promulgue une loi imposant de nouvelles sanctions contre la Russie",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260919-%C3%A9tats-unis-donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanctions-contre-la-russie",
+      "source": "RFI",
+      "publishedAt": "2026-09-19T09:47:02.000Z",
+      "summary": "Donald Trump a promulgué, vendredi 18 septembre 2026, une loi imposant de nouvelles sanctions à la Russie à cause de la guerre en Ukraine, et visant en particulier le secteur de l'énergie russe. Ce texte constitue la première action majeure du Congrès contre Moscou depuis le retour au pouvoir du président américain.",
+      "image": "https://s.rfi.fr/media/display/815da8ac-b40b-11f1-83e6-ed3d9e22a40f/w:1024/p:16x9/AP26261726847272.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanction-c521fd345b.html"
     },
     {
       "title": "Russie: Moscou prend le contrôle des filiales de Nestlé, Auchan et de l'ex-Leroy Merlin",
@@ -48,58 +65,23 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dans-l-est-de-l-europe-les-monuments-de-l-armee-rouge-au-c-ur-d-une-guer-2c16f106c6.html"
     },
     {
-      "title": "Les États-Unis et le Danemark concluent un accord sur la sécurité du Groenland",
-      "url": "https://fr.euronews.com/2026/09/19/les-etats-unis-et-le-danemark-concluent-un-accord-sur-la-securite-du-groenland",
-      "source": "Euronews",
-      "publishedAt": "2026-09-19T06:21:10.000Z",
-      "summary": "Le Premier ministre du Groenland, Jens-Frederik Nielsen, a salué l'accord, jugeant qu'il était \"dans l'intérêt de tous\" et qu'il allait \"garantir et renforcer\" la sécurité de l'île.",
-      "image": "https://images.euronews.com/articles/stories/09/91/96/27/696x392_cmsv2_b0a1d7e2-2437-5087-8a65-c0fcad8d21af-9919627.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-etats-unis-et-le-danemark-concluent-un-accord-sur-la-securite-du-gro-2fbd39bba5.html"
+      "title": "0,82 € les 100 km : l’incroyable exploit de cette Lancia électrique sur le périphérique parisien",
+      "url": "https://www.01net.com/actualites/082-euros-100-km-incroyable-exploit-lancia-electrique-peripherique-parisien.html",
+      "source": "01net",
+      "publishedAt": "2026-09-19T09:00:34.000Z",
+      "summary": "En ces temps de carburants chers, Lancia vient d’établir un record d’efficience. Une Ypsilon a en effet bouclé 22 tours du périphérique parisien avec une consommation moyenne de seulement 6,2 kWh/100 km. De quoi rouler quasiment gratuitement…",
+      "image": "https://www.01net.com/app/uploads/2026/09/lancia-ypsilon-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/0-82-les-100-km-l-incroyable-exploit-de-cette-lancia-electrique-sur-le-p-20c6e132ed.html"
     },
     {
-      "title": "Ukraine: Volodymyr Zelensky inaugure le premier sommet des pays des Carpates",
-      "url": "https://www.rfi.fr/fr/europe/20260919-ukraine-volodymyr-zelensky-inaugure-le-premier-sommet-des-pays-des-carpates",
-      "source": "RFI",
-      "publishedAt": "2026-09-19T05:30:10.000Z",
-      "summary": "L’Ukraine a posé, vendredi 18 septembre 2026, sous l’impulsion du président Volodymyr Zelensky, les bases d’une nouvelle initiative diplomatique réunissant les pays des Carpates : le C8. Des délégations roumaine, serbe, polonaise, slovaque, tchèque, autrichienne et hongroise ont fait le déplacement dans une station de ",
-      "image": "https://s.rfi.fr/media/display/167551dc-b3e0-11f1-a29b-9ff5c3f464d4/w:1024/p:16x9/000-C8NY264.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-volodymyr-zelensky-inaugure-le-premier-sommet-des-pays-des-carpa-8e2a1a70d9.html"
-    },
-    {
-      "title": "En direct : une frappe russe dans l'est de l'Ukraine fait au moins deux morts",
-      "url": "https://www.france24.com/fr/europe/20260919-en-direct-une-frappe-russe-dans-l-est-de-l-ukraine-fait-au-moins-deux-morts",
-      "source": "France 24",
-      "publishedAt": "2026-09-19T05:23:17.000Z",
-      "summary": "Une frappe aérienne russe sur un immeuble résidentiel a tué au moins deux personnes, vendredi soir, dans la ville de Soumy, dans l'est de l'Ukraine, a déclaré le président ukrainien Volodymyr Zelensky. La capitale de la région est régulièrement visée par des drones et des missiles russes depuis l'invasion de l'Ukraine ",
-      "image": "https://s.france24.com/media/display/663590c0-b3e9-11f1-b4b5-9ff5c3f464d4/w:1024/p:16x9/2026-09-19T050821Z-493016060-RC25MNAON5D8-RTRMADP-3-UKRAINE-CRISIS-ATTACK-SUMY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-une-frappe-russe-dans-l-est-de-l-ukraine-fait-au-moins-deux-mo-159b2aa44b.html"
-    },
-    {
-      "title": "Russie: des élections législatives dont le résultat ne fait guère de doute",
-      "url": "https://www.rfi.fr/fr/europe/20260919-russie-des-%C3%A9lections-l%C3%A9gislatives-dont-le-r%C3%A9sultat-ne-fait-gu%C3%A8re-de-doute",
-      "source": "RFI",
-      "publishedAt": "2026-09-19T05:08:24.000Z",
-      "summary": "Depuis hier, vendredi 18, et jusqu’au dimanche 19 septembre au soir, les Russes renouvellent la composition de la Douma d’État. Des élections qui ne laissent que peu de place à l'incertitude.",
-      "image": "https://s.rfi.fr/media/display/9bc28800-b3e5-11f1-a0cf-9ff5c3f464d4/w:1024/p:16x9/000-C8PH8G4.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/russie-des-elections-legislatives-dont-le-resultat-ne-fait-guere-de-dout-eac7e1c282.html"
-    },
-    {
-      "title": "«C’est une catastrophe», la santé publique au cœur des préoccupations pour les législatives au Maroc",
-      "url": "https://www.rfi.fr/fr/afrique/20260919-c-est-une-catastrophe-la-sant%C3%A9-publique-au-c%C5%93ur-des-pr%C3%A9occupations-pour-les-l%C3%A9gislatives-au-maroc",
-      "source": "RFI",
-      "publishedAt": "2026-09-19T04:14:23.000Z",
-      "summary": "Au Maroc, la santé publique s’est imposée comme l’un des sujets majeurs de la campagne pour les élections législatives du 23 septembre. Il y a tout juste un an, la mort de huit femmes après des césariennes à l’hôpital régional d’Agadir avait mis en lumière les défaillances du système de santé et contribué au déclenchem",
-      "image": "https://s.rfi.fr/media/display/2a223e68-d2dc-11ed-a73b-005056a90284/w:1024/p:16x9/AP21029562985706.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/c-est-une-catastrophe-la-sante-publique-au-c-ur-des-preoccupations-pour--f1937ccf20.html"
-    },
-    {
-      "title": "Au Cameroun, les partis politiques en ordre de bataille pour d'hypothétiques élections début 2027",
-      "url": "https://www.rfi.fr/fr/afrique/20260919-au-cameroun-les-partis-politiques-en-ordre-de-bataille-pour-d-hypoth%C3%A9tiques-%C3%A9lections-d%C3%A9but-2027",
-      "source": "RFI",
-      "publishedAt": "2026-09-19T04:08:13.000Z",
-      "summary": "Réunions « stratégiques » au sommet, définition des mécanismes internes de choix des militants candidats aux investitures, formation des cadres, début de tractations en vue de sceller des alliances... Depuis des mois, la scène politique camerounaise se trouve en situation de « veillée d'armes pré-électorale ». Et ce, a",
-      "image": "https://s.rfi.fr/media/display/9d246266-b1d5-11f1-b26a-3ff9dda05487/w:1024/p:16x9/000-67X322F.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-cameroun-les-partis-politiques-en-ordre-de-bataille-pour-d-hypothetiq-eb83e259bc.html"
+      "title": "ChatGPT s’installe gratuitement dans Microsoft Word pour tout le monde",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3253521_chatgpt-sinstalle-gratuitement-dans-microsoft-word-pour-tout-le-monde",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-19T09:00:00.000Z",
+      "summary": "Ce jeudi 17 septembre, OpenAI a lancé l'intégration officielle de ChatGPT dans Microsoft Word, gratuite sur tous les forfaits. L'assistant vient s'installer dans le traitement de texte de Microsoft, partenaire et investisseur d'OpenAI, qui y pousse déjà son propre Copilot.",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chatgpt-s-installe-gratuitement-dans-microsoft-word-pour-tout-le-monde-80ec08bb55.html"
     },
     {
       "title": "Le prix de la version la plus complète du Dyson V16 qui aspire et lave en un geste s’effondre de 280 €",
@@ -136,35 +118,6 @@
       "summary": "Clicks a confirmé le 18 septembre 2026 les caractéristiques finales de son Communicator, un smartphone Android à clavier physique dans l'esprit BlackBerry. La marque gonfle la RAM et la batterie, sans toucher au prix.",
       "category": "IA & Tech",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/12-go-de-ram-et-4-350-mah-clicks-muscle-son-blackberry-sans-hausser-le-p-c11322fe4f.html"
-    },
-    {
-      "title": "BYD veut concurrencer Rolls-Royce avec des monstres de 1 200 ch signés Yangwang",
-      "url": "https://www.01net.com/actualites/byd-concurrencer-rolls-royce-monstres-1-200-ch-yangwang.html",
-      "source": "01net",
-      "publishedAt": "2026-09-19T07:00:16.000Z",
-      "summary": "BYD passe la vitesse supérieure en comptant titiller les hautes sphères de l’automobile. Sa marque de luxe Yangwang prépare en effet deux nouveaux modèles qui concurrenceront frontalement les Rolls-Royce Phantom et Cullinan.",
-      "image": "https://www.01net.com/app/uploads/2026/09/yangwang-u8-2-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/byd-veut-concurrencer-rolls-royce-avec-des-monstres-de-1-200-ch-signes-y-0aabc5f5f8.html"
-    },
-    {
-      "title": "Comment bien choisir sa souris ? [Sponso]",
-      "url": "https://www.frandroid.com/produits-android/ordinateurs/peripheriques-pc/souris/3234113_comment-bien-choisir-sa-souris",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-19T06:29:00.000Z",
-      "summary": "Bien choisir une souris, c’est trouver le périphérique qui combine la connectique, le capteur et l’ergonomie adaptés à vos besoins spécifiques. Une tâche bien différente selon que l’on cherche un modèle pour la bureautique, le jeu ou pour soulager des douleurs liées au travail.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-bien-choisir-sa-souris-sponso-6da2bfd84f.html"
-    },
-    {
-      "title": "Cyberattaques : un géant du DDoS a été neutralisé après des « centaines de milliers d’attaques »",
-      "url": "https://www.01net.com/actualites/cyberattaques-un-geant-du-ddos-a-ete-neutralise-apres-des-centaines-de-milliers-dattaques.html",
-      "source": "01net",
-      "publishedAt": "2026-09-19T06:01:17.000Z",
-      "summary": "DLes États-Unis viennent de démanteler NightmareStresser, l'un des plus anciens services de « DDoS-à-la-demande » au monde. L'offensive s'inscrit dans le cadre de la coalition internationale Operation PowerOFF, qui traque ces plateformes criminelles depuis 2018. Utilisé par plus de 500 000 pirates, le service a servi à",
-      "image": "https://www.01net.com/app/uploads/2025/12/hacker-pirate-ddos-cyberattaque-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cyberattaques-un-geant-du-ddos-a-ete-neutralise-apres-des-centaines-de-m-8b20e28226.html"
     }
   ]
 }
