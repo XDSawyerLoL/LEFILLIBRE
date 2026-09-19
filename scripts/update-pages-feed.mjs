@@ -38,6 +38,10 @@ function attrUrl(block) {
   for (const m of candidates) {
     try { const u = new URL(m[1]); if (u.protocol === 'https:') return u.href; } catch {}
   }
+  const htmlImage = block.match(/<img\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/i)?.[1];
+  if (htmlImage) {
+    try { const u = new URL(htmlImage.replace(/&amp;/g,'&')); if (u.protocol === 'https:') return u.href; } catch {}
+  }
 }
 
 function publisherUrl(url, domain) {
