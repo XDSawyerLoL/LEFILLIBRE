@@ -1,23 +1,86 @@
 {
-  "updatedAt": "2026-09-19T13:07:39.478Z",
+  "updatedAt": "2026-09-19T16:27:25.398Z",
   "items": [
     {
-      "title": "On a testé la Navee GT5 Max, une trottinette électrique qui secoue Segway et Xiaomi",
-      "url": "https://www.frandroid.com/survoltes/trottinette-electrique/3249113_essai-navee-gt5-max-une-trottinette-electrique-qui-peut-secouer-segway-et-xiaomi",
+      "title": "J’ai démonté le nouveau Lenovo ThinkPad en moins de 10 minutes : la réparabilité est-elle enfin de retour sur PC ?",
+      "url": "https://www.frandroid.com/marques/lenovo/3237317_jai-demonte-le-nouveau-lenovo-thinkpad-en-moins-de-10-minutes-la-reparabilite-est-elle-enfin-de-retour-sur-pc",
       "source": "Frandroid",
-      "publishedAt": "2026-09-19T12:02:00.000Z",
-      "summary": "Plus puissante et promettant plus d’autonomie, la trottinette électrique Navee GT5 Max monte en gamme par rapport à la GT3... sans toucher au prix, mais sans régler quelques défauts – freinage, vibrations – qui la privent de la perfection. Voici notre test complet.",
+      "publishedAt": "2026-09-19T16:01:00.000Z",
+      "summary": "Lenovo rafraîchit sa gamme ThinkPad cette année avec le concept de châssis « Space Frame », une armature qui facilite l’accès aux composants pour en simplifier le dépannage et le remplacement.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/on-a-teste-la-navee-gt5-max-une-trottinette-electrique-qui-secoue-segway-bb1cae77aa.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-demonte-le-nouveau-lenovo-thinkpad-en-moins-de-10-minutes-la-repara-7d5c67f812.html"
     },
     {
-      "title": "La dernière tablette de Honor, compatible avec l’IMAX, perd 50 euros et s’accompagne d’un casque sans fil",
-      "url": "https://www.frandroid.com/bons-plans/3251353_la-derniere-tablette-de-honor-compatible-avec-limax-perd-50-euros-et-saccompagne-dun-casque-sans-fil",
+      "title": "Ce pack Marshall à moins de 850 € réunit une barre de son 5.1 et un caisson de basses, de quoi profiter d’un home cinema immersif",
+      "url": "https://www.frandroid.com/bons-plans/3250173_ce-pack-marshall-a-moins-de-850-e-reunit-une-barre-de-son-5-1-et-un-caisson-de-basses-de-quoi-profiter-dun-home-cinema-immersif",
       "source": "Frandroid",
-      "publishedAt": "2026-09-19T09:27:00.000Z",
-      "summary": "La Honor Pad X9 Max est une tablette qui embarque une batterie de 10 100 mAh pour une quinzaine d'heures d'autonomie annoncée et, en ce moment, elle est disponible pour moins de 450 euros.",
+      "publishedAt": "2026-09-19T15:32:00.000Z",
+      "summary": "Compacte, puissante et compatible Dolby Atmos/DTS:X, la barre de son Marshall Heston 60 cumule les atouts. On la recommande encore davantage quand elle se trouve dans un pack affiché à 849 euros au lieu de 949 euros chez Son-Vidéo, aux côtés de son caisson de basses Marshall Heston Sub 200.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-derniere-tablette-de-honor-compatible-avec-l-imax-perd-50-euros-et-s--648cb677c1.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-pack-marshall-a-moins-de-850-reunit-une-barre-de-son-5-1-et-un-caisso-b8b92df1e1.html"
+    },
+    {
+      "title": "Explosions et incendie près de l’aéroport international de Ryad",
+      "url": "https://fr.euronews.com/2026/09/19/explosions-et-incendie-pres-de-laeroport-international-de-ryad",
+      "source": "Euronews",
+      "publishedAt": "2026-09-19T15:37:13.000Z",
+      "summary": "Dans la nuit, la protection civile saoudienne a envoyé une alerte aux habitants de plusieurs régions, signalant un danger potentiel et les invitant à rester chez eux, loin des fenêtres.",
+      "image": "https://images.euronews.com/articles/stories/09/91/99/29/696x392_cmsv2_7ead4543-9f5b-5f6f-8905-879bbc5a2385-9919929.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/explosions-et-incendie-pres-de-l-aeroport-international-de-ryad-c14e713f86.html"
+    },
+    {
+      "title": "Israël multiplie les arrestations pour soupçons d’espionnage lié à l’Iran et au Hamas",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20260919-isra%C3%ABl-multiplie-les-arrestations-pour-soup%C3%A7ons-d-espionnage-li%C3%A9-%C3%A0-l-iran-et-au-hamas",
+      "source": "RFI",
+      "publishedAt": "2026-09-19T15:27:23.000Z",
+      "summary": "En Israël, les services de sécurité multiplient les arrestations pour espionnage et intelligence avec l’ennemi. Vendredi 18 septembre, la justice a engagé des poursuites contre plusieurs individus soupçonnés de liens avec le Hamas, le Liban ou les renseignements iraniens. Un phénomène qui s’amplifie sur fond de guerre ",
+      "image": "https://s.rfi.fr/media/display/38db6006-b433-11f1-a8e3-5b4fdf021577/w:1024/p:16x9/AP26237364944841.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-multiplie-les-arrestations-pour-soupcons-d-espionnage-lie-a-l-ira-314de5e119.html"
+    },
+    {
+      "title": "Saint-Pierre-et-Miquelon : Macron et Carney veulent afficher \"la souveraineté des nations\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-saint-pierre-et-miquelon-macron-et-carney-veulent-afficher-la-souverainet%C3%A9-des-nations",
+      "source": "France 24",
+      "publishedAt": "2026-09-19T15:00:14.000Z",
+      "summary": "Un petit archipel français isolé mais stratégique aux confins de l'Atlantique Nord : Emmanuel Macron se rend de ce samedi 19 septembre à lundi 21 septembre à Saint-Pierre-et-Miquelon, où il va afficher, au côté du Premier ministre Mark Carney, l'unité du Canada, de la France et des Européens et la \"souveraineté des nat",
+      "image": "https://s.france24.com/media/display/ba2f77a0-b438-11f1-8833-9ff5c3f464d4/w:1024/p:16x9/FR-20260919-160334-160447-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/saint-pierre-et-miquelon-macron-et-carney-veulent-afficher-la-souveraine-c44963af30.html"
+    },
+    {
+      "title": "Journées du patrimoine 2026 : mise en place d'un nouveau \"Pass Patrimoine\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-journ%C3%A9es-du-patrimoine-2026-mise-en-place-d-un-nouveau-pass-patrimoine",
+      "source": "France 24",
+      "publishedAt": "2026-09-19T14:56:26.000Z",
+      "summary": "À l'occasion des Journées européennes du patrimoine, les portes de monuments souvent fermés au public sont exceptionnellement ouvertes, et les visiteurs peuvent bénéficier d'une entrée gratuite. C'est le cas du musée Marmottan à Paris, où \"certains visiteurs ont découvert sur place qu'ils n'auraient pas à payer\", rappo",
+      "image": "https://s.france24.com/media/display/6bfb548c-b438-11f1-9c7c-5b4fdf021577/w:1024/p:16x9/FR-20260919-133804-134053-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/journees-du-patrimoine-2026-mise-en-place-d-un-nouveau-pass-patrimoine-7b89861fda.html"
+    },
+    {
+      "title": "Macron à Saint-Pierre-et-Miquelon : \"Une manière de rappeler la souveraineté française\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-macron-%C3%A0-saint-pierre-et-miquelon-une-mani%C3%A8re-de-rappeler-la-souverainet%C3%A9-fran%C3%A7aise",
+      "source": "France 24",
+      "publishedAt": "2026-09-19T13:58:44.000Z",
+      "summary": "Ce dimanche, Emmanuel Macron et le Premier ministre canadien Mark Carney doivent afficher la \"souveraineté des nations\" à Saint-Pierre-et-Miquelon face à Donald Trump - qui publiait récemment encore une carte où la totalité de l'Amérique du Nord était affichée comme étasunienne... Pour le président français, \"y passer ",
+      "image": "https://s.france24.com/media/display/e8bf3186-b42f-11f1-b2fa-ed3d9e22a40f/w:1024/p:16x9/FR-20260919-140555-141415-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/macron-a-saint-pierre-et-miquelon-une-maniere-de-rappeler-la-souverainet-33c1e0e748.html"
+    },
+    {
+      "title": "Russie : \"Son armée piétine en Ukraine, alors elle accuse l'OTAN\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-russie-son-arm%C3%A9e-pi%C3%A9tine-en-ukraine-alors-elle-accuse-l-otan",
+      "source": "France 24",
+      "publishedAt": "2026-09-19T13:55:31.000Z",
+      "summary": "La \"nature de l’agressivité russe et des menaces en Europe changent\", a prévenu le président de la République Emmanuel Macron ce 18 septembre. Nous en parlons avec notre invité Jacques Faure, ancien ambassadeur de France en Ukraine (2008-2011).",
+      "image": "https://s.france24.com/media/display/324eaca2-b42e-11f1-9356-9f514b90f153/w:1024/p:16x9/FR-20260919-130527-132056-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/russie-son-armee-pietine-en-ukraine-alors-elle-accuse-l-otan-e088700f71.html"
+    },
+    {
+      "title": "La dette publique de la France frôlera les 122 % du PIB en 2027, un record",
+      "url": "https://www.france24.com/fr/france/20260919-dette-publique-2026-france-budget-pib-endettement-record",
+      "source": "France 24",
+      "publishedAt": "2026-09-19T13:35:56.000Z",
+      "summary": "Le ministère de l'Économie et des Finances a annoncé, samedi, que le niveau d'endettement de la France continuerait de se creuser pour atteindre les 119,3% du produit intérieur brut en 2026 et 121,7% en 2027.",
+      "image": "https://s.france24.com/media/display/ec311f14-748d-11f1-a44a-005056a90284/w:1024/p:16x9/000-B8T27F3.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-dette-publique-de-la-france-frolera-les-122-du-pib-en-2027-un-record-951cb33ab7.html"
     },
     {
       "title": "Allemagne: Elif Eralp, la tête de lice de Die Linke veut conquérir la mairie de Berlin",
@@ -29,95 +92,59 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-elif-eralp-la-tete-de-lice-de-die-linke-veut-conquerir-la-mair-8a9d46e655.html"
     },
     {
-      "title": "États-Unis: Donald Trump promulgue une loi imposant de nouvelles sanctions contre la Russie",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260919-%C3%A9tats-unis-donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanctions-contre-la-russie",
-      "source": "RFI",
-      "publishedAt": "2026-09-19T09:47:02.000Z",
-      "summary": "Donald Trump a promulgué, vendredi 18 septembre 2026, une loi imposant de nouvelles sanctions à la Russie à cause de la guerre en Ukraine, et visant en particulier le secteur de l'énergie russe. Ce texte constitue la première action majeure du Congrès contre Moscou depuis le retour au pouvoir du président américain.",
-      "image": "https://s.rfi.fr/media/display/815da8ac-b40b-11f1-83e6-ed3d9e22a40f/w:1024/p:16x9/AP26261726847272.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-donald-trump-promulgue-une-loi-imposant-de-nouvelles-sanction-c521fd345b.html"
-    },
-    {
-      "title": "Russie: Moscou prend le contrôle des filiales de Nestlé, Auchan et de l'ex-Leroy Merlin",
-      "url": "https://www.rfi.fr/fr/europe/20260919-russie-moscou-prend-le-contr%C3%B4le-des-filiales-de-nestl%C3%A9-auchan-et-de-l-ex-leroy-merlin",
-      "source": "RFI",
-      "publishedAt": "2026-09-19T09:02:53.000Z",
-      "summary": "Moscou prend le contrôle des filiales en Russie de Nestlé, Auchan et de l'ex-Leroy Merlin. Les actifs de ces filiales ont été transférés sous « administration temporaire » à la société russe L.E.V. Management. Vendredi 18 septembre, le Kremlin a justifié sa décision par le fait que ces entreprises européennes viennent ",
-      "image": "https://s.rfi.fr/media/display/93246754-b408-11f1-8887-5b4fdf021577/w:1024/p:16x9/000-DV1332378.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/russie-moscou-prend-le-controle-des-filiales-de-nestle-auchan-et-de-l-ex-2c5756731d.html"
-    },
-    {
-      "title": "Le tilcayo, une nouvelle espèce de félin sauvage découverte en Bolivie",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260919-le-tilcayo-une-nouvelle-esp%C3%A8ce-de-f%C3%A9lin-sauvage-d%C3%A9couverte-en-bolivie",
+      "title": "Michel Marx : \"Dans mon enfance, tout dans l'organisation du quotidien était lié à la Shoah\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20260919-michel-marx-dans-mon-enfance-tout-dans-l-organisation-du-quotidien-%C3%A9tait-li%C3%A9-%C3%A0-la-shoah",
       "source": "France 24",
-      "publishedAt": "2026-09-19T08:18:38.000Z",
-      "summary": "Des scientifiques boliviens ont découvert une nouvelle espèce de félin sauvage dans la région montagneuse de Los Yungas au nord-est de La Paz. Le \"leopardus tilcayo\" au pelage tacheté est la première nouvelle espèce féline découverte depuis le chat des pampas uruguayen en 1923.",
-      "image": "https://s.france24.com/media/display/e53e9738-b400-11f1-b75a-9f514b90f153/w:1024/p:16x9/mu83ny5r.jfif",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-tilcayo-une-nouvelle-espece-de-felin-sauvage-decouverte-en-bolivie-3cbd1d47a4.html"
+      "publishedAt": "2026-09-19T11:08:04.000Z",
+      "summary": "Chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". L'invité de ce samedi est Michel Marx, scénariste et écrivain. Une partie de sa famille a péri dans la Shoah. Un héritage lourd qui a marqué son enfance : ses parents ne rentraient pas dans les détails, mais ce drame les suivait partout. D",
+      "image": "https://s.france24.com/media/display/8f56f290-b2d2-11f1-9b37-430f3874e448/w:1024/p:16x9/Vignette-judith-Marx.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/michel-marx-dans-mon-enfance-tout-dans-l-organisation-du-quotidien-etait-c87c223dd0.html"
     },
     {
-      "title": "Dans l'est de l'Europe, les monuments de l’Armée rouge au cœur d’une guerre des mémoires",
-      "url": "https://www.france24.com/fr/europe/20260919-europe-est-monument-urss-armee-rouge-seconde-guerre-mondiale-conflit-m%C3%A9moire-russie-ukraine-pologne-balte",
+      "title": "Trump annonce le remboursement de la fête de mariage de son fils à un oligarque russe",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260919-trump-jr-remboursera-sa-f%C3%AAte-de-mariage-pay%C3%A9e-par-un-oligarque-russe-assure-son-p%C3%A8re",
       "source": "France 24",
-      "publishedAt": "2026-09-19T07:38:05.000Z",
-      "summary": "La destruction début septembre d'un obélisque dédié aux soldats de l'Armée rouge à Bytom, en Pologne, a provoqué la colère de l'ambassade de Russie à Varsovie. L'invasion russe à grande échelle de l'Ukraine en 2022 a déclenché une vague de démantèlement des monuments de la période soviétique, variable dans son ampleur ",
-      "image": "https://s.france24.com/media/display/b2421f22-b292-11f1-a9c8-991cccd3bb73/w:1024/p:16x9/000-347E2H6.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dans-l-est-de-l-europe-les-monuments-de-l-armee-rouge-au-c-ur-d-une-guer-2c16f106c6.html"
+      "publishedAt": "2026-09-19T10:28:33.000Z",
+      "summary": "Le président américain Donald Trump a déclaré, vendredi, que son fils Donald Trump Jr. rembourserait Umar Kremlev, un riche homme d’affaires russe ayant pris en charge des frais de festivités pour son mariage aux Bahamas en mai. Ces dépenses ont soulevé des interrogations sur le risque d'influence étrangère autour de l",
+      "image": "https://s.france24.com/media/display/5bf90a56-b411-11f1-a68f-9ff5c3f464d4/w:1024/p:16x9/2026-09-18T215141Z-974609741-RC2MHNAMNM5M-RTRMADP-3-USA-TRUMP-SON-WEDDING.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-annonce-le-remboursement-de-la-fete-de-mariage-de-son-fils-a-un-ol-fb209fdd9e.html"
     },
     {
-      "title": "0,82 € les 100 km : l’incroyable exploit de cette Lancia électrique sur le périphérique parisien",
-      "url": "https://www.01net.com/actualites/082-euros-100-km-incroyable-exploit-lancia-electrique-peripherique-parisien.html",
-      "source": "01net",
-      "publishedAt": "2026-09-19T09:00:34.000Z",
-      "summary": "En ces temps de carburants chers, Lancia vient d’établir un record d’efficience. Une Ypsilon a en effet bouclé 22 tours du périphérique parisien avec une consommation moyenne de seulement 6,2 kWh/100 km. De quoi rouler quasiment gratuitement…",
-      "image": "https://www.01net.com/app/uploads/2026/09/lancia-ypsilon-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/0-82-les-100-km-l-incroyable-exploit-de-cette-lancia-electrique-sur-le-p-20c6e132ed.html"
-    },
-    {
-      "title": "ChatGPT s’installe gratuitement dans Microsoft Word pour tout le monde",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3253521_chatgpt-sinstalle-gratuitement-dans-microsoft-word-pour-tout-le-monde",
+      "title": "Samsung casse le prix de son pliable anti-iPhone Duo",
+      "url": "https://www.frandroid.com/marques/samsung/3253539_samsung-casse-le-prix-de-son-pliable-anti-iphone-duo",
       "source": "Frandroid",
-      "publishedAt": "2026-09-19T09:00:00.000Z",
-      "summary": "Ce jeudi 17 septembre, OpenAI a lancé l'intégration officielle de ChatGPT dans Microsoft Word, gratuite sur tous les forfaits. L'assistant vient s'installer dans le traitement de texte de Microsoft, partenaire et investisseur d'OpenAI, qui y pousse déjà son propre Copilot.",
+      "publishedAt": "2026-09-19T15:24:06.000Z",
+      "summary": "Le Samsung Galaxy Z Fold 8, ce pliable au format passeport calé entre le Flip et le grand Fold, passe à 1319 euros au lieu de 1730 euros chez Amazon.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chatgpt-s-installe-gratuitement-dans-microsoft-word-pour-tout-le-monde-80ec08bb55.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/samsung-casse-le-prix-de-son-pliable-anti-iphone-duo-05057ae2fd.html"
     },
     {
-      "title": "Le prix de la version la plus complète du Dyson V16 qui aspire et lave en un geste s’effondre de 280 €",
-      "url": "https://www.frandroid.com/produits-android/3252607_le-prix-de-la-version-la-plus-complete-du-dyson-v16-qui-aspire-et-lave-en-un-geste-seffondre-de-280-e",
+      "title": "J’ai enfin reçu les jumelles connectées Envision d’Unistellar : voici mes premières impressions",
+      "url": "https://www.frandroid.com/test/prises-en-main/3249881_jai-enfin-recu-les-jumelles-connectees-envision-dunistellar-voici-mes-premieres-impressions",
       "source": "Frandroid",
-      "publishedAt": "2026-09-19T07:35:00.000Z",
-      "summary": "Le Dyson V16 Piston Animal Submarine est un aspirateur balai sans fil premium qui aspire à sec, lave les sols durs et devient un aspirateur à main pour 719 euros au lieu de 999 euros directement sur le site Dyson.",
+      "publishedAt": "2026-09-19T14:02:00.000Z",
+      "summary": "Un an après avoir essayé un prototype à Marseille, j'ai enfin le produit final en main. Il s'agit de l'Envision d'Unistellar, une paire de jumelles connectées qui m'avait agréablement surpris après avoir déjà testé les télescopes connectés de la marque et dont je suis ravi de vous partager mes premières impressions auj",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-prix-de-la-version-la-plus-complete-du-dyson-v16-qui-aspire-et-lave-e-f70ca46bf1.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-enfin-recu-les-jumelles-connectees-envision-d-unistellar-voici-mes--16c941c248.html"
     },
     {
-      "title": "iPhone 18 Pro : le démontage confirme une mauvaise nouvelle difficile à justifier",
-      "url": "https://www.frandroid.com/marques/apple/3253509_iphone-18-pro-le-demontage-confirme-une-mauvaise-nouvelle-difficile-a-justifier",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-19T07:31:05.000Z",
-      "summary": "Le premier démontage de l'iPhone 18 Pro, mis en ligne le 18 septembre 2026, confirme un point&nbsp;: le smartphone est plus compliqué à réparer que la génération d'avant. Il est pourtant déjà en vente le jour même.",
+      "title": "Midterms 2026, le récap’ : les démocrates croient en la victoire, l'IA s’invite dans la campagne",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260919-midterms-2026-recap-democrates-croient-victoire-vague-bleue-ia-campagne-donald-trump-republicains-ohio",
+      "source": "France 24",
+      "publishedAt": "2026-09-19T12:29:08.000Z",
+      "summary": "La dernière ligne droite de la campagne pour les Midterms a commencé ! Stratégie, candidats, sondages… Chaque semaine, France 24 fait le point sur ce qu'il faut retenir. Un sondage du New York Times publié mardi est venu conforter les espoirs des démocrates de remporter en novembre non seulement la Chambre des représen",
+      "image": "https://s.france24.com/media/display/42af6340-b3c3-11f1-b3fe-ed3d9e22a40f/w:1024/p:16x9/mu7ny0fq.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-18-pro-le-demontage-confirme-une-mauvaise-nouvelle-difficile-a-ju-595c498500.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-le-recap-les-democrates-croient-en-la-victoire-l-ia-s-invi-3d74b7b602.html"
     },
     {
-      "title": "Google prépare l’intégration d’iMessage dans Gemini pour macOS",
-      "url": "https://www.frandroid.com/marques/google/3253495_google-prepare-lintegration-dimessage-dans-gemini-pour-macos",
+      "title": "On a testé la Navee GT5 Max, une trottinette électrique qui secoue Segway et Xiaomi",
+      "url": "https://www.frandroid.com/survoltes/trottinette-electrique/3249113_essai-navee-gt5-max-une-trottinette-electrique-qui-peut-secouer-segway-et-xiaomi",
       "source": "Frandroid",
-      "publishedAt": "2026-09-19T07:29:38.000Z",
-      "summary": "Google prépare l'arrivée d'iMessage dans son application Gemini pour macOS, une nouveauté repérée ce vendredi 18 septembre 2026. L'assistant pourra lire, chercher et envoyer des messages Apple, une semaine après le lancement de l'application sur Windows.",
+      "publishedAt": "2026-09-19T12:02:00.000Z",
+      "summary": "Plus puissante et promettant plus d’autonomie, la trottinette électrique Navee GT5 Max monte en gamme par rapport à la GT3... sans toucher au prix, mais sans régler quelques défauts – freinage, vibrations – qui la privent de la perfection. Voici notre test complet.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-prepare-l-integration-d-imessage-dans-gemini-pour-macos-8ba9521ed4.html"
-    },
-    {
-      "title": "12 Go de RAM et 4 350 mAh : Clicks muscle son « BlackBerry » sans hausser le prix",
-      "url": "https://www.frandroid.com/marques/blackberry/3253497_12-go-de-ram-et-4-350-mah-clicks-muscle-son-blackberry-sans-hausser-le-prix",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-19T07:28:24.000Z",
-      "summary": "Clicks a confirmé le 18 septembre 2026 les caractéristiques finales de son Communicator, un smartphone Android à clavier physique dans l'esprit BlackBerry. La marque gonfle la RAM et la batterie, sans toucher au prix.",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/12-go-de-ram-et-4-350-mah-clicks-muscle-son-blackberry-sans-hausser-le-p-c11322fe4f.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/on-a-teste-la-navee-gt5-max-une-trottinette-electrique-qui-secoue-segway-bb1cae77aa.html"
     }
   ]
 }
