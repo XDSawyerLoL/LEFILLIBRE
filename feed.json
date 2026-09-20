@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:48:55.674Z",
+  "updatedAt": "2026-09-20T23:43:47.971Z",
   "items": [
     {
       "title": "États-Unis: Donald Trump et sa famille investissent massivement dans l’IA, que le président refuse de réguler",
@@ -20,6 +20,42 @@
       "image": "https://s.france24.com/media/display/90be9e84-b52b-11f1-b600-9f514b90f153/w:1024/p:16x9/AP26263602850279.jpg",
       "category": "IA & Tech",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-parti-de-poutine-remporte-sans-surprise-les-legislatives-marquees-par-706555814f.html"
+    },
+    {
+      "title": "Paris: plusieurs milliers de manifestants contre la proposition de loi sur l’usage des armes par les forces de l’ordre",
+      "url": "https://www.rfi.fr/fr/france/20260920-paris-plusieurs-milliers-de-manifestants-contre-la-proposition-de-loi-sur-l-usage-des-armes-par-les-forces-de-l-ordre",
+      "source": "RFI",
+      "publishedAt": "2026-09-20T22:56:33.000Z",
+      "summary": "Quelques milliers de personnes, parmi lesquelles des députés de gauche et des représentants de syndicats de magistrats, ont défilé dimanche 20 septembre à Paris contre la proposition de loi sur la présomption d’usage légitime des armes par les forces de l’ordre. Un texte qui équivaut, selon ses opposants, à « un permis",
+      "image": "https://s.rfi.fr/media/display/7a2d2f12-b541-11f1-8b1a-9ff5c3f464d4/w:1024/p:16x9/000-C8U22TK.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/paris-plusieurs-milliers-de-manifestants-contre-la-proposition-de-loi-su-64683cca54.html"
+    },
+    {
+      "title": "Irak: malgré les demandes de rapatriement, le procès de Français ayant combattu dans les rangs de l’EI s’ouvre",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20260920-irak-malgr%C3%A9-les-demandes-de-rapatriement-le-proc%C3%A8s-de-fran%C3%A7ais-ayant-combattu-dans-les-rangs-de-l-ei-s-ouvre",
+      "source": "RFI",
+      "publishedAt": "2026-09-20T22:36:48.000Z",
+      "summary": "Le procès en Irak de six Français ayant combattu dans les rangs du groupe État islamique (EI) a débuté dimanche 20 septembre à Bagdad. Ils font partie d’un groupe de 47 ressortissants français, d’abord détenus en Syrie puis transférés en Irak en 2025 pour y être jugés. Leurs défenseurs continuent de demander leur rapat",
+      "image": "https://s.rfi.fr/media/display/ccfe1c76-b535-11f1-99f3-6f779f079bc8/w:1024/p:16x9/2026-09-20T105605Z-1073093610-RC2YMNAC6QLI-RTRMADP-3-IRAQ-TRIAL-ISLAMIC-STATE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irak-malgre-les-demandes-de-rapatriement-le-proces-de-francais-ayant-com-279dd0b6b4.html"
+    },
+    {
+      "title": "Ingérences, budget, carburant : l'opération déminage d'Emmanuel Macron",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-ing%C3%A9rences-budget-carburant-l-op%C3%A9ration-d%C3%A9minage-d-emmanuel-macron",
+      "source": "France 24",
+      "publishedAt": "2026-09-20T22:35:48.000Z",
+      "summary": "Au menu de l'Essentiel politique : la géopolitique qui s'invite dans la campagne présidentielle, l'impopulaire budget 2027 et Ségolène Royal qui vient jouer les trouble-fête à la primaire de la gauche. Avec Richard Werly, éditorialiste et journaliste pour le media suisse Blick.",
+      "image": "https://s.france24.com/media/display/e77f50d0-b542-11f1-b0a0-6f779f079bc8/w:1024/p:16x9/Francais-2026-09-20T19-32-58-105Z.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ingerences-budget-carburant-l-operation-deminage-d-emmanuel-macron-9bf13cbcb7.html"
+    },
+    {
+      "title": "Des milliers de Barcelonais manifestent contre l’agrandissement de l’aéroport",
+      "url": "https://www.rfi.fr/fr/europe/20260920-des-milliers-de-barcelonais-manifestent-contre-l-agrandissement-de-l-a%C3%A9roport",
+      "source": "RFI",
+      "publishedAt": "2026-09-20T22:10:22.000Z",
+      "summary": "Plus de 5 000 personnes, selon la police municipale, ont défilé dimanche 20 septembre dans les rues de Barcelone pour protester contre le projet d’agrandissement de l’aéroport. Les manifestants dénoncent une aberration écologique et sociale.",
+      "image": "https://s.rfi.fr/media/display/829fd6d0-b52e-11f1-99d7-9ff5c3f464d4/w:1024/p:16x9/2026-09-20T155533Z-603018112-RC2ZMNAXZVA9-RTRMADP-3-SPAIN-AIRPORT-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-milliers-de-barcelonais-manifestent-contre-l-agrandissement-de-l-aer-dce4417078.html"
     },
     {
       "title": "Élections en Allemagne: malgré la défaite cuisante de son parti, le chancelier Merz promet de ne rien changer",
@@ -83,78 +119,6 @@
       "summary": "Le parti du président Vladimir Poutine, Russie unie, arrive sans surprise donné en tête des élections législatives russes dimanche 20 septembre, avec 49,4 % des voix, selon un sondage à la sortie des urnes réalisé par le Centre russe d'étude de l'opinion publique (VCIOM), un institut d'État. Vladimir ⁠Poutine avait pré",
       "image": "https://s.rfi.fr/media/display/f390bc4c-b524-11f1-b8f1-9f514b90f153/w:1024/p:16x9/2026-09-20T183938Z-1633316510-RC25NNAHWSTV-RTRMADP-3-RUSSIA-ELECTION.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/russie-le-parti-de-vladimir-poutine-donne-vainqueur-de-legislatives-sans-ca8fc26546.html"
-    },
-    {
-      "title": "The Deportation Project : révélations sur les expulsions de masse de l'administration Trump",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-the-deportation-project-r%C3%A9v%C3%A9lations-sur-les-expulsions-de-masse-de-l-administration-trump",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T17:21:39.000Z",
-      "summary": "Depuis plusieurs mois, un consortium de 72 journalistes de 26 médias internationaux, coordonné par Forbidden Stories, a enquêté sur les expulsions de masses depuis les États-Unis. Lundi matin, nous vous dévoilerons les accords secrets de l'administration Trump visant à expulser des personnes aux quatre coins du monde.",
-      "image": "https://s.france24.com/media/display/6ac98780-b516-11f1-b615-5b4fdf021577/w:1024/p:16x9/Vertical-FR-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/the-deportation-project-revelations-sur-les-expulsions-de-masse-de-l-adm-ab40789334.html"
-    },
-    {
-      "title": "Élections en Allemagne: la gauche radicale de Die Linke l'emporte à Berlin, nouvelle poussée de l'AfD",
-      "url": "https://www.rfi.fr/fr/monde/20260920-%C3%A9lections-en-allemagne-la-gauche-radicale-de-die-linke-l-emporte-%C3%A0-berlin-nouvelle-pouss%C3%A9e-de-l-afd",
-      "source": "RFI",
-      "publishedAt": "2026-09-20T16:40:16.000Z",
-      "summary": "Le parti de gauche radicale est arrivé en tête des sondages dans la cité-État de Berlin à l'issue d'un scrutin régional, devançant la formation conservatrice CDU du chancelier Friedrich Merz. Die Linke, avec sa candidate Elif Eralp, remporte entre 24,5 % et 26 % des voix d'après les sondages, contre 20 % pour la CDU, q",
-      "image": "https://s.rfi.fr/media/display/dc06dc2c-b511-11f1-a7bf-0730212ba17f/w:1024/p:16x9/2026-09-20T160925Z-1684236921-RC24NNA9XV5D-RTRMADP-3-GERMANY-ELECTION-BERLIN-LINKE-REACTION.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-la-gauche-radicale-de-die-linke-l-emporte-a-berli-4e41c8b642.html"
-    },
-    {
-      "title": "Élections en Allemagne : le parti d'extrême droite AfD en tête",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-%C3%A9lections-en-allemagne-le-parti-d-extr%C3%AAme-droite-afd-en-t%C3%AAte",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T16:30:16.000Z",
-      "summary": "Les bureaux de vote ont fermé en Allemagne, où deux scrutins régionaux se tenaient ce dimanche 20 septembre. Notre correspondante Caroline du Bled évoque les premiers résultats avec nous, et Antoine Mariotti les analyse.",
-      "image": "https://s.france24.com/media/display/17e05208-b50f-11f1-b318-6f779f079bc8/w:1024/p:16x9/FR-20260920-180138-181253-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-le-parti-d-extreme-droite-afd-en-tete-e0205ac3d7.html"
-    },
-    {
-      "title": "Élections en Allemagne : la CDU menacée par l'extrême droite",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-%C3%A9lections-en-allemagne-la-cdu-menac%C3%A9e-par-l-extr%C3%AAme-droite",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T16:27:45.000Z",
-      "summary": "Le chancelier allemand Friedrich Merz survivra-t-il aux scrutins régionaux de dimanche ? Le débat est ouvert après le récent échec électoral de son parti conservateur en Saxe-Anhalt où l'extrême droite a obtenu une écrasante victoire.",
-      "image": "https://s.france24.com/media/display/b15be23a-b50a-11f1-b717-0730212ba17f/w:1024/p:16x9/FR-20260920-170341-170526-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-la-cdu-menacee-par-l-extreme-droite-34c0169631.html"
-    },
-    {
-      "title": "Élections en Allemagne : Merz \"est dans une situation inconfortable\"",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-%C3%A9lections-en-allemagne-merz-est-dans-une-situation-inconfortable",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T16:26:33.000Z",
-      "summary": "Près de quatre millions d'électeurs allemands sont appelés aux urnes dimanche pour deux scrutins régionaux où les avancées du parti d'extrême droite AfD et de la gauche radicale pourraient provoquer de nouvelles secousses à Berlin et affecter le chancelier Friedrich Merz, déjà très fragilisé. Nous en parlons avec notre",
-      "image": "https://s.france24.com/media/display/e28a7c46-b509-11f1-8cb9-5b4fdf021577/w:1024/p:16x9/FR-20260920-160520-160951-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-merz-est-dans-une-situation-inconfortable-5a047ae985.html"
-    },
-    {
-      "title": "Régionales en Allemagne : le parti d'extrême droite AfD progresse, les partis de gauche résistent",
-      "url": "https://www.france24.com/fr/europe/20260920-r%C3%A9gionales-en-allemagne-le-parti-d-extr%C3%AAme-droite-afd-progresse-les-partis-de-gauche-r%C3%A9sistent",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T16:23:49.000Z",
-      "summary": "Les Allemands se sont rendus aux urnes dimanche lors de deux élections régionales. Selon les sondages, le parti d'extrême droite AfD est en tête dans le Mecklembourg-Poméranie-Occidentale, tandis que le parti de gauche radicale Die Linke devance le parti du chancelier allemand Friedrich Merz à Berlin.",
-      "image": "https://s.france24.com/media/display/b17dcb9e-b50e-11f1-b45e-ed3d9e22a40f/w:1024/p:16x9/AP26263254996213.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/regionales-en-allemagne-le-parti-d-extreme-droite-afd-progresse-les-part-ec39bc037f.html"
-    },
-    {
-      "title": "Les Russes votent lors de la dernière journée des élections législatives",
-      "url": "https://fr.euronews.com/2026/09/20/les-russes-votent-lors-de-la-derniere-journee-des-elections-legislatives",
-      "source": "Euronews",
-      "publishedAt": "2026-09-20T16:10:02.000Z",
-      "summary": "Ce vote intervient alors que la capitale russe a été frappée par ce que son gouverneur décrit comme la \"plus vaste attaque\" contre la ville depuis le début de la guerre en Ukraine.",
-      "image": "https://images.euronews.com/articles/stories/09/92/04/31/696x392_cmsv2_9dfc15b5-74a7-5656-97c4-6356f6671cbd-9920431.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-russes-votent-lors-de-la-derniere-journee-des-elections-legislatives-492ca766a1.html"
-    },
-    {
-      "title": "EN DIRECT - Moyen-Orient: les Houthis du Yémen font état de 28 frappes saoudiennes en 24h",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260920-en-direct-le-directeur-de-la-cia-rencontre-al-sissi-au-caire-washington-craint-une-escalade-rapide-au-moyen-orient",
-      "source": "RFI",
-      "publishedAt": "2026-09-20T16:00:05.000Z",
-      "summary": "Les Houthis du Yémen ont fait état dimanche 20 septembre de nouvelles frappes saoudiennes dans plusieurs régions du pays, au lendemain d'attaques du mouvement pro-iranien contre le royaume, visant notamment la capitale Riyad. Le même jour, le directeur de la CIA John Ratcliffe avait rencontré le président égyptien Abde",
-      "image": "https://s.rfi.fr/media/display/ba0c41d2-b527-11f1-b926-ed3d9e22a40f/w:1024/p:16x9/2026-09-16T134945Z-1339566980-RC2DKNANTNM5-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-moyen-orient-les-houthis-du-yemen-font-etat-de-28-frappes-saou-c42b62e4f5.html"
     },
     {
       "title": "Test de la Philips Baristina Latte : la reine du cappuccino mignonne, mi-automatique",
