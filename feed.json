@@ -1,25 +1,79 @@
 {
-  "updatedAt": "2026-09-20T19:38:58.007Z",
+  "updatedAt": "2026-09-20T21:48:55.674Z",
   "items": [
     {
-      "title": "Test de la Philips Baristina Latte : la reine du cappuccino mignonne, mi-automatique",
-      "url": "https://www.frandroid.com/test/3236335_test-de-la-philips-baristina-latte-la-reine-du-cappuccino-mignonne-mi-automatique",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-20T18:00:00.000Z",
-      "summary": "Une machine à café clé en main, qui broie le grain, réalise des expressos et de belles mousses de lait quasiment seule : telle est la promesse de la Baristina Latte de Philips.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/philips-baristina-latte10-edited.jpg?resize=1200,675&key=f47a4432",
+      "title": "États-Unis: Donald Trump et sa famille investissent massivement dans l’IA, que le président refuse de réguler",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260920-%C3%A9tats-unis-donald-trump-et-sa-famille-investissent-massivement-dans-l-ia-que-le-pr%C3%A9sident-refuse-de-r%C3%A9guler",
+      "source": "RFI",
+      "publishedAt": "2026-09-20T20:35:12.000Z",
+      "summary": "Alors que Donald Trump continue à refuser de réguler l’intelligence artificielle, malgré les demandes en ce sens des leaders du secteur, le Washington Post pointe d’éventuels conflits d’intérêt de la part du président américain. Dans un article publié dimanche 20 septembre, le quotidien américain indique que les Trump ",
+      "image": "https://s.rfi.fr/media/display/a289c1b4-b532-11f1-8ad2-6f779f079bc8/w:1024/p:16x9/AP26182450973621.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/test-de-la-philips-baristina-latte-la-reine-du-cappuccino-mignonne-mi-au-f8f35dd168.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-donald-trump-et-sa-famille-investissent-massivement-dans-l-ia-ae65940e85.html"
     },
     {
-      "title": "Data XXL, couverture mondiale ou 4 mois gratuits, voici trois forfaits à connaître",
-      "url": "https://www.frandroid.com/bons-plans/3253127_data-xxl-couverture-mondiale-ou-4-mois-gratuits-voici-trois-forfaits-a-connaitre",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-20T15:26:00.000Z",
-      "summary": "Trois forfaits se détachent cette semaine, chacun avec un vrai point fort. La plus grosse enveloppe de data, une couverture qui suit à l'étranger, ou quatre mois offerts pour commencer.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/05/nrj-1.jpg?resize=1200,675&key=504e00d8",
+      "title": "Le parti de Poutine remporte sans surprise les législatives marquées par des attaques de Kiev",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260920-le-parti-de-poutine-remporte-sans-surprise-les-l%C3%A9gislatives-marqu%C3%A9es-par-des-attaques-de-kiev",
+      "source": "France 24",
+      "publishedAt": "2026-09-20T20:13:00.000Z",
+      "summary": "Le parti de Vladimir Poutine, Russie unie, est sans surprise donné vainqueur dimanche aux élections législatives, un scrutin marqué par des attaques de drones ukrainiens et des piratages informatiques, auxquelles Moscou a promis une riposte.",
+      "image": "https://s.france24.com/media/display/90be9e84-b52b-11f1-b600-9f514b90f153/w:1024/p:16x9/AP26263602850279.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/data-xxl-couverture-mondiale-ou-4-mois-gratuits-voici-trois-forfaits-a-c-51487857b3.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-parti-de-poutine-remporte-sans-surprise-les-legislatives-marquees-par-706555814f.html"
+    },
+    {
+      "title": "Élections en Allemagne: malgré la défaite cuisante de son parti, le chancelier Merz promet de ne rien changer",
+      "url": "https://www.rfi.fr/fr/europe/20260920-%C3%A9lections-en-allemagne-malgr%C3%A9-la-d%C3%A9faite-cuisante-de-son-parti-le-chancelier-merz-promet-de-ne-rien-changer",
+      "source": "RFI",
+      "publishedAt": "2026-09-20T21:36:25.000Z",
+      "summary": "Sous pression après des défaites électorales dimanche 20 septembre face à l'extrême droite et la gauche radicale, Friedrich Merz s'est engagé à poursuivre les réformes qu’il a promises. L'impopulaire chancelier ferme la porte à un départ prématuré, après des jours de spéculations à ce sujet. La défaite de son parti, la",
+      "image": "https://s.rfi.fr/media/display/1f14c1a0-b53a-11f1-bf04-ed3d9e22a40f/w:1024/p:16x9/2026-09-20T162742Z-565875318-RC24NNAX21KS-RTRMADP-3-GERMANY-ELECTION-BERLIN-MERZ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-malgre-la-defaite-cuisante-de-son-parti-le-chance-b98cf2c24f.html"
+    },
+    {
+      "title": "Maroc : quels enjeux pour les élections législatives ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-maroc-quels-enjeux-pour-les-%C3%A9lections-l%C3%A9gislatives",
+      "source": "France 24",
+      "publishedAt": "2026-09-20T20:35:56.000Z",
+      "summary": "Le Maroc renouvelle les 395 sièges de sa Chambre des représentants lors des élections législatives du 23 septembre. Le scrutin se déroule dans un cadre électoral réformé, avec notamment de nouvelles dispositions concernant les candidatures, le financement politique et la représentation des femmes et des jeunes. Mais au",
+      "image": "https://s.france24.com/media/display/41bb51d6-b532-11f1-8ad2-9f514b90f153/w:1024/p:16x9/FR-20260920-214727-215723-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-quels-enjeux-pour-les-elections-legislatives-5d06bef195.html"
+    },
+    {
+      "title": "Au Nigeria, les familles des 37 mineurs morts à Minna, dans le centre du pays, réclament justice",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260920-au-nigeria-les-familles-des-37-mineurs-morts-%C3%A0-minna-dans-le-centre-du-pays-r%C3%A9clament-justice",
+      "source": "France 24",
+      "publishedAt": "2026-09-20T20:32:10.000Z",
+      "summary": "Au Nigeria, les familles de 37 orpailleurs morts en détention à Minna dans le centre du Nigeria réclament des explications et justice. Le gouvernement a nommé une commission indépendante pour mener l'enquête.",
+      "image": "https://s.france24.com/media/display/d13d0d64-b531-11f1-9c38-9f514b90f153/w:1024/p:16x9/fran260920-2140-live-01.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-nigeria-les-familles-des-37-mineurs-morts-a-minna-dans-le-centre-du-p-b975bfe8d4.html"
+    },
+    {
+      "title": "Jeannette Süß : \"il y a dans les territoires de l'ex-RDA, un sentiment de ne pas être écoutés\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260920-jeannette-s%C3%BC%C3%9F-il-y-a-dans-les-territoires-de-l-ex-rda-un-sentiment-de-ne-pas-%C3%AAtre-%C3%A9cout%C3%A9s",
+      "source": "France 24",
+      "publishedAt": "2026-09-20T19:52:04.000Z",
+      "summary": "Deux semaines après le triomphe de l'AfD en Saxe-Anhalt, les résultats des scrutins régionaux à Berlin et dans le Mecklembourg-Poméranie Occidentale confirment la percée de l'extrême droite en Allemagne. C'est une débâcle pour la CDU du chancelier Friedrich Merz, qui a reconnu son échec parlant de \"catastrophe\", mais q",
+      "image": "https://s.france24.com/media/display/143eb38e-b52c-11f1-a1fc-ed3d9e22a40f/w:1024/p:16x9/Francais-2026-09-20T18-06-37-327Z.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jeannette-su-il-y-a-dans-les-territoires-de-l-ex-rda-un-sentiment-de-ne--888eafb802.html"
+    },
+    {
+      "title": "Conférence de presse de Macron et Carney à Saint-Pierre-et-Miquelon",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-conf%C3%A9rence-de-presse-de-macron-et-carney-%C3%A0-saint-pierre-et-miquelon",
+      "source": "France 24",
+      "publishedAt": "2026-09-20T19:41:20.000Z",
+      "summary": "Dès son arrivée sur place samedi soir, Emmanuel Macron a réaffirmé la souveraineté française sur l'archipel de Saint-Pierre-et-Miquelon. Il a ensuite accueilli dimanche le Premier ministre canadien Mark Carney pour une visite sans précédent dans ce petit territoire français de l'Atlantique Nord, destinée à réaffirmer l",
+      "image": "https://s.france24.com/media/display/9fc97dd0-b522-11f1-a75e-9f514b90f153/w:1024/p:16x9/FR-20260920-191708-193147-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/conference-de-presse-de-macron-et-carney-a-saint-pierre-et-miquelon-579bb0f6f0.html"
+    },
+    {
+      "title": "Élections en Allemagne : la survie de Friedrich Merz ne tient plus qu’à un fil",
+      "url": "https://www.france24.com/fr/europe/20260920-elections-allemagne-friedrich-merz-cdu-mercklembourg-berlin-afd-deroute",
+      "source": "France 24",
+      "publishedAt": "2026-09-20T19:39:22.000Z",
+      "summary": "Les élections régionales allemandes en Mecklembourg-Poméranie-Occidentale et à Berlin ont toutes deux marqué la défaite d'un même parti : la CDU de Friedrich Merz. Après le récent choc provoqué par la large victoire de l’extrême droite en Saxe-Anhalt, déjà analysé comme un échec de la politique du chancelier, Friedrich",
+      "image": "https://s.france24.com/media/display/d7b1d318-b528-11f1-8ca9-6f779f079bc8/w:1024/p:16x9/mecklembourg-merz.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-la-survie-de-friedrich-merz-ne-tient-plus-qu-a-un-f66ff84e20.html"
     },
     {
       "title": "Russie: le parti de Vladimir Poutine donné vainqueur de législatives sans surprises",
@@ -81,7 +135,7 @@
       "source": "France 24",
       "publishedAt": "2026-09-20T16:23:49.000Z",
       "summary": "Les Allemands se sont rendus aux urnes dimanche lors de deux élections régionales. Selon les sondages, le parti d'extrême droite AfD est en tête dans le Mecklembourg-Poméranie-Occidentale, tandis que le parti de gauche radicale Die Linke devance le parti du chancelier allemand Friedrich Merz à Berlin.",
-      "image": "https://s.france24.com/media/display/b61722ba-b511-11f1-8624-9ff5c3f464d4/w:1024/p:16x9/000-C8UC22G.jpg",
+      "image": "https://s.france24.com/media/display/b17dcb9e-b50e-11f1-b45e-ed3d9e22a40f/w:1024/p:16x9/AP26263254996213.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/regionales-en-allemagne-le-parti-d-extreme-droite-afd-progresse-les-part-ec39bc037f.html"
     },
     {
@@ -103,68 +157,14 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-moyen-orient-les-houthis-du-yemen-font-etat-de-28-frappes-saou-c42b62e4f5.html"
     },
     {
-      "title": "Dans le sud du Brésil, la course au pouvoir des autres fils Bolsonaro",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260920-dans-le-sud-du-br%C3%A9sil-la-course-au-pouvoir-des-autres-fils-bolsonaro",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T14:57:28.000Z",
-      "summary": "Il n’y a pas que Flavio qui fait campagne dans l’ombre du père chez les Bolsonaro. Le fils aîné, actuellement au coude-à-coude avec Lula dans la course à la présidentielle, peut compter sur ses frères, candidats aux sénatoriales et aux législatives dans le sud du Brésil. Officialisé par le Parti Libéral, Carlos brigue ",
-      "image": "https://s.france24.com/media/display/ad79a5e2-b50c-11f1-b8c1-5b4fdf021577/w:1024/p:16x9/AP25180712083292.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dans-le-sud-du-bresil-la-course-au-pouvoir-des-autres-fils-bolsonaro-eb9cd92bc3.html"
-    },
-    {
-      "title": "France : des manifestations contre la loi \"Ripost\"",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-france-des-manifestations-contre-la-loi-ripost",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T14:40:13.000Z",
-      "summary": "À Caen, des manifestants se sont mobilisés ce dimanche 20 septembre contre la proposition de loi qui vise à instaurer une présomption de légitime défense pour les policiers et les gendarmes. Adopté en première lecture par l’Assemblée nationale le 7 juillet, le texte prévoit que les agents soient présumés avoir agi léga",
-      "image": "https://s.france24.com/media/display/388739c2-b4fb-11f1-ba1f-9ff5c3f464d4/w:1024/p:16x9/FR-20260920-141441-141604-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-des-manifestations-contre-la-loi-ripost-041164fc43.html"
-    },
-    {
-      "title": "Macron va rencontrer Carney à Saint-Pierre-et-Miquelon",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-macron-va-rencontrer-carney-%C3%A0-saint-pierre-et-miquelon",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T14:35:37.000Z",
-      "summary": "Emmanuel Macron rencontrera ce ⁠dimanche 20 septembre le Premier ​ministre canadien Mark Carney à Saint-Pierre-et-Miquelon, quelques semaines après que le président américain Donald ​Trump a publié sur les réseaux sociaux une image montrant l’archipel recouvert du drapeau américain.",
-      "image": "https://s.france24.com/media/display/db15d44c-b4fa-11f1-9f00-6f779f079bc8/w:1024/p:16x9/FR-20260920-141014-141130-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/macron-va-rencontrer-carney-a-saint-pierre-et-miquelon-d9331371e2.html"
-    },
-    {
-      "title": "Irak : six Français accusés d'appartenance à l'EI jugés à Bagdad",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-irak-six-fran%C3%A7ais-accus%C3%A9s-d-appartenance-%C3%A0-l-ei-jug%C3%A9s-%C3%A0-bagdad",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T14:33:12.000Z",
-      "summary": "Le procès ⁠de six ressortissants ​français accusés d'appartenance à l'organisation de l'État islamique s'est ouvert ​dimanche 20 septembre à Bagdad. Notre correspondante Marie-Charlotte Roupie nous en dit plus.",
-      "image": "https://s.france24.com/media/display/9388ce54-b4fa-11f1-a90d-9ff5c3f464d4/w:1024/p:16x9/FR-20260920-140801-140950-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irak-six-francais-accuses-d-appartenance-a-l-ei-juges-a-bagdad-5340d7c349.html"
-    },
-    {
-      "title": "Élections en Allemagne : \"L'enjeu est énorme et dépasse les thèmes régionaux\"",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-%C3%A9lections-en-allemagne-l-enjeu-est-%C3%A9norme-et-d%C3%A9passe-les-th%C3%A8mes-r%C3%A9gionaux",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T14:30:56.000Z",
-      "summary": "Les opérations de vote à Berlin et en Mecklembourg-Poméranie-Occidentale (nord-est) doivent se dérouler jusqu'à 18H00 (16H00 GMT), heure à laquelle les premières estimations doivent être publiées. Notre correspondante Caroline Du Bled est devant les bureaux de vote.",
-      "image": "https://s.france24.com/media/display/39d73102-b4fa-11f1-9f54-6f779f079bc8/w:1024/p:16x9/FR-20260920-140414-140758-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-l-enjeu-est-enorme-et-depasse-les-themes-regionau-d87d341cc5.html"
-    },
-    {
-      "title": "L'Iran ferme un centre culturel lié à l'ambassade de France qu'il accuse d'\"activités illégales\"",
-      "url": "https://www.france24.com/fr/moyen-orient/20260920-l-iran-ferme-un-centre-culturel-li%C3%A9-%C3%A0-l-ambassade-de-france-accus%C3%A9-d-activit%C3%A9s-ill%C3%A9gales",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T13:58:27.000Z",
-      "summary": "La justice iranienne a annoncé dimanche la fermeture du Centre de langue française (CLF), l'un des principaux établissements d'enseignement du français en Iran, lié à l'ambassade de France. Elle l'accuse d'avoir mené des \"activités illégales\". Une décision qui survient dans un contexte de relations tendues entre les de",
-      "image": "https://s.france24.com/media/display/d7627854-b4f1-11f1-a6d1-0730212ba17f/w:1024/p:16x9/AP26258653383251.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-iran-ferme-un-centre-culturel-lie-a-l-ambassade-de-france-qu-il-accuse-7415f43a84.html"
-    },
-    {
-      "title": "J’ai testé la conduite autonome de BYD : convaincante, mais déjà « obsolète » selon la marque",
-      "url": "https://www.frandroid.com/marques/byd/3142655_jai-teste-la-conduite-autonome-de-byd-convaincante-mais-deja-obsolete-selon-la-marque",
+      "title": "Test de la Philips Baristina Latte : la reine du cappuccino mignonne, mi-automatique",
+      "url": "https://www.frandroid.com/test/3236335_test-de-la-philips-baristina-latte-la-reine-du-cappuccino-mignonne-mi-automatique",
       "source": "Frandroid",
-      "publishedAt": "2026-09-20T14:01:00.000Z",
-      "summary": "Fin mai, à peine quelques heures avant de dévoiler sa nouvelle génération de technologies de conduite intelligente, BYD nous a invités à monter à bord de l’un de ses modèles dans les rues de Shenzhen, en Chine. Changements de voie automatisés, contournement d’obstacles, navigation urbaine ou stationnement autonome : la",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/fyk-4067jpg.jpg?resize=1200,675&key=ce0dbc40",
+      "publishedAt": "2026-09-20T18:00:00.000Z",
+      "summary": "Une machine à café clé en main, qui broie le grain, réalise des expressos et de belles mousses de lait quasiment seule : telle est la promesse de la Baristina Latte de Philips.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/philips-baristina-latte10-edited.jpg?resize=1200,675&key=f47a4432",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-teste-la-conduite-autonome-de-byd-convaincante-mais-deja-obsolete-s-47e317e2b6.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/test-de-la-philips-baristina-latte-la-reine-du-cappuccino-mignonne-mi-au-f8f35dd168.html"
     }
   ]
 }
