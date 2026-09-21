@@ -1,97 +1,175 @@
 {
-  "updatedAt": "2026-09-21T01:41:48.954Z",
+  "updatedAt": "2026-09-21T07:11:03.603Z",
   "items": [
     {
-      "title": "États-Unis: Donald Trump et sa famille investissent massivement dans l’IA, que le président refuse de réguler",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260920-%C3%A9tats-unis-donald-trump-et-sa-famille-investissent-massivement-dans-l-ia-que-le-pr%C3%A9sident-refuse-de-r%C3%A9guler",
-      "source": "RFI",
-      "publishedAt": "2026-09-20T20:35:12.000Z",
-      "summary": "Alors que Donald Trump continue à refuser de réguler l’intelligence artificielle, malgré les demandes en ce sens des leaders du secteur, le Washington Post pointe d’éventuels conflits d’intérêt de la part du président américain. Dans un article publié dimanche 20 septembre, le quotidien américain indique que les Trump ",
-      "image": "https://s.rfi.fr/media/display/a289c1b4-b532-11f1-8ad2-6f779f079bc8/w:1024/p:16x9/AP26182450973621.jpg",
+      "title": "Pénuries, hausse des prix… Acer entrevoit une chance de s’en sortir courant 2027",
+      "url": "https://www.frandroid.com/produits-android/ordinateurs/3253597_penuries-hausse-des-prix-acer-entrevoit-une-chance-de-sen-sortir-courant-2027",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-21T07:04:17.000Z",
+      "summary": "Bien placé pour en savoir long sur la pénurie de mémoire vive et la mécanique de hausse des prix désormais bien installée sur le marché PC, Jason Chen, CEO d'Acer, estime que les choses pourraient toutefois commencer à s'arranger l'année prochaine... du moins avec un peu de chance.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/acer-swift-air-14-test-02.jpg?resize=1200,675&key=3a92649e",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-donald-trump-et-sa-famille-investissent-massivement-dans-l-ia-ae65940e85.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/penuries-hausse-des-prix-acer-entrevoit-une-chance-de-s-en-sortir-couran-bd6d6ee79c.html"
     },
     {
-      "title": "Le parti de Poutine remporte sans surprise les législatives marquées par des attaques de Kiev",
-      "url": "https://www.france24.com/fr/asie-pacifique/20260920-le-parti-de-poutine-remporte-sans-surprise-les-l%C3%A9gislatives-marqu%C3%A9es-par-des-attaques-de-kiev",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T20:13:00.000Z",
-      "summary": "Le parti de Vladimir Poutine, Russie unie, est sans surprise donné vainqueur dimanche aux élections législatives, un scrutin marqué par des attaques de drones ukrainiens et des piratages informatiques, auxquelles Moscou a promis une riposte.",
-      "image": "https://s.france24.com/media/display/90be9e84-b52b-11f1-b600-9f514b90f153/w:1024/p:16x9/AP26263602850279.jpg",
+      "title": "Nouvelle cyberattaque en France : les données de près de 2 millions de Français compromises",
+      "url": "https://www.01net.com/actualites/nouvelle-cyberattaque-en-france-les-donnees-de-pres-de-2-millions-de-francais-compromises.html",
+      "source": "01net",
+      "publishedAt": "2026-09-21T07:00:08.000Z",
+      "summary": "L'Agence nationale pour la formation des adultes (Afpa) a été piratée. Victime d'une offensive orchestrée par deux hackers, l'agence a été dépouillée d'une montagne de données personnelles. Près de deux millions d'individus sont potentiellement touchés. L'organisme précise qu'aucune coordonnée bancaire n'est concernée,",
+      "image": "https://www.01net.com/app/uploads/2024/05/fuites-donnees-france-politiciens-exposes-1360x907.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-parti-de-poutine-remporte-sans-surprise-les-legislatives-marquees-par-706555814f.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-cyberattaque-en-france-les-donnees-de-pres-de-2-millions-de-fra-ff2f258c9c.html"
     },
     {
-      "title": "Paris: plusieurs milliers de manifestants contre la proposition de loi sur l’usage des armes par les forces de l’ordre",
-      "url": "https://www.rfi.fr/fr/france/20260920-paris-plusieurs-milliers-de-manifestants-contre-la-proposition-de-loi-sur-l-usage-des-armes-par-les-forces-de-l-ordre",
-      "source": "RFI",
-      "publishedAt": "2026-09-20T22:56:33.000Z",
-      "summary": "Quelques milliers de personnes, parmi lesquelles des députés de gauche et des représentants de syndicats de magistrats, ont défilé dimanche 20 septembre à Paris contre la proposition de loi sur la présomption d’usage légitime des armes par les forces de l’ordre. Un texte qui équivaut, selon ses opposants, à « un permis",
-      "image": "https://s.rfi.fr/media/display/7a2d2f12-b541-11f1-8b1a-9ff5c3f464d4/w:1024/p:16x9/000-C8U22TK.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/paris-plusieurs-milliers-de-manifestants-contre-la-proposition-de-loi-su-64683cca54.html"
+      "title": "8300 connexions par jour : comment votre téléphone Android vous espionne continuellement (et comment GrapheneOS peut vous aider)",
+      "url": "https://www.frandroid.com/android/rom-custom-2/custom-rom/3253657_8300-connexions-par-jour-comment-votre-telephone-android-vous-espionne-continuellement-et-comment-grapheneos-peut-vous-aider",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-21T06:42:41.000Z",
+      "summary": "Une récente étude a mis en lumière le nombre de fois qu’un téléphone Android transmet discrètement des informations à Google en 24&nbsp;heures. De quoi donner envie de jeter son téléphone dans l’océan et de partir vivre dans les bois.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/pixel-espion.jpg?resize=1200,675&key=9daa44c8",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/8300-connexions-par-jour-comment-votre-telephone-android-vous-espionne-c-5046a8d659.html"
     },
     {
-      "title": "Irak: malgré les demandes de rapatriement, le procès de Français ayant combattu dans les rangs de l’EI s’ouvre",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260920-irak-malgr%C3%A9-les-demandes-de-rapatriement-le-proc%C3%A8s-de-fran%C3%A7ais-ayant-combattu-dans-les-rangs-de-l-ei-s-ouvre",
-      "source": "RFI",
-      "publishedAt": "2026-09-20T22:36:48.000Z",
-      "summary": "Le procès en Irak de six Français ayant combattu dans les rangs du groupe État islamique (EI) a débuté dimanche 20 septembre à Bagdad. Ils font partie d’un groupe de 47 ressortissants français, d’abord détenus en Syrie puis transférés en Irak en 2025 pour y être jugés. Leurs défenseurs continuent de demander leur rapat",
-      "image": "https://s.rfi.fr/media/display/ccfe1c76-b535-11f1-99f3-6f779f079bc8/w:1024/p:16x9/2026-09-20T105605Z-1073093610-RC2YMNAC6QLI-RTRMADP-3-IRAQ-TRIAL-ISLAMIC-STATE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irak-malgre-les-demandes-de-rapatriement-le-proces-de-francais-ayant-com-279dd0b6b4.html"
-    },
-    {
-      "title": "Ingérences, budget, carburant : l'opération déminage d'Emmanuel Macron",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-ing%C3%A9rences-budget-carburant-l-op%C3%A9ration-d%C3%A9minage-d-emmanuel-macron",
+      "title": "Une rencontre Trump-Macron prévue en marge de l'Assemblée générale de l'ONU",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260921-rencontre-trump-macron-pr%C3%A9vue-marge-assembl%C3%A9e-g%C3%A9n%C3%A9rale-onu-new-york",
       "source": "France 24",
-      "publishedAt": "2026-09-20T22:35:48.000Z",
-      "summary": "Au menu de l'Essentiel politique : la géopolitique qui s'invite dans la campagne présidentielle, l'impopulaire budget 2027 et Ségolène Royal qui vient jouer les trouble-fête à la primaire de la gauche. Avec Richard Werly, éditorialiste et journaliste pour le media suisse Blick.",
-      "image": "https://s.france24.com/media/display/e77f50d0-b542-11f1-b0a0-6f779f079bc8/w:1024/p:16x9/Francais-2026-09-20T19-32-58-105Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ingerences-budget-carburant-l-operation-deminage-d-emmanuel-macron-9bf13cbcb7.html"
+      "publishedAt": "2026-09-21T06:34:47.000Z",
+      "summary": "Le président américain Donald Trump va rencontrer lundi après-midi son homologue français Emmanuel Macron à New York, a annoncé la Maison Blanche. Les deux chefs d'État participent cette semaine à l'Assemblée générale des Nations unies.",
+      "image": "https://s.france24.com/media/display/0460ac12-b584-11f1-8b31-ed3d9e22a40f/w:1024/p:16x9/000-B7G93B4.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-rencontre-trump-macron-prevue-en-marge-de-l-assemblee-generale-de-l--a1083d2910.html"
     },
     {
-      "title": "Des milliers de Barcelonais manifestent contre l’agrandissement de l’aéroport",
-      "url": "https://www.rfi.fr/fr/europe/20260920-des-milliers-de-barcelonais-manifestent-contre-l-agrandissement-de-l-a%C3%A9roport",
+      "title": "Les États-Unis arrêtent 18 suspects liés à l'assassinat du président haïtien Jovenel Moïse en 2021",
+      "url": "https://fr.euronews.com/2026/09/21/les-etats-unis-arretent-18-suspects-lies-a-lassassinat-du-president-haitien-jovenel-moise-",
+      "source": "Euronews",
+      "publishedAt": "2026-09-21T06:24:44.000Z",
+      "summary": "Jovenel Moïse a été abattu le 7 juillet 2021 à son domicile par un groupe d'environ 20 mercenaires colombiens. Sa garde rapprochée n'est pas intervenue pour le protéger.",
+      "image": "https://images.euronews.com/articles/stories/09/92/07/63/696x392_cmsv2_a6ee4fce-6ea1-5c85-9db7-255c9c02a347-9920763.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-etats-unis-arretent-18-suspects-lies-a-l-assassinat-du-president-hai-ae863bc20b.html"
+    },
+    {
+      "title": "Ukraine en direct : la Russie affirme avoir frappé deux cargos et le port d'Izmaïl",
+      "url": "https://www.france24.com/fr/europe/20260921-ukraine-en-direct-russie-affirme-avoir-frapp%C3%A9-deux-cargos-port-izma%C3%AFl",
+      "source": "France 24",
+      "publishedAt": "2026-09-21T05:55:56.000Z",
+      "summary": "Le ministère russe de la Défense a déclaré lundi que ses forces avaient frappé plusieurs cibles en Ukraine, dont deux navires de transport de marchandises utilisés selon lui à des fins militaires, une station de distribution de gaz, des infrastructures portuaires à Izmaïl et un centre de la société BDU Logistic dans la",
+      "image": "https://s.france24.com/media/display/133a53b6-b582-11f1-bd82-ed3d9e22a40f/w:1024/p:16x9/000-C2MR763-1.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-en-direct-la-russie-affirme-avoir-frappe-deux-cargos-et-le-port--6d1d093526.html"
+    },
+    {
+      "title": "Les États-Unis et la Chine veulent instaurer un \"dialogue IA\" sur leurs préoccupations communes",
+      "url": "https://fr.euronews.com/2026/09/21/les-etats-unis-et-la-chine-veulent-instaurer-un-dialogue-ia-sur-leurs-preoccupations-commu",
+      "source": "Euronews",
+      "publishedAt": "2026-09-21T05:49:44.000Z",
+      "summary": "Des responsables économiques américains et chinois ont discuté dimanche de la création d'un canal de communication sur l'intelligence artificielle (IA), avant un sommet de leurs dirigeants cette semaine.",
+      "image": "https://images.euronews.com/articles/stories/09/92/06/67/696x392_cmsv2_2c42f132-8ae8-5d5b-b9e8-837fb79d007c-9920667.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-etats-unis-et-la-chine-veulent-instaurer-un-dialogue-ia-sur-leurs-pr-879c1986af.html"
+    },
+    {
+      "title": "Entre Trump et Bukele, l'accord secret qui fait disparaître les migrants",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260921-entre-trump-et-bukele-l-accord-secret-qui-fait-dispara%C3%AEtre-les-migrants",
       "source": "RFI",
-      "publishedAt": "2026-09-20T22:10:22.000Z",
-      "summary": "Plus de 5 000 personnes, selon la police municipale, ont défilé dimanche 20 septembre dans les rues de Barcelone pour protester contre le projet d’agrandissement de l’aéroport. Les manifestants dénoncent une aberration écologique et sociale.",
-      "image": "https://s.rfi.fr/media/display/829fd6d0-b52e-11f1-99d7-9ff5c3f464d4/w:1024/p:16x9/2026-09-20T155533Z-603018112-RC2ZMNAXZVA9-RTRMADP-3-SPAIN-AIRPORT-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-milliers-de-barcelonais-manifestent-contre-l-agrandissement-de-l-aer-dce4417078.html"
+      "publishedAt": "2026-09-21T05:09:17.000Z",
+      "summary": "Il y a un an et demi, les États-Unis expulsaient vers le Salvador plus de 200 Vénézuéliens et une trentaine de Salvadoriens, dans le cadre d'un accord migratoire. Accusés de crime organisé par les deux administrations, ces détenus ont été placés dans la prison de haute sécurité du Cecot, sans aucun contact avec l'extér",
+      "image": "https://s.rfi.fr/media/display/8d1cdff6-b365-11f1-a37a-af2d0a26bd49/w:1024/p:16x9/4-1-7.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/entre-trump-et-bukele-l-accord-secret-qui-fait-disparaitre-les-migrants-e3133e1186.html"
     },
     {
-      "title": "Élections en Allemagne: malgré la défaite cuisante de son parti, le chancelier Merz promet de ne rien changer",
-      "url": "https://www.rfi.fr/fr/europe/20260920-%C3%A9lections-en-allemagne-malgr%C3%A9-la-d%C3%A9faite-cuisante-de-son-parti-le-chancelier-merz-promet-de-ne-rien-changer",
+      "title": "Forbidden Stories: une enquête révèle la mécanique mise en place par les États-Unis pour expulser en masse",
+      "url": "https://www.rfi.fr/fr/monde/20260921-forbidden-stories-une-enqu%C3%AAte-r%C3%A9v%C3%A8le-la-m%C3%A9canique-mise-en-place-par-les-%C3%A9tats-unis-pour-expulser-en-masse",
       "source": "RFI",
-      "publishedAt": "2026-09-20T21:36:25.000Z",
-      "summary": "Sous pression après des défaites électorales dimanche 20 septembre face à l'extrême droite et la gauche radicale, Friedrich Merz s'est engagé à poursuivre les réformes qu’il a promises. L'impopulaire chancelier ferme la porte à un départ prématuré, après des jours de spéculations à ce sujet. La défaite de son parti, la",
-      "image": "https://s.rfi.fr/media/display/1f14c1a0-b53a-11f1-bf04-ed3d9e22a40f/w:1024/p:16x9/2026-09-20T162742Z-565875318-RC24NNAX21KS-RTRMADP-3-GERMANY-ELECTION-BERLIN-MERZ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-malgre-la-defaite-cuisante-de-son-parti-le-chance-b98cf2c24f.html"
+      "publishedAt": "2026-09-21T05:04:32.000Z",
+      "summary": "Du Mexique à l’Eswatini en passant par le Panama, plus de 25 000 migrants ont été renvoyés par les États-Unis, non pas vers leurs pays d’origine, mais vers des pays tiers. RFI a participé avec 25 autres médias à une enquête coordonnée par Forbidden Stories intitulée « The Deportation Project : Révélations sur les expul",
+      "image": "https://s.rfi.fr/media/display/7d8b9312-b364-11f1-ad7c-a9fb07cae23b/w:1024/p:16x9/signal-2026-09-17-14-45-26-595-004.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/forbidden-stories-une-enquete-revele-la-mecanique-mise-en-place-par-les--5fecda2102.html"
     },
     {
-      "title": "Maroc : quels enjeux pour les élections législatives ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260920-maroc-quels-enjeux-pour-les-%C3%A9lections-l%C3%A9gislatives",
+      "title": "Expulsions vers des pays tiers : l'ampleur de la politique de l’administration Trump en chiffres",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260921-expulsions-vers-pays-tiers-ampleur-politique-administration-trump-chiffres",
       "source": "France 24",
-      "publishedAt": "2026-09-20T20:35:56.000Z",
-      "summary": "Le Maroc renouvelle les 395 sièges de sa Chambre des représentants lors des élections législatives du 23 septembre. Le scrutin se déroule dans un cadre électoral réformé, avec notamment de nouvelles dispositions concernant les candidatures, le financement politique et la représentation des femmes et des jeunes. Mais au",
-      "image": "https://s.france24.com/media/display/41bb51d6-b532-11f1-8ad2-9f514b90f153/w:1024/p:16x9/FR-20260920-214727-215723-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-quels-enjeux-pour-les-elections-legislatives-5d06bef195.html"
+      "publishedAt": "2026-09-21T05:04:22.000Z",
+      "summary": "Depuis janvier 2025, l’administration Trump a expulsé plus de 25 000 personnes vers des pays dits \"tiers\", qui ne sont pas leur pays d’origine. Forbidden Stories et France 24, en s’appuyant sur un consortium de 26 médias internationaux, ainsi que sur le travail d’ONG, des sources ouvertes et des informations de terrain",
+      "image": "https://s.france24.com/media/display/27ee1b60-b476-11f1-b65c-6f779f079bc8/w:1024/p:16x9/obs-fs-overview-logo.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/expulsions-vers-des-pays-tiers-l-ampleur-de-la-politique-de-l-administra-8744dbc5df.html"
     },
     {
-      "title": "Au Nigeria, les familles des 37 mineurs morts à Minna, dans le centre du pays, réclament justice",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260920-au-nigeria-les-familles-des-37-mineurs-morts-%C3%A0-minna-dans-le-centre-du-pays-r%C3%A9clament-justice",
+      "title": "Deportation Project : enquête sur les expulsions de masse vers l'Afrique de l'administration Trump",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260921-expulsions-vers-afrique-enqu%C3%AAte-internationale-politique-migratoire-trump-%C3%A9tats-unis",
       "source": "France 24",
-      "publishedAt": "2026-09-20T20:32:10.000Z",
-      "summary": "Au Nigeria, les familles de 37 orpailleurs morts en détention à Minna dans le centre du Nigeria réclament des explications et justice. Le gouvernement a nommé une commission indépendante pour mener l'enquête.",
-      "image": "https://s.france24.com/media/display/d13d0d64-b531-11f1-9c38-9f514b90f153/w:1024/p:16x9/fran260920-2140-live-01.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-nigeria-les-familles-des-37-mineurs-morts-a-minna-dans-le-centre-du-p-b975bfe8d4.html"
+      "publishedAt": "2026-09-21T05:00:06.000Z",
+      "summary": "Au sein d'un consortium de 26 médias coordonné par Forbidden Stories, France 24 a enquêté pendant plusieurs mois sur les accords secrets conclus entre l'administration Trump et plusieurs pays africains, désignés comme pays \"tiers\", prêts à accueillir des personnes expulsées par l'ICE.",
+      "image": "https://s.france24.com/media/display/13797200-b2b0-11f1-ac5d-7922de457103/w:1024/p:16x9/Poster-FR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/deportation-project-enquete-sur-les-expulsions-de-masse-vers-l-afrique-d-3fc50fea24.html"
     },
     {
-      "title": "Jeannette Süß : \"il y a dans les territoires de l'ex-RDA, un sentiment de ne pas être écoutés\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260920-jeannette-s%C3%BC%C3%9F-il-y-a-dans-les-territoires-de-l-ex-rda-un-sentiment-de-ne-pas-%C3%AAtre-%C3%A9cout%C3%A9s",
-      "source": "France 24",
-      "publishedAt": "2026-09-20T19:52:04.000Z",
-      "summary": "Deux semaines après le triomphe de l'AfD en Saxe-Anhalt, les résultats des scrutins régionaux à Berlin et dans le Mecklembourg-Poméranie Occidentale confirment la percée de l'extrême droite en Allemagne. C'est une débâcle pour la CDU du chancelier Friedrich Merz, qui a reconnu son échec parlant de \"catastrophe\", mais q",
-      "image": "https://s.france24.com/media/display/143eb38e-b52c-11f1-a1fc-ed3d9e22a40f/w:1024/p:16x9/Francais-2026-09-20T18-06-37-327Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jeannette-su-il-y-a-dans-les-territoires-de-l-ex-rda-un-sentiment-de-ne--888eafb802.html"
+      "title": "Migrants expulsés vers l'Afrique: plongée dans la mécanique de l’administration Trump",
+      "url": "https://www.rfi.fr/fr/afrique/20260921-migrants-expuls%C3%A9s-vers-l-afrique-plong%C3%A9e-dans-la-m%C3%A9canique-de-l-administration-trump",
+      "source": "RFI",
+      "publishedAt": "2026-09-21T04:59:36.000Z",
+      "summary": "Depuis le retour de Donald Trump, plus de 25 000 personnes ont été expulsées des États-Unis vers des pays tiers avec lesquels elles n’ont souvent aucun lien, parfois sur un autre continent que le leur. Parmi elles, des centaines ont été envoyées en Afrique. Au moins 12 pays africains accueillent aujourd’hui ces expulsé",
+      "image": "https://s.rfi.fr/media/display/6c93c098-b33c-11f1-804f-2538446acac2/w:1024/p:16x9/1-1-16.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/migrants-expulses-vers-l-afrique-plongee-dans-la-mecanique-de-l-administ-e82e733e40.html"
+    },
+    {
+      "title": "États-Unis: un poste militaire et de l'armement dans l'arc de triomphe de Trump à Washington?",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260921-%C3%A9tats-unis-un-poste-militaire-et-de-l-armement-dans-l-arc-de-triomphe-de-trump",
+      "source": "RFI",
+      "publishedAt": "2026-09-21T04:42:19.000Z",
+      "summary": "Un arc de triomphe à Washington devenu essentiel pour la sécurité nationale. En tout cas, c’est ce qu’affirme Donald Trump : le président américain est déjà à pied d’œuvre pour construire un monument de 76 mètres de hauteur dans la capitale américaine qui serait similaire à l’arc de Triomphe à Paris. Mais ce dimanche, ",
+      "image": "https://s.rfi.fr/media/display/ea77d750-b572-11f1-9466-9ff5c3f464d4/w:1024/p:16x9/000-B9443WY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-un-poste-militaire-et-de-l-armement-dans-l-arc-de-triomphe-de-87f6fb60b2.html"
+    },
+    {
+      "title": "À Saint-Pierre-et-Miquelon, Emmanuel Macron et Mark Carney vantent un axe franco-canadien indépendant",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260921-%C3%A0-saint-pierre-et-miquelon-emmanuel-macron-et-mark-carney-vantent-un-axe-franco-canadien-ind%C3%A9pendant",
+      "source": "RFI",
+      "publishedAt": "2026-09-21T02:55:36.000Z",
+      "summary": "En visite dans le petit territoire français de l'Atlantique Nord, le président de la République a accueilli sur place le Premier ministre canadien venu en voisin, dimanche 20 septembre. L'occasion pour les deux dirigeants de mettre en scène leur rapprochement en vue de défendre la « souveraineté » de leur pays respecti",
+      "image": "https://s.rfi.fr/media/display/c70995d4-b567-11f1-b177-0730212ba17f/w:1024/p:16x9/AP26263651796540.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-saint-pierre-et-miquelon-emmanuel-macron-et-mark-carney-vantent-un-axe-fdf356950d.html"
+    },
+    {
+      "title": "Gmail affiche un raccourci pour vos codes d’authentification sur iOS et Android",
+      "url": "https://www.01net.com/actualites/gmail-bouton-copier-code-authentification.html",
+      "source": "01net",
+      "publishedAt": "2026-09-21T06:33:32.000Z",
+      "summary": "Le client de messagerie de Google vient de profiter d’une mise à jour aussi discrète que pratique. Sur iOS et Android, Gmail affiche dorénavant un raccourci pour copier rapidement les codes d’authentification que vous recevez.",
+      "image": "https://www.01net.com/app/uploads/2026/09/Gmail-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gmail-affiche-un-raccourci-pour-vos-codes-d-authentification-sur-ios-et--1da65a936e.html"
+    },
+    {
+      "title": "Voiture électrique à 10 000 € : Dacia veut la faire, mais l’Europe lui interdit",
+      "url": "https://www.01net.com/actualites/voiture-electrique-10-000-dacia-veut-faire-mais-europe-interdit.html",
+      "source": "01net",
+      "publishedAt": "2026-09-21T06:30:25.000Z",
+      "summary": "Dacia ferait volontiers une électrique encore moins chère que la Spring pour asseoir sa domination. Sauf que les normes européennes lui empêchent de produire un tel modèle. La marque réclame ainsi un assouplissement de ces normes.",
+      "image": "https://www.01net.com/app/uploads/2026/09/dacia-hipster-2-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/voiture-electrique-a-10-000-dacia-veut-la-faire-mais-l-europe-lui-interd-7f30b47a0a.html"
+    },
+    {
+      "title": "iPhone 18 Pro deuxième au classement DxOMark avec 172 points : pourquoi un smartphone au zoom moyen devance les photophones Android",
+      "url": "https://www.frandroid.com/produits-android/photo/3253639_iphone-18-pro-deuxieme-au-classement-dxomark-avec-172-points-pourquoi-un-smartphone-au-zoom-moyen-devance-les-photophones-android",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-21T06:18:53.000Z",
+      "summary": "DxOMark a publié son test de l'iPhone 18 Pro le lendemain de sa sortie : 172 points, deuxième place mondiale, trois points derrière le Huawei Pura 80 Ultra. Un chiffre qui surprend quand on a comparé le téléphone à un Xiaomi 17 Ultra, mieux armé en zoom et en piqué, et que DxOMark classe dixième. Allons-voir les sous-s",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/iphone-18-pro-max-watch-before-you-buy-0-1-screenshot.jpg?resize=1200,675&key=b7bf1e6f",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-18-pro-deuxieme-au-classement-dxomark-avec-172-points-pourquoi-un-3718d92200.html"
+    },
+    {
+      "title": "Dérapage chez Google : Gemini a piraté 3 entreprises pendant un test qui a mal tourné",
+      "url": "https://www.01net.com/actualites/derapage-chez-google-gemini-pirate-3-entreprises-pendant-test-qui-mal-tourne.html",
+      "source": "01net",
+      "publishedAt": "2026-09-21T06:00:52.000Z",
+      "summary": "Après ChatGPT et Claude, c'est Gemini qui s'est lancé à l'attaque de plusieurs entreprises. L'IA de Google s'est introduite sans autorisation dans les systèmes de plusieurs firmes, notamment en devinant des mots de passe. L'incident s'est produit après qu'une prison numérique censée isoler le modèle s'est retrouvée acc",
+      "image": "https://www.01net.com/app/uploads/2026/09/Gemini-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/derapage-chez-google-gemini-a-pirate-3-entreprises-pendant-un-test-qui-a-b5e237555a.html"
     }
   ]
 }
