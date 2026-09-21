@@ -1,172 +1,174 @@
 {
-  "updatedAt": "2026-09-21T14:06:05.390Z",
+  "updatedAt": "2026-09-21T19:24:00.618Z",
   "items": [
     {
-      "title": "iPhone Duo : Apple aurait sacrifié le premier accessoire de son smartphone pliant",
-      "url": "https://www.01net.com/actualites/iphone-duo-apple-aurait-sacrifie-le-premier-accessoire-de-son-smartphone-pliant.html",
+      "title": "Notre prise en main du Googlebook en vidéo : quand Google fusionne Android et Chrome OS",
+      "url": "https://www.frandroid.com/video/3254781_notre-prise-en-main-du-googlebook-en-video-quand-google-fusionne-android-et-chrome-os",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-21T17:32:00.000Z",
+      "summary": "Google s'apprête à tourner définitivement la page des Chromebook. Conçus autour d'Android et dopés à l'intelligence artificielle, les nouveaux Googlebook veulent bousculer le monopole de Windows et d'Apple.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/youtube-cover-hivgz5yetrq.jpg?resize=1200,675&key=0759dca4",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/notre-prise-en-main-du-googlebook-en-video-quand-google-fusionne-android-a548ea8672.html"
+    },
+    {
+      "title": "3 fois moins chère que le nucléaire : cette centrale bretonne produit une électricité record depuis 60 ans",
+      "url": "https://www.frandroid.com/survoltes/energie/3253547_3-fois-moins-chere-que-le-nucleaire-cette-centrale-bretonne-produit-une-electricite-record-depuis-60-ans",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-21T16:35:15.000Z",
+      "summary": "Il existe en Bretagne une centrale capable de produire chaque année 500 gigawattheures d'une électricité décarbonée, et trois fois moins chère que le nucléaire, depuis 1966 ! L'usine marémotrice de la Rance, cachée entre Dinard et Saint-Malo, est presque unique au monde, et ce n'est pas un hasard.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/barrage-de-la-rance.jpg?resize=1200,675&key=3d02590e",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/3-fois-moins-chere-que-le-nucleaire-cette-centrale-bretonne-produit-une--dd238f8edf.html"
+    },
+    {
+      "title": "Brésil : Présidentielle sous influence ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260921-br%C3%A9sil-pr%C3%A9sidentielle-sous-influence",
+      "source": "France 24",
+      "publishedAt": "2026-09-21T18:42:12.000Z",
+      "summary": "Au Brésil, la présidentielle, qui aura lieu le 4 octobre prochain, va opposer le président sortant Lula et Flávio Bolsonaro, fils aîné de l’ex-président Jair Bolsonaro, qui purge une peine de prison de 27 ans pour tentative de coup d’État. Les sondages dessinent un second tour serré entre les deux hommes. Autre enjeu d",
+      "image": "https://s.france24.com/media/display/345cc18c-8e95-11f1-b4f7-005056a97e36/w:1024/p:16x9/000-C3TD7FG.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-presidentielle-sous-influence-efc4acdd2c.html"
+    },
+    {
+      "title": "La Russie exporte son «règne de la peur» pour réprimer ses opposants à l’étranger, révèle une experte de l’ONU",
+      "url": "https://www.rfi.fr/fr/europe/20260921-la-russie-exporte-son-r%C3%A8gne-de-la-peur-pour-r%C3%A9primer-ses-opposants-%C3%A0-l-%C3%A9tranger-r%C3%A9v%C3%A8le-une-experte-de-l-onu",
+      "source": "RFI",
+      "publishedAt": "2026-09-21T18:25:23.000Z",
+      "summary": "Selon un rapport rendu public lundi 21 septembre devant le Conseil des droits de l'homme de l'ONU à Genève, la Russie de Vladimir Poutine exerce désormais une « répression transnationale ». Alors qu’il poursuit ses opposants à l’intérieur depuis de nombreuses années, le Kremlin a également instauré une stratégie de ter",
+      "image": "https://s.rfi.fr/media/display/386ea986-b5e9-11f1-9338-d382746d948a/w:1024/p:16x9/000-C8W23G7.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-russie-exporte-son-regne-de-la-peur-pour-reprimer-ses-opposants-a-l-e-c86a76fee9.html"
+    },
+    {
+      "title": "Maroc : Emploi et pouvoir d'achat…les attentes des jeunes avant les législatives",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-maroc-emploi-et-pouvoir-d-achat-les-attentes-des-jeunes-avant-les-l%C3%A9gislatives",
+      "source": "France 24",
+      "publishedAt": "2026-09-21T17:12:46.000Z",
+      "summary": "À l’approche des élections législatives du 23 septembre 2026, l’emploi et le pouvoir d’achat figurent parmi les principales préoccupations des jeunes Marocains. Entre espoir de changement et scepticisme vis-à-vis des urnes, les 18-34 ans, qui représentent 19 % des électeurs inscrits, font part de leurs attentes face au",
+      "image": "https://s.france24.com/media/display/bcae0d68-b5d5-11f1-8489-d5a6f2570fbe/w:1024/p:16x9/Couv-MAROC-LEGISLATIVES.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-emploi-et-pouvoir-d-achat-les-attentes-des-jeunes-avant-les-legisl-7ea91e6de6.html"
+    },
+    {
+      "title": "Tchad : le désarroi des agriculteurs face à la sécheresse",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-tchad-le-d%C3%A9sarroi-des-agriculteurs-face-%C3%A0-la-s%C3%A9cheresse",
+      "source": "France 24",
+      "publishedAt": "2026-09-21T17:09:01.000Z",
+      "summary": "🇹🇩 Au Tchad, la faiblesse des pluies fait craindre une baisse des récoltes et un manque de pâturages. Face à cette situation, le gouvernement annonce des mesures pour anticiper les conséquences sur le secteur agricole.",
+      "image": "https://s.france24.com/media/display/1ed4b4c6-b5ca-11f1-bc94-1d61c7110e09/w:1024/p:16x9/Couv-TCHAD-S%C3%A9cheresse.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/tchad-le-desarroi-des-agriculteurs-face-a-la-secheresse-00296aa8d4.html"
+    },
+    {
+      "title": "« Cela me donne des frissons » : pour Apple, les protections d’écran pour iPhone ne servent à rien",
+      "url": "https://www.01net.com/actualites/cela-me-donne-des-frissons-pour-apple-les-protections-decran-pour-iphone-ne-servent-a-rien.html",
       "source": "01net",
-      "publishedAt": "2026-09-21T14:00:41.000Z",
-      "summary": "L'iPhone pliant d'Apple devait avoir son stylet sur mesure, pensé pour se loger le long de la charnière. Il ne sortira jamais. Et pour la solution de repli, les acheteurs du Duo devront s'armer de patience.",
-      "image": "https://www.01net.com/app/uploads/2026/06/Apple-Pencil-1-1344x896.jpg",
+      "publishedAt": "2026-09-21T16:35:07.000Z",
+      "summary": "Placer un film de protection sur l’écran de son iPhone : une hérésie pour le nouveau vice-président de l’ingénierie matérielle d’Apple. Sur les réseaux sociaux, cet avis ne fait pas vraiment l’unanimité.",
+      "image": "https://www.01net.com/app/uploads/2026/03/Test-Apple-iPhone-17e-iOS-26-01net-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-duo-apple-aurait-sacrifie-le-premier-accessoire-de-son-smartphone-8781664e86.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cela-me-donne-des-frissons-pour-apple-les-protections-d-ecran-pour-iphon-12e08a0b50.html"
     },
     {
-      "title": "J’ai essayé un Googlebook : Google peut-il vaincre Windows et Apple ?",
-      "url": "https://www.frandroid.com/marques/google/3254227_jai-essaye-un-googlebook-google-peut-il-vaincre-windows-et-apple",
+      "title": "Élections en Allemagne: «les partis ont peur que ces résultats se répètent aux prochaines élections, au printemps»",
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260921-%C3%A9lections-en-allemagne-les-partis-ont-peur-que-ces-r%C3%A9sultats-se-r%C3%A9p%C3%A8tent-aux-prochaines-%C3%A9lections-au-printemps",
+      "source": "RFI",
+      "publishedAt": "2026-09-21T16:31:04.000Z",
+      "summary": "Un nouveau coup dur pour la droite en Allemagne. L’Union chrétienne-démocrate (CDU), dont est issu le chancelier conservateur Friedrich Merz, a essuyé une défaite cuisante dans les deux scrutins de dimanche 20 septembre, dans le Land de Mecklembourg-Poméranie-Occidentale et à Berlin. Deux semaines après une éclatante v",
+      "image": "https://s.rfi.fr/media/display/5f1400d8-b5d8-11f1-bb33-d5a6f2570fbe/w:1024/p:16x9/2026-09-21T132031Z-1104417692-RC2ONNATHBG3-RTRMADP-3-GERMANY-ELECTION-CDU.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-les-partis-ont-peur-que-ces-resultats-se-repetent-f5e23c72a7.html"
+    },
+    {
+      "title": "Élections en Allemagne : de fausses vidéos dénoncent une prétendue fraude électorale",
+      "url": "https://www.france24.com/fr/europe/20260921-%C3%A9lections-allemagne-fausses-vid%C3%A9os-d%C3%A9noncent-pr%C3%A9tendue-fraude-%C3%A9lectorale",
+      "source": "France 24",
+      "publishedAt": "2026-09-21T16:21:48.000Z",
+      "summary": "Lors des élections régionales du 20 septembre dans la région allemande de Mecklembourg-Poméranie-Occidentale, de faux témoignages probablement générés par IA ont fait croire à la présence de bulletins sans mention du parti d'extrême droite Alternative für Deutschland. À Berlin, où se tenait aussi une élection, une autr",
+      "image": "https://s.france24.com/media/display/75cbc680-b5c9-11f1-ab6b-557acd7c815c/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-13-3.png",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-de-fausses-videos-denoncent-une-pretendue-fraude--7375dc710a.html"
+    },
+    {
+      "title": "Expédition autour de la Corse pour dresser un bilan de santé de la Méditerranée",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260921-exp%C3%A9dition-autour-de-la-corse-pour-dresser-un-bilan-de-sant%C3%A9-de-la-m%C3%A9diterran%C3%A9e",
+      "source": "France 24",
+      "publishedAt": "2026-09-21T16:21:32.000Z",
+      "summary": "L'expédition \"Point zéro\" organisée par la station de recherches océanographiques de Calvi et l'association NAECO touche à sa fin. Pendant 2 semaines l'équipage d'un catamaran, composé pour partie de scientifiques, a récolté des données au large de la Corse. Mesures de la pollution plastique, observations de population",
+      "image": "https://s.france24.com/media/display/1ab4896e-b5d6-11f1-ad33-557acd7c815c/w:1024/p:16x9/capture-13846433746ab15583a971d8-81841358.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/expedition-autour-de-la-corse-pour-dresser-un-bilan-de-sante-de-la-medit-1d7dbadb8f.html"
+    },
+    {
+      "title": "En Russie, une Douma plus guerrière et plus servile que jamais ?",
+      "url": "https://www.france24.com/fr/europe/20260921-russie-poutine-douma-toujours-plus-guerri%C3%A8re-et-toujours-plus-servile",
+      "source": "France 24",
+      "publishedAt": "2026-09-21T16:19:51.000Z",
+      "summary": "Rien de neuf à l’issue des élections législatives russes qui se sont achevées dimanche ? Le succès largement anticipé de Russie unie, le parti de Vladimir Poutine, n’est pas le seul enseignement de ce scrutin. C’est aussi une Douma toujours plus guerrière qui se dessine, alors que le spectre d’une mobilisation militair",
+      "image": "https://s.france24.com/media/display/10d466ca-b5d2-11f1-bc45-e554abee39f5/w:1024/p:16x9/poutine-elex-1.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-russie-une-douma-plus-guerriere-et-plus-servile-que-jamais-c06d9788f3.html"
+    },
+    {
+      "title": "France : Les infirmiers libéraux face à la hausse du prix des carburants",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-france-les-infirmiers-lib%C3%A9raux-face-%C3%A0-la-hausse-du-prix-des-carburants",
+      "source": "France 24",
+      "publishedAt": "2026-09-21T16:10:49.000Z",
+      "summary": "Agir sur les aides mais aussi sur les approvisionnements : le couple exécutif se déploie cette semaine pour tenter de calmer la grogne sociale sur les carburants, dont les prix flambent et entament le pouvoir d'achat, devenu un thème majeur de la campagne présidentielle. Le prix du gazole a atteint dimanche 20 septembr",
+      "image": "https://s.france24.com/media/display/a10df5d0-b5d2-11f1-b05c-d382746d948a/w:1024/p:16x9/FR-20260921-170120-170300-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-les-infirmiers-liberaux-face-a-la-hausse-du-prix-des-carburants-c107e5eec9.html"
+    },
+    {
+      "title": "Audi contre « AUDI » : la marque saisit la justice contre ses propres voitures chinoises",
+      "url": "https://www.frandroid.com/marques/audi/3254357_audi-contre-audi-la-marque-saisit-la-justice-contre-ses-propres-voitures-chinoises",
       "source": "Frandroid",
-      "publishedAt": "2026-09-21T13:52:15.000Z",
-      "summary": "Google a présenté plus en détail les Googlebook, sa nouvelle génération de PC qui tourne sous un tout nouveau système hérité d'Android. J'ai pu l'essayer en avant-première.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/googlebook-acer-prise-en-main.jpeg?resize=1200,675&key=0f9a687d",
+      "publishedAt": "2026-09-21T15:57:39.000Z",
+      "summary": "Audi a conçu avec SAIC deux voitures électriques destinées à la Chine, l'E5 Sportback et l'E7X, vendues sous une marque AUDI écrite en capitales et sans les quatre anneaux. Un importateur allemand les proposait pourtant à ses clients. Le constructeur d'Ingolstadt a lancé une procédure judiciaire pour y mettre fin.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/08/3-pc-1920-1080px.jpg?resize=1200,675&key=bacb7ed1",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-essaye-un-googlebook-google-peut-il-vaincre-windows-et-apple-d742267b26.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/audi-contre-audi-la-marque-saisit-la-justice-contre-ses-propres-voitures-bf705c6326.html"
     },
     {
-      "title": "Qui est Elif Eralp, cheffe de file du Parti de gauche radicale \"Die Linke\" ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-qui-est-elif-eralp-cheffe-de-file-du-parti-de-gauche-radicale-die-linke",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T13:41:15.000Z",
-      "summary": "À Berlin, c'est La Gauche qui ressort donc en tête des élections régionales avec 25,3 % des voix, une première dans ce ‌Land, due en partie a celle qui incarne là-bas le mouvement, Elif Eralp. Si elle parvient à un accord avec les sociaux-démocrates et les Verts, la cheffe de file de Die Linke pourrait devenir la premi",
-      "image": "https://s.france24.com/media/display/6ea506f4-b5c0-11f1-b358-1d61c7110e09/w:1024/p:16x9/FR-20260921-133816-134025-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qui-est-elif-eralp-cheffe-de-file-du-parti-de-gauche-radicale-die-linke-cfc493331b.html"
-    },
-    {
-      "title": "L'histoire de Rabbiatu Kuyateh, arrêtée, détenue et expulsée des États-Unis",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-l-histoire-de-rabbiatu-kuyateh-arr%C3%AAt%C3%A9e-d%C3%A9tenue-et-expuls%C3%A9e-des-%C3%A9tats-unis",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T13:37:21.000Z",
-      "summary": "Parmi ces hommes et ces femmes expulsés des États-Unis, certains vivaient depuis des décennies sur le sol américain. Ils y avaient travaillé, payé leurs impôts et construit leur vie. Du jour au lendemain, ils sont arrêtés, détenus, puis envoyés dans des pays qu'ils ne connaissent pas, où ils n'ont ni ressources, ni sta",
-      "image": "https://s.france24.com/media/display/e0da7656-b5bf-11f1-81dc-d382746d948a/w:1024/p:16x9/FR-20260921-143001-144508-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-histoire-de-rabbiatu-kuyateh-arretee-detenue-et-expulsee-des-etats-uni-f7801d2ce6.html"
-    },
-    {
-      "title": "REPLAY : Le chancelier Friedrich Merz s'exprime après des défaites électorales",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-replay-le-chancelier-friedrich-merz-s-exprime-apr%C3%A8s-des-d%C3%A9faites-%C3%A9lectorales",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T13:24:14.000Z",
-      "summary": "Le chancelier conservateur allemand Friedrich Merz a promis lundi 21 septembre le maintien de son gouvernement avec les sociaux-démocrates, assurant qu'il en allait de \"l'avenir démocratique\" de l'Allemagne après de cinglantes défaites électorales face à l'extrême droite et la gauche radicale. Après sa conférence de pr",
-      "image": "https://s.france24.com/media/display/ec94d4de-b5bd-11f1-b600-557acd7c815c/w:1024/p:16x9/FR-20260921-134952-140746-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/replay-le-chancelier-friedrich-merz-s-exprime-apres-des-defaites-elector-b2d3b6d05a.html"
-    },
-    {
-      "title": "Élections en Allemagne : \"Un désastre\" électoral pour la CDU et le chancelier Friedrich Merz",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-e%CC%81lections-en-allemagne-un-d%C3%A9sastre-%C3%A9lectoral-pour-la-cdu-et-le-chancelier-friedrich-merz",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T13:11:34.000Z",
-      "summary": "Le parti d'extrême droite Alternative pour l'Allemagne (AfD) est ⁠sorti victorieux dimanche 20 septembre d'élections régionales ​dans le Land de Mecklembourg-Poméranie occidentale, dans le nord-est du pays, tandis que le parti de gauche radicale, Die Linke, a remporté un scrutin distinct dans la capitale Berlin. Les de",
-      "image": "https://s.france24.com/media/display/665876ee-b5ba-11f1-a538-6f779f079bc8/w:1024/p:16x9/2026-09-21T121747Z-1525533954-RC2ONNAVETOZ-RTRMADP-3-GERMANY-ELECTION-CDU.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-un-desastre-electoral-pour-la-cdu-et-le-chancelie-a9023fcfd2.html"
-    },
-    {
-      "title": "Friedrich Merz veut maintenir son gouvernement au nom de \"l’avenir démocratique\" de l’Allemagne",
-      "url": "https://www.france24.com/fr/europe/20260921-friedrich-merz-veut-maintenir-son-gouvernement-au-nom-avenir-d%C3%A9mocratique-allemagne-cdu-afd",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T13:07:05.000Z",
-      "summary": "Fragilisé par de cinglantes défaites électorales face à l’extrême droite et à la gauche radicale, le chancelier allemand Friedrich Merz a réaffirmé lundi sa volonté de maintenir au pouvoir sa coalition avec les sociaux-démocrates. Au lendemain de ces scrutins régionaux, il a invoqué \"l’avenir démocratique\" du pays pour",
-      "image": "https://s.france24.com/media/display/665876ee-b5ba-11f1-a538-6f779f079bc8/w:1024/p:16x9/2026-09-21T121747Z-1525533954-RC2ONNAVETOZ-RTRMADP-3-GERMANY-ELECTION-CDU.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/friedrich-merz-veut-maintenir-son-gouvernement-au-nom-de-l-avenir-democr-94c5d5fa4b.html"
-    },
-    {
-      "title": "Côte d'Ivoire : les parents d'élèves face aux coûts onéreux des fournitures scolaires",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-c%C3%B4te-d-ivoire-les-parents-d-%C3%A9l%C3%A8ves-face-aux-co%C3%BBt-on%C3%A9reux-des-fournitures-scolaires",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T13:01:36.000Z",
-      "summary": "🇨🇮 En Côte d’Ivoire, la rentrée scolaire pèse lourd sur le budget des familles. Livres, fournitures, uniformes : pour scolariser leurs enfants, certains parents doivent débourser plusieurs dizaines de milliers de francs CFA. Chacun s’organise comme il peut.",
-      "image": "https://s.france24.com/media/display/987a758a-b5b7-11f1-abbf-ed3d9e22a40f/w:1024/p:16x9/Couv-CIV-Rentr%C3%A9e-scolaire.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cote-d-ivoire-les-parents-d-eleves-face-aux-couts-onereux-des-fourniture-1abe753b8e.html"
-    },
-    {
-      "title": "Googlebook : Google fusionne Android et Chrome OS pour lancer une nouvelle génération de PC portables",
-      "url": "https://www.frandroid.com/marques/google/3253935_googlebook-google-fusionne-android-et-chrome-os-pour-lancer-une-nouvelle-generation-de-pc-portables",
+      "title": "33 € d’économies sans rien installer : le nouveau service électrique gratuit d’Octopus Energy",
+      "url": "https://www.frandroid.com/survoltes/energie/3253571_33-e-deconomies-sans-rien-installer-le-nouveau-service-electrique-gratuit-doctopus-energy",
       "source": "Frandroid",
-      "publishedAt": "2026-09-21T13:00:00.000Z",
-      "summary": "Google a présenté ce lundi 21 septembre le Googlebook, une nouvelle catégorie de PC portable bâtie sur Android et Chrome OS, à partir de 899 dollars. Cinq modèles signés Acer, Asus, Dell, HP et Lenovo arrivent en France le 5 octobre.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/googlebook-annonce.jpg?resize=1200,675&key=2c71082c",
+      "publishedAt": "2026-09-21T15:49:28.000Z",
+      "summary": "Que diriez-vous de faire une trentaine d'euros d'économies par an sur votre facture ? C'est ce que le fournisseur d'électricité Octopus Energy propose, en contrepartie d'un détail : lui laisser la main sur le pilotage de votre chauffe-eau.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/661d38f3c6c0-zeneo-vs-ambiance-garage.jpg?resize=1200,675&key=7f169ebb",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/googlebook-google-fusionne-android-et-chrome-os-pour-lancer-une-nouvelle-3048055a95.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/33-d-economies-sans-rien-installer-le-nouveau-service-electrique-gratuit-bf82166a09.html"
     },
     {
-      "title": "Royaume-Uni: une réforme judiciaire pour traiter plus rapidement les affaires de viols",
-      "url": "https://www.rfi.fr/fr/europe/20260921-royaume-uni-une-r%C3%A9forme-judiciaire-pour-traiter-plus-rapidement-les-affaires-de-viols",
-      "source": "RFI",
-      "publishedAt": "2026-09-21T12:49:55.000Z",
-      "summary": "Au Royaume-Uni, le gouvernement vient d'annoncer une réforme judiciaire pour traiter plus rapidement les affaires de viols et d’agressions sexuelles. En moyenne, il s’écoule un an et deux mois entre la mise en examen du suspect et la tenue d’un procès, ce qui conduit de nombreuses victimes à ne même pas porter plainte.",
-      "image": "https://s.rfi.fr/media/display/35da5ba0-9cc7-11ed-bf43-005056a90284/w:1024/p:16x9/000_32QY9CD.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-une-reforme-judiciaire-pour-traiter-plus-rapidement-les-affa-d53cce6f15.html"
-    },
-    {
-      "title": "Médias bannis de la Maison Blanche par Trump: CNN, MS NOW et Politico déposent un recours en justice",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260921-m%C3%A9dias-bannis-de-la-maison-blanche-par-trump-cnn-ms-now-et-politico-d%C3%A9posent-un-recours-en-justice",
-      "source": "RFI",
-      "publishedAt": "2026-09-21T12:39:23.000Z",
-      "summary": "Les trois médias américains CNN, MS NOW et Politico ont annoncé engager des poursuites pour retrouver au nom de la liberté de la presse l'accès à la Maison Blanche. Donald Trump les accuse d’être des pourvoyeurs de « fakes news ». Samedi 19 septembre, les journalistes de ces médias ont été empêchés d'entrer dans l'ence",
-      "image": "https://s.rfi.fr/media/display/ef32bedc-b5b2-11f1-acb5-0730212ba17f/w:1024/p:16x9/AP26262740145332.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/medias-bannis-de-la-maison-blanche-par-trump-cnn-ms-now-et-politico-depo-d1c89970dc.html"
-    },
-    {
-      "title": "Prix des carburants : la crise dans le détroit d'Ormuz rattrape la France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-prix-des-carburants-la-crise-dans-le-d%C3%A9troit-d-ormuz-rattrape-la-france",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T12:32:26.000Z",
-      "summary": "Les conflits au Moyen-Orient pèsent sur l'économie mondiale. La crise des carburants touche de nombreux pays, dont la France. À sept mois des présidentielles, l'exécutif se déploie pour tenter de calmer la grogne sociale qui monte en raison de la flambée des prix à la pompe. Le Premier ministre tient aujourd'hui deux r",
-      "image": "https://s.france24.com/media/display/4b3f516c-b5af-11f1-b1f0-ed3d9e22a40f/w:1024/p:16x9/FR-20260921-123827-124012-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/prix-des-carburants-la-crise-dans-le-detroit-d-ormuz-rattrape-la-france-d7d6ae0068.html"
-    },
-    {
-      "title": "Ce TV OLED LG abordable de 2026 qui permet de jouer en 4K 120 Hz voit son prix s’alléger de 200 euros",
-      "url": "https://www.frandroid.com/bons-plans/3253945_ce-tv-oled-lg-abordable-de-2026-qui-permet-de-jouer-en-4k-120-hz-voit-son-prix-salleger-de-200-euros",
+      "title": "Taxe au kilomètre sur les électriques : 3 pays l’appliquent déjà, la France y réfléchit",
+      "url": "https://www.frandroid.com/survoltes/voitures-electriques/3254317_taxe-au-kilometre-sur-les-electriques-3-pays-lappliquent-deja-la-france-y-reflechit",
       "source": "Frandroid",
-      "publishedAt": "2026-09-21T12:09:45.000Z",
-      "summary": "Récemment lancé, le LG OLED55B65LA est un TV complet, idéal pour les gamers et les cinéphiles, mais aussi pour celles et ceux qui souhaitent entrer dans l’univers OLED sans avoir un énorme budget. Actuellement, ce modèle est affiché à 1 298,99 euros au lieu de 1 499 euros.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/lg-oled55b65la.jpg?resize=1200,675&key=3d9d853e",
+      "publishedAt": "2026-09-21T15:16:04.000Z",
+      "summary": "Pour l'instant, rouler en électrique en France échappe aux taxes qui pèsent sur chaque plein d'essence ou de gazole. Ce n'est pas tenable à long terme pour les finances publiques, et deux pays ont déjà tranché en facturant la distance parcourue. Une piste à surveiller, qui ne va évidemment pas ravir les utilisateurs de",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/10/cg208217.jpg?resize=1200,675&key=c17327ef",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-tv-oled-lg-abordable-de-2026-qui-permet-de-jouer-en-4k-120-hz-voit-so-fbe3eb1bb1.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/taxe-au-kilometre-sur-les-electriques-3-pays-l-appliquent-deja-la-france-5527bd6403.html"
     },
     {
-      "title": "Russie : attaque massive de drones ukrainiens sur Moscou",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-russie-attaque-massive-de-drones-ukrainiens-sur-moscou",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T11:37:05.000Z",
-      "summary": "Le parti de Vladimir Poutine a remporté sans surprise une large majorité aux législatives de dimanche, marquées par des piratages informatiques et des attaques de drones ukrainiens auxquelles Moscou a promis une riposte.",
-      "image": "https://s.france24.com/media/display/5ebe7cea-b5aa-11f1-98bd-9f514b90f153/w:1024/p:16x9/minia-russie-drone.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/russie-attaque-massive-de-drones-ukrainiens-sur-moscou-1a52f58dbe.html"
-    },
-    {
-      "title": "Le prix du carburant s'affole en France: le gouvernement de Sébastien Lecornu en quête de solutions",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260921-le-prix-du-carburant-s-affole-en-france-le-gouvernement-de-s%C3%A9bastien-lecornu-en-qu%C3%AAte-de-solution",
+      "title": "Guerre hybride: qu'est-ce que «l'état d’alerte de sécurité nationale» et quand peut-il être déclenché?",
+      "url": "https://www.rfi.fr/fr/france/20260921-%C3%A9tat-alerte-s%C3%A9curit%C3%A9-nationale-france",
       "source": "RFI",
-      "publishedAt": "2026-09-21T11:27:51.000Z",
-      "summary": "Le prix du gazole en France a atteint ce dimanche 20 septembre 2026 un nouveau record absolu, à 2,41 euros le litre en moyenne. Même constat pour les prix de l'essence. Cette flambée des prix du carburant fait craindre à l'Élysée un retour des « gilets jaunes ». Après avoir annoncé une prolongation des aides aux secteu",
-      "image": "https://s.rfi.fr/media/display/fd398370-b5a9-11f1-8d0b-6f779f079bc8/w:1024/p:16x9/000-C8PF9KE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-prix-du-carburant-s-affole-en-france-le-gouvernement-de-sebastien-lec-72c208c52d.html"
+      "publishedAt": "2026-09-21T15:09:44.000Z",
+      "summary": "Alors qu’Emmanuel Macron alerte sur l’intensification des menaces hybrides russes, la France dispose depuis un mois d’un nouvel « état d’alerte de sécurité nationale ». Créé cet été mais jamais activé, ce dispositif doit permettre à l’État d’agir face à une « menace grave et actuelle », avant d’en arriver aux régimes d",
+      "image": "https://s.rfi.fr/media/display/ab095482-b5bc-11f1-8bc1-1d61c7110e09/w:1024/p:16x9/000-362L7NW.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-hybride-qu-est-ce-que-l-etat-d-alerte-de-securite-nationale-et-qu-00f1549a8e.html"
     },
     {
-      "title": "Deportation Project : Ce que révèle l'enquête au Cameroun",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-deportation-project-ce-que-r%C3%A9v%C3%A8le-l-enqu%C3%AAte-au-cameroun",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T11:20:10.000Z",
-      "summary": "France 24 a enquêté avec Forbidden Stories sur la situation de plusieurs migrants africains accueillis dans un centre de Yaoundé, après leur expulsion par l'administration Trump, en vertu d'un accord secret négocié entre les dirigeants des deux pays. Pour en savoir plus sur cette enquête, Léa Peruchon, journaliste d'in",
-      "image": "https://s.france24.com/media/display/82cc3a3a-b5ac-11f1-bbe2-ed3d9e22a40f/w:1024/p:16x9/capture-7462012836ab10fbb767920-67563801.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/deportation-project-ce-que-revele-l-enquete-au-cameroun-e23f11ef00.html"
-    },
-    {
-      "title": "Israël en état d'alerte maximale pour Yom Kippour après la mort d'un colon en Cisjordanie",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260921-isra%C3%ABl-en-%C3%A9tat-d-alerte-maximale-pour-yom-kippour-apr%C3%A8s-la-mort-d-un-colon-en-cisjordanie",
+      "title": "Russie: des Occidentaux condamnent un «simulacre d'élections» après la victoire écrasante du parti de Vladimir Poutine",
+      "url": "https://www.rfi.fr/fr/europe/20260921-russie-des-occidentaux-condamnent-un-simulacre-d-%C3%A9lections-apr%C3%A8s-la-victoire-%C3%A9crasante-du-parti-de-vladimir-poutine",
       "source": "RFI",
-      "publishedAt": "2026-09-21T11:01:43.000Z",
-      "summary": "Le pays est sous très haute surveillance après qu'un colon israélien a été tué dimanche 20 septembre près de Ramallah. L’auteur présumé de l’attaque, un Palestinien a été arrêté. Cet assassinat est intervenu peu avant Yom Kippour, le jour du grand pardon, le jour le plus saint du calendrier juif.",
-      "image": "https://s.rfi.fr/media/display/cd16021a-b5a2-11f1-963f-6f779f079bc8/w:1024/p:16x9/000-C8VE4CC.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-en-etat-d-alerte-maximale-pour-yom-kippour-apres-la-mort-d-un-col-addc7e04b5.html"
+      "publishedAt": "2026-09-21T14:59:03.000Z",
+      "summary": "Au lendemain des législatives, de nombreux pays occidentaux ont dénoncé des élections législatives russes, celles-ci n'ayant qu'un « vernis de démocratie », selon l'Union européenne. Le parti Russie Unie de Vladimir Poutine a remporté une victoire très large avec 57,83 % des voix recueillies, selon les chiffres rendus ",
+      "image": "https://s.rfi.fr/media/display/b3b7e604-b5bf-11f1-854e-e554abee39f5/w:1024/p:16x9/AP26264449979323.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/russie-des-occidentaux-condamnent-un-simulacre-d-elections-apres-la-vict-4caf42b564.html"
     },
     {
-      "title": "France - États-Unis : rencontre entre Donald Trump et Emmanuel Macron à New York",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-france-%C3%A9tats-unis-rencontre-entre-donald-trump-et-emmanuel-macron-%C3%A0-new-york",
+      "title": "Mali : plus de 100 soldats tués, nouveau bilan dans l’attaque du camp de Dioura",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-mali-plus-de-100-soldats-tu%C3%A9s-nouveau-bilan-dans-l-attaque-du-camp-de-dioura",
       "source": "France 24",
-      "publishedAt": "2026-09-21T10:48:32.000Z",
-      "summary": "Donald Trump rencontrera son homologue français Emmanuel Macron lundi 21 septembre dans l'après-midi. Les deux dirigeants discuteront à New York, où ils doivent aussi participer à l'Assemblée générale des Nations Unies plus tard dans la semaine.",
-      "image": "https://s.france24.com/media/display/cce925ec-b5a7-11f1-96fa-ed3d9e22a40f/w:1024/p:16x9/FR-20260921-120614-120758-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-etats-unis-rencontre-entre-donald-trump-et-emmanuel-macron-a-new--bcf1942152.html"
+      "publishedAt": "2026-09-21T14:48:13.000Z",
+      "summary": "Plus de 100 soldats tués au Mali, nouveau bilan annoncé dans une attaque de la semaine dernière à Dioura dans le centre du pays. Un précédent bilan faisait état de 50 morts.",
+      "image": "https://s.france24.com/media/display/a9874414-b5af-11f1-8ab8-ed3d9e22a40f/w:1024/p:16x9/Couv-MALI-ATTAQUE-ANALYSE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-plus-de-100-soldats-tues-nouveau-bilan-dans-l-attaque-du-camp-de-di-6f92912105.html"
     }
   ]
 }
