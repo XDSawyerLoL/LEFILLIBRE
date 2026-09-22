@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-21T22:40:50.000Z",
+  "updatedAt": "2026-09-22T01:09:49.269Z",
   "items": [
+    {
+      "title": "Assemblée générale de l’ONU: le Moyen-Orient au cœur d’une semaine diplomatique sous tension",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260921-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-le-moyen-orient-au-c%C5%93ur-d-une-semaine-diplomatique-sous-tension",
+      "source": "RFI",
+      "publishedAt": "2026-09-21T23:09:08.000Z",
+      "summary": "L’Assemblée générale de l’ONU ouvre mardi 22 septembre à New York une semaine de rencontres entre les dirigeants du monde entier, dans un contexte de multiplication des crises et de fragilisation des Nations unies. Ukraine, Soudan, intelligence artificielle ou encore pandémies seront au programme, mais le Moyen-Orient ",
+      "image": "https://s.rfi.fr/media/display/c132f198-b60a-11f1-9129-4d220c210a04/w:1024/p:16x9/2026-09-21T162033Z-1181801828-RC2RNNA4CK4K-RTRMADP-3-UN-ASSEMBLY-SECURITY.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/assemblee-generale-de-l-onu-le-moyen-orient-au-c-ur-d-une-semaine-diplom-44e4fa409f.html"
+    },
     {
       "title": "0 € de facture d’électricité pendant 10 ans : l’incroyable projet d’Octopus Energy près de Rennes",
       "url": "https://www.frandroid.com/survoltes/energie/3254911_0-e-de-facture-delectricite-pendant-10-ans-lincroyable-projet-doctopus-energy-pres-de-rennes",
@@ -12,14 +22,22 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/0-de-facture-d-electricite-pendant-10-ans-l-incroyable-projet-d-octopus--21ca01b3f4.html"
     },
     {
-      "title": "150 € à l’achat, 300 € d’économies par an : pourquoi le routeur solaire bat toutes les batteries",
-      "url": "https://www.frandroid.com/survoltes/energie/3253557_50-e-a-lachat-300-e-deconomies-par-an-pourquoi-le-routeur-solaire-bat-toutes-les-batteries",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-21T19:38:58.000Z",
-      "summary": "Quand on a des panneaux solaires, il n'y a rien de plus rageant que d'injecter gratuitement son surplus de production d'électricité sur le réseau d'Enedis. Pour pallier cela, il existe une solution facile à installer, et bien moins chère qu'une batterie : le routeur solaire.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/generated-image-4.png?resize=1200,675&key=8166c312",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/150-a-l-achat-300-d-economies-par-an-pourquoi-le-routeur-solaire-bat-tou-13abc84a46.html"
+      "title": "France: dans une volte-face, le Rassemblement national durcit le ton face à la Russie, qui nie toute «menace»",
+      "url": "https://www.rfi.fr/fr/europe/20260921-france-dans-une-volte-face-le-rassemblement-national-durcit-le-ton-face-%C3%A0-la-russie-qui-nie-toute-menace",
+      "source": "RFI",
+      "publishedAt": "2026-09-21T23:00:04.000Z",
+      "summary": "Des frictions apparaissent entre Moscou et le Rassemblement national. Alors que le parti de Marine Le Pen est depuis longtemps accusé de complaisance avec la Russie, la candidate à l’élection présidentielle de 2027 et son bras droit Jordan Bardella ont publié samedi 19 septembre un communiqué pour afficher une distance",
+      "image": "https://s.rfi.fr/media/display/160c0b4a-b5df-11f1-a48c-1d61c7110e09/w:1024/p:16x9/2026-09-13T140245Z-1916797167-RC2EINAGC95W-RTRMADP-3-FRANCE-POLITICS-RN.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-dans-une-volte-face-le-rassemblement-national-durcit-le-ton-face--37562937fd.html"
+    },
+    {
+      "title": "France: à son procès pour corruption, Rachida Dati plaide son absentéisme au Parlement",
+      "url": "https://www.rfi.fr/fr/france/20260921-france-%C3%A0-son-proc%C3%A8s-pour-corruption-rachida-dati-plaide-son-absent%C3%A9isme-au-parlement",
+      "source": "RFI",
+      "publishedAt": "2026-09-21T22:44:59.000Z",
+      "summary": "Rachida Dati a été interrogée une deuxième fois lundi 21 septembre. L’ex-ministre est jugée en correctionnelle pour corruption et trafic d’influence, soupçonnée d’avoir été rémunérée par Renault-Nissan pour faire du lobbying en faveur du groupe automobile au Parlement européen entre 2009 et 2013, ce que son mandat d’eu",
+      "image": "https://s.rfi.fr/media/display/7f0e5052-b60d-11f1-bc4a-557acd7c815c/w:1024/p:16x9/000-C8W392N.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-a-son-proces-pour-corruption-rachida-dati-plaide-son-absenteisme--9e0e04c2fc.html"
     },
     {
       "title": "RDC: le président Félix Tshisekedi ne se rendra pas à l'ONU en raison des restrictions de voyage dues à Ebola",
@@ -76,40 +94,14 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-allemagne-comment-la-debacle-de-la-cdu-aux-regionales-fragi-f67fb19b1b.html"
     },
     {
-      "title": "Brésil : Présidentielle sous influence ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260921-br%C3%A9sil-pr%C3%A9sidentielle-sous-influence",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T18:42:12.000Z",
-      "summary": "Au Brésil, la présidentielle, qui aura lieu le 4 octobre prochain, va opposer le président sortant Lula et Flávio Bolsonaro, fils aîné de l’ex-président Jair Bolsonaro, qui purge une peine de prison de 27 ans pour tentative de coup d’État. Les sondages dessinent un second tour serré entre les deux hommes. Autre enjeu d",
-      "image": "https://s.france24.com/media/display/345cc18c-8e95-11f1-b4f7-005056a97e36/w:1024/p:16x9/000-C3TD7FG.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-presidentielle-sous-influence-efc4acdd2c.html"
-    },
-    {
-      "title": "La Russie exporte son «règne de la peur» pour réprimer ses opposants à l’étranger, révèle une experte de l’ONU",
-      "url": "https://www.rfi.fr/fr/europe/20260921-la-russie-exporte-son-r%C3%A8gne-de-la-peur-pour-r%C3%A9primer-ses-opposants-%C3%A0-l-%C3%A9tranger-r%C3%A9v%C3%A8le-une-experte-de-l-onu",
-      "source": "RFI",
-      "publishedAt": "2026-09-21T18:25:23.000Z",
-      "summary": "Selon un rapport rendu public lundi 21 septembre devant le Conseil des droits de l'homme de l'ONU à Genève, la Russie de Vladimir Poutine exerce désormais une « répression transnationale ». Alors qu’il poursuit ses opposants à l’intérieur depuis de nombreuses années, le Kremlin a également instauré une stratégie de ter",
-      "image": "https://s.rfi.fr/media/display/386ea986-b5e9-11f1-9338-d382746d948a/w:1024/p:16x9/000-C8W23G7.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-russie-exporte-son-regne-de-la-peur-pour-reprimer-ses-opposants-a-l-e-c86a76fee9.html"
-    },
-    {
-      "title": "Maroc : Emploi et pouvoir d'achat…les attentes des jeunes avant les législatives",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-maroc-emploi-et-pouvoir-d-achat-les-attentes-des-jeunes-avant-les-l%C3%A9gislatives",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T17:12:46.000Z",
-      "summary": "À l’approche des élections législatives du 23 septembre 2026, l’emploi et le pouvoir d’achat figurent parmi les principales préoccupations des jeunes Marocains. Entre espoir de changement et scepticisme vis-à-vis des urnes, les 18-34 ans, qui représentent 19 % des électeurs inscrits, font part de leurs attentes face au",
-      "image": "https://s.france24.com/media/display/bcae0d68-b5d5-11f1-8489-d5a6f2570fbe/w:1024/p:16x9/Couv-MAROC-LEGISLATIVES.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-emploi-et-pouvoir-d-achat-les-attentes-des-jeunes-avant-les-legisl-7ea91e6de6.html"
-    },
-    {
-      "title": "Tchad : le désarroi des agriculteurs face à la sécheresse",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260921-tchad-le-d%C3%A9sarroi-des-agriculteurs-face-%C3%A0-la-s%C3%A9cheresse",
-      "source": "France 24",
-      "publishedAt": "2026-09-21T17:09:01.000Z",
-      "summary": "🇹🇩 Au Tchad, la faiblesse des pluies fait craindre une baisse des récoltes et un manque de pâturages. Face à cette situation, le gouvernement annonce des mesures pour anticiper les conséquences sur le secteur agricole.",
-      "image": "https://s.france24.com/media/display/1ed4b4c6-b5ca-11f1-bc94-1d61c7110e09/w:1024/p:16x9/Couv-TCHAD-S%C3%A9cheresse.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/tchad-le-desarroi-des-agriculteurs-face-a-la-secheresse-00296aa8d4.html"
+      "title": "150 € à l’achat, 300 € d’économies par an : pourquoi le routeur solaire bat toutes les batteries",
+      "url": "https://www.frandroid.com/survoltes/energie/3253557_50-e-a-lachat-300-e-deconomies-par-an-pourquoi-le-routeur-solaire-bat-toutes-les-batteries",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-21T19:38:58.000Z",
+      "summary": "Quand on a des panneaux solaires, il n'y a rien de plus rageant que d'injecter gratuitement son surplus de production d'électricité sur le réseau d'Enedis. Pour pallier cela, il existe une solution facile à installer, et bien moins chère qu'une batterie : le routeur solaire.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/generated-image-4.png?resize=1200,675&key=8166c312",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/150-a-l-achat-300-d-economies-par-an-pourquoi-le-routeur-solaire-bat-tou-13abc84a46.html"
     },
     {
       "title": "Des robots humanoïdes s'affrontent lors d'une soirée de combats à Shanghai",
@@ -120,16 +112,6 @@
       "image": "https://images.euronews.com/articles/stories/09/92/12/25/696x392_cmsv2_b74d8029-19c2-5053-bea5-343c6193856e-9921225.jpg",
       "category": "IA & Tech",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-robots-humanoides-s-affrontent-lors-d-une-soiree-de-combats-a-shangh-8236118909.html"
-    },
-    {
-      "title": "Notre prise en main du Googlebook en vidéo : quand Google fusionne Android et Chrome OS",
-      "url": "https://www.frandroid.com/video/3254781_notre-prise-en-main-du-googlebook-en-video-quand-google-fusionne-android-et-chrome-os",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-21T17:32:00.000Z",
-      "summary": "Google s'apprête à tourner définitivement la page des Chromebook. Conçus autour d'Android et dopés à l'intelligence artificielle, les nouveaux Googlebook veulent bousculer le monopole de Windows et d'Apple.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/youtube-cover-hivgz5yetrq.jpg?resize=1200,675&key=0759dca4",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/notre-prise-en-main-du-googlebook-en-video-quand-google-fusionne-android-a548ea8672.html"
     }
   ]
 }
