@@ -1,25 +1,88 @@
 {
-  "updatedAt": "2026-09-22T19:10:29.512Z",
+  "updatedAt": "2026-09-22T22:05:48.630Z",
   "items": [
     {
-      "title": "OpenAI lance GPT-6 Sol, quelques minutes après la sortie de Claude Opus 5.5",
-      "url": "https://www.frandroid.com/marques/openai/3256771_openai-lance-gpt-6-sol-quelques-minutes-apres-la-sortie-de-claude-opus-5-5",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-22T18:39:57.000Z",
-      "summary": "OpenAI a lancé GPT-6 Sol quelques minutes seulement après qu'Anthropic a présenté Claude Opus 5.5. Deux modèles rivaux dévoilés le même jour, dans le même mouchoir de poche.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/chatgpt-1-milliard-utilisateurs-pochoir.jpeg?resize=1200,675&key=83142e6f",
+      "title": "Des robots dansent jusqu'à la finale d'America's Got Talent avec leur partenaire humain",
+      "url": "https://fr.euronews.com/video/2026/09/22/des-robots-dansent-jusqua-la-finale-damericas-got-talent-avec-leur-partenaire-humain",
+      "source": "Euronews",
+      "publishedAt": "2026-09-22T20:00:09.000Z",
+      "summary": "La danseuse chinoise Wu Yufei se prépare pour la finale d'America's Got Talent aux côtés d'une équipe de robots humanoïdes de l'entreprise chinoise de robotique Unitree.",
+      "image": "https://images.euronews.com/articles/stories/09/92/25/60/696x392_cmsv2_56a44ae4-d97d-5b9b-847e-37b1ec6b1bad-9922560.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/openai-lance-gpt-6-sol-quelques-minutes-apres-la-sortie-de-claude-opus-5-ea2c15e082.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-robots-dansent-jusqu-a-la-finale-d-america-s-got-talent-avec-leur-pa-a0ec341101.html"
     },
     {
-      "title": "Après le smartphone, MediaTek vise le PC Android avec le Dimensity CX C10 Max",
-      "url": "https://www.frandroid.com/marques/mediatek-materiels-accessoires/3256791_apres-le-smartphone-mediatek-vise-le-pc-android-avec-le-dimensity-cx-c10-max",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-22T18:30:07.000Z",
-      "summary": "MediaTek a présenté le 21 septembre 2026 le Dimensity CX C10 Max, sa première puce pour ordinateur portable, taillée pour les Googlebooks. Elle manque pourtant à l'appel des premiers modèles lancés le même jour, tous sous Intel ou Qualcomm.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/image-439.png?resize=1200,675&key=1b170be2",
+      "title": "Ukraine, Gaza, IA : ce qu'il faut retenir du discours d'Emmanuel Macron à l'ONU",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260922-ukraine-gaza-ia-ce-qu-il-faut-retenir-du-discours-d-emmanuel-macron-%C3%A0-l-onu",
+      "source": "France 24",
+      "publishedAt": "2026-09-22T19:46:22.000Z",
+      "summary": "Le président français, Emmanuel Macron, a pris la parole, mardi, à la tribune de l’Assemblée générale de l’ONU, pour sa dernière intervention en tant que chef de l’État. Il a notamment appelé à \"ne rien céder\" à \"l’esprit de défaite\" et à \"l’abus de pouvoir\", et à se \"tenir droit aux côtés des Nations unies\" face à \"la",
+      "image": "https://s.france24.com/media/display/1a0a7a22-b6bd-11f1-be68-1d61c7110e09/w:1024/p:16x9/AP26265675284236.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-le-smartphone-mediatek-vise-le-pc-android-avec-le-dimensity-cx-c10-0e9e075155.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-gaza-ia-ce-qu-il-faut-retenir-du-discours-d-emmanuel-macron-a-l--96b7221326.html"
+    },
+    {
+      "title": "Kiev et Washington veulent que la guerre s'arrête \"avant l'hiver\", assure Volodymyr Zelensky",
+      "url": "https://www.france24.com/fr/europe/20260922-kiev-washington-veulent-que-guerre-russie-arrete-avant-hiver-volodymyr-zelensky-ukraine-etats-unis-ag-onu-donald-trump-negociations-moratoire-energetique-patriots",
+      "source": "France 24",
+      "publishedAt": "2026-09-22T21:39:49.000Z",
+      "summary": "Évoquant \"une rencontre productive avec Donald Trump\" en marge de l'Assemblée générale de l'ONU à New York, le président ukrainien a déclaré que leurs deux pays voulaient que la guerre avec la Russie prenne fin \"avant l'hiver\". Ils ont discuté de \"potentielles étapes de désescalade susceptibles d'ouvrir la voie à la di",
+      "image": "https://s.france24.com/media/display/8fc1ad66-b6cd-11f1-9bea-557acd7c815c/w:1024/p:16x9/2026-09-22T185321Z-294428292-RC2IONAPQIAG-RTRMADP-3-UN-ASSEMBLY-ZELENSKIY-TRUMP.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/kiev-et-washington-veulent-que-la-guerre-s-arrete-avant-l-hiver-assure-v-0db6d16aaf.html"
+    },
+    {
+      "title": "RD Congo : Démonstration de force de l'UPDS à Kinshasa",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260922-rd-congo-d%C3%A9monstration-de-force-de-l-upds-%C3%A0-kinshasa",
+      "source": "France 24",
+      "publishedAt": "2026-09-22T21:15:16.000Z",
+      "summary": "En RD Congo, les militants de la majorité au pouvoir ont défilé en masse pour soutenir le président Félix Tshisekedi. Une mobilisation organisée une semaine après celle de l’opposition. Objectif affiché : montrer le soutien du camp présidentiel au projet de changement de Constitution.",
+      "image": "https://s.france24.com/media/display/007f0802-b6c7-11f1-8e46-557acd7c815c/w:1024/p:16x9/DN197043-A-01-20260917-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rd-congo-demonstration-de-force-de-l-upds-a-kinshasa-1543a24a73.html"
+    },
+    {
+      "title": "Des artistes à Bogotá protestent contre les coupes dans la culture",
+      "url": "https://fr.euronews.com/video/2026/09/22/des-artistes-a-bogota-protestent-contre-les-coupes-dans-la-culture",
+      "source": "Euronews",
+      "publishedAt": "2026-09-22T21:00:02.000Z",
+      "summary": "Des centaines d'artistes et d'étudiants en arts du spectacle sont descendus dans les rues de Bogotá pour protester contre les coupes prévues dans le budget culturel de la Colombie et la suspension de certaines bourses nationales pour les arts.",
+      "image": "https://images.euronews.com/articles/stories/09/92/25/14/696x392_cmsv2_e8ef2ab8-0d93-5549-86a0-cad7f53ea7f5-9922514.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-artistes-a-bogota-protestent-contre-les-coupes-dans-la-culture-8a3afe9b1b.html"
+    },
+    {
+      "title": "Guerre au Yémen: le nombre de déplacés dans des situations extrêmes pourrait battre des records, selon l’ONU",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20260922-guerre-au-y%C3%A9men-le-nombre-de-d%C3%A9plac%C3%A9s-dans-des-situations-extr%C3%AAmes-pourrait-battre-des-records-selon-l-onu",
+      "source": "RFI",
+      "publishedAt": "2026-09-22T19:58:47.000Z",
+      "summary": "Au moins 154 personnes sont mortes ces derniers jours au Yémen, dans les combats entre les Houthis et les forces loyalistes soutenues par l'Arabie saoudite. Les violences poussent de plus en plus d'habitants à fuir dans le pays et à l'étranger. Plus de 130 000 personnes ont déjà été déplacées depuis le début du mois, m",
+      "image": "https://s.rfi.fr/media/display/b5659268-b6ae-11f1-9fd7-557acd7c815c/w:1024/p:16x9/000-C8D49WD.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-au-yemen-le-nombre-de-deplaces-dans-des-situations-extremes-pourr-48f96e1a41.html"
+    },
+    {
+      "title": "Emmanuel Macron à l'ONU : ce qu'il faut retenir de son discours ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-emmanuel-macron-%C3%A0-l-onu-ce-qu-il-faut-retenir-de-son-discours",
+      "source": "France 24",
+      "publishedAt": "2026-09-22T19:44:01.000Z",
+      "summary": "Le président français Emmanuel Macron, qui s'exprimait dans le cadre de l'Assemblée générale des Nations Unies, a mis en garde mardi 22 septembre contre le \"retour de la loi de la jungle\" dans le monde et appelé à se tenir \"droit aux côtés des Nations Unies\". Que faut-il retenir de son discours à New York ? Le décrypta",
+      "image": "https://s.france24.com/media/display/7aadf17e-b6bd-11f1-9cd0-557acd7c815c/w:1024/p:16x9/2026-09-22T191602Z-1851268893-RC2IONA5DJ3M-RTRMADP-3-UN-ASSEMBLY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/emmanuel-macron-a-l-onu-ce-qu-il-faut-retenir-de-son-discours-3ac89bb536.html"
+    },
+    {
+      "title": "Attentats de 2019 au Sri Lanka: la justice condamne 15 condamnés à de très lourdes peines de prison",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20260922-attentats-de-2019-au-sri-lanka-la-justice-condamne-15-condamn%C3%A9s-%C3%A0-de-tr%C3%A8s-lourdes-peines-de-prison",
+      "source": "RFI",
+      "publishedAt": "2026-09-22T19:39:42.000Z",
+      "summary": "Une quinzaine de personnes ont été reconnues coupables mardi 22 septembre à Colombo d'avoir participé aux terribles attentats-suicides du dimanche de Pâques 2019 au Sri Lanka, qui avaient fait 279 morts et des centaines de blessés. La haute cour du pays a condamné chacun des 15 hommes à une peine de 220 ans de prison.",
+      "image": "https://s.rfi.fr/media/display/4e8d1ca0-b6bd-11f1-b5ff-557acd7c815c/w:1024/p:16x9/000-C8Y23ZA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/attentats-de-2019-au-sri-lanka-la-justice-condamne-15-condamnes-a-de-tre-8932fd93a4.html"
+    },
+    {
+      "title": "Gaza : Emmanuel Macron dénonce devant l'ONU \"un spectacle qui nous fait honte à tous\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-gaza-macron-d%C3%A9nonce-devant-l-onu-un-spectacle-qui-nous-fait-honte-%C3%A0-tous",
+      "source": "France 24",
+      "publishedAt": "2026-09-22T19:38:44.000Z",
+      "summary": "Le ⁠président français Emmanuel ​Macron a tenu ce mardi un ⁠discours à la tribune de l'Assemblée générale des Nations unies. Il a notamment a critiqué les efforts de paix pour la ​bande de Gaza, déclarant qu'aucune voie humanitaire n'a été ouverte depuis une \"paix prétendue\" dans l'enclave palestinienne et décrivant la",
+      "image": "https://s.france24.com/media/display/785a5a7e-b6be-11f1-a5a7-e554abee39f5/w:1024/p:16x9/2026-09-22T191602Z-1359064408-RC2IONAG6TBS-RTRMADP-3-UN-ASSEMBLY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gaza-emmanuel-macron-denonce-devant-l-onu-un-spectacle-qui-nous-fait-hon-7c1866b8a6.html"
     },
     {
       "title": "Trump menace de \"anéantir\" l'Iran à l'ONU puis confirme des pourparlers directs",
@@ -96,72 +159,8 @@
       "source": "France 24",
       "publishedAt": "2026-09-22T16:12:33.000Z",
       "summary": "Le président des États-Unis a centré son discours sur la politique interne du pays, à moins d'un mois et demi des \"midterms\". Il a dressé un bilan de l'armée américaine en insistant sur la question des munitions, contredisant ainsi les alertes du Pentagone concernant l'épuisement des stocks suite aux aides apportées en",
-      "image": "https://s.france24.com/media/display/12c00714-b69f-11f1-91ad-d382746d948a/w:1024/p:16x9/FR-20260922-170528-172500-CS.jpg",
+      "image": "https://s.france24.com/media/display/3d8c0e4c-b6be-11f1-8c69-d5a6f2570fbe/w:1024/p:16x9/2026-09-22T153811Z-1522533895-RC2FONAE1982-RTRMADP-3-UN-ASSEMBLY.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/onu-retour-sur-le-discours-de-trump-qui-reaffirme-sa-puissance-73297ed57a.html"
-    },
-    {
-      "title": "Médias bannis par Donald Trump: «nous assistons à une probable fuite en avant autoritaire» en amont des élections",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260922-m%C3%A9dias-bannis-par-donald-trump-nous-assistons-%C3%A0-une-probable-fuite-en-avant-autoritaire-en-amont-des-%C3%A9lections",
-      "source": "RFI",
-      "publishedAt": "2026-09-22T16:07:17.000Z",
-      "summary": "Les téléspectateurs américains ont dû voir Donald Trump inaugurer lundi 21 septembre un chantier qui lui tient à cœur sans le son. Pour la première fois, les grandes chaînes américaines et les photographes de plusieurs médias ont fait bloc autour de CNN, MS Now et Politico après la décision du président américain d’int",
-      "image": "https://s.rfi.fr/media/display/240efaaa-b69c-11f1-8bb3-557acd7c815c/w:1024/p:16x9/AP26264622093127.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/medias-bannis-par-donald-trump-nous-assistons-a-une-probable-fuite-en-av-00c23a786c.html"
-    },
-    {
-      "title": "Donald Trump signe avec le Danemark et le Groenland un accord après des mois de tensions",
-      "url": "https://www.france24.com/fr/europe/20260922-donald-trump-signe-avec-le-danemark-et-le-groenland-un-accord-apr%C3%A8s-des-mois-de-tensions",
-      "source": "France 24",
-      "publishedAt": "2026-09-22T16:04:01.000Z",
-      "summary": "Après plusieurs mois de tensions, le président américain Donald Trump a signé, mardi, à New York, un accord avec le Danemark et le Groenland visant à renforcer la sécurité dans l’Arctique et l’Atlantique Nord. Le texte prévoit notamment de renforcer la présence militaire américaine sur l'île, tout en maintenant le terr",
-      "image": "https://s.france24.com/media/display/bcb02d56-b69c-11f1-807d-1d61c7110e09/w:1024/p:16x9/2026-09-22T153718Z-118413333-RC2FONADCAQH-RTRMADP-3-USA-TRUMP-GREENLAND.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-signe-avec-le-danemark-et-le-groenland-un-accord-apres-des--e9701f8c48.html"
-    },
-    {
-      "title": "ONU : Trump assure que Cuba \"va tomber\" créant l'indignation des diplomates",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-onu-trump-assure-que-cuba-va-tomber-cr%C3%A9ant-l-indignation-des-diplomates",
-      "source": "France 24",
-      "publishedAt": "2026-09-22T16:00:45.000Z",
-      "summary": "Donald Trump a assuré mardi 22 septembre à la tribune de l'ONU que Cuba allait \"tomber\", sans dire comment, en déclarant que son gouvernement voulait un \"changement de fond\" dans l'île. Le ministre cubain des Affaires étrangères, Bruno Rodriguez, a qualifié de \"calomnies\" les déclarations du président des États-Unis.",
-      "image": "https://s.france24.com/media/display/7ff421cc-b69e-11f1-8b7f-4d220c210a04/w:1024/p:16x9/2026-09-22T151041Z-1623849255-RC2EONAO37QR-RTRMADP-3-UN-ASSEMBLY-TRUMP.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/onu-trump-assure-que-cuba-va-tomber-creant-l-indignation-des-diplomates-d6bf94792f.html"
-    },
-    {
-      "title": "Plaque d’immatriculation verte en France : voici ce qu’elle signifie et comment la déchiffrer",
-      "url": "https://www.01net.com/actualites/plaque-dimmatriculation-verte-en-france-voici-ce-quelle-signifie-et-comment-la-dechiffrer.html",
-      "source": "01net",
-      "publishedAt": "2026-09-22T16:00:10.000Z",
-      "summary": "Les plaques d’immatriculation vertes indiquent un statut bien particulier. Par ailleurs, les chiffres et les lettres qui les composent permettent d’obtenir des informations plus précises sur ce statut.",
-      "image": "https://www.01net.com/app/uploads/2026/09/Plaque-dimmatriculation-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/plaque-d-immatriculation-verte-en-france-voici-ce-qu-elle-signifie-et-co-05abea493b.html"
-    },
-    {
-      "title": "Séoul change de cap et propose un simple «gel» du programme nucléaire nord-coréen contre un allègement des sanctions",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20260922-s%C3%A9oul-change-de-cap-et-propose-un-simple-gel-du-programme-nucl%C3%A9aire-nord-cor%C3%A9en-contre-un-all%C3%A8gement-des-sanctions",
-      "source": "RFI",
-      "publishedAt": "2026-09-22T15:54:05.000Z",
-      "summary": "Une petite phrase en apparence, mais une rupture majeure : le président sud-coréen Lee Jae-myung a appelé lundi 21 septembre, dans le New York Times et auprès de l’Associated Press, les États-Unis à demander un « gel » du programme nucléaire nord-coréen, et non plus sa suppression.",
-      "image": "https://s.rfi.fr/media/display/0560c01e-b68f-11f1-9802-557acd7c815c/w:1024/p:16x9/2026-09-21T081301Z-1854968848-RC2ELNA0YCW3-RTRMADP-3-SOUTHKOREA-POLITICS-RESIGNATION.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/seoul-change-de-cap-et-propose-un-simple-gel-du-programme-nucleaire-nord-aafe4072a1.html"
-    },
-    {
-      "title": "Une frappe russe fait quatre morts en Ukraine : Zelensky tente de relancer les négociations",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260922-une-frappe-russe-fait-quatre-morts-en-ukraine-zelensky-tente-de-relancer-les-n%C3%A9gociations",
-      "source": "France 24",
-      "publishedAt": "2026-09-22T15:51:10.000Z",
-      "summary": "Des frappes russes ont tué, dans la nuit du lundi 21 septembre, au moins quatre personnes à Dnipro, grande ville du centre-est de l'Ukraine. Une nuit de bombardement tandis que le président Volodymyr Zelensky se trouve à New York pour tenter de relancer les négociations de paix lors de l'Assemblée générale de l'ONU.",
-      "image": "https://s.france24.com/media/display/42a0b454-b697-11f1-82ad-d5a6f2570fbe/w:1024/p:16x9/FR-20260922-160330-160506-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-frappe-russe-fait-quatre-morts-en-ukraine-zelensky-tente-de-relancer-0b725c6fe2.html"
-    },
-    {
-      "title": "Médias bannis de la Maison Blanche: Trump est dans un «contexte de frustration et cherche à animer sa base»",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260922-m%C3%A9dias-bannis-de-la-maison-blanche-trump-est-dans-un-contexte-de-frustration-et-cherche-%C3%A0-animer-sa-base",
-      "source": "RFI",
-      "publishedAt": "2026-09-22T15:35:54.000Z",
-      "summary": "C’est une nouvelle bataille contre la presse que Donald Trump a engagée vendredi 18 septembre. Le président états-unien a décidé d’interdire l'accès à la Maison Blanche à trois médias : CNN, MS Now et Politico. Il les accuse de délivrer de fausses informations et assure que cela « constitue une menace pour la sécurité ",
-      "image": "https://s.rfi.fr/media/display/7cece034-b682-11f1-9a9d-4d220c210a04/w:1024/p:16x9/2026-09-21T151403Z-133715442-RC2RNNA0PIGA-RTRMADP-3-USA-TRUMP-MEDIA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/medias-bannis-de-la-maison-blanche-trump-est-dans-un-contexte-de-frustra-5be28f3f3e.html"
     }
   ]
 }
