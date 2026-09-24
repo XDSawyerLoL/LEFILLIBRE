@@ -1,157 +1,175 @@
 {
-  "updatedAt": "2026-09-24T04:43:38.847Z",
+  "updatedAt": "2026-09-24T09:33:39.621Z",
   "items": [
     {
-      "title": "Les Meta Ray-Ban Display débarquent en France : on a pu les prendre en main en avant-première",
-      "url": "https://www.01net.com/actualites/meta-ray-ban-display-debarquent-france-prendre-main-avant-premiere.html",
+      "title": "Australie : un site gouvernemental a été infiltré par l'IA d'OpenAI",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-australie-un-site-gouvernemental-a-%C3%A9t%C3%A9-infiltr%C3%A9-par-l-ia-d-openai",
+      "source": "France 24",
+      "publishedAt": "2026-09-24T09:28:16.000Z",
+      "summary": "Un agent autonome du géant américain de l'intelligence artificielle OpenAI a infiltré un site Internet gouvernemental australien en juin, un incident qualifié d'\"inacceptable\" par le Premier ministre Anthony Albanese. Cet agent d'IA a accédé à des fichiers publics et non publics du service de statistiques de la santé, ",
+      "image": "https://s.france24.com/media/display/4fc595de-b7f3-11f1-9cdd-41bcac5946c5/w:1024/p:16x9/FR-20260924-090948-091505-CS.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/australie-un-site-gouvernemental-a-ete-infiltre-par-l-ia-d-openai-57e2f80443.html"
+    },
+    {
+      "title": "Cdiscount propose -315 € sur un laptop au rapport équipement/prix agressif, avec Ryzen 5 et 16+512 Go",
+      "url": "https://www.frandroid.com/bons-plans/3259005_cdiscount-propose-315-e-sur-un-laptop-au-rapport-equipement-prix-agressif-avec-ryzen-5-et-16512-go",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-24T09:26:00.000Z",
+      "summary": "Le Lenovo IdeaPad Slim 3 15ARP10 est un laptop bureautique polyvalent, léger et abordable puisqu'il s'affiche à 484,99 euros au lieu de 799,99 euros sur Cdiscount.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/lenovo-ideapad-slim-3-15arp10.jpg?resize=1200,675&key=07f66c66",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cdiscount-propose-315-sur-un-laptop-au-rapport-equipement-prix-agressif--0e8fe01b29.html"
+    },
+    {
+      "title": "États-Unis - Chine : Donald Trump accueille chaleureusement Xi Jinping à l'aéroport",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260924-%C3%A9tats-unis-chine-donald-trump-accueille-chaleureusement-xi-jinping-%C3%A0-l-a%C3%A9roport",
+      "source": "France 24",
+      "publishedAt": "2026-09-24T09:16:21.000Z",
+      "summary": "Après s'être déplacé mercredi 23 septembre pour accueillir Xi Jinping à sa descente d'avion, Donald Trump sera de nouveau aux petits soins, ce jeudi 24 septembre, pour le président chinois, dont la visite a déjà rempli son principal objectif : prolonger la trêve commerciale entre Washington et Pékin.",
+      "image": "https://s.france24.com/media/display/3d8d3be2-b7f8-11f1-baf4-41bcac5946c5/w:1024/p:16x9/2026-09-24T074023Z-640461056-RC2APNAZPHQP-RTRMADP-3-USA-CHINA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-chine-donald-trump-accueille-chaleureusement-xi-jinping-a-l-a-c4f595bffa.html"
+    },
+    {
+      "title": "Afrique du Sud: l’activiste anti-occidental Kemi Seba mise sur le Niger pour éviter l'extradition au Bénin",
+      "url": "https://www.rfi.fr/fr/afrique/20260924-afrique-du-sud-l-activiste-anti-occidental-kemi-seba-mise-sur-le-niger-pour-%C3%A9viter-l-extradition-au-b%C3%A9nin",
+      "source": "RFI",
+      "publishedAt": "2026-09-24T09:04:32.000Z",
+      "summary": "En Afrique du Sud, Kemi Seba était de retour au tribunal de Pretoria. L’activiste béninois anti-occidental avait été arrêté il y a un peu moins de six mois lors d’un coup de filet entre les autorités sud-africaines et Interpol. Il y est depuis en détention, et une procédure d'extradition vers le Bénin a été lancée. Un ",
+      "image": "https://s.rfi.fr/media/display/83ea90a2-3d7e-11f1-a7b5-005056a97e36/w:1024/p:16x9/Emmanuel-Croset-AFP.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-l-activiste-anti-occidental-kemi-seba-mise-sur-le-niger-p-e794fec265.html"
+    },
+    {
+      "title": "Rachat de SFR : 5 000 emplois menacés d’ici 2029, les salariés en grève ce jeudi",
+      "url": "https://www.01net.com/actualites/rachat-de-sfr-5-000-emplois-menaces-dici-2029-les-salaries-en-greve-ce-jeudi.html",
       "source": "01net",
-      "publishedAt": "2026-09-24T04:30:34.000Z",
-      "summary": "Meta lance ses Ray-Ban Display, ses lunettes à écran intégré, en France. Prises en main en avant-première, elles impressionnent par leur écran intégré dans le verre, mais souffrent d'un point faible : le bracelet de navigation, indispensable pour contrôler l'affichage.",
-      "image": "https://www.01net.com/app/uploads/2026/09/ray-ban-display-1344x896.jpg",
+      "publishedAt": "2026-09-24T08:46:46.000Z",
+      "summary": "Alors que près de 5000 emplois sont menacés dans le rachat de SFR, les représentants syndicaux et les délégués du personnel organisent la riposte. Une grève et prévue ce jeudi après-midi, et deux actions en justice sont en cours.",
+      "image": "https://www.01net.com/app/uploads/2024/09/sfr-hack-pirates-1360x907.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-meta-ray-ban-display-debarquent-en-france-on-a-pu-les-prendre-en-mai-50e1c0befa.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rachat-de-sfr-5-000-emplois-menaces-d-ici-2029-les-salaries-en-greve-ce--d9c28fa04f.html"
     },
     {
-      "title": "Nikon lance le Z5 IIC, un hybride plein format sans viseur à 1 549 euros",
-      "url": "https://www.frandroid.com/marques/nikon/3257457_nikon-lance-le-z5-iic-un-hybride-plein-format-sans-viseur-a-1-549-euros",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-24T04:00:00.000Z",
-      "summary": "Nikon lance ce jeudi 24 septembre le Z5 IIC, un hybride plein format à 1 549 euros qui supprime le viseur pour cibler les créateurs venus du smartphone. Disponible mi-octobre, il reprend le capteur et le processeur du Z5 II, dans une version moins équipée.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/z5iic-01-usdd-0288.jpg?resize=1200,675&key=bca7a16b",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nikon-lance-le-z5-iic-un-hybride-plein-format-sans-viseur-a-1-549-euros-d2bfbe8a01.html"
-    },
-    {
-      "title": "À l'ONU, Zelensky pointe Poutine du doigt alors que l'Europe commence à anticiper une attaque russe",
-      "url": "https://www.rfi.fr/fr/europe/20260924-%C3%A0-l-onu-zelensky-pointe-poutine-du-doigt-alors-que-l-europe-commence-%C3%A0-anticiper-une-attaque-russe",
-      "source": "RFI",
-      "publishedAt": "2026-09-24T04:30:25.000Z",
-      "summary": "Volodymyr Zelensky s'est exprimé à la tribune de l'ONU mercredi, en s'attaquant à Vladimir Poutine, sa guerre et le besoin de poursuivre, encore et toujours, les sanctions contre la Russie. Un discours qui vient résonner avec l'idée, qui prend de l'épaisseur en Europe, qu'une attaque directe de la Russie contre de nouv",
-      "image": "https://s.rfi.fr/media/display/52f00c8c-b7ce-11f1-b7e6-55848da96185/w:1024/p:16x9/AP26266647940636.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-l-onu-zelensky-pointe-poutine-du-doigt-alors-que-l-europe-commence-a-a-1cc9b78a05.html"
-    },
-    {
-      "title": "Violences politiques de 2021-2024 au Sénégal: la justice a procédé à trois premières inculpations",
-      "url": "https://www.rfi.fr/fr/afrique/20260924-violences-politiques-de-2021-2024-au-s%C3%A9n%C3%A9gal-la-justice-a-proc%C3%A9d%C3%A9-%C3%A0-trois-premi%C3%A8res-inculpations",
-      "source": "RFI",
-      "publishedAt": "2026-09-24T03:04:06.000Z",
-      "summary": "Deux ans après la plainte pour « séquestration et enlèvement illégal » déposée par le jeune militant du Pastef Pape Abdoulaye Touré, un agent de sécurité du campus de l’Université Cheikh-Anta-Diop de Dakar a été placé en détention préventive et deux autres membres de l'équipe de l'ex-ministre de la Jeunesse Pape Malick",
-      "image": "https://s.rfi.fr/media/display/8b954b1e-0dd6-11ea-9e39-005056a9aa4d/w:1024/p:16x9/palais_de_justice_1_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/violences-politiques-de-2021-2024-au-senegal-la-justice-a-procede-a-troi-5fda4513ca.html"
-    },
-    {
-      "title": "Éthiopie: le TPLF et ses alliés lancent une offensive coordonnée sur trois fronts dans le nord du pays",
-      "url": "https://www.rfi.fr/fr/afrique/20260924-%C3%A9thiopie-le-tplf-et-ses-alli%C3%A9s-lancent-une-offensive-coordonn%C3%A9e-sur-trois-fronts-dans-le-nord-du-pays",
-      "source": "RFI",
-      "publishedAt": "2026-09-24T03:03:50.000Z",
-      "summary": "Deux jours après l’annonce de la formation d’une nouvelle coalition d’opposition dont l’objectif est de renverser le gouvernement fédéral, les groupes rebelles ont pris le contrôle de la ville d'Abala, en Afar, et des aéroports de Mekele, d'Axoum et de Shire, au Tigré. Depuis mercredi 23 septembre, ils encerclent égale",
-      "image": "https://s.rfi.fr/media/display/c2c276f4-b7be-11f1-8c7a-55848da96185/w:1024/p:16x9/2026-09-23T161451Z-294633370-RC23PNAQKQF2-RTRMADP-3-ETHIOPIA-SECURITY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ethiopie-le-tplf-et-ses-allies-lancent-une-offensive-coordonnee-sur-troi-442e202ba1.html"
-    },
-    {
-      "title": "En direct : isolé et sur la défensive, un Benjamin Netanyahu combatif attendu à l'ONU",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260924-en-direct-onu-assemblee-generale-benjamin-netanyahu-israel-mahmoud-abbas",
-      "source": "France 24",
-      "publishedAt": "2026-09-24T02:53:59.000Z",
-      "summary": "Le Premier ministre israélien Benjamin Netanyahu prend la parole à la tribune de l'ONU jeudi, où il ne manquera pas de pourfendre l'institution et ses opposants. Le conflit israélo-palestinien sera au centre de cette troisième journée de débats à l'Assemblée générale, devant laquelle interviendra également le président",
-      "image": "https://s.france24.com/media/display/f503ca1a-ab65-11f1-9d61-005056bf30b7/w:1024/p:16x9/AP25314623414395.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-isole-et-sur-la-defensive-un-benjamin-netanyahu-combatif-atten-8b0be918c3.html"
-    },
-    {
-      "title": "Guerre en Ukraine : des missiles russes font plusieurs morts à Kiev",
-      "url": "https://www.france24.com/fr/europe/20260924-guerre-en-ukraine-des-missiles-russes-font-plusieurs-morts-%C3%A0-kiev",
-      "source": "France 24",
-      "publishedAt": "2026-09-24T00:51:37.000Z",
-      "summary": "La capitale ukrainienne Kiev a été la cible de missiles russes jeudi. Le président Volodymyr Zelensky déplore la mort d'au moins deux personnes et précise que des \"infrastructures civiles, des immeubles d'habitation, une maternité, des installations énergétiques et des infrastructures logistiques\" ont été touchés.",
-      "image": "https://s.france24.com/media/display/4b5bb5ac-b76a-11f1-90c9-55848da96185/w:1024/p:16x9/e3677ec1479427ddf50e3ae204c8242e58385bc6.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-des-missiles-russes-font-plusieurs-morts-a-kiev-e60084a7d6.html"
-    },
-    {
-      "title": "Washington et Pékin s'accordent pour prolonger leur trêve commerciale jusqu'au 10 janvier 2027",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260924-washington-et-p%C3%A9kin-s-accordent-pour-prolonger-leur-tr%C3%AAve-commerciale-jusqu-au-10-janvier",
-      "source": "RFI",
-      "publishedAt": "2026-09-24T00:42:48.000Z",
-      "summary": "Au moment où le président américain Donald Trump accueillait en grande pompe son homologue chinois Xi Jinping qui a entamé dans la soirée du mercredi 23 septembre une visite d'État de trois jours aux États-Unis, le secrétaire américain au Trésor, Scott Bessent, a annoncé sur Fox News que Washington et Pékin s'étaient e",
-      "image": "https://s.rfi.fr/media/display/b81c8202-b7b0-11f1-9936-55848da96185/w:1024/p:16x9/AP26266804050866.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/washington-et-pekin-s-accordent-pour-prolonger-leur-treve-commerciale-ju-449da9d04f.html"
-    },
-    {
-      "title": "L'IA d'OpenAI infiltre un site du gouvernement australien : un incident \"inacceptable\"",
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20260924-l-ia-d-openai-infiltre-un-site-du-gouvernement-australien-un-incident-inacceptable",
-      "source": "France 24",
-      "publishedAt": "2026-09-24T00:11:35.000Z",
-      "summary": "Un agent autonome d'OpenAI a été impliqué dans une nouvelle intrusion, et cette fois c'est un site internet du gouvernement australien qui a été visé au mois de juin. Le Premier ministre australien a indiqué mercredi avoir exprimé \"sa vive inquiétude\" au patron d'OpenAI au sujet de cet incident \"inacceptable\", alors qu",
-      "image": "https://s.france24.com/media/display/805cb822-b7ac-11f1-b774-55848da96185/w:1024/p:16x9/944add25d03abd7c1bf9296d78104c8310a090fe.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ia-d-openai-infiltre-un-site-du-gouvernement-australien-un-incident-in-e9984bb742.html"
-    },
-    {
-      "title": "Des fouilles archéologiques à Paris dévoilent un rempart révélant les origines gauloises de la capitale",
-      "url": "https://www.rfi.fr/fr/france/20260923-des-fouilles-arch%C3%A9ologiques-%C3%A0-paris-d%C3%A9voilent-un-rempart-r%C3%A9v%C3%A9lant-les-origines-gauloises-de-la-capitale",
-      "source": "RFI",
-      "publishedAt": "2026-09-23T23:27:28.000Z",
-      "summary": "La découverte émeut les archéologues et les passionnés d'histoire : des fouilles menées cet été en plein cœur de Paris ont permis de mettre au jour un pan de mur qui indique pour la première fois le lieu exact de l'occupation gauloise de la ville au Ier siècle av. J.-C. Ce pan de Lutèce est localisé près de l’Hôtel Die",
-      "image": "https://s.rfi.fr/media/display/0d39db78-b7a6-11f1-be40-833f01c30b8b/w:1024/p:16x9/000-C94W2CQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-fouilles-archeologiques-a-paris-devoilent-un-rempart-revelant-les-or-7be89d5358.html"
-    },
-    {
-      "title": "Ukraine: les combats s’intensifient autour d’Izioum, les habitants redoutent un retour de l'occupation russe",
-      "url": "https://www.rfi.fr/fr/europe/20260923-ukraine-les-combats-s-intensifient-autour-d-izioum-les-habitants-redoutent-un-retour-de-l-occupation-russe",
-      "source": "RFI",
-      "publishedAt": "2026-09-23T22:46:19.000Z",
-      "summary": "« Il est le patient zéro, celui à partir duquel cette idée de guerre ne cesse de se propager ». À la tribune de l’ONU, mercredi 23 septembre, Volodymyr Zelensky a dénoncé la « folie » meurtrière de Vladimir Poutine, exhorté ses alliés à maintenir les sanctions contre Moscou et promis à la Russie un hiver douloureux. Da",
-      "image": "https://s.rfi.fr/media/display/42f55694-b79b-11f1-9688-833f01c30b8b/w:1024/p:16x9/La-route-qui-m%C3%A8ne-%C3%A0-Izioum-est-prot%C3%A9g%C3%A9e-par-un-filet-anti-drones.jpeg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-les-combats-s-intensifient-autour-d-izioum-les-habitants-redoute-13ddf903c5.html"
-    },
-    {
-      "title": "Meta Ray-Ban Display : les lunettes avec écran déboulent en France à 899 euros",
-      "url": "https://www.frandroid.com/marques/meta/3258167_meta-ray-ban-display-les-lunettes-avec-ecran-deboulent-en-france-a-899-euros",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-24T00:04:00.000Z",
-      "summary": "Meta ouvre ce mercredi 23 septembre 2026 les précommandes de ses Ray-Ban Display en France, à 899 euros, pour une disponibilité le 13 octobre. Ces lunettes connectées embarquent un petit écran couleur logé devant l'œil droit.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/meta-ray-ban-display-2.jpg?resize=1200,675&key=cf7360bd",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/meta-ray-ban-display-les-lunettes-avec-ecran-deboulent-en-france-a-899-e-aa59508380.html"
-    },
-    {
-      "title": "Les Ray-Ban Meta Audio sont là : pas de caméra, un peu d’IA et un look passe-partout",
-      "url": "https://www.frandroid.com/marques/meta/3256699_les-ray-ban-meta-audio-sont-la-pas-de-camera-un-peu-dia-et-un-look-passe-partout",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-24T00:02:00.000Z",
-      "summary": "Meta lance les Ray-Ban Meta Audio, ses premières lunettes connectées sans caméra, entièrement tournées vers le son. Elles arrivent le 13 octobre en France à 349 euros.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/ray-ban-meta-audio-prise-en-main-1.jpg?resize=1200,675&key=36661756",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-ray-ban-meta-audio-sont-la-pas-de-camera-un-peu-d-ia-et-un-look-pass-9c3525d6a3.html"
-    },
-    {
-      "title": "Ray-Ban Meta (Gen 3) : plus fines, plus autonomes… et plus pratiques ?",
-      "url": "https://www.frandroid.com/marques/meta/3256695_ray-ban-meta-gen-3-plus-fines-plus-autonomes-et-plus-pratiques",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-24T00:01:00.000Z",
-      "summary": "Les Ray-Ban Meta (Gen 3) ont été présentées pendant la Meta Connect 2026. On a pu porter les nouvelles lunettes connectées qui arrivent en France. On retient surtout quelques évolutions pratiques, mais pas de révolution.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/ray-ban-meta-gen-3-prise-en-main-ok-1.jpg?resize=1200,675&key=02d52d3a",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ray-ban-meta-gen-3-plus-fines-plus-autonomes-et-plus-pratiques-b4bebe88f1.html"
-    },
-    {
-      "title": "Meta dégaine 2 nouvelles lunettes connectées Ray-Ban, dont une version sans caméra",
-      "url": "https://www.01net.com/actualites/meta-degaine-2-nouvelles-lunettes-connectees-ray-ban-dont-une-version-sans-camera.html",
+      "title": "« La radio n’est pas une option » : pour éviter sa disparition des voitures, les radios françaises montent au créneau",
+      "url": "https://www.01net.com/actualites/radio-pas-une-option-pour-eviter-disparition-des-voitures-radios-francaises-montent-au-creneau.html",
       "source": "01net",
-      "publishedAt": "2026-09-24T00:00:34.000Z",
-      "summary": "Meta lance deux nouvelles générations de lunettes connectées : les Ray-Ban Meta Gen 3, plus fines et endurantes, et les Ray-Ban Meta Audio, une version sans caméra.",
-      "image": "https://www.01net.com/app/uploads/2026/09/rayban-gen3-meta-1344x896.jpg",
+      "publishedAt": "2026-09-24T08:20:08.000Z",
+      "summary": "Radio France, l'Alliance de la radio et les radios associatives demandent au gouvernement que l'accès à la radio hertzienne reste garanti dans les véhicules neufs. Face à la disparition programmée des récepteurs FM et DAB+ sur certains modèles, des mesures concrètes sont demandées.",
+      "image": "https://www.01net.com/app/uploads/2026/09/radio-voiture-1344x897.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/meta-degaine-2-nouvelles-lunettes-connectees-ray-ban-dont-une-version-sa-e9b76321a1.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-radio-n-est-pas-une-option-pour-eviter-sa-disparition-des-voitures-le-f097ccd9b7.html"
     },
     {
-      "title": "J’ai essayé les Meta VR Glasses : suivi des yeux bluffant, poids plume et gros potentiel",
-      "url": "https://www.frandroid.com/marques/meta/3256371_jai-essaye-les-meta-vr-glasses-suivi-des-yeux-bluffant-poids-plume-et-gros-potentiel",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "summary": "Les nouvelles lunettes de réalité virtuelle Meta VR Glasses ont été annoncées pendant la Meta Connect 2026. J'ai eu l'occasion de les essayer en avant-première et il y a de quoi être enthousiaste. Voici ce qu'il faut retenir.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/meta-vr-glasses-prise-en-main.jpg?resize=1200,675&key=4fec5e8c",
+      "title": "Xi Jinping à Washington : l’IA au menu, la rivalité sous la table",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260924-xi-jinping-%C3%A0-washington-l-ia-au-menu-la-rivalit%C3%A9-sous-la-table",
+      "source": "France 24",
+      "publishedAt": "2026-09-24T08:16:59.000Z",
+      "summary": "Donald Trump reçoit Xi Jinping lors d’un dîner d'État réunissant les principaux patrons américains de la tech et de la finance. Derrière les fastes de la Maison Blanche se joue une bataille pour le contrôle de l’intelligence artificielle mondiale.",
+      "image": "https://s.france24.com/media/display/9c3862ca-b7e9-11f1-bf63-513157f91e8c/w:1024/p:16x9/capture-16909495756ab4d13bc30bb3-35597918.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-essaye-les-meta-vr-glasses-suivi-des-yeux-bluffant-poids-plume-et-g-64af398459.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/xi-jinping-a-washington-l-ia-au-menu-la-rivalite-sous-la-table-88237d0af3.html"
+    },
+    {
+      "title": "Donald Trump ouvre la porte aux voitures chinoises aux États-Unis",
+      "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20260924-donald-trump-xi-jinping-etats-unis-voitures-chinoises",
+      "source": "RFI",
+      "publishedAt": "2026-09-24T07:47:57.000Z",
+      "summary": "Xi Jinping est arrivé ce jeudi 24 septembre à Washington pour une rencontre avec Donald Trump. Au menu des discussions : les droits de douane, l’intelligence artificielle, mais aussi l’automobile. Le président américain a récemment expliqué qu’il ne serait pas opposé à l’installation de constructeurs automobiles chinoi",
+      "image": "https://s.rfi.fr/media/display/6ba2ac30-aac8-11f0-b0dc-005056bfb2b6/w:1024/p:16x9/GettyImages-2217979793-1920.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-ouvre-la-porte-aux-voitures-chinoises-aux-etats-unis-1beb8a8f12.html"
+    },
+    {
+      "title": "Sommet Donald Trump-Xi Jinping: beaucoup d'apparence, peu de substance",
+      "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20260924-sommet-donald-trump-xi-jinping-beaucoup-d-apparence-peu-de-substance",
+      "source": "RFI",
+      "publishedAt": "2026-09-24T07:32:36.000Z",
+      "summary": "C’est l’événement diplomatique de cette fin de semaine. Il se déroule à Washington. Le président américain Donald Trump accueille son homologue chinois Xi Jinping pour leur troisième sommet en un an. Une visite d'État, c'est-à-dire le plus haut niveau en matière de visite diplomatique, et ça a commencé dès hier soir.",
+      "image": "https://s.rfi.fr/media/display/d3f0951a-b7e5-11f1-aae7-cd71256adcef/w:1024/p:16x9/AP26266802538560.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sommet-donald-trump-xi-jinping-beaucoup-d-apparence-peu-de-substance-cfec69743f.html"
+    },
+    {
+      "title": "Donald Trump réserve un accueil grandiose à Xi Jinping",
+      "url": "https://fr.euronews.com/2026/09/24/donald-trump-reserve-un-accueil-grandiose-a-xi-jinping",
+      "source": "Euronews",
+      "publishedAt": "2026-09-24T07:15:00.000Z",
+      "summary": "Dans des propos diffusés par les médias d'État chinois, Xi a dit attendre \"*des échanges approfondis avec le président Trump sur les grandes questions de nos relations bilatérales et de la situation mondiale*\".",
+      "image": "https://images.euronews.com/articles/stories/09/92/55/03/696x392_cmsv2_ac214796-3973-5500-813a-7eab27dbb9f3-9925503.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-reserve-un-accueil-grandiose-a-xi-jinping-1db2e143ee.html"
+    },
+    {
+      "title": "«Les éléphants dans la brume» raconte l’histoire des «kinnars», des femmes transgenres au Népal",
+      "url": "https://www.rfi.fr/fr/culture/20260924-les-%C3%A9l%C3%A9phants-dans-la-brume-raconte-l-histoire-des-kinnars-des-femmes-transgenres-au-n%C3%A9pal",
+      "source": "RFI",
+      "publishedAt": "2026-09-24T07:13:17.000Z",
+      "summary": "Le Népal, pays de l’Himalaya, des éléphants sauvages… et des kinnars. Dans ce décor à la fois majestueux et rude se déploie « Les éléphants dans la brume » (« Elephants in the Fog »), thriller poétique qui vient de sortir en salles en France. Abinash Bikram Shah, premier cinéaste népalais en sélection officielle au Fes",
+      "image": "https://s.rfi.fr/media/display/fba44d1e-5b55-11f1-80f4-005056a90284/w:1024/p:16x9/EleIMAGE2-199685.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-elephants-dans-la-brume-raconte-l-histoire-des-kinnars-des-femmes-tr-0be6cbc39a.html"
+    },
+    {
+      "title": "\"Une carte postale du futur\" : le \"Super El Niño\" menace de faire 450 000 morts",
+      "url": "https://www.france24.com/fr/plan%C3%A8te/20260924-carte-postale-futur-super-el-ni%C3%B1o-menace-de-faire-450-000-morts-r%C3%A9chauffement-climat",
+      "source": "France 24",
+      "publishedAt": "2026-09-24T06:46:36.000Z",
+      "summary": "Le phénomène \"Super El Niño\" en cours pourrait provoquer plus de 450 000 décès liés à la chaleur d'ici février 2027, selon un rapport publié mercredi par le Climate Impact Lab. Les chercheurs y identifient les régions les plus menacées, et les mesures qui permettraient encore d'éviter cette hécatombe.",
+      "image": "https://s.france24.com/media/display/175dd7f4-b75f-11f1-94f8-513157f91e8c/w:1024/p:16x9/2026-09-03T215023Z-2000154535-RC2KBNAWRYXS-RTRMADP-3-COLOMBIA-WEATHER-WATER.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-carte-postale-du-futur-le-super-el-nino-menace-de-faire-450-000-mort-3eaa1a8710.html"
+    },
+    {
+      "title": "Allemagne, Pays-Bas, France : l'entrée en lice des nouveaux sélectionneurs",
+      "url": "https://www.france24.com/fr/%C3%A9missions/sports/20260924-allemagne-pays-bas-france-entr%C3%A9e-en-lice-nouveaux-s%C3%A9lectionneurs",
+      "source": "France 24",
+      "publishedAt": "2026-09-24T06:41:53.000Z",
+      "summary": "Comme la France avec Zinédine Zidane, l'Allemagne et les Pays-Bas démarrent leurs nouvelles ères avec leurs nouveaux sélectionneurs. Sorties de la Coupe du monde frustrées après des éliminations douloureuses, les deux nations affirment être en reconstruction et s'affrontent pour le début de la Ligue des nations.",
+      "image": "https://s.france24.com/media/display/56e352de-b7b2-11f1-a761-513157f91e8c/w:1024/p:16x9/AP26260291676198.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-pays-bas-france-l-entree-en-lice-des-nouveaux-selectionneurs-425d52c73d.html"
+    },
+    {
+      "title": "Trump accueille Xi Jinping avec tapis rouge, honneurs militaires et survol aérien",
+      "url": "https://fr.euronews.com/video/2026/09/24/trump-accueille-xi-jinping-avec-tapis-rouge-honneurs-militaires-et-survol-aerien",
+      "source": "Euronews",
+      "publishedAt": "2026-09-24T06:36:06.000Z",
+      "summary": "Xi Jinping arrive dans le Maryland pour une visite d'État aux États-Unis, accueilli par Donald Trump lors d'une cérémonie avec drapeaux, honneurs militaires et survol aérien.",
+      "image": "https://images.euronews.com/articles/stories/09/92/57/00/696x392_cmsv2_b1eb4a42-e543-507f-9f2f-6edfdcbd867f-9925700.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-accueille-xi-jinping-avec-tapis-rouge-honneurs-militaires-et-survo-d9f2cb158c.html"
+    },
+    {
+      "title": "ChatGPT a lancé une nouvelle cyberattaque : le site d’un gouvernement a été piraté",
+      "url": "https://www.01net.com/actualites/chatgpt-lance-nouvelle-cyberattaque-site-gouvernement-pirate.html",
+      "source": "01net",
+      "publishedAt": "2026-09-24T06:35:52.000Z",
+      "summary": "Une version de ChatGPT s'est introduite sans la moindre autorisation dans un portail du gouvernement australien. Bloqué par une restriction, le modèle d'IA a cherché des solutions de contournement. OpenAI a pris plusieurs mois pour déceler l'incident et prévenir les autorités compétentes",
+      "image": "https://www.01net.com/app/uploads/2026/03/chatgpt-logo-icone-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chatgpt-a-lance-une-nouvelle-cyberattaque-le-site-d-un-gouvernement-a-et-0f1f300b37.html"
+    },
+    {
+      "title": "À l'ONU, grands patrons et dirigeants mondiaux veulent mieux contrôler le développement de l'IA",
+      "url": "https://www.rfi.fr/fr/monde/20260924-%C3%A0-l-onu-grands-patrons-et-dirigeants-mondiaux-veulent-mieux-contr%C3%B4ler-le-d%C3%A9veloppement-de-l-ia",
+      "source": "RFI",
+      "publishedAt": "2026-09-24T06:34:33.000Z",
+      "summary": "L’IA est l'enjeu de sécurité le plus important auquel le monde est confronté aujourd’hui. C'est en tout cas ce que pensent les patrons des principales entreprises d’intelligence artificielle basées aux États-Unis. Les PDG d’OpenAI, Anthropic et Hugging Face ont appelé le Conseil de sécurité de l'ONU à la vigilance et à",
+      "image": "https://s.rfi.fr/media/display/d09caf5c-b7e0-11f1-98c1-513157f91e8c/w:1024/p:16x9/AP26266700229610.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-l-onu-grands-patrons-et-dirigeants-mondiaux-veulent-mieux-controler-le-86f50c429e.html"
+    },
+    {
+      "title": "Législatives au Maroc : le PAM en tête, la participation au plus bas depuis près de 20 ans",
+      "url": "https://www.france24.com/fr/afrique/20260924-l%C3%A9gislatives-maroc-pam-en-t%C3%AAte-participation-au-plus-bas-depuis-20-ans",
+      "source": "France 24",
+      "publishedAt": "2026-09-24T06:33:25.000Z",
+      "summary": "Le Parti authenticité ​et modernité (PAM) est arrivé en tête des élections législatives qui se sont déroulées mercredi au Maroc, suivi par ses partenaires de coalition ​dans le gouvernement sortant, le RNI et le parti de l'Istiqlal, selon des résultats officiels encore provisoires.",
+      "image": "https://s.france24.com/media/display/66f24c1a-b7e0-11f1-9eb3-a5615d7a48ac/w:1024/p:16x9/000-C966429.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-au-maroc-le-pam-en-tete-la-participation-au-plus-bas-depuis-d8ef4416a3.html"
+    },
+    {
+      "title": "Massoud Pezeshkian affirme à l'ONU que l'Iran ne se laissera pas intimider et reste prêt à négocier",
+      "url": "https://fr.euronews.com/2026/09/24/massoud-pezeshkian-affirme-a-lonu-que-liran-ne-se-laissera-pas-intimider-et-reste-pret-a-n",
+      "source": "Euronews",
+      "publishedAt": "2026-09-24T06:26:49.000Z",
+      "summary": "ONU : le président iranien accuse les États-Unis et Israël d'attaques illégales contre des civils et lance à Trump,\"Oui, ils nous ont frappés, mais nous n'avons pas plié le genou\".",
+      "image": "https://images.euronews.com/articles/stories/09/92/53/71/696x392_cmsv2_fde5fe82-f1c7-5091-b65b-61329d786eca-9925371.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/massoud-pezeshkian-affirme-a-l-onu-que-l-iran-ne-se-laissera-pas-intimid-151f2c0717.html"
     }
   ]
 }
