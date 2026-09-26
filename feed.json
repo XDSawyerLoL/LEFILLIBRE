@@ -1,61 +1,33 @@
 {
-  "updatedAt": "2026-09-26T00:43:46.284Z",
+  "updatedAt": "2026-09-26T05:31:33.294Z",
   "items": [
     {
-      "title": "Facebook face à une nouvelle sanction record aux États-Unis après le scandale Cambridge Analytica",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260925-facebook-face-%C3%A0-une-nouvelle-sanction-record-aux-%C3%A9tats-unis-apr%C3%A8s-le-scandale-cambridge-analytica",
+      "title": "RDC: l'intelligence artificielle utilisée dans la riposte à l'épidémie d'Ebola",
+      "url": "https://www.rfi.fr/fr/afrique/20260926-rdc-l-intelligence-artificielle-utilis%C3%A9e-dans-la-riposte-%C3%A0-l-%C3%A9pid%C3%A9mie-d-ebola",
       "source": "RFI",
-      "publishedAt": "2026-09-25T21:50:25.000Z",
-      "summary": "L'entreprise Meta a été reconnue coupable par un jury états-unien d'avoir exploité les données personnelles de certains utilisateurs de Facebook. Cette affaire vient s'ajouter à une liste grandissante d'actions en justice entreprises contre le groupe de Mark Zuckerberg sur l'opacité du fonctionnement de ses application",
-      "image": "https://s.rfi.fr/media/display/340dc302-1727-11f0-a914-005056a97e36/w:1024/p:16x9/AP25009035238531.jpg",
+      "publishedAt": "2026-09-26T03:45:42.000Z",
+      "summary": "Dans l’est de la RDC, les équipes qui luttent contre Ebola doivent parfois intervenir dans des zones difficiles d’accès. Des outils numériques, notamment l’intelligence artificielle, sont mobilisés pour accélérer la circulation des informations, du terrain jusqu’à leur analyse.",
+      "image": "https://s.rfi.fr/media/display/bb4087fc-b18a-11f1-bf70-53b7617a3a51/w:1024/p:16x9/2026-09-11T225814Z-974833403-RC2EQLA1YH2M-RTRMADP-3-HEALTH-EBOLA-CONGO.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/facebook-face-a-une-nouvelle-sanction-record-aux-etats-unis-apres-le-sca-4316b80712.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rdc-l-intelligence-artificielle-utilisee-dans-la-riposte-a-l-epidemie-d--f4d9610775.html"
     },
     {
-      "title": "Intelligence artificielle, fin de vie, paix... l'intense première journée du Pape Léon XIV à Paris",
-      "url": "https://www.france24.com/fr/europe/20260925-intelligence-artificielle-fin-de-vie-paix-l-intense-premi%C3%A8re-journ%C3%A9e-du-pape-l%C3%A9on-xiv-%C3%A0-paris",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T20:52:49.000Z",
-      "summary": "Près de 300 000 personnes étaient rassemblées, vendredi à Paris, pour accueillir le Pape Léon XIV au premier jour de sa visite de quatre jours en France. Après un passage à l'Élysée où ce dernier a prononcé un discours critique sur certains sujets politiques comme la fin de vie, le souverain pontife s'est rendu au sièg",
-      "image": "https://s.france24.com/media/display/4d8eef5a-b8f1-11f1-9535-c959b9d22ec6/w:1024/p:16x9/2026-09-25T145528Z-1429323905-RC2EQNA1RALD-RTRMADP-3-POPE-FRANCE.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/intelligence-artificielle-fin-de-vie-paix-l-intense-premiere-journee-du--70a3c4217f.html"
-    },
-    {
-      "title": "En Irlande, la neutralité au cœur d’un débat qui divise",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260925-en-irlande-la-neutralit%C3%A9-au-c%C5%93ur-d-un-d%C3%A9bat-qui-divise",
+      "title": "En Inde, la contestation monte après la découverte de la suppressions massives de noms des listes électorales",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20260926-en-inde-la-contestation-monte-apr%C3%A8s-la-d%C3%A9couverte-de-la-suppressions-massives-de-noms-des-listes-%C3%A9lectorales",
       "source": "RFI",
-      "publishedAt": "2026-09-25T22:01:27.000Z",
-      "summary": "En Suisse, les électeurs sont appelés aux urnes dimanche pour décider jusqu’où doit aller la neutralité du pays. Une initiative populaire veut inscrire dans la Constitution suisse une neutralité « perpétuelle et armée ». Un débat qui résonne jusqu’en Irlande. À Dublin, le gouvernement muscle ses dépenses militaires et ",
-      "image": "https://s.rfi.fr/media/display/dad9d790-b913-11f1-b380-11fa9f8a3b4f/w:1024/p:16x9/000-C8486WA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-irlande-la-neutralite-au-c-ur-d-un-debat-qui-divise-db8a7daf95.html"
+      "publishedAt": "2026-09-26T05:20:27.000Z",
+      "summary": "Des manifestations ont éclaté vendredi 25 septembre dans plusieurs villes indiennes après la découverte de la suppression de millions de noms sur les listes électorales. L’opposition accuse la Commission électorale de favoriser le pouvoir et réclame la démission de son président, Gyanesh Kumar.",
+      "image": "https://s.rfi.fr/media/display/7cf98ed4-b960-11f1-ba58-555a0aff87a4/w:1024/p:16x9/AP26268358653889.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-inde-la-contestation-monte-apres-la-decouverte-de-la-suppressions-mas-ace86982ce.html"
     },
     {
-      "title": "Maroc: les alliances prennent forme en attente du chef du gouvernement",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260925-maroc-les-alliances-prennent-forme-en-attente-du-chef-du-gouvernement",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T21:13:02.000Z",
-      "summary": "Au Maroc, place désormais aux négociations ; sans majorité absolue, le parti Authenticité et Modernité doit former une coalition, une décision qui dépendra du choix royal pour diriger le gouvernement. Et du côté des électeurs, on attend surtout des actes, sur l'emploi et le pouvoir d'achat",
-      "image": "https://s.france24.com/media/display/253fa98e-b925-11f1-ad76-8f3418d01115/w:1024/p:16x9/FR-NW-OOV-MADAGASCAR-TOBLE-Elom-Marcel-transfer.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-les-alliances-prennent-forme-en-attente-du-chef-du-gouvernement-705f1230bb.html"
-    },
-    {
-      "title": "Qu'est-ce qui tue les baleineaux en Patagonie ? Une bactérie mise en cause",
-      "url": "https://fr.euronews.com/2026/09/25/quest-ce-qui-tue-les-baleineaux-en-patagonie-une-bacterie-mise-en-cause",
-      "source": "Euronews",
-      "publishedAt": "2026-09-25T21:00:14.000Z",
-      "summary": "Des dizaines de baleineaux de baleine franche australe ont été retrouvés morts sur les côtes de Patagonie argentine. Des scientifiques enquêtent sur une possible infection bactérienne après une saison à la mortalité particulièrement élevée.",
-      "image": "https://images.euronews.com/articles/stories/09/92/84/31/696x392_cmsv2_6e8b1409-3a33-5e6b-af4d-4ab260474500-9928431.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qu-est-ce-qui-tue-les-baleineaux-en-patagonie-une-bacterie-mise-en-cause-6975acd1ea.html"
-    },
-    {
-      "title": "Le Conseil de sécurité de l'ONU \"condamne\" les attaques des Houthis contre l'Arabie saoudite",
-      "url": "https://www.france24.com/fr/moyen-orient/20260925-le-conseil-de-s%C3%A9curit%C3%A9-de-l-onu-condamne-les-attaques-des-houthis-contre-l-arabie-saoudite",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T20:43:09.000Z",
-      "summary": "L'offensive des rebelles houthis pro-iraniens contre l'Arabie saoudite a été condamnée par le Conseil de sécurité de l'ONU, au lendemain de nouvelles attaques. Au Yémen, le chef du Conseil présidentiel, Rachad al-Alimi, a appelé à une mobilisation générale de la population face aux Houthis, appelant tous ceux qui ferai",
-      "image": "https://s.france24.com/media/display/1ad03680-b907-11f1-add1-91cf9f3cd539/w:1024/p:16x9/2026-09-14T132010Z-886379123-RC21JNAQNIP4-RTRMADP-3-IRAN-CRISIS-YEMEN-HOUTHI.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-conseil-de-securite-de-l-onu-condamne-les-attaques-des-houthis-contre-01ff8fa2d6.html"
+      "title": "Festival de cinéma de San Sebastián: «La perra» de Dominga Sotomayor, l'histoire d'un deuil",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260926-festival-cin%C3%A9ma-san-sebastian-la-perra-dominga-sotomayor-manuela-oyarzun",
+      "source": "RFI",
+      "publishedAt": "2026-09-26T05:09:05.000Z",
+      "summary": "En compétition dans la sélection «Horizontes latinos» au festival de San Sebastián, le film de la réalisatrice chilienne Dominga Sotomayor nous emmène dans le sud du pays, sur une petite île, à la rencontre de Silvia, pêcheuse d'algues, interprétée par la comédienne et metteuse en scène de théâtre Manuela Oyarzun. Renc",
+      "image": "https://s.rfi.fr/media/display/1207db98-b902-11f1-b666-852b23529bb9/w:1024/p:16x9/LaPerra-Fotopel%C3%ADcula-36440.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/festival-de-cinema-de-san-sebastian-la-perra-de-dominga-sotomayor-l-hist-a59002abb8.html"
     }
   ]
 }
