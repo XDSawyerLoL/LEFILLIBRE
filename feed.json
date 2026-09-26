@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-25T22:16:58.418Z",
+  "updatedAt": "2026-09-26T00:43:46.284Z",
   "items": [
+    {
+      "title": "Facebook face à une nouvelle sanction record aux États-Unis après le scandale Cambridge Analytica",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260925-facebook-face-%C3%A0-une-nouvelle-sanction-record-aux-%C3%A9tats-unis-apr%C3%A8s-le-scandale-cambridge-analytica",
+      "source": "RFI",
+      "publishedAt": "2026-09-25T21:50:25.000Z",
+      "summary": "L'entreprise Meta a été reconnue coupable par un jury états-unien d'avoir exploité les données personnelles de certains utilisateurs de Facebook. Cette affaire vient s'ajouter à une liste grandissante d'actions en justice entreprises contre le groupe de Mark Zuckerberg sur l'opacité du fonctionnement de ses application",
+      "image": "https://s.rfi.fr/media/display/340dc302-1727-11f0-a914-005056a97e36/w:1024/p:16x9/AP25009035238531.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/facebook-face-a-une-nouvelle-sanction-record-aux-etats-unis-apres-le-sca-4316b80712.html"
+    },
     {
       "title": "Intelligence artificielle, fin de vie, paix... l'intense première journée du Pape Léon XIV à Paris",
       "url": "https://www.france24.com/fr/europe/20260925-intelligence-artificielle-fin-de-vie-paix-l-intense-premi%C3%A8re-journ%C3%A9e-du-pape-l%C3%A9on-xiv-%C3%A0-paris",
@@ -12,14 +22,13 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/intelligence-artificielle-fin-de-vie-paix-l-intense-premiere-journee-du--70a3c4217f.html"
     },
     {
-      "title": "J’ai testé une IA géante chinoise sur Mac mini, PC gamer et mini PC : voici le grand gagnant sur Bonsai 2",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3254821_jai-teste-une-ia-geante-chinoise-sur-mac-mini-pc-gamer-et-mini-pc-voici-le-grand-gagnant",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-25T18:01:00.000Z",
-      "summary": "Prism ML, une startup américaine, a fait tenir Qwen3.8-27B, un modèle d'IA chinois d'Alibaba de 27 milliards de paramètres, dans un fichier de 5,95 Go que nous avons lancé sur un Mac mini M6, un PC gamer Nvidia et deux mini PC Intel et AMD. Le modèle fonctionne sur tous les ordinateurs, mais sa vitesse varie fortement.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/img-5200-watermarked.jpeg?resize=1200,675&key=f8db1ca0",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-teste-une-ia-geante-chinoise-sur-mac-mini-pc-gamer-et-mini-pc-voici-bbcce9f50d.html"
+      "title": "En Irlande, la neutralité au cœur d’un débat qui divise",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260925-en-irlande-la-neutralit%C3%A9-au-c%C5%93ur-d-un-d%C3%A9bat-qui-divise",
+      "source": "RFI",
+      "publishedAt": "2026-09-25T22:01:27.000Z",
+      "summary": "En Suisse, les électeurs sont appelés aux urnes dimanche pour décider jusqu’où doit aller la neutralité du pays. Une initiative populaire veut inscrire dans la Constitution suisse une neutralité « perpétuelle et armée ». Un débat qui résonne jusqu’en Irlande. À Dublin, le gouvernement muscle ses dépenses militaires et ",
+      "image": "https://s.rfi.fr/media/display/dad9d790-b913-11f1-b380-11fa9f8a3b4f/w:1024/p:16x9/000-C8486WA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-irlande-la-neutralite-au-c-ur-d-un-debat-qui-divise-db8a7daf95.html"
     },
     {
       "title": "Maroc: les alliances prennent forme en attente du chef du gouvernement",
@@ -47,126 +56,6 @@
       "summary": "L'offensive des rebelles houthis pro-iraniens contre l'Arabie saoudite a été condamnée par le Conseil de sécurité de l'ONU, au lendemain de nouvelles attaques. Au Yémen, le chef du Conseil présidentiel, Rachad al-Alimi, a appelé à une mobilisation générale de la population face aux Houthis, appelant tous ceux qui ferai",
       "image": "https://s.france24.com/media/display/1ad03680-b907-11f1-add1-91cf9f3cd539/w:1024/p:16x9/2026-09-14T132010Z-886379123-RC21JNAQNIP4-RTRMADP-3-IRAN-CRISIS-YEMEN-HOUTHI.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-conseil-de-securite-de-l-onu-condamne-les-attaques-des-houthis-contre-01ff8fa2d6.html"
-    },
-    {
-      "title": "Visite du Pape en France, Assemblée générale de l'ONU et Xi Jinping à Washington",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260925-visite-du-pape-en-france-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-et-xi-jinping-%C3%A0-washington",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T18:16:33.000Z",
-      "summary": "Le pape Léon XIV est arrivé en France ce matin. Après la liesse dans les rues parisiennes cet après-midi et la ferveur à Notre-Dame pour les vêpres, il est attendu ce soir au Stade de France pour une grande veillée. Cette semaine a également été marquée par l’Assemblée générale de l’ONU à New York, où les dirigeants du",
-      "image": "https://s.france24.com/media/display/7a89aff2-b907-11f1-8856-852b23529bb9/w:1024/p:16x9/Francais-2026-09-25T17-14-59-123Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/visite-du-pape-en-france-assemblee-generale-de-l-onu-et-xi-jinping-a-was-4185ccaa47.html"
-    },
-    {
-      "title": "Xi achève sa visite à Washington sur une image d'entente avec Trump",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260925-xi-ach%C3%A8ve-sa-visite-%C3%A0-washington-sur-une-image-d-entente-avec-trump",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T18:04:11.000Z",
-      "summary": "Après trois jours de rencontres et de gestes symboliques, le président chinois quitte Washington sans accord majeur pour apaiser durablement les relations avec les États-Unis. Donald Trump et Xi Jinping ont toutefois prolongé la trêve commerciale entre les deux pays jusqu'au 10 janvier et confirmé leur volonté de pours",
-      "image": "https://s.france24.com/media/display/81e046ea-b90b-11f1-bc30-852b23529bb9/w:1024/p:16x9/61407f68b9f8f6478e2b8020a9dcf60bd0b6e405.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/xi-acheve-sa-visite-a-washington-sur-une-image-d-entente-avec-trump-3d62500327.html"
-    },
-    {
-      "title": "🔴 En direct : le président yéménite appelle la population à se mobiliser contre les Houthis",
-      "url": "https://www.france24.com/fr/moyen-orient/20260925-en-direct-onu-assemblee-generale-arabie-saoudite-turquie-pakistan-reunion-attaques-houthis-iran",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T17:38:12.000Z",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-le-president-yemenite-appelle-la-population-a-se-mobiliser-con-e28e9a7ed2.html"
-    },
-    {
-      "title": "Après des années de blocage, l'UE trouve un accord sur un financement à l'Ukraine",
-      "url": "https://www.france24.com/fr/europe/20260925-apr%C3%A8s-des-ann%C3%A9es-de-blocage-l-ue-trouve-un-accord-sur-un-financement-%C3%A0-l-ukraine",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T17:26:48.000Z",
-      "summary": "La défaite de Viktor Orban aux élections hongroises a changé la donne. Les États membres de l'Union européenne sont parvenus a s'entendre sur un remboursement par l'UE des fonds avancés à l'Ukraine par chaque pays. Un mécanisme qui ouvre la voie à de nouvelles aides pour soutenir Kiev.",
-      "image": "https://s.france24.com/media/display/fe988e5c-b8fe-11f1-afb5-8f3418d01115/w:1024/p:16x9/AP26250532034091.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-des-annees-de-blocage-l-ue-trouve-un-accord-sur-un-financement-a-l-cd51608e10.html"
-    },
-    {
-      "title": "Yémen : que sait-on de la frappe meurtrière sur un marché près de Bab el Mandeb ?",
-      "url": "https://www.france24.com/fr/moyen-orient/20260925-y%C3%A9men-que-sait-on-de-la-frappe-meurtri%C3%A8re-sur-un-march%C3%A9-pr%C3%A8s-de-bab-el-mandeb",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T16:51:09.000Z",
-      "summary": "Les rebelles houthistes et les forces gouvernementales yéménites se rejettent la responsabilité d'une double frappe menée dans un marché bondé de civils, le 21 septembre, dans le gouvernorat de Lahj. Une analyse des images de vidéosurveillance, et un témoignage permettent d'en savoir davantage sur cet incident.",
-      "image": "https://s.france24.com/media/display/800f3d24-b8f4-11f1-bfcd-11fa9f8a3b4f/w:1024/p:16x9/teaser-y.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yemen-que-sait-on-de-la-frappe-meurtriere-sur-un-marche-pres-de-bab-el-m-f9a300d9e9.html"
-    },
-    {
-      "title": "États-Unis: Washington veut défendre Elon Musk face à la condamnation de son réseau social X par l'UE",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260925-%C3%A9tats-unis-washington-veut-d%C3%A9fendre-elon-musk-face-%C3%A0-la-condamnation-de-son-r%C3%A9seau-social-x-par-l-ue",
-      "source": "RFI",
-      "publishedAt": "2026-09-25T16:34:38.000Z",
-      "summary": "Le gouvernement des États-Unis a demandé, jeudi 24 septembre, à intervenir aux côtés d’Elon Musk dans la procédure judiciaire qui oppose son réseau social X à l’Union européenne. La plateforme a été condamnée en décembre 2025 par l'UE à une amende de 120 millions d’euros, la première sanction prononcée au titre du règl",
-      "image": "https://s.rfi.fr/media/display/a75067bc-aa05-11f1-9cdf-005056bfb2b6/w:1024/p:16x9/AP26128014137884.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-washington-veut-defendre-elon-musk-face-a-la-condamnation-de--f31bf28fb9.html"
-    },
-    {
-      "title": "Le \"wrap\", un système de contention prisé de l'ICE",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260925-le-wrap-un-syst%C3%A8me-de-contention-pris%C3%A9-de-l-ice",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T16:26:49.000Z",
-      "summary": "France 24 a enquêté sur un aspect très controversé de la politique d'expulsion de l’administration Trump : le transfert de personnes sans papiers des États-Unis vers des pays africains avec lesquels elles n’ont aucun lien. Karina Chabour est allée à la rencontre de ces expulsés, l'un d'entre eux a voyagé ligoté dans \"l",
-      "image": "https://s.france24.com/media/display/cf49d32a-b8fb-11f1-abb9-555a0aff87a4/w:1024/p:16x9/FR-THE-WRAP.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-wrap-un-systeme-de-contention-prise-de-l-ice-007e950813.html"
-    },
-    {
-      "title": "Aurore Lalucq : \"Supprimer les inégalités inacceptables\", remède à la montée des populismes",
-      "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20260925-aurore-lalucq-supprimer-les-in%C3%A9galit%C3%A9s-inacceptables-rem%C3%A8de-%C3%A0-la-mont%C3%A9e-des-populismes",
-      "source": "France 24",
-      "publishedAt": "2026-09-25T16:18:14.000Z",
-      "summary": "Face à des Européens peu audibles à l'Assemblée générale de l'ONU et inquiets de leurs vulnérabilités économiques, Aurore Lalucq, présidente de la commission des Affaires économiques et monétaires du Parlement européen, nous livre son analyse après la dernière réunion de l’Eurogroupe à laquelle elle a participé. Aurore",
-      "image": "https://s.france24.com/media/display/d1a8b274-b8df-11f1-b2de-c959b9d22ec6/w:1024/p:16x9/AuroreLalucq2.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/aurore-lalucq-supprimer-les-inegalites-inacceptables-remede-a-la-montee--b98981f05e.html"
-    },
-    {
-      "title": "Apple TV 4K : une image interne trahit un nouveau modèle boosté à l’IA",
-      "url": "https://www.frandroid.com/marques/apple/3261853_apple-tv-4k-une-image-interne-trahit-un-nouveau-modele-booste-a-lia",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-25T17:18:16.000Z",
-      "summary": "Un fichier image interne d'Apple mentionne noir sur blanc une «&nbsp;Apple TV 4K (4th generation)&nbsp;», a repéré le 25 septembre 2026 Aaron Perris, contributeur du site MacRumors. Le modèle actuel date d'octobre 2022&nbsp;: la relève arriverait donc près de quatre ans plus tard.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2022/12/test-appletv-4k-2022-26-scaled.jpeg?resize=1200,675&key=55465181",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apple-tv-4k-une-image-interne-trahit-un-nouveau-modele-booste-a-l-ia-8ffcd8d47f.html"
-    },
-    {
-      "title": "iPhone des 20 ans : Apple aurait finalement renoncé à deux technologies",
-      "url": "https://www.01net.com/actualites/iphone-des-20-ans-apple-aurait-finalement-renonce-a-deux-technologies.html",
-      "source": "01net",
-      "publishedAt": "2026-09-25T17:00:21.000Z",
-      "summary": "Pour son iPhone des 20 ans, Apple aurait décidé de faire l’impasse sur deux technologies d'affichage. Cela s’expliquerait principalement par deux raisons.",
-      "image": "https://www.01net.com/app/uploads/2026/09/test-iPhone-18-Pro-01net-11-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-des-20-ans-apple-aurait-finalement-renonce-a-deux-technologies-5fdba8eac8.html"
-    },
-    {
-      "title": "HomePod mini 2 : une fuite confirme cinq coloris, dont trois inédits",
-      "url": "https://www.frandroid.com/marques/3261839_homepod-mini-2-une-fuite-confirme-cinq-coloris-dont-trois-inedits",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-25T16:51:26.000Z",
-      "summary": "Apple prépare une nouvelle version de son enceinte HomePod mini, et ce sont ses propres fichiers qui l'ont vendue. Repérées le 25 septembre 2026, des images cachées dans le code de l'entreprise montrent le HomePod mini 2 sous cinq coloris.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2021/06/homepod-mini-scaled.jpg?resize=1200,675&key=df10a454",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/homepod-mini-2-une-fuite-confirme-cinq-coloris-dont-trois-inedits-f4f5e38661.html"
-    },
-    {
-      "title": "J’ai essayé la Volkswagen ID. Polo : son coffre géant et son autonomie vont faire très mal à la R5 électrique",
-      "url": "https://www.frandroid.com/marques/volkswagen/3259663_jai-essaye-la-volkswagen-id-polo-son-coffre-geant-et-son-autonomie-vont-faire-tres-mal-a-la-r5-electrique",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-25T16:48:00.000Z",
-      "summary": "Le règne de la Renault 5 E-Tech serait-il menacé ? Avec son ID. Polo, Volkswagen s’attaque (enfin) au segment des citadines électriques avec une voiture qui promet beaucoup d’espace, d’autonomie et de technologies. Nous l’avons essayée, de quoi s’apercevoir que cette Polo électrique a plus d’un tour dans son sac.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/dsc03267.jpg?resize=1200,675&key=dff10269",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-essaye-la-volkswagen-id-polo-son-coffre-geant-et-son-autonomie-vont-abd76da9e6.html"
-    },
-    {
-      "title": "iPad mini 8 : Apple se trahit dans son propre code",
-      "url": "https://www.frandroid.com/marques/apple/3261805_ipad-mini-8-apple-se-trahit-dans-son-propre-code",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-25T16:40:09.000Z",
-      "summary": "Le code d'Apple lui-même a livré les grandes lignes de l'iPad mini 8, repéré le 25 septembre 2026 : une puce A20 Pro, une caméra frontale en mode paysage et une petite encoche en haut de l'écran.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2021/09/p1022334-scaled.jpg?resize=1200,675&key=6f0f0365",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ipad-mini-8-apple-se-trahit-dans-son-propre-code-3b9640ec76.html"
     }
   ]
 }
