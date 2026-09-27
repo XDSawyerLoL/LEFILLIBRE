@@ -1,25 +1,88 @@
 {
-  "updatedAt": "2026-09-27T07:22:46.166Z",
+  "updatedAt": "2026-09-27T13:10:58.282Z",
   "items": [
     {
-      "title": "Fin de la 2G : 1,7 million d’appareils vont s’arrêter sans prévenir",
-      "url": "https://www.frandroid.com/telecom/3262153_fin-de-la-2g-17-million-dappareils-vont-sarreter-sans-prevenir",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-27T06:28:00.000Z",
-      "summary": "À fin juin 2026, environ 1,7 million d'appareils uniquement compatibles 2G restaient connectés en France, alors que le réseau doit fermer d'ici la fin de l'année. Parmi eux, des centaines de milliers d'alarmes, d'ascenseurs et de systèmes de téléassistance dont les propriétaires ignorent souvent qu'ils embarquent une c",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/000-c3462g8.jpg?resize=1200,675&key=2f2fc6c0",
+      "title": "Après l’échec du modèle électrique, le Toyota Hilux mise tout sur l’hydrogène pour 2028",
+      "url": "https://www.01net.com/actualites/echec-modele-electrique-toyota-hilux-mise-hydrogene-2028.html",
+      "source": "01net",
+      "publishedAt": "2026-09-27T11:00:54.000Z",
+      "summary": "Puisque le Toyota Hilux électrique semble moyennement convaincre, la marque japonaise espère rectifier le tir avec une version à hydrogène, qui pointera son nez en 2028. L’idée est d’étirer l’autonomie et d’abolir le temps de recharge.",
+      "image": "https://www.01net.com/app/uploads/2026/09/toyota-hilux-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fin-de-la-2g-1-7-million-d-appareils-vont-s-arreter-sans-prevenir-8288a17ecd.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-l-echec-du-modele-electrique-le-toyota-hilux-mise-tout-sur-l-hydro-e271f32662.html"
     },
     {
-      "title": "Discord prépare un « Game Mode » pour moins peser sur vos jeux : voici comment il marche",
-      "url": "https://www.frandroid.com/os/windows/3262127_discord-prepare-un-game-mode-pour-moins-peser-sur-vos-jeux-voici-comment-il-marche",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-27T06:23:24.000Z",
-      "summary": "Discord prépare un «&nbsp;Game Mode&nbsp;» censé réduire sa consommation de processeur et de carte graphique pendant vos parties. La fonction a été repérée dans le code de l'application, sans aucune annonce officielle.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/02/discord-mariia-shalabaieva-jtrkbtuhsps-unsplash.jpg?resize=1200,675&key=f3853f29",
+      "title": "Trop de satellites en orbite : les collisions dans l’espace risquent de se multiplier, alerte l’Europe",
+      "url": "https://www.01net.com/actualites/trop-satellites-orbite-collisions-espace-risquent-multiplier-alerte-europe.html",
+      "source": "01net",
+      "publishedAt": "2026-09-27T10:08:41.000Z",
+      "summary": "Le nombre de satellites et d’objets en orbite pourrait exploser au cours des prochaines décennies, alerte l’Agence spatiale européenne. Cette multiplication fait également craindre une forte hausse des collisions et le déclenchement de réactions en chaîne dans l’espace.",
+      "image": "https://www.01net.com/app/uploads/2025/10/nasa-terre-satellite-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/discord-prepare-un-game-mode-pour-moins-peser-sur-vos-jeux-voici-comment-1ca2258553.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trop-de-satellites-en-orbite-les-collisions-dans-l-espace-risquent-de-se-51a6a9d807.html"
+    },
+    {
+      "title": "Canaux qui débordent et routes submergées : graves inondations à Bangkok",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260927-canaux-qui-d%C3%A9bordent-et-routes-submerg%C3%A9es-graves-inondations-%C3%A0-bangkok",
+      "source": "France 24",
+      "publishedAt": "2026-09-27T12:56:27.000Z",
+      "summary": "Les autorités de Bangkok, la capitale thaïlandaise, ont déclaré samedi l'état de catastrophe naturelle dans l'ensemble des 50 districts de la ville, après 48 heures de pluies diluviennes qui ont inondé habitations, commerces et axes de circulation. Le Premier ministre Anutin Charnvirakul a écourté un voyage à Londres p",
+      "image": "https://s.france24.com/media/display/1a99ea70-ba70-11f1-a062-555a0aff87a4/w:1024/p:16x9/FR-20260927-134001-134145-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/canaux-qui-debordent-et-routes-submergees-graves-inondations-a-bangkok-b51a8c55f2.html"
+    },
+    {
+      "title": "Sénatoriales : pour le RN, une dernière marche symbolique avant l'Elysée",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260927-s%C3%A9natoriales-pour-le-rn-une-derni%C3%A8re-marche-symbolique-avant-l-elys%C3%A9e",
+      "source": "France 24",
+      "publishedAt": "2026-09-27T12:48:13.000Z",
+      "summary": "Porté par ses gains aux dernières municipales, le Rassemblement national est assuré de progresser au Sénat après le scrutin du 27 septembre. Tout l'enjeu sera de pouvoir constituer un groupe, afin de parachever l'institutionnalisation du parti à six mois de la présidentielle.",
+      "image": "https://s.france24.com/media/display/489006ea-ba6f-11f1-8414-8f3418d01115/w:1024/p:16x9/FR-20260927-132211-132311-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senatoriales-pour-le-rn-une-derniere-marche-symbolique-avant-l-elysee-2ce0b10688.html"
+    },
+    {
+      "title": "À l'Assemblée générale de l'ONU, une rencontre entre les chefs de la diplomatie allemande et russe sans réel résultat",
+      "url": "https://www.rfi.fr/fr/europe/20260927-%C3%A0-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-une-rencontre-entre-les-chefs-de-la-diplomatie-allemand-et-russe-sans-r%C3%A9el-r%C3%A9sultat",
+      "source": "RFI",
+      "publishedAt": "2026-09-27T12:14:07.000Z",
+      "summary": "En marge de l’Assemblée générale des Nations unies, Sergueï Lavrov et Johann Wadephul se sont entretenus. Cette discussion n’a débouché sur rien de concret mais avait une forte valeur symbolique.",
+      "image": "https://s.rfi.fr/media/display/f02cb884-b9cb-11f1-82a1-11fa9f8a3b4f/w:1024/p:16x9/2026-09-26T163423Z-744681254-RC24RNADQR2L-RTRMADP-3-UN-ASSEMBLY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-l-assemblee-generale-de-l-onu-une-rencontre-entre-les-chefs-de-la-dipl-4d9144c784.html"
+    },
+    {
+      "title": "Afrique du Sud: deux fusillades à Johannesburg et au Cap font 27 morts",
+      "url": "https://www.rfi.fr/fr/afrique/20260927-afrique-du-sud-deux-fusillades-%C3%A0-johannesburg-et-au-cap-font-27-morts",
+      "source": "RFI",
+      "publishedAt": "2026-09-27T11:15:03.000Z",
+      "summary": "Deux fusillades ont endeuillé l'Afrique du Sud ce week-end, tuant 27 personnes – 17 à Johannesburg et 10 au Cap – au total. La police dit avoir lancé des chasses à l’hommes et mobilisé des unités spéciales de recherches, dans un pays qui enregistre environ 60 homicides par jour.",
+      "image": "https://s.rfi.fr/media/display/7ec0c78c-ba64-11f1-a77d-177f79e345bf/w:1024/p:16x9/000-C9GF2KM.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-deux-fusillades-a-johannesburg-et-au-cap-font-27-morts-fbf60b0ef4.html"
+    },
+    {
+      "title": "Les Suisses appelés à un référendum proposant de durcir leur neutralité",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260927-les-suisses-appel%C3%A9s-%C3%A0-un-r%C3%A9f%C3%A9rendum-proposant-de-durcir-leur-neutralit%C3%A9",
+      "source": "France 24",
+      "publishedAt": "2026-09-27T09:17:44.000Z",
+      "summary": "Les électeurs suisses décideront dimanche s'ils ⁠approuvent ou non ​une définition plus stricte de leur neutralité, qui empêcherait notamment leur pays d'imposer des sanctions économiques ou de coopérer avec ​l'OTAN.",
+      "image": "https://s.france24.com/media/display/1b51b500-ba53-11f1-bd2a-177f79e345bf/w:1024/p:16x9/FR-20260927-081719-081924-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-suisses-appeles-a-un-referendum-proposant-de-durcir-leur-neutralite-7ea0f2bbd3.html"
+    },
+    {
+      "title": "Le Pape face aux victimes d'abus sexuels à Lourdes après sa venue à Paris",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260927-le-pape-face-aux-victimes-d-abus-sexuels-%C3%A0-lourdes-apr%C3%A8s-sa-venue-%C3%A0-paris",
+      "source": "France 24",
+      "publishedAt": "2026-09-27T09:06:19.000Z",
+      "summary": "Arnaud Gallais, Président de l'association Mouv'enfants, est notre invité.",
+      "image": "https://s.france24.com/media/display/cf19e7b2-ba51-11f1-8474-852b23529bb9/w:1024/p:16x9/FR-20260927-080432-081440-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-pape-face-aux-victimes-d-abus-sexuels-a-lourdes-apres-sa-venue-a-pari-80539a259c.html"
+    },
+    {
+      "title": "Deux fusillades en Afrique du Sud font au moins 27 morts",
+      "url": "https://fr.euronews.com/2026/09/27/deux-fusillades-en-afrique-du-sud-font-au-moins-27-morts",
+      "source": "Euronews",
+      "publishedAt": "2026-09-27T07:48:48.000Z",
+      "summary": "17 personnes ont été tuées lors d'une fusillade dans un bar à l'ouest de Johannesburg, et 10 autres abattues dans une attaque près du Cap, a indiqué la police.",
+      "image": "https://images.euronews.com/articles/stories/09/92/93/31/696x392_cmsv2_8999d841-f600-565d-a8bf-48bdb28437cd-9929331.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/deux-fusillades-en-afrique-du-sud-font-au-moins-27-morts-d30e0195a3.html"
     },
     {
       "title": "Les Suisses appelés à voter sur leur historique neutralité",
@@ -31,61 +94,44 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-suisses-appeles-a-voter-sur-leur-historique-neutralite-7514da5744.html"
     },
     {
-      "title": "«Où sont nos enfants ?»: douze ans après la disparition de 43 étudiants, les familles toujours sans réponses",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260927-o%C3%B9-sont-nos-enfants-douze-ans-apr%C3%A8s-la-disparition-de-43-%C3%A9tudiants-les-familles-toujours-sans-r%C3%A9ponses",
-      "source": "RFI",
-      "publishedAt": "2026-09-27T05:49:50.000Z",
-      "summary": "Douze ans après la disparition de 43 étudiants à Iguala, au sud du Mexique, leurs familles réclament toujours des réponses. Plusieurs milliers de personnes ont manifesté samedi 26 septembre à Mexico, alors que le gouvernement et l’armée sont accusés de ne pas avoir livré toutes les informations dont ils disposent sur c",
-      "image": "https://s.rfi.fr/media/display/16567c5c-ba35-11f1-9c2b-555a0aff87a4/w:1024/p:16x9/000-C9G28U4.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ou-sont-nos-enfants-douze-ans-apres-la-disparition-de-43-etudiants-les-f-8398401b3f.html"
-    },
-    {
-      "title": "Guinée: les hommages se multiplient après la mort de l'opposant et ancien Premier ministre Sidya Touré",
-      "url": "https://www.rfi.fr/fr/afrique/20260927-guin%C3%A9e-les-hommages-se-multiplient-apr%C3%A8s-la-mort-de-l-opposant-et-ancien-premier-ministre-sidya-tour%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-09-27T02:20:42.000Z",
-      "summary": "L’ancien Premier ministre guinéen et président de l’Union des forces républicaines (UFR), Sidya Touré, est décédé vendredi 25 septembre 2026 à Paris, à l’âge de 81 ans. Deux fois candidat à l’élection présidentielle, il vivait ces dernières années en exil à Abidjan et n’aura pas pu revoir son pays avant sa mort. Depuis",
-      "image": "https://s.rfi.fr/media/display/842fbae6-b9b2-11f1-b736-8f3418d01115/w:1024/p:16x9/000-1LQ26C.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guinee-les-hommages-se-multiplient-apres-la-mort-de-l-opposant-et-ancien-94ffc5d24f.html"
-    },
-    {
-      "title": "Maurice appelle la France à reprendre les discussions sur la souveraineté de l’île Tromelin",
-      "url": "https://www.rfi.fr/fr/afrique/20260927-maurice-appelle-la-france-%C3%A0-reprendre-les-discussions-sur-la-souverainet%C3%A9-de-l-%C3%AEle-tromelin",
-      "source": "RFI",
-      "publishedAt": "2026-09-27T02:08:03.000Z",
-      "summary": "Après avoir réaffirmé à l’ONU, samedi 26 septembre 2026, que la souveraineté mauricienne sur les Chagos est « non négociable », le ministre des Affaires étrangères Ritish Ramful a également évoqué un autre contentieux territorial : Tromelin. Maurice revendique cette petite île de l’océan Indien, administrée par la Fran",
-      "image": "https://s.rfi.fr/media/display/7d287848-1584-11ea-80ad-005056a99247/w:1024/p:16x9/tromelin_aerial_photograph_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maurice-appelle-la-france-a-reprendre-les-discussions-sur-la-souverainet-2d126661de.html"
-    },
-    {
-      "title": "iPhone 18 Pro : l’app photo d’Apple bride l’ouverture variable, deux applications la libèrent",
-      "url": "https://www.frandroid.com/marques/apple/3262125_iphone-18-pro-lapp-photo-dapple-bride-louverture-variable-deux-applications-la-liberent",
+      "title": "Prise en main du Xiaomi 18 Pro Max, découverte des Meta VR Glasses et test de l’iPhone 18 Pro : notre récap de la semaine",
+      "url": "https://www.frandroid.com/actualites-generales/3261637_prise-en-main-du-xiaomi-18-pro-max-decouverte-des-meta-vr-glasses-et-test-de-liphone-18-pro-notre-recap-de-la-semaine",
       "source": "Frandroid",
-      "publishedAt": "2026-09-27T06:16:48.000Z",
-      "summary": "L'iPhone 18 Pro embarque une ouverture variable, mais l'application Appareil photo d'Apple n'en donne que quatre réglages. Deux applications tierces en débloquent dix.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/image-479.png?resize=1200,675&key=251365b0",
+      "publishedAt": "2026-09-27T10:00:00.000Z",
+      "summary": "Cette semaine, en plus des annonces de la Meta Connect 2026, les puces gravées en 2 nm sont arrivées dans nos smartphones, chez Xiaomi comme chez Apple, et nous avons eu les deux appareils entre les mains. Ajoutez à cela Anthropic et OpenAI qui lancent leurs nouveaux modèles le même jour, et vous avez de quoi rattraper",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/18092026-dsc00532-1.jpg?resize=1200,675&key=20371dc6",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-18-pro-l-app-photo-d-apple-bride-l-ouverture-variable-deux-applic-712aeee03f.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/prise-en-main-du-xiaomi-18-pro-max-decouverte-des-meta-vr-glasses-et-tes-da271556f9.html"
     },
     {
-      "title": "Cyberattaque IA contre la France et l’Europe : ce virus vise plus de 30 banques",
-      "url": "https://www.01net.com/actualites/remcontrol-malware-android-comptes-bancaires-code-avec-ia.html",
+      "title": "Cette serrure connectée verrouille 20 % de son prix sur Amazon",
+      "url": "https://www.frandroid.com/bons-plans/3261307_cette-serrure-connectee-verrouille-20-de-son-prix-sur-amazon",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-27T09:25:00.000Z",
+      "summary": "La Nuki Smart Lock Go est une serrure connectée facile à installer et à configurer qui permet d'utiliser votre smartphone comme une clé sans le sortir de votre poche ! En ce moment, le pack avec son clavier à code Keypad est proposé à 169 euros sur Amazon.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/design-sans-titre-2026-09-25t154017118.png?resize=1200,675&key=19b6e484",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cette-serrure-connectee-verrouille-20-de-son-prix-sur-amazon-e773c37c18.html"
+    },
+    {
+      "title": "À moins de 22 000 €, cette nouvelle citadine électrique corrige le plus gros défaut de la Renault Twingo",
+      "url": "https://www.01net.com/actualites/moins-22-000-euros-nouvelle-citadine-electrique-corrige-plus-gros-defaut-twingo.html",
       "source": "01net",
-      "publishedAt": "2026-09-27T06:00:19.000Z",
-      "summary": "RemControl, un cheval de Troie bancaire qui sévit sur Android, vise actuellement la France et six autres pays. Le virus désactive Google Play Protect et prend la main sur votre smartphone sans que vous en preniez conscience. Pour arriver à leurs fins, les pirates se servent massivement de l'IA.",
-      "image": "https://www.01net.com/app/uploads/2025/10/malware-android-1344x896.jpg",
+      "publishedAt": "2026-09-27T08:02:14.000Z",
+      "summary": "Nissan dévoile la nouvelle Pixo qui se positionne en jumelle technique des Renault Twingo et Dacia Spring. Si sa technique est identique, la japonaise joue sur son style différenciant et un équipement qui pourrait faire la différence.",
+      "image": "https://www.01net.com/app/uploads/2026/09/nissan-pixo-2-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cyberattaque-ia-contre-la-france-et-l-europe-ce-virus-vise-plus-de-30-ba-2684c2ff38.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-moins-de-22-000-cette-nouvelle-citadine-electrique-corrige-le-plus-gro-04cf4340f2.html"
     },
     {
-      "title": "Xiaomi sort sa trottinette électrique la plus abordable, et son prix chute déjà",
-      "url": "https://www.frandroid.com/bons-plans/3258275_xiaomi-sort-sa-trottinette-electrique-la-plus-abordable-et-son-prix-chute-deja",
+      "title": "Insta360 prépare des lunettes connectées pour concurrencer les Ray-Ban Meta",
+      "url": "https://www.frandroid.com/marques/3261997_insta360-prepare-des-lunettes-connectees-pour-concurrencer-les-ray-ban-meta",
       "source": "Frandroid",
-      "publishedAt": "2026-09-27T05:48:00.000Z",
-      "summary": "La Xiaomi Scooter 6 Essential est une trottinette électrique on ne peut plus classique avec une vitesse de pointe de 25 km/h et une batterie suffisante pour les trajets quotidiens. Seule différence, la remise offerte par son constructeur.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/xiaomi-electric-scooter-6-essential1.jpg?resize=1200,675&key=c7e1e118",
+      "publishedAt": "2026-09-27T08:00:00.000Z",
+      "summary": "Insta360 travaille sur ses propres lunettes connectées, a confirmé ce vendredi 25 septembre son cofondateur Max Richter. La marque chinoise détient déjà 73&nbsp;% du marché mondial des caméras 360 degrés.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/ray-ban-meta-gen-3-prise-en-main-3.jpg?resize=1200,675&key=e97e69e3",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/xiaomi-sort-sa-trottinette-electrique-la-plus-abordable-et-son-prix-chut-b1aa2861d4.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/insta360-prepare-des-lunettes-connectees-pour-concurrencer-les-ray-ban-m-f6201030db.html"
     }
   ]
 }
