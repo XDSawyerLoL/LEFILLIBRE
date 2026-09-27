@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-27T17:43:26.738Z",
+  "updatedAt": "2026-09-27T20:24:43.225Z",
   "items": [
+    {
+      "title": "Quand les cafards cyborgs viennent à notre secours",
+      "url": "https://www.rfi.fr/fr/podcasts/jusqu-o%C3%B9-va-la-science/20260927-quand-les-cafards-cyborgs-viennent-%C3%A0-notre-secours",
+      "source": "RFI",
+      "publishedAt": "2026-09-27T20:09:11.000Z",
+      "summary": "Comment repérer et secourir les sinistrés lors de catastrophes ou de tremblements de terre dans des zones rendues difficiles d’accès ? Plus efficaces que les drones et les robots, il y a les cafards. Des cafards cyborgs équipés de capteurs et de caméras, et même d’une mini trousse d’urgence administrable à distance.",
+      "image": "https://s.rfi.fr/media/display/200c000a-ba35-11f1-9236-555a0aff87a4/w:1024/p:16x9/Cafard-robot.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/quand-les-cafards-cyborgs-viennent-a-notre-secours-f07cb72d44.html"
+    },
     {
       "title": "Google Pixel 11 Pro vs Samsung Galaxy S26 : comment bien choisir le smartphone Android haut de gamme ?",
       "url": "https://www.frandroid.com/versus/3252253_google-pixel-11-pro-vs-samsung-galaxy-s26-comment-bien-choisir-le-smartphone-android-haut-de-gamme",
@@ -12,14 +22,65 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-pixel-11-pro-vs-samsung-galaxy-s26-comment-bien-choisir-le-smartp-9aba20f9d6.html"
     },
     {
-      "title": "Cet IdeaPad SlimX polyvalent (Snapdragon X2 Plus, 16 Go de RAM) passe sous les 1 000 euros grâce à Carrefour",
-      "url": "https://www.frandroid.com/bons-plans/3260451_cet-ideapad-slimx-polyvalent-snapdragon-x2-plus-16-go-de-ram-passe-sous-les-1-000-euros-grace-a-carrefour",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-27T15:23:00.000Z",
-      "summary": "Le Lenovo IdeaPad Slim 5x est une machine qui conviendra aux professionnels et aux étudiants puisqu'il pèse 1,41 kg et embarque un écran OLED de 15,3 pouces à 165 Hz. En ce moment, ce PC portable est proposé à 999,99 euros au lieu de 1 199,99 euros chez Carrefour.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/design-sans-titre-2026-09-25t102129700.png?resize=1200,675&key=60163578",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cet-ideapad-slimx-polyvalent-snapdragon-x2-plus-16-go-de-ram-passe-sous--31db763841.html"
+      "title": "Cyclisme : Brandon McNulty champion du monde surprise, Paul Seixas 15e",
+      "url": "https://www.france24.com/fr/sports/20260927-cyclisme-brandon-mcnulty-champion-du-monde-surprise-paul-seixas-15e",
+      "source": "France 24",
+      "publishedAt": "2026-09-27T19:38:09.000Z",
+      "summary": "C’est une victoire que peu avaient anticipée. Brandon McNulty s’est imposé en solitaire à Montréal et a décroché, à 28 ans, son premier titre de champion du monde sur route. L’Américain a devancé Michael Matthews et Mathieu van der Poel au terme d’une course particulièrement animée.",
+      "image": "https://s.france24.com/media/display/f79983c4-baaa-11f1-8c85-11fa9f8a3b4f/w:1024/p:16x9/598d02cdabbc31f7e9852a6e39e1cb423997d1cc.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cyclisme-brandon-mcnulty-champion-du-monde-surprise-paul-seixas-15e-b99800ccc0.html"
+    },
+    {
+      "title": "Turquie: Fatma Betül Sayan Kaya, ex-ministre du parti au pouvoir, démissionne après un scandale financier",
+      "url": "https://www.rfi.fr/fr/europe/20260927-turquie-fatma-bet%C3%BCl-sayan-kaya-ex-ministre-du-parti-au-pouvoir-d%C3%A9missionne-apr%C3%A8s-un-scandale-financier",
+      "source": "RFI",
+      "publishedAt": "2026-09-27T19:08:03.000Z",
+      "summary": "Une ex-ministre turque et cadre dirigeante de l’AKP, le parti du président Recep Tayyip Erdoğan, a démissionné après avoir été mise en cause dans un scandale financier. Cette affaire, liée à des fonds d’investissement représentant quelque 17 milliards de dollars, aurait touché près d’un demi-million d’investisseurs. So",
+      "image": "https://s.rfi.fr/media/display/8e0c09ae-baa5-11f1-b511-177f79e345bf/w:1024/p:16x9/AP26270524515396.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/turquie-fatma-betul-sayan-kaya-ex-ministre-du-parti-au-pouvoir-demission-cd8b161585.html"
+    },
+    {
+      "title": "Vidéo : des milliers de Madrilènes protestent contre l'expulsion de Maricarmen",
+      "url": "https://fr.euronews.com/video/2026/09/27/video-des-milliers-de-madrilenes-protestent-contre-lexpulsion-de-maricarmen",
+      "source": "Euronews",
+      "publishedAt": "2026-09-27T19:03:42.000Z",
+      "summary": "À Madrid, des manifestants ont passé une deuxième nuit à camper à la Puerta del Sol, place de la capitale transformée en campement pour le logement après l'expulsion de María del Carmen Abascal, 87 ans, surnommée \"Maricarmen\".",
+      "image": "https://images.euronews.com/articles/stories/09/92/98/26/696x392_cmsv2_ffd36db2-3b84-57ca-b8fa-2a5ca872da94-9929826.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/video-des-milliers-de-madrilenes-protestent-contre-l-expulsion-de-marica-c540bd8721.html"
+    },
+    {
+      "title": "Serbie: le président Aleksandar Vucic annonce sa démission, des élections anticipées à venir",
+      "url": "https://www.rfi.fr/fr/europe/20260927-serbie-le-pr%C3%A9sident-aleksandar-vucic-annonce-sa-d%C3%A9mission-des-%C3%A9lections-anticip%C3%A9es-%C3%A0-venir",
+      "source": "RFI",
+      "publishedAt": "2026-09-27T18:36:32.000Z",
+      "summary": "⁠Le président ​serbe Aleksandar Vucic a annoncé ​dimanche 27 septembre sa démission, ouvrant la voie à des élections ​anticipées.",
+      "image": "https://s.rfi.fr/media/display/c1f8a186-65a6-11f1-a8e9-005056bfb2b6/w:1024/p:16x9/AP26155397758244.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/serbie-le-president-aleksandar-vucic-annonce-sa-demission-des-elections--4892e7215b.html"
+    },
+    {
+      "title": "🔴 Le président serbe Aleksandar Vucic démissionne et ouvre la voie à des élections anticipées",
+      "url": "https://www.france24.com/fr/europe/20260927-le-pr%C3%A9sident-serbe-aleksandar-vucic-d%C3%A9missionne-et-ouvre-la-voie-%C3%A0-des-%C3%A9lections-anticip%C3%A9es",
+      "source": "France 24",
+      "publishedAt": "2026-09-27T18:24:18.000Z",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-president-serbe-aleksandar-vucic-demissionne-et-ouvre-la-voie-a-des-e-c27d8579a3.html"
+    },
+    {
+      "title": "Sénatoriales en France: un premier groupe RN avec son allié UDR, LFI obtient un premier siège",
+      "url": "https://www.rfi.fr/fr/france/20260927-%C3%A9lections-s%C3%A9natoriales-en-france-vers-un-premier-groupe-rassemblement-national-avec-son-alli%C3%A9-de-l-udr",
+      "source": "RFI",
+      "publishedAt": "2026-09-27T17:46:59.000Z",
+      "summary": "Pour la première fois de son histoire, le parti d'extrême droite Rassemblement national obtient ce 27 septembre le nombre suffisant de sénateurs pour former un groupe au Sénat, acquis majoritairement à la droite et au centre.",
+      "image": "https://s.rfi.fr/media/display/e07eae92-b013-11ef-9bd6-005056bfb2b6/w:1024/p:16x9/france-senat-hemicycle-vue-nov2024.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senatoriales-en-france-un-premier-groupe-rn-avec-son-allie-udr-lfi-obtie-d7b576c1b5.html"
+    },
+    {
+      "title": "Irlande du Nord : 2 000 manifestants bloquent un défilé orangiste à Portadown",
+      "url": "https://fr.euronews.com/video/2026/09/27/irlande-du-nord-2-000-manifestants-bloquent-la-marche-contestee-de-portadown",
+      "source": "Euronews",
+      "publishedAt": "2026-09-27T17:46:20.000Z",
+      "summary": "Des milliers de manifestants ont bloqué une route à Portadown, en Irlande du Nord, le 27 septembre, pour tenter d’empêcher un défilé de l’Ordre d’Orange de traverser le quartier majoritairement catholique et nationaliste de Garvaghy Road.",
+      "image": "https://images.euronews.com/articles/stories/09/92/97/12/696x392_cmsv2_2b27fa7c-c01f-5c52-965a-c03177415fa7-9929712.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irlande-du-nord-2-000-manifestants-bloquent-un-defile-orangiste-a-portad-0a85da990a.html"
     },
     {
       "title": "Des dizaines de morts en Inde et au Népal suite à des pluies diluviennes",
@@ -31,11 +92,18 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-dizaines-de-morts-en-inde-et-au-nepal-suite-a-des-pluies-diluviennes-d59d8e7b24.html"
     },
     {
+      "title": "🔴 Le RN dit être en mesure de constituer un groupe au Sénat \"pour la première fois de son histoire\"",
+      "url": "https://www.france24.com/fr/france/20260927-%C3%A9lections-s%C3%A9natoriales-la-droite-sous-presse-le-rn-en-qu%C3%AAte-d-un-groupe",
+      "source": "France 24",
+      "publishedAt": "2026-09-27T17:40:44.000Z",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-rn-dit-etre-en-mesure-de-constituer-un-groupe-au-senat-pour-la-premie-f09e3cd3e4.html"
+    },
+    {
       "title": "Crise du logement en Espagne: des manifestants occupent une place du centre à Madrid",
       "url": "https://www.rfi.fr/fr/europe/20260927-crise-du-logement-en-espagne-des-manifestants-occupent-une-place-du-centre-%C3%A0-madrid",
       "source": "RFI",
       "publishedAt": "2026-09-27T16:17:52.000Z",
-      "summary": "En Espagne, Maricarmen Abascal, 87 ans est devenu un symbole de la crise du logement. Et les mobilisations à la suite de son expulsion de son logement madrilène se succèdent. Depuis samedi 26 septembre dans la soirée, des manifestants occupent une place de la capitale.",
+      "summary": "En Espagne, Maricarmen Abascal, 87 ans, est devenue un symbole de la crise du logement. Et les mobilisations à la suite de son expulsion de son logement madrilène se succèdent. Depuis samedi 26 septembre dans la soirée, des manifestants occupent une place de la capitale.",
       "image": "https://s.rfi.fr/media/display/9a0529fa-ba8e-11f1-a1b1-11fa9f8a3b4f/w:1024/p:16x9/2026-09-27T095805Z-508856650-RC2KRNAS8S3C-RTRMADP-3-SPAIN-HOUSING-PROTEST.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-du-logement-en-espagne-des-manifestants-occupent-une-place-du-cent-4d01ab47cd.html"
     },
@@ -58,86 +126,14 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-l-antiterrorisme-enquete-sur-un-incident-pres-d-une-base-mil-c6bb6d8a56.html"
     },
     {
-      "title": "Venezuela: libération de prisonniers politiques après un cycle de négociations avec l'opposition",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260927-venezuela-lib%C3%A9ration-de-prisonniers-politiques-apr%C3%A8s-un-cycle-de-n%C3%A9gociations-avec-l-opposition",
-      "source": "RFI",
-      "publishedAt": "2026-09-27T14:03:41.000Z",
-      "summary": "Une quarantaine de prisonniers politiques ont été libérés de différentes prisons au Venezuela, à l'issue d'un deuxième cycle de négociations entre le gouvernement de Delcy Rodríguez et l'opposition, et quelques jours après une rencontre entre la présidente par intérim et Donald Trump en marge de l'Assemblée générale de",
-      "image": "https://s.rfi.fr/media/display/dee31a7c-ba7b-11f1-99e0-852b23529bb9/w:1024/p:16x9/000-CO3ZK.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/venezuela-liberation-de-prisonniers-politiques-apres-un-cycle-de-negocia-672c1d6580.html"
-    },
-    {
-      "title": "Irlande du Nord: rassemblement contre une marche orangiste à Portadown",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260927-irlande-du-nord-rassemblement-contre-une-marche-orangiste-%C3%A0-portadown",
-      "source": "France 24",
-      "publishedAt": "2026-09-27T13:23:16.000Z",
-      "summary": "Environ 2.000 personnes se sont rassemblées dimanche à Portadown en Irlande du Nord contre le passage d'une marche protestante pro-britannique autorisée pour la première fois depuis 1997 en plein quartier catholique, le Premier ministre britannique lançant un appel au \"calme\".",
-      "image": "https://s.france24.com/media/display/4aaacddc-ba76-11f1-a1b7-852b23529bb9/w:1024/p:16x9/FR-20260927-150335-150520-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irlande-du-nord-rassemblement-contre-une-marche-orangiste-a-portadown-f7e358f995.html"
-    },
-    {
-      "title": "À une semaine de la présidentielle au Brésil, Lula et Flávio Bolsonaro font campagne sur le terrain",
-      "url": "https://fr.euronews.com/2026/09/27/a-une-semaine-de-la-presidentielle-au-bresil-lula-et-flavio-bolsonaro-font-campagne-sur-le",
-      "source": "Euronews",
-      "publishedAt": "2026-09-27T13:18:58.000Z",
-      "summary": "Le président sortant de gauche et le candidat de droite, fils de l'ancien président d'extrême droite Jair Bolsonaro, sont au coude-à-coude dans les sondages.",
-      "image": "https://images.euronews.com/articles/stories/09/92/93/50/696x392_cmsv2_63448f36-bea1-50fb-9409-564ee6377446-9929350.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-une-semaine-de-la-presidentielle-au-bresil-lula-et-flavio-bolsonaro-fo-3db22b0a53.html"
-    },
-    {
-      "title": "ONU: «Le Conseil de sécurité est paralysé et on ne peut pas le réformer»",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260927-onu-le-conseil-de-s%C3%A9curit%C3%A9-est-paralys%C3%A9-et-on-ne-peut-pas-le-r%C3%A9former",
-      "source": "RFI",
-      "publishedAt": "2026-09-27T13:03:15.000Z",
-      "summary": "Quel bilan pour la 81e session de l'Assemblée générale de l'ONU ? Cette Assemblée générale enterre-t-elle le multilatéralisme pour de bon ou existe-t-il encore des raisons d'espérer ? Pour en parler, Bertrand Badie, professeur émérite à Sciences Po Paris et spécialiste des relations internationales? Il est, ce dimanche",
-      "image": "https://s.rfi.fr/media/display/20126a0e-b688-11f1-b5a8-d382746d948a/w:1024/p:16x9/AP26265475933647.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/onu-le-conseil-de-securite-est-paralyse-et-on-ne-peut-pas-le-reformer-097f354cc7.html"
-    },
-    {
-      "title": "Canaux qui débordent et routes submergées : graves inondations à Bangkok",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260927-canaux-qui-d%C3%A9bordent-et-routes-submerg%C3%A9es-graves-inondations-%C3%A0-bangkok",
-      "source": "France 24",
-      "publishedAt": "2026-09-27T12:56:27.000Z",
-      "summary": "Les autorités de Bangkok, la capitale thaïlandaise, ont déclaré samedi l'état de catastrophe naturelle dans l'ensemble des 50 districts de la ville, après 48 heures de pluies diluviennes qui ont inondé habitations, commerces et axes de circulation. Le Premier ministre Anutin Charnvirakul a écourté un voyage à Londres p",
-      "image": "https://s.france24.com/media/display/1a99ea70-ba70-11f1-a062-555a0aff87a4/w:1024/p:16x9/FR-20260927-134001-134145-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/canaux-qui-debordent-et-routes-submergees-graves-inondations-a-bangkok-b51a8c55f2.html"
-    },
-    {
-      "title": "Pompiers en grève : la mobilisation prend de l’ampleur au pied de la tour Eiffel",
-      "url": "https://www.france24.com/fr/france/20260927-pompiers-en-gr%C3%A8ve-la-mobilisation-prend-de-l-ampleur-au-pied-de-la-tour-eiffel",
-      "source": "France 24",
-      "publishedAt": "2026-09-27T12:50:10.000Z",
-      "summary": "Les pompiers professionnels poursuivent leur mobilisation pour dénoncer leurs conditions de travail et réclamer des moyens supplémentaires. Dimanche, huit syndicats de l’intersyndicale ont lancé à Paris leur \"colonne de renfort de la colère\", avant une déambulation et une participation à la manifestation de la fonction",
-      "image": "https://s.france24.com/media/display/f8e5dcca-ba71-11f1-8081-11fa9f8a3b4f/w:1024/p:16x9/566195a79538088f96766fc1f35baa68293d2cd5.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pompiers-en-greve-la-mobilisation-prend-de-l-ampleur-au-pied-de-la-tour--29f35d0e70.html"
-    },
-    {
-      "title": "Sénatoriales : pour le RN, une dernière marche symbolique avant l'Elysée",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260927-s%C3%A9natoriales-pour-le-rn-une-derni%C3%A8re-marche-symbolique-avant-l-elys%C3%A9e",
-      "source": "France 24",
-      "publishedAt": "2026-09-27T12:48:13.000Z",
-      "summary": "Porté par ses gains aux dernières municipales, le Rassemblement national est assuré de progresser au Sénat après le scrutin du 27 septembre. Tout l'enjeu sera de pouvoir constituer un groupe, afin de parachever l'institutionnalisation du parti à six mois de la présidentielle.",
-      "image": "https://s.france24.com/media/display/489006ea-ba6f-11f1-8414-8f3418d01115/w:1024/p:16x9/FR-20260927-132211-132311-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senatoriales-pour-le-rn-une-derniere-marche-symbolique-avant-l-elysee-2ce0b10688.html"
-    },
-    {
-      "title": "À l'Assemblée générale de l'ONU, une rencontre entre les chefs de la diplomatie allemande et russe sans réel résultat",
-      "url": "https://www.rfi.fr/fr/europe/20260927-%C3%A0-l-assembl%C3%A9e-g%C3%A9n%C3%A9rale-de-l-onu-une-rencontre-entre-les-chefs-de-la-diplomatie-allemand-et-russe-sans-r%C3%A9el-r%C3%A9sultat",
-      "source": "RFI",
-      "publishedAt": "2026-09-27T12:14:07.000Z",
-      "summary": "En marge de l’Assemblée générale des Nations unies, Sergueï Lavrov et Johann Wadephul se sont entretenus. Cette discussion n’a débouché sur rien de concret mais avait une forte valeur symbolique.",
-      "image": "https://s.rfi.fr/media/display/f02cb884-b9cb-11f1-82a1-11fa9f8a3b4f/w:1024/p:16x9/2026-09-26T163423Z-744681254-RC24RNADQR2L-RTRMADP-3-UN-ASSEMBLY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-l-assemblee-generale-de-l-onu-une-rencontre-entre-les-chefs-de-la-dipl-4d9144c784.html"
-    },
-    {
-      "title": "J’ai conduit la Peugeot e-208 GTi sous la pluie : enfin une voiture électrique Stellantis qui impressionne",
-      "url": "https://www.frandroid.com/survoltes/3257827_test-peugeot-e-208-gti",
+      "title": "Cet IdeaPad SlimX polyvalent (Snapdragon X2 Plus, 16 Go de RAM) passe sous les 1 000 euros grâce à Carrefour",
+      "url": "https://www.frandroid.com/bons-plans/3260451_cet-ideapad-slimx-polyvalent-snapdragon-x2-plus-16-go-de-ram-passe-sous-les-1-000-euros-grace-a-carrefour",
       "source": "Frandroid",
-      "publishedAt": "2026-09-27T14:01:00.000Z",
-      "summary": "Peugeot ressort des placards le badge le plus mythique de son histoire, et il colle désormais à une citadine 100 % électrique. 281 ch, un vrai différentiel autobloquant mécanique et un châssis retravaillé par Peugeot Sport : sur le papier, la e-208 GTi est la Peugeot la plus excitante depuis des années. J'ai pu la cond",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/peugeot-e-208-gti-00011.jpeg?resize=1200,675&key=1397e967",
+      "publishedAt": "2026-09-27T15:23:00.000Z",
+      "summary": "Le Lenovo IdeaPad Slim 5x est une machine qui conviendra aux professionnels et aux étudiants puisqu'il pèse 1,41 kg et embarque un écran OLED de 15,3 pouces à 165 Hz. En ce moment, ce PC portable est proposé à 999,99 euros au lieu de 1 199,99 euros chez Carrefour.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/design-sans-titre-2026-09-25t102129700.png?resize=1200,675&key=60163578",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-conduit-la-peugeot-e-208-gti-sous-la-pluie-enfin-une-voiture-electr-dd64a55e97.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cet-ideapad-slimx-polyvalent-snapdragon-x2-plus-16-go-de-ram-passe-sous--31db763841.html"
     }
   ]
 }
