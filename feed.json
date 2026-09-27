@@ -1,59 +1,91 @@
 {
-  "updatedAt": "2026-09-27T01:46:57.377Z",
+  "updatedAt": "2026-09-27T07:22:46.166Z",
   "items": [
     {
-      "title": "«Si je dis ça, je vais en prison»: en Turquie, l'humour politique en procès",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260926-si-je-dis-%C3%A7a-je-vais-en-prison-en-turquie-l-humour-politique-en-proc%C3%A8s",
+      "title": "Fin de la 2G : 1,7 million d’appareils vont s’arrêter sans prévenir",
+      "url": "https://www.frandroid.com/telecom/3262153_fin-de-la-2g-17-million-dappareils-vont-sarreter-sans-prevenir",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-27T06:28:00.000Z",
+      "summary": "À fin juin 2026, environ 1,7 million d'appareils uniquement compatibles 2G restaient connectés en France, alors que le réseau doit fermer d'ici la fin de l'année. Parmi eux, des centaines de milliers d'alarmes, d'ascenseurs et de systèmes de téléassistance dont les propriétaires ignorent souvent qu'ils embarquent une c",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/000-c3462g8.jpg?resize=1200,675&key=2f2fc6c0",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fin-de-la-2g-1-7-million-d-appareils-vont-s-arreter-sans-prevenir-8288a17ecd.html"
+    },
+    {
+      "title": "Discord prépare un « Game Mode » pour moins peser sur vos jeux : voici comment il marche",
+      "url": "https://www.frandroid.com/os/windows/3262127_discord-prepare-un-game-mode-pour-moins-peser-sur-vos-jeux-voici-comment-il-marche",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-27T06:23:24.000Z",
+      "summary": "Discord prépare un «&nbsp;Game Mode&nbsp;» censé réduire sa consommation de processeur et de carte graphique pendant vos parties. La fonction a été repérée dans le code de l'application, sans aucune annonce officielle.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/02/discord-mariia-shalabaieva-jtrkbtuhsps-unsplash.jpg?resize=1200,675&key=f3853f29",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/discord-prepare-un-game-mode-pour-moins-peser-sur-vos-jeux-voici-comment-1ca2258553.html"
+    },
+    {
+      "title": "Les Suisses appelés à voter sur leur historique neutralité",
+      "url": "https://www.rfi.fr/fr/europe/20260927-suisse-les-%C3%A9lecteurs-appel%C3%A9s-%C3%A0-renforcer-la-neutralit%C3%A9-l-opposition-d%C3%A9nonce-un-texte-pro-russe",
       "source": "RFI",
-      "publishedAt": "2026-09-26T22:08:26.000Z",
-      "summary": "Quand faire des blagues mène en prison. En Turquie, un célèbre humoriste sera jugé à partir de ce lundi 28 septembre pour son dernier spectacle. Deniz Göktas est incarcéré depuis début juillet, accusé notamment d'« insulte » au président Recep Tayyip Erdogan. Sa détention et son procès illustrent l’ampleur des atteinte",
-      "image": "https://s.rfi.fr/media/display/bc41fc7e-b9c5-11f1-b16d-91cf9f3cd539/w:1024/p:16x9/000-C7DK9T3.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/si-je-dis-ca-je-vais-en-prison-en-turquie-l-humour-politique-en-proces-e6ab24eec2.html"
+      "publishedAt": "2026-09-27T07:11:45.000Z",
+      "summary": "Les Suisses votent ce dimanche sur une initiative portée par le premier parti du pays, l’Union démocratique du centre, visant à durcir la neutralité du pays. Un texte qualifié de « pro-russe » par certains de ses opposants, excluant toute alliance avec une organisation militaire et toute reprise de sanctions économique",
+      "image": "https://s.rfi.fr/media/display/22aaff02-ba3d-11f1-92eb-555a0aff87a4/w:1024/p:16x9/AP26268449553701.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-suisses-appeles-a-voter-sur-leur-historique-neutralite-7514da5744.html"
     },
     {
-      "title": "Crise migratoire à Ceuta: des milliers de personnes manifestent contre le gouvernement à Madrid",
-      "url": "https://www.rfi.fr/fr/europe/20260926-crise-migratoire-%C3%A0-ceuta-des-milliers-de-personnes-manifestent-contre-le-gouvernement-%C3%A0-madrid",
+      "title": "«Où sont nos enfants ?»: douze ans après la disparition de 43 étudiants, les familles toujours sans réponses",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260927-o%C3%B9-sont-nos-enfants-douze-ans-apr%C3%A8s-la-disparition-de-43-%C3%A9tudiants-les-familles-toujours-sans-r%C3%A9ponses",
       "source": "RFI",
-      "publishedAt": "2026-09-26T22:06:52.000Z",
-      "summary": "Pour la deuxième fois ce mois de septembre, la droite a manifesté massivement à Madrid ce 26 septembre en faveur des habitants de Ceuta impacté par la crise migratoire sur place. Et aussi contre le chef du gouvernement Pedro Sanchez, accusé de ne pas être à la hauteur de cette même crise.",
-      "image": "https://s.rfi.fr/media/display/5e95f496-b9e7-11f1-a1e0-91cf9f3cd539/w:1024/p:16x9/2026-09-26T121311Z-1767784985-RC2XQNAGTJBG-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-migratoire-a-ceuta-des-milliers-de-personnes-manifestent-contre-le-a98d70e133.html"
+      "publishedAt": "2026-09-27T05:49:50.000Z",
+      "summary": "Douze ans après la disparition de 43 étudiants à Iguala, au sud du Mexique, leurs familles réclament toujours des réponses. Plusieurs milliers de personnes ont manifesté samedi 26 septembre à Mexico, alors que le gouvernement et l’armée sont accusés de ne pas avoir livré toutes les informations dont ils disposent sur c",
+      "image": "https://s.rfi.fr/media/display/16567c5c-ba35-11f1-9c2b-555a0aff87a4/w:1024/p:16x9/000-C9G28U4.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ou-sont-nos-enfants-douze-ans-apres-la-disparition-de-43-etudiants-les-f-8398401b3f.html"
     },
     {
-      "title": "Comment les chèvres ont séduit les humains",
-      "url": "https://www.rfi.fr/fr/podcasts/c-est-dans-ta-nature/20260926-comment-les-ch%C3%A8vres-ont-s%C3%A9duit-les-humains",
+      "title": "Guinée: les hommages se multiplient après la mort de l'opposant et ancien Premier ministre Sidya Touré",
+      "url": "https://www.rfi.fr/fr/afrique/20260927-guin%C3%A9e-les-hommages-se-multiplient-apr%C3%A8s-la-mort-de-l-opposant-et-ancien-premier-ministre-sidya-tour%C3%A9",
       "source": "RFI",
-      "publishedAt": "2026-09-26T22:02:27.000Z",
-      "summary": "Il y a environ 12 000 ans, les humains ont domestiqué un bouquetin, pour les nombreuses ressources qu'offrait l'animal (sa peau, sa viande ou son lait). Les chèvres les plus dociles ont été sélectionnées pour accompagner la sédentarisation de l'espèce humaine.",
-      "image": "https://s.rfi.fr/media/display/4a744f74-b9c1-11f1-8653-91cf9f3cd539/w:1024/p:16x9/20260926-131910.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-les-chevres-ont-seduit-les-humains-d348128dbd.html"
+      "publishedAt": "2026-09-27T02:20:42.000Z",
+      "summary": "L’ancien Premier ministre guinéen et président de l’Union des forces républicaines (UFR), Sidya Touré, est décédé vendredi 25 septembre 2026 à Paris, à l’âge de 81 ans. Deux fois candidat à l’élection présidentielle, il vivait ces dernières années en exil à Abidjan et n’aura pas pu revoir son pays avant sa mort. Depuis",
+      "image": "https://s.rfi.fr/media/display/842fbae6-b9b2-11f1-b736-8f3418d01115/w:1024/p:16x9/000-1LQ26C.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guinee-les-hommages-se-multiplient-apres-la-mort-de-l-opposant-et-ancien-94ffc5d24f.html"
     },
     {
-      "title": "Le pape Léon XIV rassemble 800 000 fidèles à Paris avant un pèlerinage émouvant à Lourdes",
-      "url": "https://fr.euronews.com/video/2026/09/26/le-pape-leon-xiv-rassemble-800-000-fideles-a-paris-avant-un-pelerinage-emouvant-a-lourdes",
-      "source": "Euronews",
-      "publishedAt": "2026-09-26T21:49:44.000Z",
-      "summary": "Le pape Léon XIV a célébré une messe en plein air à Paris ce samedi 26 septembre 2026, sur la Place de la Concorde, après un trajet en popemobile sur les Champs-Élysées. Le Vatican estime la foule à environ 800 000 fidèles. En soirée, il a rejoint Lourdes pour prier à la Grotte des Apparitions.",
-      "image": "https://images.euronews.com/articles/stories/09/92/91/84/696x392_cmsv2_4944491a-a68d-5aa4-ab8d-1b50d0e76ff3-9929184.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-pape-leon-xiv-rassemble-800-000-fideles-a-paris-avant-un-pelerinage-e-37be794e84.html"
-    },
-    {
-      "title": "Xénophobie en Afrique : pourquoi l’étranger devient-il un bouc émissaire ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260926-x%C3%A9nophobie-en-afrique-pourquoi-l-%C3%A9tranger-devient-il-un-bouc-%C3%A9missaire",
-      "source": "France 24",
-      "publishedAt": "2026-09-26T20:24:56.000Z",
-      "summary": "Pourquoi l’étranger devient-il un bouc émissaire en période de crise ? Alors que plus de 80 % des migrations de travail africaines s’effectuent à l’intérieur du continent, les discours hostiles aux migrants restent présents dans plusieurs pays. Emploi, commerce, accès au logement ou aux services publics : l’étranger es",
-      "image": "https://s.france24.com/media/display/b0909be4-b9e6-11f1-9fff-8f3418d01115/w:1024/p:16x9/FR-20260926-214956-215814-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/xenophobie-en-afrique-pourquoi-l-etranger-devient-il-un-bouc-emissaire-c3dca64edf.html"
-    },
-    {
-      "title": "Thaïlande: des pluies exceptionnelles inondent Bangkok et 21 provinces du pays",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20260926-tha%C3%AFlande-des-pluies-exceptionnelles-inondent-bangkok-et-21-provinces-du-pays",
+      "title": "Maurice appelle la France à reprendre les discussions sur la souveraineté de l’île Tromelin",
+      "url": "https://www.rfi.fr/fr/afrique/20260927-maurice-appelle-la-france-%C3%A0-reprendre-les-discussions-sur-la-souverainet%C3%A9-de-l-%C3%AEle-tromelin",
       "source": "RFI",
-      "publishedAt": "2026-09-26T19:48:36.000Z",
-      "summary": "Bangkok est sous les eaux en raison de pluies diluviennes et les autorités de la capitale thaïlandaise ont déclaré samedi l'état de catastrophe naturelle dans l'ensemble de ses 50 districts.",
-      "image": "https://s.rfi.fr/media/display/682d8490-b9b2-11f1-a5f5-91cf9f3cd539/w:1024/p:16x9/AP26269192671485.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/thailande-des-pluies-exceptionnelles-inondent-bangkok-et-21-provinces-du-4402330325.html"
+      "publishedAt": "2026-09-27T02:08:03.000Z",
+      "summary": "Après avoir réaffirmé à l’ONU, samedi 26 septembre 2026, que la souveraineté mauricienne sur les Chagos est « non négociable », le ministre des Affaires étrangères Ritish Ramful a également évoqué un autre contentieux territorial : Tromelin. Maurice revendique cette petite île de l’océan Indien, administrée par la Fran",
+      "image": "https://s.rfi.fr/media/display/7d287848-1584-11ea-80ad-005056a99247/w:1024/p:16x9/tromelin_aerial_photograph_0.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maurice-appelle-la-france-a-reprendre-les-discussions-sur-la-souverainet-2d126661de.html"
+    },
+    {
+      "title": "iPhone 18 Pro : l’app photo d’Apple bride l’ouverture variable, deux applications la libèrent",
+      "url": "https://www.frandroid.com/marques/apple/3262125_iphone-18-pro-lapp-photo-dapple-bride-louverture-variable-deux-applications-la-liberent",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-27T06:16:48.000Z",
+      "summary": "L'iPhone 18 Pro embarque une ouverture variable, mais l'application Appareil photo d'Apple n'en donne que quatre réglages. Deux applications tierces en débloquent dix.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/image-479.png?resize=1200,675&key=251365b0",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-18-pro-l-app-photo-d-apple-bride-l-ouverture-variable-deux-applic-712aeee03f.html"
+    },
+    {
+      "title": "Cyberattaque IA contre la France et l’Europe : ce virus vise plus de 30 banques",
+      "url": "https://www.01net.com/actualites/remcontrol-malware-android-comptes-bancaires-code-avec-ia.html",
+      "source": "01net",
+      "publishedAt": "2026-09-27T06:00:19.000Z",
+      "summary": "RemControl, un cheval de Troie bancaire qui sévit sur Android, vise actuellement la France et six autres pays. Le virus désactive Google Play Protect et prend la main sur votre smartphone sans que vous en preniez conscience. Pour arriver à leurs fins, les pirates se servent massivement de l'IA.",
+      "image": "https://www.01net.com/app/uploads/2025/10/malware-android-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cyberattaque-ia-contre-la-france-et-l-europe-ce-virus-vise-plus-de-30-ba-2684c2ff38.html"
+    },
+    {
+      "title": "Xiaomi sort sa trottinette électrique la plus abordable, et son prix chute déjà",
+      "url": "https://www.frandroid.com/bons-plans/3258275_xiaomi-sort-sa-trottinette-electrique-la-plus-abordable-et-son-prix-chute-deja",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-27T05:48:00.000Z",
+      "summary": "La Xiaomi Scooter 6 Essential est une trottinette électrique on ne peut plus classique avec une vitesse de pointe de 25 km/h et une batterie suffisante pour les trajets quotidiens. Seule différence, la remise offerte par son constructeur.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/xiaomi-electric-scooter-6-essential1.jpg?resize=1200,675&key=c7e1e118",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/xiaomi-sort-sa-trottinette-electrique-la-plus-abordable-et-son-prix-chut-b1aa2861d4.html"
     }
   ]
 }
