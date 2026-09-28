@@ -1,177 +1,171 @@
 {
-  "updatedAt": "2026-09-28T07:37:28.167Z",
+  "updatedAt": "2026-09-28T15:57:07.601Z",
   "items": [
     {
-      "title": "Bientôt un terminal de paiement dans la DualSense : Sony prêt à tout pour vous faire passer à la caisse",
-      "url": "https://www.frandroid.com/produits-android/console/manette-de-jeu/3262457_bientot-un-terminal-de-paiement-dans-la-dualsense-sony-pret-a-tout-pour-vous-faire-passer-a-la-caisse",
+      "title": "Claude et ChatGPT semblent moins intelligents après chaque mise à jour ou lors de pics d’affluence : simple biais ou réalité ?",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3263025_claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-ou-lors-de-pics-daffluence-simple-biais-ou-realite",
       "source": "Frandroid",
-      "publishedAt": "2026-09-28T07:33:44.000Z",
-      "summary": "Une demande de brevet de Sony, publiée le 17 septembre 2026 aux États-Unis, décrit une manette PlayStation capable de lire une carte bancaire, un téléphone ou une carte cadeau pour payer ses achats.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/manette-ps5.jpeg?resize=1200,675&key=75401978",
+      "publishedAt": "2026-09-28T15:53:48.000Z",
+      "summary": "Chaque nouveau modèle suit le même cycle&nbsp;: émerveillement, puis «&nbsp;il est devenu nul&nbsp;». Anthropic a fini par documenter ce qui relevait du bug, OpenAI a reconnu quelques ratés, et le reste est surtout dans notre tête.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/claude-codouille.jpeg?resize=1200,675&key=e75efc32",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bientot-un-terminal-de-paiement-dans-la-dualsense-sony-pret-a-tout-pour--071f6a8123.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-o-b7fe4144c1.html"
     },
     {
-      "title": "Bouygues Telecom lance Anti-Spam, une option payante à 2 euros par mois pour se protéger des arnaques téléphoniques",
-      "url": "https://www.frandroid.com/marques/3262397_bouygues-telecom-lance-anti-spam-une-option-payante-a-2-euros-par-mois-pour-se-proteger-des-arnaques-telephoniques",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-28T07:33:17.000Z",
-      "summary": "Bouygues Telecom lancera le 5 octobre Anti-Spam, une option à 2 euros par mois qui signale les appels frauduleux ou de démarchage grâce à une IA installée dans son réseau mobile.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/frandroid-smartphone-appel-indesirable-pochoir.jpeg?resize=1200,675&key=a5f325d8",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bouygues-telecom-lance-anti-spam-une-option-payante-a-2-euros-par-mois-p-cf0a6e52b9.html"
-    },
-    {
-      "title": "À Bangkok, les rues se transforment en canaux après des jours de fortes pluies",
-      "url": "https://fr.euronews.com/video/2026/09/28/a-bangkok-les-rues-se-transforment-en-canaux-apres-des-jours-de-fortes-pluies",
-      "source": "Euronews",
-      "publishedAt": "2026-09-28T07:16:54.000Z",
-      "summary": "Bangkok reste en partie sous les eaux après plusieurs jours de fortes pluies, qui ont perturbé les transports et les commerces. Des abris ont été ouverts, mais les autorités estiment que les eaux pourraient mettre plusieurs jours à se retirer.",
-      "image": "https://images.euronews.com/articles/stories/09/93/01/87/696x392_cmsv2_1de8a7cf-f9ae-5a45-9373-8e2e22731ad1-9930187.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-bangkok-les-rues-se-transforment-en-canaux-apres-des-jours-de-fortes-p-aeb13fddaa.html"
-    },
-    {
-      "title": "Fuite de données chez Carrefour : une cyberattaque a compromis les informations des clients",
-      "url": "https://www.01net.com/actualites/carrefour-donnees-clients-exposees-cyberattaque-prestataire-shipup.html",
+      "title": "iPhone 18 Pro Max : un message “SOS” rend certains smartphones inutilisables",
+      "url": "https://www.01net.com/actualites/iphone-18-pro-max-un-message-sos-rend-certains-appareils-inutilisables.html",
       "source": "01net",
-      "publishedAt": "2026-09-28T06:39:58.000Z",
-      "summary": "Carrefour prévient une partie de ses clients d'une fuite de données. Après une cyberattaque chez Shipup, plateforme de suivi de livraisons utilisée par plus de 700 marques, des données personnelles ont été compromises.",
-      "image": "https://www.01net.com/app/uploads/2025/06/fuite-donnees-france-1344x896.jpg",
+      "publishedAt": "2026-09-28T15:30:45.000Z",
+      "summary": "Les témoignages en ligne faisant état d’iPhone 18 Pro Max devenus soudainement quasiment inutilisables se multiplient. Sans raison, le téléphone bascule en mode SOS, rendant les appels et la navigation sur le web via les données cellulaires impossibles.",
+      "image": "https://www.01net.com/app/uploads/2026/09/apple-iphone-18-pro-max-couleurs-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fuite-de-donnees-chez-carrefour-une-cyberattaque-a-compromis-les-informa-aaa8457c69.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-18-pro-max-un-message-sos-rend-certains-smartphones-inutilisables-34569cc151.html"
     },
     {
-      "title": "France: vers une nouvelle taxe routière annuelle pour compenser la baisse des recettes de l'État?",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260928-france-vers-une-nouvelle-taxe-routi%C3%A8re-annuelle-pour-compenser-la-baisse-des-recettes-de-l-%C3%A9tat",
+      "title": "France: prison aménageable et inéligibilité immédiate requises contre l'ex-ministre Rachida Dati",
+      "url": "https://www.rfi.fr/fr/france/20260928-france-prison-am%C3%A9nageable-et-in%C3%A9ligibilit%C3%A9-imm%C3%A9diate-requises-contre-l-ex-ministre-rachida-dati",
       "source": "RFI",
-      "publishedAt": "2026-09-28T06:38:16.000Z",
-      "summary": "Avec une consommation d'essence en baisse liée à la flambée des prix et l'augmentation des ventes de voitures électriques, les taxes rentrent moins dans les caisses de l'État. En France, le manque à gagner dans les années qui viennent sera tel qu'un institut propose le retour de la vignette annuelle pour les automobili",
-      "image": "https://s.rfi.fr/media/display/926dd7e4-bb03-11f1-aa97-555a0aff87a4/w:1024/p:16x9/000-C8LV6T7.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-vers-une-nouvelle-taxe-routiere-annuelle-pour-compenser-la-baisse-a1b25fb548.html"
+      "publishedAt": "2026-09-28T15:18:23.000Z",
+      "summary": "Le parquet national financier a requis lundi 28 septembre contre l'ancienne ministre française Rachida Dati, jugée pour corruption, quatre ans de prison dont deux ferme sous bracelet électronique, ainsi que cinq ans d'inéligibilité et d'interdiction de la fonction publique, avec exécution provisoire pour ces peines com",
+      "image": "https://s.rfi.fr/media/display/9c083a52-bb4d-11f1-a11b-555a0aff87a4/w:1024/p:16x9/000-C9HT7HE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-prison-amenageable-et-ineligibilite-immediate-requises-contre-l-e-4e872b4f99.html"
     },
     {
-      "title": "Kyiv et Odessa frappées par une vague de drones russes, de nombreux morts",
-      "url": "https://fr.euronews.com/video/2026/09/28/lukraine-affirme-que-des-drones-russes-tuent-14-personnes-et-frappent-kyiv-et-odessa",
-      "source": "Euronews",
-      "publishedAt": "2026-09-28T06:31:14.000Z",
-      "summary": "Au moins 14 morts et 57 blessés en Ukraine après une nuit de frappes de drones russes visant notamment Kyiv et la région d’Odesa.",
-      "image": "https://images.euronews.com/articles/stories/09/93/00/69/696x392_cmsv2_f02d1895-d5e3-5270-a9bb-e5ae40e29718-9930069.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/kyiv-et-odessa-frappees-par-une-vague-de-drones-russes-de-nombreux-morts-8a40978b94.html"
-    },
-    {
-      "title": "«On manque de tout»: les pompiers en grève campent au pied de la tour Eiffel",
-      "url": "https://www.rfi.fr/fr/france/20260928-on-manque-de-tout-les-pompiers-en-gr%C3%A8ve-campent-au-pied-de-la-tour-eiffel",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T05:20:22.000Z",
-      "summary": "Les sapeurs-pompiers en grève depuis le 8 septembre ont installé ce dimanche un campement au pied de la tour Eiffel. Objectif : une visibilité maximale pour alerter le gouvernement sur le manque de moyens après un été caniculaire qui a vu la multiplication des incendies. Venus de toutes les régions de France, ils se jo",
-      "image": "https://s.rfi.fr/media/display/5b8a3394-baf9-11f1-b378-555a0aff87a4/w:1024/p:16x9/000-C9GK4ED.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/on-manque-de-tout-les-pompiers-en-greve-campent-au-pied-de-la-tour-eiffe-e7b499ca32.html"
-    },
-    {
-      "title": "Les Houthis: pouvoir divin, répression féroce et inexorable avancée",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260928-les-houthis-pouvoir-divin-r%C3%A9pression-f%C3%A9roce-et-inexorable-avanc%C3%A9e",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T05:09:02.000Z",
-      "summary": "Au Yémen, la confrontation entre les Houthis et les forces gouvernementales soutenues par une coalition internationale se poursuit. Mais qui sont les Houthis ? Quelles sont leurs origines, leur idéologie ? Comment ont-ils gagné le contrôle des principales villes ? Comment exercent-ils le pouvoir dans les zones qu’ils c",
-      "image": "https://s.rfi.fr/media/display/b46c82c2-b57b-11ee-a56e-005056bf30b7/w:1024/p:16x9/AP24014524802614.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-houthis-pouvoir-divin-repression-feroce-et-inexorable-avancee-4df068878f.html"
-    },
-    {
-      "title": "Union européenne, Concordat… Pourquoi Léon XIV se rend-il à Metz?",
-      "url": "https://www.rfi.fr/fr/france/20260928-union-europ%C3%A9enne-concordat-pourquoi-l%C3%A9on-xiv-se-rend-il-%C3%A0-metz",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T04:43:35.000Z",
-      "summary": "Après Paris et Lourdes, le pape Léon XIV termine ce lundi sa visite en France à Metz, dans le nord-est de l’Hexagone. Une étape moins attendue mais un choix chargé de sens. Sur cette terre longtemps déchirée par les guerres, Metz est devenue un symbole des prémices du projet européen. La préfecture de la Moselle jouit ",
-      "image": "https://s.rfi.fr/media/display/fba64570-baf4-11f1-9fee-852b23529bb9/w:1024/p:16x9/AP26270732976043.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/union-europeenne-concordat-pourquoi-leon-xiv-se-rend-il-a-metz-38a335a425.html"
-    },
-    {
-      "title": "Poussée RN aux sénatoriales: \"Le plafond de verre se fendille encore un peu plus\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260928-pouss%C3%A9e-rn-aux-s%C3%A9natoriales-le-plafond-de-verre-se-fendille-encore-un-peu-plus",
+      "title": "Royaume-Uni : libération des cinq suspects de la tentative d'attentat près d'une base aérienne",
+      "url": "https://www.france24.com/fr/europe/20260928-projet-attaque-contre-une-base-militaire-en-angleterre-les-cinq-hommes-arr%C3%AAt%C3%A9s-lib%C3%A9r%C3%A9s-sous-caution",
       "source": "France 24",
-      "publishedAt": "2026-09-28T04:11:44.000Z",
-      "summary": "A la Une de la presse, ce lundi 28 septembre, la percée du Rassemblement national aux sénatoriales. L’enthousiasme des catholiques français pour la visite du pape Léon, qui a abordé, entre autres, les questions de l’euthanasie et des violences sexuelles au sein de l’Eglise. Un grand entretien avec la rabbine Delphine H",
-      "image": "https://s.france24.com/media/display/2cb92010-bb04-11f1-b46c-91cf9f3cd539/w:1024/p:16x9/capture-1608930906aba064a962265-63297320.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/poussee-rn-aux-senatoriales-le-plafond-de-verre-se-fendille-encore-un-pe-aa215aede0.html"
+      "publishedAt": "2026-09-28T15:04:37.000Z",
+      "summary": "Les cinq hommes soupçonnés d'infractions à la législation sur les explosifs, arrêtés au Royaume-Uni à proximité d'une base militaire utilisée par l'armée de l'air américaine, ont été libérés sous caution, a annoncé lundi la police.",
+      "image": "https://s.france24.com/media/display/dec85b52-bb4c-11f1-befe-852b23529bb9/w:1024/p:16x9/2026-09-28T080932Z-315417918-RC28SNAO0FD7-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-liberation-des-cinq-suspects-de-la-tentative-d-attentat-pres-6219f54d9b.html"
     },
     {
-      "title": "Le pape Léon XIV achève à Metz sa visite en France, Emmanuel Macron présent à la messe",
-      "url": "https://www.france24.com/fr/france/20260928-le-pape-l%C3%A9on-xiv-ach%C3%A8ve-%C3%A0-metz-sa-visite-en-france-emmanuel-macron-pr%C3%A9sent-%C3%A0-la-messe",
+      "title": "Projet d'attaque contre une base militaire en Angleterre : les 5 hommes arrêtés sont britanniques",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260928-projet-d-attaque-contre-une-base-militaire-en-angleterre-les-5-hommes-arr%C3%AAt%C3%A9s-sont-britanniques",
       "source": "France 24",
-      "publishedAt": "2026-09-28T01:58:09.000Z",
-      "summary": "Pour le dernier jour de visite en France, le pape Léon XIV se rend lundi à Metz, notamment pour célébrer la construction européenne comme source de paix. Le président français Emmanuel Macron assistera à la messe à la cathédrale Saint-Étienne.",
-      "image": "https://s.france24.com/media/display/0d8c36b0-bae0-11f1-8457-8f3418d01115/w:1024/p:16x9/283def648a46093de0099f6b9bad8d807086e75c.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-pape-leon-xiv-acheve-a-metz-sa-visite-en-france-emmanuel-macron-prese-242a0d82a1.html"
+      "publishedAt": "2026-09-28T14:43:10.000Z",
+      "summary": "Les cinq hommes arrêtés dimanche matin près d'une base militaire en Angleterre utilisée par l'armée américaine et soupçonnés d'un projet d'attaque \"terroriste\" sont des Britanniques âgés de 23 à 25 ans, a annoncé lundi la police antiterroriste.",
+      "image": "https://s.france24.com/media/display/3c850c52-bb4a-11f1-a403-177f79e345bf/w:1024/p:16x9/FR-20260928-161703-161843-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/projet-d-attaque-contre-une-base-militaire-en-angleterre-les-5-hommes-ar-16191d7bd0.html"
     },
     {
-      "title": "Apple condamné à payer 5,7 milliards de dollars pour une affaire de vibrations sur iPhone et Apple Watch",
-      "url": "https://www.frandroid.com/marques/apple/3262339_apple-condamne-a-payer-57-milliards-de-dollars-pour-une-affaire-de-vibrations-sur-iphone-et-apple-watch",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-28T07:20:40.000Z",
-      "summary": "Un jury fédéral de San Diego a condamné Apple, le vendredi 25 septembre, à verser plus de 5,7 milliards de dollars de dommages et intérêts pour contrefaçon de deux brevets sur le retour haptique. C'est un montant record pour ce genre d'affaires.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/apple-iphone-18-pro-1.jpg?resize=1200,675&key=3bf0a9f9",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apple-condamne-a-payer-5-7-milliards-de-dollars-pour-une-affaire-de-vibr-96476417d5.html"
+      "title": "Mediapart rapporte des propos antisémites de Jordan Bardella, qui dénonce des \"faux grossiers\"",
+      "url": "https://www.france24.com/fr/france/20260928-mediapart-rapporte-des-propos-antis%C3%A9mites-de-bardella-qui-d%C3%A9nonce-des-faux-grossiers",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T14:26:10.000Z",
+      "summary": "Dans une enquête publiée lundi, le journal d'investigation Mediapart accuse Jordan Bardella d’avoir tenu des propos antisémites en 2013, lorsqu'il était jeune militant du Front national. Le président du RN conteste \"formellement\" ces accusations et dénonce des \"faux grossiers\".",
+      "image": "https://s.france24.com/media/display/8cb7347c-bb48-11f1-87e1-8f3418d01115/w:1024/p:16x9/6cd9025cd1e88822026b704e633d197770b944c6.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mediapart-rapporte-des-propos-antisemites-de-jordan-bardella-qui-denonce-24369da1a5.html"
     },
     {
-      "title": "ChatGPT Maps, une nouvelle façon de chercher un lieu en France face à Google Maps et Apple Plans",
-      "url": "https://www.frandroid.com/marques/openai/3262407_chatgpt-maps-une-nouvelle-facon-de-chercher-un-lieu-en-france-face-a-google-maps-et-apple-plans",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-28T07:16:03.000Z",
-      "summary": "OpenAI a ouvert ChatGPT Maps, sa recherche de lieux sur carte interactive, aux pays de l'Union européenne à l'été 2026. La version accessible en France affiche des publicités, mais ne propose ni navigation ni trafic en temps réel.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/capture-decran-2026-09-28-a-085948.png?resize=1200,675&key=439126de",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chatgpt-maps-une-nouvelle-facon-de-chercher-un-lieu-en-france-face-a-goo-4c5d97eae6.html"
+      "title": "Turquie: l'humoriste Deniz Göktas condamné à plus de 19 mois de prison",
+      "url": "https://www.rfi.fr/fr/europe/20260928-turquie-l-humoriste-deniz-g%C3%B6ktas-condamn%C3%A9-%C3%A0-plus-de-19-mois-de-prison",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T13:49:53.000Z",
+      "summary": "En Turquie, un tribunal d’Istanbul a condamné, ce lundi 28 septembre, le célèbre humoriste Deniz Göktas à un peu plus de 19 mois de prison. Emprisonné depuis début juillet, il a toutefois été remis en liberté à l’issue de l’audience. Il comparaissait notamment pour « insulte » au chef de l’État, en raison de propos pro",
+      "image": "https://s.rfi.fr/media/display/45545e34-bb43-11f1-a566-177f79e345bf/w:1024/p:16x9/000-C9J8366.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/turquie-l-humoriste-deniz-goktas-condamne-a-plus-de-19-mois-de-prison-7e14aa5c4d.html"
     },
     {
-      "title": "+63 % de ventes : les voitures électriques explosent en Europe, le Tesla Model Y reprend sa couronne",
-      "url": "https://www.01net.com/actualites/63-ventes-voitures-electriques-explosent-europe-tesla-model-y-reprend-couronne.html",
+      "title": "La Corée du Sud exige des excuses de l’Ukraine après l'annonce du transfert de prisonniers nord-coréens",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20260928-la-cor%C3%A9e-du-sud-exige-des-excuses-de-l-ukraine-apr%C3%A8s-l-annonce-du-transfert-de-prisonniers-nord-cor%C3%A9ens",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T13:35:00.000Z",
+      "summary": "L’ambassadeur ukrainien à Séoul a été convoqué par le ministre des Affaires étrangères pour répondre de ce que le gouvernement coréen considère comme une « faute grave » : la violation d’un accord de non-divulgation entre les deux pays au sujet des prisonniers de guerre nord-coréens.",
+      "image": "https://s.rfi.fr/media/display/342616c0-bb25-11f1-a9c6-555a0aff87a4/w:1024/p:16x9/2026-09-28T053548Z-230733951-RC22SNAN5SOU-RTRMADP-3-SOUTHKOREA-UKRAINE-NORTHKOREA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-coree-du-sud-exige-des-excuses-de-l-ukraine-apres-l-annonce-du-transf-b06988c5a9.html"
+    },
+    {
+      "title": "L'avocate iranienne Nasrin Sotoudeh reçoit le prix Vaclav Havel des droits humains",
+      "url": "https://www.france24.com/fr/europe/20260928-avocate-iranienne-nasrin-sotoudeh-re%C3%A7oit-prix-vaclav-havel-droits-humains-conseil-europe",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T13:32:04.000Z",
+      "summary": "Militante contre la peine de mort et le port du voile obligatoire pour les femmes en Iran, l'avocate Nasrin Sotoudeh a été récompensée lundi du prix Vaclav Havel du Conseil de l'Europe. Elle est la première Iranienne à remporter ce prix.",
+      "image": "https://s.france24.com/media/display/6c5e5b62-bb3c-11f1-8583-8f3418d01115/w:1024/p:16x9/000-C9JV3CQ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-avocate-iranienne-nasrin-sotoudeh-recoit-le-prix-vaclav-havel-des-droi-28fda3cd05.html"
+    },
+    {
+      "title": "Burkina Faso: Ibrahim Traoré dresse le bilan de ses quatre années au pouvoir",
+      "url": "https://www.rfi.fr/fr/afrique/20260928-burkina-faso-ibrahim-traor%C3%A9-dresse-le-bilan-de-ses-quatre-ann%C3%A9es-au-pouvoir",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T13:27:55.000Z",
+      "summary": "Au Burkina Faso, à quelques jours du quatrième anniversaire de sa prise de pouvoir par un coup d’État, le 30 septembre 2022, le capitaine Ibrahim Traoré était face à la presse dimanche 27 septembre. Lutte contre le terrorisme, mesures contre la vie chère, rupture des relations diplomatiques avec la France, ou encore ét",
+      "image": "https://s.rfi.fr/media/display/2db550a8-068a-11f1-9794-005056a90284/w:1024/p:16x9/AP25130628113199.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/burkina-faso-ibrahim-traore-dresse-le-bilan-de-ses-quatre-annees-au-pouv-996e86703b.html"
+    },
+    {
+      "title": "Appels indésirables : Bouygues dégaine une nouvelle arme pour mieux vous protéger",
+      "url": "https://www.01net.com/actualites/appels-indesirables-bouygues-degaine-une-nouvelle-arme-pour-mieux-vous-proteger.html",
       "source": "01net",
-      "publishedAt": "2026-09-28T06:56:20.000Z",
-      "summary": "Les ventes de voitures électriques n’ont jamais autant progressé avec une hausse de 63 % des livraisons en août 2026 par rapport à la même période l’année passée. Elles raflent maintenant plus d’un quart du marché.",
-      "image": "https://www.01net.com/app/uploads/2026/09/tesla-model-y-6-1344x896.jpg",
+      "publishedAt": "2026-09-28T13:04:17.000Z",
+      "summary": "Bouygues Telecom a annoncé le lancement d’Anti-Scam pour les particuliers et les entreprises. Cette fonction a pour objectif de bloquer les appels indésirables et frauduleux grâce à l’intelligence artificielle. Aucune configuration n’est nécessaire pour pouvoir en bénéficier, mais un abonnement mensuel est requis.",
+      "image": "https://www.01net.com/app/uploads/2026/04/bouygues-telecom-logo-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/63-de-ventes-les-voitures-electriques-explosent-en-europe-le-tesla-model-373ea5bd4f.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/appels-indesirables-bouygues-degaine-une-nouvelle-arme-pour-mieux-vous-p-1e15670e7f.html"
     },
     {
-      "title": "Fire TV Stick 4K (2026) : une fuite montre le nouveau design d’Amazon et sa télécommande réorganisée",
-      "url": "https://www.frandroid.com/marques/3262345_fire-tv-stick-4k-2026-une-fuite-montre-le-nouveau-design-damazon-et-sa-telecommande-reorganisee",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-28T06:50:50.000Z",
-      "summary": "Des images du prochain Fire TV Stick 4K (2026) et de sa télécommande ont fuité ce lundi 28 septembre, avant toute annonce d’Amazon. Le stick devient plus anguleux et la télécommande change de disposition, presque un an jour pour jour après le dernier grand lancement matériel de la marque.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/image-482.png?resize=1200,675&key=2779628c",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fire-tv-stick-4k-2026-une-fuite-montre-le-nouveau-design-d-amazon-et-sa--75e4556abd.html"
+      "title": "Serbie : le président Aleksandar Vučić démissionne en vue des élections législatives",
+      "url": "https://fr.euronews.com/2026/09/28/serbie-le-president-aleksandar-vucic-demissionne-en-vue-des-elections-legislatives",
+      "source": "Euronews",
+      "publishedAt": "2026-09-28T13:00:47.000Z",
+      "summary": "Cette décision pourrait lui permettre d'accéder au poste de Premier ministre à l'issue du scrutin du 25 octobre prochain, alors que la Constitution serbe lui interdit de briguer un troisième mandat présidentiel.",
+      "image": "https://images.euronews.com/articles/stories/09/93/00/11/696x392_cmsv2_97805c68-d400-59d6-94ca-1d1e51bb8b0c-9930011.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/serbie-le-president-aleksandar-vucic-demissionne-en-vue-des-elections-le-ea4bb4a2fe.html"
     },
     {
-      "title": "Votre Windows plante cinq minutes après son démarrage ? Voilà ce que vous pouvez faire",
-      "url": "https://www.frandroid.com/marques/microsoft/3262357_votre-windows-plante-cinq-minutes-apres-son-demarrage-voila-ce-que-vous-pouvez-faire",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-28T06:48:46.000Z",
-      "summary": "Un méchant bug traîne depuis quelques mois dans les dernières versions de Windows. Ce dernier bloque complètement le PC dans les cinq minutes suivant son démarrage. Il existe cependant une solution.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2021/10/windows-scaled.jpg?resize=1200,675&key=ac8fe3db",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/votre-windows-plante-cinq-minutes-apres-son-demarrage-voila-ce-que-vous--36c59f6623.html"
+      "title": "Élections sénatoriales en France : le RN débarque en force à la chambre haute",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260928-%C3%A9lections-s%C3%A9natoriales-en-france-le-rn-d%C3%A9barque-en-force-%C3%A0-la-chambre-haute",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T12:51:07.000Z",
+      "summary": "Le Rassemblement national frappe un grand coup: en formant un groupe parlementaire au Sénat pour la première fois dimanche, le parti lepéniste a obtenu un succès significatif en pleine campagne présidentielle, venant perturber la domination historique de la droite à la chambre haute.",
+      "image": "https://s.france24.com/media/display/5e82d420-bb3a-11f1-a777-11fa9f8a3b4f/w:1024/p:16x9/FR-20260928-141457-141816-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-senatoriales-en-france-le-rn-debarque-en-force-a-la-chambre-ha-6f15cfc323.html"
     },
     {
-      "title": "Windows 11 : Microsoft a mis en pause cette mise à jour car elle désactive les licences Office",
-      "url": "https://www.01net.com/actualites/windows-11-microsoft-a-mis-en-pause-cette-mise-a-jour-car-elle-desactive-les-licences-office.html",
+      "title": "Des moutons envahissent le pont de Southwark à Londres pour une transhumance caritative annuelle",
+      "url": "https://fr.euronews.com/video/2026/09/28/le-pont-de-southwark-a-londres-se-transforme-en-defile-de-moutons",
+      "source": "Euronews",
+      "publishedAt": "2026-09-28T12:37:33.000Z",
+      "summary": "À Londres, 1 500 personnes ont participé au \"London Sheep Drive\", mêlant animation autour de la laine et soutien à des œuvres caritatives locales.",
+      "image": "https://images.euronews.com/articles/stories/09/93/07/24/696x392_cmsv2_111ea9ef-8cdd-52a6-9572-01786c3489b8-9930724.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-moutons-envahissent-le-pont-de-southwark-a-londres-pour-une-transhum-3dbecfc409.html"
+    },
+    {
+      "title": "Votre box internet tient-elle ses promesses de débit ? Les quatre opérateurs français attaqués en justice",
+      "url": "https://www.01net.com/actualites/votre-box-internet-tient-elle-ses-promesses-de-debit-les-quatre-operateurs-francais-attaques-en-justice.html",
       "source": "01net",
-      "publishedAt": "2026-09-28T06:34:53.000Z",
-      "summary": "Microsoft a dû interrompre le déploiement de la mise à jour KB5002907 après de nombreux retours d’utilisateurs se plaignant de dysfonctionnements majeurs.",
-      "image": "https://www.01net.com/app/uploads/2025/02/microsoft-365-vpn-1344x896.jpg",
+      "publishedAt": "2026-09-28T12:04:59.000Z",
+      "summary": "Familles Rurales engage quatre actions de groupe contre Orange, SFR, Free et Bouygues Telecom, accusés de ne pas mentionner clairement les débits de leurs box. Ce que l'association réclame.",
+      "image": "https://www.01net.com/app/uploads/2026/09/internet-box-rj45-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/windows-11-microsoft-a-mis-en-pause-cette-mise-a-jour-car-elle-desactive-10bbc8ba2a.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/votre-box-internet-tient-elle-ses-promesses-de-debit-les-quatre-operateu-78a60edfef.html"
     },
     {
-      "title": "WhatsApp : gros changement de design à venir sur Android",
-      "url": "https://www.frandroid.com/android/applications/3262317_whatsapp-gros-changement-de-design-a-venir-sur-android",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-28T06:17:28.000Z",
-      "summary": "WhatsApp sur Android pourrait se doter, prochainement, d'une barre de navigation revisitée plus en phase avec le design de l'interface iOS de l'application.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/whatsapp-android-barre-navigation-nouvueau-design-developpement.jpg?resize=1200,675&key=57b7eadf",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/whatsapp-gros-changement-de-design-a-venir-sur-android-4639b76018.html"
+      "title": "Les rebelles du Tigré avancent en Afar, l'Éthiopie accuse ses voisins",
+      "url": "https://fr.euronews.com/2026/09/28/les-rebelles-du-tigre-avancent-en-afar-lethiopie-accuse-ses-voisins",
+      "source": "Euronews",
+      "publishedAt": "2026-09-28T11:47:13.000Z",
+      "summary": "Le TPLF avance vers Afdeera après la prise d'Erebti; au moins 150 000 personnes déplacées dans l'Afar. L'offensive vise le corridor de Djibouti, par où passe l'essentiel du commerce extérieur éthiopien, donnant aux rebelles un moyen de pression sur le gouvernement fédéral.",
+      "image": "https://images.euronews.com/articles/stories/09/93/06/63/696x392_cmsv2_e8a1581f-2b0f-5409-a033-959f649d5e01-9930663.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-rebelles-du-tigre-avancent-en-afar-l-ethiopie-accuse-ses-voisins-b1d0f8e9f9.html"
+    },
+    {
+      "title": "Donald Trump aurait proposé des armes à Xi Jinping, selon son ambassadeur en Chine",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260928-donald-trump-aurait-propos%C3%A9-des-armes-%C3%A0-xi-jinping-selon-son-ambassadeur-en-chine",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T11:46:33.000Z",
+      "summary": "Le président américain Donald Trump a proposé à son homologue Xi Jinping de vendre des armes américaines à la Chine. C'est l'ambassadeur américain à Pékin, David Perdue, qui l'a confirmé à la chaîne Fox News sans préciser à quel moment avait eu cette conversation. À la suite des massacres de la place Tiananmen au mois ",
+      "image": "https://s.rfi.fr/media/display/c93dfa90-bb19-11f1-9628-8f3418d01115/w:1024/p:16x9/2026-09-25T000810Z-1990009338-RC2ZPNA63J1Y-RTRMADP-3-USA-CHINA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-aurait-propose-des-armes-a-xi-jinping-selon-son-ambassadeur-d645e6f1b6.html"
+    },
+    {
+      "title": "Un Musée de l'info et de la presse doit voir le jour à Paris en 2029",
+      "url": "https://www.france24.com/fr/culture/20260928-mus%C3%A9e-info-presse-doit-voir-jour-paris-2029-mariotti",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T11:04:19.000Z",
+      "summary": "Le Musée de l'info et de la presse (Musip) doit ouvrir ses portes à Paris à l'horizon 2029, a annoncé lundi matin son président-fondateur, Antoine Mariotti, par ailleurs journaliste à France 24. Soutenu par l'Unesco, de nombreux médias – dont Radio France, Le Figaro, l'AFP, Charlie Hebdo et des groupes de presse région",
+      "image": "https://s.france24.com/media/display/263b3a12-bb2b-11f1-a7d2-91cf9f3cd539/w:1024/p:16x9/musip-logo.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-musee-de-l-info-et-de-la-presse-doit-voir-le-jour-a-paris-en-2029-b097db31fd.html"
     }
   ]
 }
