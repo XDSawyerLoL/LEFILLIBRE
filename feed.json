@@ -1,171 +1,172 @@
 {
-  "updatedAt": "2026-09-28T15:57:07.601Z",
+  "updatedAt": "2026-09-28T21:33:20.220Z",
   "items": [
     {
-      "title": "Claude et ChatGPT semblent moins intelligents après chaque mise à jour ou lors de pics d’affluence : simple biais ou réalité ?",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3263025_claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-ou-lors-de-pics-daffluence-simple-biais-ou-realite",
+      "title": "Le vaisseau Starship de SpaceX atteint l'orbite pour la première fois",
+      "url": "https://fr.euronews.com/2026/09/28/le-vaisseau-starship-de-spacex-atteint-lorbite-pour-la-premiere-fois",
+      "source": "Euronews",
+      "publishedAt": "2026-09-28T18:08:47.000Z",
+      "summary": "Starship de SpaceX atteint l'orbite pour la première fois, mais le vol d'essai s'interrompt plus tôt que prévu.",
+      "image": "https://images.euronews.com/articles/stories/09/93/11/41/696x392_cmsv2_4b551ea4-31a0-5f69-9c10-da663eb6e8f5-9931141.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-vaisseau-starship-de-spacex-atteint-l-orbite-pour-la-premiere-fois-7f9bb62eb6.html"
+    },
+    {
+      "title": "Ces images ne montrent pas les vrais visages des suspects du projet d’attaque contre la base de Fairford",
+      "url": "https://www.france24.com/fr/europe/20260928-ces-images-ne-montrent-pas-les-vrais-visages-des-suspects-du-projet-d-attaque-contre-la-base-de-fairford",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T17:49:02.000Z",
+      "summary": "Plusieurs images censées être des photographies révélant les visages des suspects de la tentative d'attentat contre la base aérienne de Fairford, au Royaume-Uni, circulent sur les réseaux sociaux. Mais ces supposés clichés sont tirés d'une photographie qui a été falsifiée à l'aide de l'intelligence artificielle.",
+      "image": "https://s.france24.com/media/display/74067e0c-bb5b-11f1-bc02-91cf9f3cd539/w:1024/p:16x9/image7-33.png",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ces-images-ne-montrent-pas-les-vrais-visages-des-suspects-du-projet-d-at-359f16f778.html"
+    },
+    {
+      "title": "Budget 2027 : les pistes de l’exécutif pour faire 54 milliards € d’économies",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260928-budget-2027-les-pistes-de-l-ex%C3%A9cutif-pour-faire-54-milliards-%E2%82%AC-d-%C3%A9conomies",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T20:50:17.000Z",
+      "summary": "Le gouvernement va transmettre le jeudi 1er octobre son projet de loi de finance 2027 à l'Assemblée nationale. Objectif 2027 : réduire le déficit à 5% du PIB via deux leviers : baisse des dépenses et hausse des recettes. Parmi les premières pistes évoquées, le gel du point d'indice des salaires des fonctionnaires, une ",
+      "image": "https://s.france24.com/media/display/bf9b8ee0-bb7c-11f1-b62b-11fa9f8a3b4f/w:1024/p:16x9/JT-FRANCE-2-13H21-09-2026-12-55-ING14-12-50-FPS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/budget-2027-les-pistes-de-l-executif-pour-faire-54-milliards-d-economies-42175c589d.html"
+    },
+    {
+      "title": "Jeux Paralympiques : \"le top 5 des nations, notre objectif en 2028\" déclare Marie-Amélie Le Fur",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260928-jeux-paralympiques-le-top-5-des-nations-notre-objectif-en-2028-d%C3%A9clare-marie-am%C3%A9lie-le-fur",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T20:34:47.000Z",
+      "summary": "Deux ans avant les Jeux Paralympiques de Los Angeles 2028, Marie-Amélie Le Fur, présidente du Comité Paralympique et Sportif Français évoque ses ambitions pour le para-sport après le tournant des Jeux de Paris 2024. Sur le plan sportif, l'objectif est clair : atteindre le top 5 des nations après une 8ème place au table",
+      "image": "https://s.france24.com/media/display/7fe452b6-bb7a-11f1-b666-11fa9f8a3b4f/w:1024/p:16x9/FRA-NEWS-28-09-2026-17-59-ING10-CLEAN-N2.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jeux-paralympiques-le-top-5-des-nations-notre-objectif-en-2028-declare-m-ce6b2a3466.html"
+    },
+    {
+      "title": "France: deux ans d'emprisonnement avec sursis requis contre François Bayrou au procès en appel du MoDem",
+      "url": "https://www.rfi.fr/fr/france/20260928-france-deux-ans-d-emprisonnement-avec-sursis-requis-contre-fran%C3%A7ois-bayrou-au-proc%C3%A8s-en-appel-du-modem",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T20:25:25.000Z",
+      "summary": "Une peine de deux ans d'emprisonnement avec sursis, 50 000 euros d'amende et trois ans d'inéligibilité avec sursis a été réclamée lundi contre François Bayrou en appel dans le dossier des assistants d'eurodéputés du MoDem, dans lequel il avait été relaxé en première instance.",
+      "image": "https://s.rfi.fr/media/display/bbd38380-bb77-11f1-aca2-11fa9f8a3b4f/w:1024/p:16x9/000-C9JQ24H.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-deux-ans-d-emprisonnement-avec-sursis-requis-contre-francois-bayr-29f323d266.html"
+    },
+    {
+      "title": "Le mégafeu en Gironde, qui a parcouru 42 000 hectares cet été, est officiellement \"éteint\"",
+      "url": "https://www.france24.com/fr/france/20260928-m%C3%A9gafeu-gironde-qui-a-parcouru-42-000-hectares-cet-%C3%A9t%C3%A9-est-officiellement-%C3%A9teint",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T19:20:28.000Z",
+      "summary": "Deux mois après son départ, le mégafeu de Saumos, en Gironde, a été déclaré \"éteint\" lundi par la préfecture. Avec 42 000 hectares parcourus, il a touché la plus grande superficie relevée en France depuis un feu de forêt meurtrier dans les Landes de Gascogne en 1949, qui avait ravagé environ 50 000 hectares.",
+      "image": "https://s.france24.com/media/display/4a3bd64c-bb67-11f1-87db-91cf9f3cd539/w:1024/p:16x9/000-C9K42CR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-megafeu-en-gironde-qui-a-parcouru-42-000-hectares-cet-ete-est-officie-f7c23660d1.html"
+    },
+    {
+      "title": "L'ONU dénonce une \"cascade de violations\" liées aux expulsions américaines vers des pays tiers",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260928-onu-d%C3%A9nonce-cascade-de-violations-li%C3%A9es-aux-expulsions-%C3%A9tats-unis-vers-pays-tiers-migrants",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T17:45:49.000Z",
+      "summary": "Des experts de l'ONU ont alerté lundi sur les risques liés au programme américain d'expulsions vers des pays tiers, qui expose certaines personnes expulsées à des traitements inhumains, comme la torture ou la persécution. Une enquête menée par Forbidden Stories et une vingtaine de médias, dont France 24, avait révélé p",
+      "image": "https://s.france24.com/media/display/30d6f4e2-bb63-11f1-9e13-8f3418d01115/w:1024/p:16x9/2026-09-04T142757Z-1504289711-RC2DCNAH031A-RTRMADP-3-USA-IMMIGRATION-NEW-YORK.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-onu-denonce-une-cascade-de-violations-liees-aux-expulsions-americaines-dd4c7cd9c2.html"
+    },
+    {
+      "title": "L'Union européenne veut renforcer sa riposte face aux attaques hybrides russes avec un protocole d'urgence",
+      "url": "https://www.rfi.fr/fr/europe/20260928-l-union-europ%C3%A9enne-veut-renforcer-sa-riposte-face-aux-attaques-hybrides-russes-avec-un-protocole-d-urgence",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T17:42:54.000Z",
+      "summary": "Les 27 ministres de la Défense de l’Union européenne se sont penchés ce lundi sur les travaux en vue d’un protocole d’urgence pour faire face aux menaces hybrides. C’est un premier pas vers un rôle militaire accru qui donnerait à l’Union européenne des compétences qui ressemblent en partie à celles de l’Otan.",
+      "image": "https://s.rfi.fr/media/display/8729b222-bb62-11f1-b6c3-177f79e345bf/w:1024/p:16x9/000-C4VA3T6.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-union-europeenne-veut-renforcer-sa-riposte-face-aux-attaques-hybrides--53f17b5028.html"
+    },
+    {
+      "title": "Les manifestations et blocages des lycées se poursuivent sur fond de tensions politiques",
+      "url": "https://www.france24.com/fr/france/20260928-les-manifestations-et-blocages-des-lyc%C3%A9es-se-poursuivent-sur-fond-de-tensions-politiques",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T17:34:09.000Z",
+      "summary": "Quelques 164 interpellations ont eu lieu lundi aux abords des lycées suite aux manifestations et blocages des lycées, et à la veille d'un appel à une journée de mobilisation nationale. Parallèlement, le gouvernement et La France insoumise (LFI) s'accusent mutuellement du climat de tension dans les établissements scolai",
+      "image": "https://s.france24.com/media/display/cf9305a4-bb62-11f1-aea6-852b23529bb9/w:1024/p:16x9/2f927ed5d5349aa61aa3f86dda15a25db7101063.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-manifestations-et-blocages-des-lycees-se-poursuivent-sur-fond-de-ten-2b71e06283.html"
+    },
+    {
+      "title": "Moscou prend le contrôle des actifs en Russie du groupe de distribution allemand Metro",
+      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260928-moscou-prend-le-contr%C3%B4le-des-actifs-en-russie-du-groupe-de-distribution-allemand-metro",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T17:27:59.000Z",
+      "summary": "Les autorités russes ont placé sous « administration temporaire » les actifs en Russie du groupe de distribution allemand Metro, moins de deux semaines après avoir fait de même avec plusieurs sociétés issues de pays européens soutenant l'Ukraine.",
+      "image": "https://s.rfi.fr/media/display/9664b7d0-bb5a-11f1-ba4b-91cf9f3cd539/w:1024/p:16x9/AP26271565886880.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/moscou-prend-le-controle-des-actifs-en-russie-du-groupe-de-distribution--1673a67a1f.html"
+    },
+    {
+      "title": "«Financé par le gouvernement»: un spot télévisé de Donald Trump crée la polémique",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260928-financ%C3%A9-par-le-gouvernement-un-spot-t%C3%A9l%C3%A9vis%C3%A9-de-donald-trump-cr%C3%A9e-la-pol%C3%A9mique",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T17:21:53.000Z",
+      "summary": "Aux États-Unis, une vidéo du président Donald Trump publiée une première fois en 2024 sur son réseau Truth Social et rediffusée ce week-end à la télévision pourrait enfreindre la loi fédérale.",
+      "image": "https://s.rfi.fr/media/display/ee0402c4-bb60-11f1-8654-852b23529bb9/w:1024/p:16x9/Trump-ad.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/finance-par-le-gouvernement-un-spot-televise-de-donald-trump-cree-la-pol-c8780a5d29.html"
+    },
+    {
+      "title": "iPhone 18 Pro : Apple sort la mise à jour iOS 27.0.1 pour corriger les bugs",
+      "url": "https://www.frandroid.com/marques/apple/3263873_iphone-18-pro-apple-sort-la-mise-a-jour-ios-27-0-1-pour-corriger-les-bugs",
       "source": "Frandroid",
-      "publishedAt": "2026-09-28T15:53:48.000Z",
-      "summary": "Chaque nouveau modèle suit le même cycle&nbsp;: émerveillement, puis «&nbsp;il est devenu nul&nbsp;». Anthropic a fini par documenter ce qui relevait du bug, OpenAI a reconnu quelques ratés, et le reste est surtout dans notre tête.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/claude-codouille.jpeg?resize=1200,675&key=e75efc32",
+      "publishedAt": "2026-09-28T17:21:18.000Z",
+      "summary": "L'iPhone 18 Pro présentait quelques instabilités depuis son lancement, en particulier avec Face ID. Apple déploie une mise à jour iOS 27.0.1 pour corriger ça.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/design-sans-titre-1.jpg?resize=1200,675&key=385086da",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/claude-et-chatgpt-semblent-moins-intelligents-apres-chaque-mise-a-jour-o-b7fe4144c1.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-18-pro-apple-sort-la-mise-a-jour-ios-27-0-1-pour-corriger-les-bug-920cb2744b.html"
     },
     {
-      "title": "iPhone 18 Pro Max : un message “SOS” rend certains smartphones inutilisables",
-      "url": "https://www.01net.com/actualites/iphone-18-pro-max-un-message-sos-rend-certains-appareils-inutilisables.html",
+      "title": "Allemagne : une ville interdit les Stolpersteine, pavés dédiés aux victimes du nazisme",
+      "url": "https://www.france24.com/fr/europe/20260928-allemagne-afd-extreme-droite-stolpersteine-paves-memoire-interdiction-heidenau",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T17:11:58.000Z",
+      "summary": "La ville d'Heidenau, dans ​le centre-est de l'Allemagne, a approuvé une motion des partis d'extrême droite Alternative pour ​l'Allemagne (AfD) et de l'Union chrétienne-démocrate (CDU) interdisant l'installation prévue de Stolpersteine, ces pavés de la mémoire rendant hommage aux victimes du nazisme. Une décision qui pr",
+      "image": "https://s.france24.com/media/display/ef00efd6-bb3b-11f1-9613-11fa9f8a3b4f/w:1024/p:16x9/AP26126588569035.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-une-ville-interdit-les-stolpersteine-paves-dedies-aux-victimes-d5a5961b20.html"
+    },
+    {
+      "title": "Côte d'Ivoire : l'opposition appelle à la libération de Justin Katinan Koné",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260928-c%C3%B4te-d-ivoire-l-opposition-appelle-%C3%A0-la-lib%C3%A9ration-de-justin-katinan-kon%C3%A9",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T16:09:05.000Z",
+      "summary": "🇨🇮 En Côte d’Ivoire, l'opposition appelle à la libération de Justin Katinan Koné du PPACI de Laurent Gbagbo. Le PDCI qui s'est joint à la contestation dénonce une justice instrumentalisée.",
+      "image": "https://s.france24.com/media/display/bb70a004-bb53-11f1-ac14-91cf9f3cd539/w:1024/p:16x9/Couv-CIV-Opposition-appel-lib%C3%A9ration-Justin-Kone.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cote-d-ivoire-l-opposition-appelle-a-la-liberation-de-justin-katinan-kon-72355d06f2.html"
+    },
+    {
+      "title": "France: Mediapart rapporte des écrits antisémites attribués à Bardella en 2013, le président du RN dément",
+      "url": "https://www.rfi.fr/fr/france/20260928-france-mediapart-rapporte-des-%C3%A9crits-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella-en-2013-le-pr%C3%A9sident-du-rn-d%C3%A9ment",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T16:02:36.000Z",
+      "summary": "Mediapart a rapporté lundi des écrits antisémites datant de 2013 attribués à Jordan Bardella, alors jeune militant du Front national. Le président du RN conteste « formellement », évoquant des « faux grossiers », Marine Le Pen, la candidate du parti à l'Élysée, dénonçant pour sa part « une barbouzerie ».",
+      "image": "https://s.rfi.fr/media/display/1f01a2ca-3c90-11ef-825e-005056a90284/w:1024/p:16x9/2024-07-07T183654Z_1952271647_UP1EK771FPGUG_RTRMADP_3_FRANCE-ELECTION.JPG",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-mediapart-rapporte-des-ecrits-antisemites-attribues-a-bardella-en-f9cdc3980c.html"
+    },
+    {
+      "title": "«Le Sénat reste une institution surannée qui ne représente pas la population», Gabrielle Cathala (LFI)",
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20260928-le-s%C3%A9nat-reste-une-institution-surann%C3%A9e-qui-ne-repr%C3%A9sente-pas-la-population-gabrielle-cathala-lfi",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T15:35:28.000Z",
+      "summary": "Au lendemain des élections sénatoriales, les Insoumis se frayent pour la première fois un chemin jusqu’au palais du Luxembourg : une « victoire » pour Gabrielle Cathala. « Nous avons déjoué tous les pronostics », affirme la députée LFI du Val-d'Oise. Le scrutin a pourtant démontré l'incapacité de la gauche à conclure d",
+      "image": "https://s.rfi.fr/media/display/c8376260-bb43-11f1-8cbd-11fa9f8a3b4f/w:1024/p:16x9/Gabrielle-Cathala.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-senat-reste-une-institution-surannee-qui-ne-represente-pas-la-populat-63b954ffe6.html"
+    },
+    {
+      "title": "100 Go, la 5G incluse et réseau Bouygues : le forfait discret à moins de 10 € qui mérite le détour",
+      "url": "https://www.frandroid.com/bons-plans/3263433_100-go-la-5g-incluse-et-reseau-bouygues-le-forfait-discret-a-moins-de-10-e-qui-merite-le-detour",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-28T17:46:00.000Z",
+      "summary": "Cdiscount Mobile propose 100 Go en 5G à 9,99 euros par mois, sans engagement. Le forfait utilise le réseau de Bouygues Telecom et inclut 25 Go pour les déplacements en Europe.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/sosh.jpg?resize=1200,675&key=ac7fe923",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/100-go-la-5g-incluse-et-reseau-bouygues-le-forfait-discret-a-moins-de-10-3e17508db7.html"
+    },
+    {
+      "title": "4 min 30 pour passer de 10 à 70 % : Geely pulvérise BYD et signe la recharge la plus rapide du monde",
+      "url": "https://www.01net.com/actualites/4-min-30-10-a-70-batterie-geely-pulverise-byd-recharge-plus-rapide-monde.html",
       "source": "01net",
-      "publishedAt": "2026-09-28T15:30:45.000Z",
-      "summary": "Les témoignages en ligne faisant état d’iPhone 18 Pro Max devenus soudainement quasiment inutilisables se multiplient. Sans raison, le téléphone bascule en mode SOS, rendant les appels et la navigation sur le web via les données cellulaires impossibles.",
-      "image": "https://www.01net.com/app/uploads/2026/09/apple-iphone-18-pro-max-couleurs-1344x896.jpg",
+      "publishedAt": "2026-09-28T16:28:00.000Z",
+      "summary": "Les marques chinoises continuent à se tirer la bourre pour savoir qui proposera la recharge la plus rapide. Alors que BYD était jusqu’alors le roi avec ses Flash Chargers, Geely vient lui chiper la couronne avec sa nouvelle batterie pouvant prendre jusqu’à 2 250 kW.",
+      "image": "https://www.01net.com/app/uploads/2026/09/geely-charge-rapide-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-18-pro-max-un-message-sos-rend-certains-smartphones-inutilisables-34569cc151.html"
-    },
-    {
-      "title": "France: prison aménageable et inéligibilité immédiate requises contre l'ex-ministre Rachida Dati",
-      "url": "https://www.rfi.fr/fr/france/20260928-france-prison-am%C3%A9nageable-et-in%C3%A9ligibilit%C3%A9-imm%C3%A9diate-requises-contre-l-ex-ministre-rachida-dati",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T15:18:23.000Z",
-      "summary": "Le parquet national financier a requis lundi 28 septembre contre l'ancienne ministre française Rachida Dati, jugée pour corruption, quatre ans de prison dont deux ferme sous bracelet électronique, ainsi que cinq ans d'inéligibilité et d'interdiction de la fonction publique, avec exécution provisoire pour ces peines com",
-      "image": "https://s.rfi.fr/media/display/9c083a52-bb4d-11f1-a11b-555a0aff87a4/w:1024/p:16x9/000-C9HT7HE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-prison-amenageable-et-ineligibilite-immediate-requises-contre-l-e-4e872b4f99.html"
-    },
-    {
-      "title": "Royaume-Uni : libération des cinq suspects de la tentative d'attentat près d'une base aérienne",
-      "url": "https://www.france24.com/fr/europe/20260928-projet-attaque-contre-une-base-militaire-en-angleterre-les-cinq-hommes-arr%C3%AAt%C3%A9s-lib%C3%A9r%C3%A9s-sous-caution",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T15:04:37.000Z",
-      "summary": "Les cinq hommes soupçonnés d'infractions à la législation sur les explosifs, arrêtés au Royaume-Uni à proximité d'une base militaire utilisée par l'armée de l'air américaine, ont été libérés sous caution, a annoncé lundi la police.",
-      "image": "https://s.france24.com/media/display/dec85b52-bb4c-11f1-befe-852b23529bb9/w:1024/p:16x9/2026-09-28T080932Z-315417918-RC28SNAO0FD7-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-liberation-des-cinq-suspects-de-la-tentative-d-attentat-pres-6219f54d9b.html"
-    },
-    {
-      "title": "Projet d'attaque contre une base militaire en Angleterre : les 5 hommes arrêtés sont britanniques",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260928-projet-d-attaque-contre-une-base-militaire-en-angleterre-les-5-hommes-arr%C3%AAt%C3%A9s-sont-britanniques",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T14:43:10.000Z",
-      "summary": "Les cinq hommes arrêtés dimanche matin près d'une base militaire en Angleterre utilisée par l'armée américaine et soupçonnés d'un projet d'attaque \"terroriste\" sont des Britanniques âgés de 23 à 25 ans, a annoncé lundi la police antiterroriste.",
-      "image": "https://s.france24.com/media/display/3c850c52-bb4a-11f1-a403-177f79e345bf/w:1024/p:16x9/FR-20260928-161703-161843-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/projet-d-attaque-contre-une-base-militaire-en-angleterre-les-5-hommes-ar-16191d7bd0.html"
-    },
-    {
-      "title": "Mediapart rapporte des propos antisémites de Jordan Bardella, qui dénonce des \"faux grossiers\"",
-      "url": "https://www.france24.com/fr/france/20260928-mediapart-rapporte-des-propos-antis%C3%A9mites-de-bardella-qui-d%C3%A9nonce-des-faux-grossiers",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T14:26:10.000Z",
-      "summary": "Dans une enquête publiée lundi, le journal d'investigation Mediapart accuse Jordan Bardella d’avoir tenu des propos antisémites en 2013, lorsqu'il était jeune militant du Front national. Le président du RN conteste \"formellement\" ces accusations et dénonce des \"faux grossiers\".",
-      "image": "https://s.france24.com/media/display/8cb7347c-bb48-11f1-87e1-8f3418d01115/w:1024/p:16x9/6cd9025cd1e88822026b704e633d197770b944c6.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mediapart-rapporte-des-propos-antisemites-de-jordan-bardella-qui-denonce-24369da1a5.html"
-    },
-    {
-      "title": "Turquie: l'humoriste Deniz Göktas condamné à plus de 19 mois de prison",
-      "url": "https://www.rfi.fr/fr/europe/20260928-turquie-l-humoriste-deniz-g%C3%B6ktas-condamn%C3%A9-%C3%A0-plus-de-19-mois-de-prison",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T13:49:53.000Z",
-      "summary": "En Turquie, un tribunal d’Istanbul a condamné, ce lundi 28 septembre, le célèbre humoriste Deniz Göktas à un peu plus de 19 mois de prison. Emprisonné depuis début juillet, il a toutefois été remis en liberté à l’issue de l’audience. Il comparaissait notamment pour « insulte » au chef de l’État, en raison de propos pro",
-      "image": "https://s.rfi.fr/media/display/45545e34-bb43-11f1-a566-177f79e345bf/w:1024/p:16x9/000-C9J8366.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/turquie-l-humoriste-deniz-goktas-condamne-a-plus-de-19-mois-de-prison-7e14aa5c4d.html"
-    },
-    {
-      "title": "La Corée du Sud exige des excuses de l’Ukraine après l'annonce du transfert de prisonniers nord-coréens",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20260928-la-cor%C3%A9e-du-sud-exige-des-excuses-de-l-ukraine-apr%C3%A8s-l-annonce-du-transfert-de-prisonniers-nord-cor%C3%A9ens",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T13:35:00.000Z",
-      "summary": "L’ambassadeur ukrainien à Séoul a été convoqué par le ministre des Affaires étrangères pour répondre de ce que le gouvernement coréen considère comme une « faute grave » : la violation d’un accord de non-divulgation entre les deux pays au sujet des prisonniers de guerre nord-coréens.",
-      "image": "https://s.rfi.fr/media/display/342616c0-bb25-11f1-a9c6-555a0aff87a4/w:1024/p:16x9/2026-09-28T053548Z-230733951-RC22SNAN5SOU-RTRMADP-3-SOUTHKOREA-UKRAINE-NORTHKOREA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-coree-du-sud-exige-des-excuses-de-l-ukraine-apres-l-annonce-du-transf-b06988c5a9.html"
-    },
-    {
-      "title": "L'avocate iranienne Nasrin Sotoudeh reçoit le prix Vaclav Havel des droits humains",
-      "url": "https://www.france24.com/fr/europe/20260928-avocate-iranienne-nasrin-sotoudeh-re%C3%A7oit-prix-vaclav-havel-droits-humains-conseil-europe",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T13:32:04.000Z",
-      "summary": "Militante contre la peine de mort et le port du voile obligatoire pour les femmes en Iran, l'avocate Nasrin Sotoudeh a été récompensée lundi du prix Vaclav Havel du Conseil de l'Europe. Elle est la première Iranienne à remporter ce prix.",
-      "image": "https://s.france24.com/media/display/6c5e5b62-bb3c-11f1-8583-8f3418d01115/w:1024/p:16x9/000-C9JV3CQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-avocate-iranienne-nasrin-sotoudeh-recoit-le-prix-vaclav-havel-des-droi-28fda3cd05.html"
-    },
-    {
-      "title": "Burkina Faso: Ibrahim Traoré dresse le bilan de ses quatre années au pouvoir",
-      "url": "https://www.rfi.fr/fr/afrique/20260928-burkina-faso-ibrahim-traor%C3%A9-dresse-le-bilan-de-ses-quatre-ann%C3%A9es-au-pouvoir",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T13:27:55.000Z",
-      "summary": "Au Burkina Faso, à quelques jours du quatrième anniversaire de sa prise de pouvoir par un coup d’État, le 30 septembre 2022, le capitaine Ibrahim Traoré était face à la presse dimanche 27 septembre. Lutte contre le terrorisme, mesures contre la vie chère, rupture des relations diplomatiques avec la France, ou encore ét",
-      "image": "https://s.rfi.fr/media/display/2db550a8-068a-11f1-9794-005056a90284/w:1024/p:16x9/AP25130628113199.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/burkina-faso-ibrahim-traore-dresse-le-bilan-de-ses-quatre-annees-au-pouv-996e86703b.html"
-    },
-    {
-      "title": "Appels indésirables : Bouygues dégaine une nouvelle arme pour mieux vous protéger",
-      "url": "https://www.01net.com/actualites/appels-indesirables-bouygues-degaine-une-nouvelle-arme-pour-mieux-vous-proteger.html",
-      "source": "01net",
-      "publishedAt": "2026-09-28T13:04:17.000Z",
-      "summary": "Bouygues Telecom a annoncé le lancement d’Anti-Scam pour les particuliers et les entreprises. Cette fonction a pour objectif de bloquer les appels indésirables et frauduleux grâce à l’intelligence artificielle. Aucune configuration n’est nécessaire pour pouvoir en bénéficier, mais un abonnement mensuel est requis.",
-      "image": "https://www.01net.com/app/uploads/2026/04/bouygues-telecom-logo-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/appels-indesirables-bouygues-degaine-une-nouvelle-arme-pour-mieux-vous-p-1e15670e7f.html"
-    },
-    {
-      "title": "Serbie : le président Aleksandar Vučić démissionne en vue des élections législatives",
-      "url": "https://fr.euronews.com/2026/09/28/serbie-le-president-aleksandar-vucic-demissionne-en-vue-des-elections-legislatives",
-      "source": "Euronews",
-      "publishedAt": "2026-09-28T13:00:47.000Z",
-      "summary": "Cette décision pourrait lui permettre d'accéder au poste de Premier ministre à l'issue du scrutin du 25 octobre prochain, alors que la Constitution serbe lui interdit de briguer un troisième mandat présidentiel.",
-      "image": "https://images.euronews.com/articles/stories/09/93/00/11/696x392_cmsv2_97805c68-d400-59d6-94ca-1d1e51bb8b0c-9930011.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/serbie-le-president-aleksandar-vucic-demissionne-en-vue-des-elections-le-ea4bb4a2fe.html"
-    },
-    {
-      "title": "Élections sénatoriales en France : le RN débarque en force à la chambre haute",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260928-%C3%A9lections-s%C3%A9natoriales-en-france-le-rn-d%C3%A9barque-en-force-%C3%A0-la-chambre-haute",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T12:51:07.000Z",
-      "summary": "Le Rassemblement national frappe un grand coup: en formant un groupe parlementaire au Sénat pour la première fois dimanche, le parti lepéniste a obtenu un succès significatif en pleine campagne présidentielle, venant perturber la domination historique de la droite à la chambre haute.",
-      "image": "https://s.france24.com/media/display/5e82d420-bb3a-11f1-a777-11fa9f8a3b4f/w:1024/p:16x9/FR-20260928-141457-141816-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-senatoriales-en-france-le-rn-debarque-en-force-a-la-chambre-ha-6f15cfc323.html"
-    },
-    {
-      "title": "Des moutons envahissent le pont de Southwark à Londres pour une transhumance caritative annuelle",
-      "url": "https://fr.euronews.com/video/2026/09/28/le-pont-de-southwark-a-londres-se-transforme-en-defile-de-moutons",
-      "source": "Euronews",
-      "publishedAt": "2026-09-28T12:37:33.000Z",
-      "summary": "À Londres, 1 500 personnes ont participé au \"London Sheep Drive\", mêlant animation autour de la laine et soutien à des œuvres caritatives locales.",
-      "image": "https://images.euronews.com/articles/stories/09/93/07/24/696x392_cmsv2_111ea9ef-8cdd-52a6-9572-01786c3489b8-9930724.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-moutons-envahissent-le-pont-de-southwark-a-londres-pour-une-transhum-3dbecfc409.html"
-    },
-    {
-      "title": "Votre box internet tient-elle ses promesses de débit ? Les quatre opérateurs français attaqués en justice",
-      "url": "https://www.01net.com/actualites/votre-box-internet-tient-elle-ses-promesses-de-debit-les-quatre-operateurs-francais-attaques-en-justice.html",
-      "source": "01net",
-      "publishedAt": "2026-09-28T12:04:59.000Z",
-      "summary": "Familles Rurales engage quatre actions de groupe contre Orange, SFR, Free et Bouygues Telecom, accusés de ne pas mentionner clairement les débits de leurs box. Ce que l'association réclame.",
-      "image": "https://www.01net.com/app/uploads/2026/09/internet-box-rj45-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/votre-box-internet-tient-elle-ses-promesses-de-debit-les-quatre-operateu-78a60edfef.html"
-    },
-    {
-      "title": "Les rebelles du Tigré avancent en Afar, l'Éthiopie accuse ses voisins",
-      "url": "https://fr.euronews.com/2026/09/28/les-rebelles-du-tigre-avancent-en-afar-lethiopie-accuse-ses-voisins",
-      "source": "Euronews",
-      "publishedAt": "2026-09-28T11:47:13.000Z",
-      "summary": "Le TPLF avance vers Afdeera après la prise d'Erebti; au moins 150 000 personnes déplacées dans l'Afar. L'offensive vise le corridor de Djibouti, par où passe l'essentiel du commerce extérieur éthiopien, donnant aux rebelles un moyen de pression sur le gouvernement fédéral.",
-      "image": "https://images.euronews.com/articles/stories/09/93/06/63/696x392_cmsv2_e8a1581f-2b0f-5409-a033-959f649d5e01-9930663.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-rebelles-du-tigre-avancent-en-afar-l-ethiopie-accuse-ses-voisins-b1d0f8e9f9.html"
-    },
-    {
-      "title": "Donald Trump aurait proposé des armes à Xi Jinping, selon son ambassadeur en Chine",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260928-donald-trump-aurait-propos%C3%A9-des-armes-%C3%A0-xi-jinping-selon-son-ambassadeur-en-chine",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T11:46:33.000Z",
-      "summary": "Le président américain Donald Trump a proposé à son homologue Xi Jinping de vendre des armes américaines à la Chine. C'est l'ambassadeur américain à Pékin, David Perdue, qui l'a confirmé à la chaîne Fox News sans préciser à quel moment avait eu cette conversation. À la suite des massacres de la place Tiananmen au mois ",
-      "image": "https://s.rfi.fr/media/display/c93dfa90-bb19-11f1-9628-8f3418d01115/w:1024/p:16x9/2026-09-25T000810Z-1990009338-RC2ZPNA63J1Y-RTRMADP-3-USA-CHINA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-aurait-propose-des-armes-a-xi-jinping-selon-son-ambassadeur-d645e6f1b6.html"
-    },
-    {
-      "title": "Un Musée de l'info et de la presse doit voir le jour à Paris en 2029",
-      "url": "https://www.france24.com/fr/culture/20260928-mus%C3%A9e-info-presse-doit-voir-jour-paris-2029-mariotti",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T11:04:19.000Z",
-      "summary": "Le Musée de l'info et de la presse (Musip) doit ouvrir ses portes à Paris à l'horizon 2029, a annoncé lundi matin son président-fondateur, Antoine Mariotti, par ailleurs journaliste à France 24. Soutenu par l'Unesco, de nombreux médias – dont Radio France, Le Figaro, l'AFP, Charlie Hebdo et des groupes de presse région",
-      "image": "https://s.france24.com/media/display/263b3a12-bb2b-11f1-a7d2-91cf9f3cd539/w:1024/p:16x9/musip-logo.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-musee-de-l-info-et-de-la-presse-doit-voir-le-jour-a-paris-en-2029-b097db31fd.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/4-min-30-pour-passer-de-10-a-70-geely-pulverise-byd-et-signe-la-recharge-e4eb62eec1.html"
     }
   ]
 }
