@@ -1,25 +1,105 @@
 {
-  "updatedAt": "2026-09-28T21:33:20.220Z",
+  "updatedAt": "2026-09-29T01:15:22.211Z",
   "items": [
     {
-      "title": "Le vaisseau Starship de SpaceX atteint l'orbite pour la première fois",
-      "url": "https://fr.euronews.com/2026/09/28/le-vaisseau-starship-de-spacex-atteint-lorbite-pour-la-premiere-fois",
-      "source": "Euronews",
-      "publishedAt": "2026-09-28T18:08:47.000Z",
-      "summary": "Starship de SpaceX atteint l'orbite pour la première fois, mais le vol d'essai s'interrompt plus tôt que prévu.",
-      "image": "https://images.euronews.com/articles/stories/09/93/11/41/696x392_cmsv2_4b551ea4-31a0-5f69-9c10-da663eb6e8f5-9931141.jpg",
+      "title": "Projet d’attaque à Fairford : l’IA invente un visage aux suspects",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260928-projet-d-attaque-%C3%A0-fairford-l-ia-invente-un-visage-aux-suspects",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T21:12:49.000Z",
+      "summary": "Dans la foulée de la tentative d'attaque près de la base aérienne de Fairford, au Royaume-Uni, ont circulé sur les réseaux sociaux des clichés présentés comme étant ceux de l'interpellation des cinq suspects, libérés depuis sous caution. Tirés d'une vrai photographie, ils ont été falsifiés à l'aide de l'intelligence ar",
+      "image": "https://s.france24.com/media/display/1d9ef020-bb7f-11f1-aa8e-177f79e345bf/w:1024/p:16x9/FRAN260928-2220-Live-CS2220.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-vaisseau-starship-de-spacex-atteint-l-orbite-pour-la-premiere-fois-7f9bb62eb6.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/projet-d-attaque-a-fairford-l-ia-invente-un-visage-aux-suspects-f8270f4ad6.html"
     },
     {
-      "title": "Ces images ne montrent pas les vrais visages des suspects du projet d’attaque contre la base de Fairford",
-      "url": "https://www.france24.com/fr/europe/20260928-ces-images-ne-montrent-pas-les-vrais-visages-des-suspects-du-projet-d-attaque-contre-la-base-de-fairford",
+      "title": "Emmanuel Macron entame une visite d'État en Espagne pour \"rehausser\" les relations",
+      "url": "https://www.france24.com/fr/europe/20260928-emmanuel-macron-entame-une-visite-d-%C3%A9tat-en-espagne-pour-rehausser-les-relations",
       "source": "France 24",
-      "publishedAt": "2026-09-28T17:49:02.000Z",
-      "summary": "Plusieurs images censées être des photographies révélant les visages des suspects de la tentative d'attentat contre la base aérienne de Fairford, au Royaume-Uni, circulent sur les réseaux sociaux. Mais ces supposés clichés sont tirés d'une photographie qui a été falsifiée à l'aide de l'intelligence artificielle.",
-      "image": "https://s.france24.com/media/display/74067e0c-bb5b-11f1-bc02-91cf9f3cd539/w:1024/p:16x9/image7-33.png",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ces-images-ne-montrent-pas-les-vrais-visages-des-suspects-du-projet-d-at-359f16f778.html"
+      "publishedAt": "2026-09-28T22:36:02.000Z",
+      "summary": "Le président français Emmanuel Macron démarre ce mardi une visite d'État de deux jours en Espagne, afin de souligner les convergences entre les deux pays notamment sur l'Europe.",
+      "image": "https://s.france24.com/media/display/fbd1ab82-bb8c-11f1-89bf-91cf9f3cd539/w:1024/p:16x9/23a90ba5a6c74b565ef34e6e4fb757f5243c6cc4.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/emmanuel-macron-entame-une-visite-d-etat-en-espagne-pour-rehausser-les-r-480d3f094b.html"
+    },
+    {
+      "title": "Journée de mobilisation en France : plus de 170 manifestations d'agents publics attendues",
+      "url": "https://www.france24.com/fr/france/20260928-france-journee-mobilisation-plus-170-manifestations-service-public-syndicats-pompiers-lycees",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T22:20:20.000Z",
+      "summary": "Une large intersyndicale organise plus de 170 rassemblements mardi à travers la France pour réclamer une revalorisation salariale des fonctionnaires et des \"moyens budgétaires à la hauteur\" des missions des services publics. Entre 5 000 et 10 000 pompiers défileront à part avant de rejoindre le cortège parisien, tandis",
+      "image": "https://s.france24.com/media/display/e98b4cb0-bb89-11f1-b73d-852b23529bb9/w:1024/p:16x9/AP25261453478483.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/journee-de-mobilisation-en-france-plus-de-170-manifestations-d-agents-pu-2b68815cc3.html"
+    },
+    {
+      "title": "Les plantations de cacao sous la menace du phénomène climatique El Niño",
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20260928-les-plantations-de-cacao-sous-la-menace-du-ph%C3%A9nom%C3%A8ne-climatique-el-ni%C3%B1o",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T22:06:02.000Z",
+      "summary": "Les répercussions potentielles d'El Niño sur les plantations des pays producteurs de fèves inquiètent. El Niño met l'océan Pacifique en surchauffe et provoque de fortes précipitations ou des sécheresses selon les régions du monde. La perturbation climatique devrait s'amplifier cet automne mais s'annonce d'ores et déjà ",
+      "image": "https://s.rfi.fr/media/display/a4420606-a623-11f1-9cc7-005056a90284/w:1024/p:16x9/2026-08-31T115741Z-1531470967-RC2F6NACY8YX-RTRMADP-3-COCOA-IVORYCOAST-WEATHER.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-plantations-de-cacao-sous-la-menace-du-phenomene-climatique-el-nino-e33c2c3ef3.html"
+    },
+    {
+      "title": "À Pontoise, un manque criant de moyens, notamment pour l'inclusion des enfants en situation de handicap",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260928-%C3%A0-pontoise-un-manque-criant-de-moyens-notamment-pour-l-inclusion-des-enfants-en-situation-de-handicap",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T22:06:01.000Z",
+      "summary": "À deux jours de la présentation du budget pour 2027, plus de 150 manifestations sont prévues à travers la France ce mardi 29 septembre. Les défilés s'accompagneront de mouvements de grèves dans les services publics comme les établissements scolaires. À l'école élémentaire Paul Cézanne, à Pontoise, à une trentaine de ki",
+      "image": "https://s.rfi.fr/media/display/66fcdc3e-bb5f-11f1-93cd-177f79e345bf/w:1024/p:16x9/000-B8P82G3.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-pontoise-un-manque-criant-de-moyens-notamment-pour-l-inclusion-des-enf-bb8153cf64.html"
+    },
+    {
+      "title": "Malaisie: près de 1500 Rohingyas expulsés vers la Birmanie, les ONG expriment leurs inquiétudes",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20260928-malaisie-pr%C3%A8s-de-1500-rohingyas-expuls%C3%A9s-vers-la-birmanie-les-ong-expriment-leurs-inqui%C3%A9tudes",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T22:03:57.000Z",
+      "summary": "Des réfugiés rohingyas détenus dans des centres de rétention administrative de Malaisie doivent monter ce mardi 29 septembre à bord de navires. Ces expulsions sont le résultat d'un accord conclu entre le gouvernement malaisien et la junte birmane. Mais des organisations de la société civile appellent Kuala Lumpur à fai",
+      "image": "https://s.rfi.fr/media/display/b25794a8-384c-11f1-9bee-005056bf30b7/w:1024/p:16x9/AP25020077150951.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/malaisie-pres-de-1500-rohingyas-expulses-vers-la-birmanie-les-ong-exprim-ca93e458f7.html"
+    },
+    {
+      "title": "Madagascar: des biofertilisants pour remplacer les engrais chimiques de l’Itasy [2/2]",
+      "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20260928-madagascar-des-biofertilisants-pour-remplacer-les-engrais-chimiques-de-l-itasy-2-2",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T22:03:02.000Z",
+      "summary": "Aux portes d’Antananarivo, à Madagascar, la région de l’Itasy abrite de nombreuses exploitations maraîchères familiales. Alors que la croissance démographique impose d’augmenter la production agricole, les sols souffrent de l’érosion et sont appauvris à long terme par l’utilisation d’engrais chimiques. Mais depuis près",
+      "image": "https://s.rfi.fr/media/display/8ea023e4-bb6f-11f1-bc8b-555a0aff87a4/w:1024/p:16x9/Photo-4-5.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/madagascar-des-biofertilisants-pour-remplacer-les-engrais-chimiques-de-l-4bcbe227c7.html"
+    },
+    {
+      "title": "Nigeria: à Bille, la pollution au gaz est une bombe à retardement pour la santé des habitants [2/3]",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20260928-nigeria-%C3%A0-bille-la-pollution-au-gaz-est-une-bombe-%C3%A0-retardement-pour-la-sant%C3%A9-des-habitants-2-3",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T22:01:02.000Z",
+      "summary": "Depuis octobre 2025, les habitants d’un gros village de pêcheurs, Bille, proche de Port Harcourt au sud du Nigeria, respirent du gaz s’échappant à travers des canalisations vétustes enfouies sous terre depuis des décennies. Aucune déclaration d’état d’urgence ou de catastrophe n'a été déclarée à ce jour malgré plusieur",
+      "image": "https://s.rfi.fr/media/display/2abe8ed4-bb82-11f1-8574-91cf9f3cd539/w:1024/p:16x9/AP693134032539.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nigeria-a-bille-la-pollution-au-gaz-est-une-bombe-a-retardement-pour-la--b5f2168160.html"
+    },
+    {
+      "title": "Espagne: Maricarmen Abascal retrouve son logement alors que la mobilisation pour un décret-loi continue",
+      "url": "https://www.rfi.fr/fr/europe/20260928-espagne-maricarmen-abascal-retrouve-son-logement-alors-que-la-mobilisation-pour-un-d%C3%A9cret-loi-continue",
+      "source": "RFI",
+      "publishedAt": "2026-09-28T21:47:08.000Z",
+      "summary": "L'avocat de Maricarmen Abascal, l'octogénaire devenue symbole de la crise du logement, a annoncé ce 28 septembre qu'elle pourrait retrouver son habitation, alors que se déroule la troisième nuit consécutive sous les tentes à la Puerta del Sol en plein centre de Madrid. Les manifestants maintiennent la pression sur le g",
+      "image": "https://s.rfi.fr/media/display/3bc6562a-bb7e-11f1-b810-8f3418d01115/w:1024/p:16x9/AP26271419036634.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-maricarmen-abascal-retrouve-son-logement-alors-que-la-mobilisati-3185576a0e.html"
+    },
+    {
+      "title": "États-Unis : enquête rouverte dans une affaire de viol collectif présumé à l'université de Cornell",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260928-etats-unis-enquete-rouverte-affaire-viol-collectif-presume-universite-cornell",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T21:36:41.000Z",
+      "summary": "La justice de l'État de New York a rouvert lundi l'enquête sur un viol collectif présumé commis en 2024 à l'université Cornell, où une étudiante de 20 ans affirme avoir été droguée et violée par sept membres d'une fraternité. L'affaire n'avait initialement donné lieu à aucune poursuite, mais une récente plainte civile ",
+      "image": "https://s.france24.com/media/display/763f398e-bb83-11f1-a9d1-8f3418d01115/w:1024/p:16x9/AP26271727531918.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-enquete-rouverte-dans-une-affaire-de-viol-collectif-presume-a-ced5453d33.html"
+    },
+    {
+      "title": "Crise du logement en Espagne : la retraitée expulsée va pouvoir rentrer chez elle",
+      "url": "https://www.france24.com/fr/europe/20260928-crise-du-logement-en-espagne-la-retrait%C3%A9e-expuls%C3%A9e-va-pouvoir-rentrer-chez-elle",
+      "source": "France 24",
+      "publishedAt": "2026-09-28T21:32:11.000Z",
+      "summary": "L'octogénaire qui avait reçu le soutien de milliers de manifestants après avoir été expulsée de son appartement à Madrid va pouvoir retrouver son logement, a annoncé son avocate lundi. Un accord est en voie d'être signé avec les propriétaires. De leur côté, les militants pour le logement réclament une nouvelle loi plus",
+      "image": "https://s.france24.com/media/display/104cca14-bb84-11f1-972a-177f79e345bf/w:1024/p:16x9/44fa970f775a55630c9f9ac5c904eccc89b91a38.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-du-logement-en-espagne-la-retraitee-expulsee-va-pouvoir-rentrer-ch-f7a34527be.html"
     },
     {
       "title": "Budget 2027 : les pistes de l’exécutif pour faire 54 milliards € d’économies",
@@ -56,117 +136,6 @@
       "summary": "Deux mois après son départ, le mégafeu de Saumos, en Gironde, a été déclaré \"éteint\" lundi par la préfecture. Avec 42 000 hectares parcourus, il a touché la plus grande superficie relevée en France depuis un feu de forêt meurtrier dans les Landes de Gascogne en 1949, qui avait ravagé environ 50 000 hectares.",
       "image": "https://s.france24.com/media/display/4a3bd64c-bb67-11f1-87db-91cf9f3cd539/w:1024/p:16x9/000-C9K42CR.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-megafeu-en-gironde-qui-a-parcouru-42-000-hectares-cet-ete-est-officie-f7c23660d1.html"
-    },
-    {
-      "title": "L'ONU dénonce une \"cascade de violations\" liées aux expulsions américaines vers des pays tiers",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260928-onu-d%C3%A9nonce-cascade-de-violations-li%C3%A9es-aux-expulsions-%C3%A9tats-unis-vers-pays-tiers-migrants",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T17:45:49.000Z",
-      "summary": "Des experts de l'ONU ont alerté lundi sur les risques liés au programme américain d'expulsions vers des pays tiers, qui expose certaines personnes expulsées à des traitements inhumains, comme la torture ou la persécution. Une enquête menée par Forbidden Stories et une vingtaine de médias, dont France 24, avait révélé p",
-      "image": "https://s.france24.com/media/display/30d6f4e2-bb63-11f1-9e13-8f3418d01115/w:1024/p:16x9/2026-09-04T142757Z-1504289711-RC2DCNAH031A-RTRMADP-3-USA-IMMIGRATION-NEW-YORK.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-onu-denonce-une-cascade-de-violations-liees-aux-expulsions-americaines-dd4c7cd9c2.html"
-    },
-    {
-      "title": "L'Union européenne veut renforcer sa riposte face aux attaques hybrides russes avec un protocole d'urgence",
-      "url": "https://www.rfi.fr/fr/europe/20260928-l-union-europ%C3%A9enne-veut-renforcer-sa-riposte-face-aux-attaques-hybrides-russes-avec-un-protocole-d-urgence",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T17:42:54.000Z",
-      "summary": "Les 27 ministres de la Défense de l’Union européenne se sont penchés ce lundi sur les travaux en vue d’un protocole d’urgence pour faire face aux menaces hybrides. C’est un premier pas vers un rôle militaire accru qui donnerait à l’Union européenne des compétences qui ressemblent en partie à celles de l’Otan.",
-      "image": "https://s.rfi.fr/media/display/8729b222-bb62-11f1-b6c3-177f79e345bf/w:1024/p:16x9/000-C4VA3T6.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-union-europeenne-veut-renforcer-sa-riposte-face-aux-attaques-hybrides--53f17b5028.html"
-    },
-    {
-      "title": "Les manifestations et blocages des lycées se poursuivent sur fond de tensions politiques",
-      "url": "https://www.france24.com/fr/france/20260928-les-manifestations-et-blocages-des-lyc%C3%A9es-se-poursuivent-sur-fond-de-tensions-politiques",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T17:34:09.000Z",
-      "summary": "Quelques 164 interpellations ont eu lieu lundi aux abords des lycées suite aux manifestations et blocages des lycées, et à la veille d'un appel à une journée de mobilisation nationale. Parallèlement, le gouvernement et La France insoumise (LFI) s'accusent mutuellement du climat de tension dans les établissements scolai",
-      "image": "https://s.france24.com/media/display/cf9305a4-bb62-11f1-aea6-852b23529bb9/w:1024/p:16x9/2f927ed5d5349aa61aa3f86dda15a25db7101063.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-manifestations-et-blocages-des-lycees-se-poursuivent-sur-fond-de-ten-2b71e06283.html"
-    },
-    {
-      "title": "Moscou prend le contrôle des actifs en Russie du groupe de distribution allemand Metro",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260928-moscou-prend-le-contr%C3%B4le-des-actifs-en-russie-du-groupe-de-distribution-allemand-metro",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T17:27:59.000Z",
-      "summary": "Les autorités russes ont placé sous « administration temporaire » les actifs en Russie du groupe de distribution allemand Metro, moins de deux semaines après avoir fait de même avec plusieurs sociétés issues de pays européens soutenant l'Ukraine.",
-      "image": "https://s.rfi.fr/media/display/9664b7d0-bb5a-11f1-ba4b-91cf9f3cd539/w:1024/p:16x9/AP26271565886880.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/moscou-prend-le-controle-des-actifs-en-russie-du-groupe-de-distribution--1673a67a1f.html"
-    },
-    {
-      "title": "«Financé par le gouvernement»: un spot télévisé de Donald Trump crée la polémique",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260928-financ%C3%A9-par-le-gouvernement-un-spot-t%C3%A9l%C3%A9vis%C3%A9-de-donald-trump-cr%C3%A9e-la-pol%C3%A9mique",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T17:21:53.000Z",
-      "summary": "Aux États-Unis, une vidéo du président Donald Trump publiée une première fois en 2024 sur son réseau Truth Social et rediffusée ce week-end à la télévision pourrait enfreindre la loi fédérale.",
-      "image": "https://s.rfi.fr/media/display/ee0402c4-bb60-11f1-8654-852b23529bb9/w:1024/p:16x9/Trump-ad.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/finance-par-le-gouvernement-un-spot-televise-de-donald-trump-cree-la-pol-c8780a5d29.html"
-    },
-    {
-      "title": "iPhone 18 Pro : Apple sort la mise à jour iOS 27.0.1 pour corriger les bugs",
-      "url": "https://www.frandroid.com/marques/apple/3263873_iphone-18-pro-apple-sort-la-mise-a-jour-ios-27-0-1-pour-corriger-les-bugs",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-28T17:21:18.000Z",
-      "summary": "L'iPhone 18 Pro présentait quelques instabilités depuis son lancement, en particulier avec Face ID. Apple déploie une mise à jour iOS 27.0.1 pour corriger ça.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/design-sans-titre-1.jpg?resize=1200,675&key=385086da",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-18-pro-apple-sort-la-mise-a-jour-ios-27-0-1-pour-corriger-les-bug-920cb2744b.html"
-    },
-    {
-      "title": "Allemagne : une ville interdit les Stolpersteine, pavés dédiés aux victimes du nazisme",
-      "url": "https://www.france24.com/fr/europe/20260928-allemagne-afd-extreme-droite-stolpersteine-paves-memoire-interdiction-heidenau",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T17:11:58.000Z",
-      "summary": "La ville d'Heidenau, dans ​le centre-est de l'Allemagne, a approuvé une motion des partis d'extrême droite Alternative pour ​l'Allemagne (AfD) et de l'Union chrétienne-démocrate (CDU) interdisant l'installation prévue de Stolpersteine, ces pavés de la mémoire rendant hommage aux victimes du nazisme. Une décision qui pr",
-      "image": "https://s.france24.com/media/display/ef00efd6-bb3b-11f1-9613-11fa9f8a3b4f/w:1024/p:16x9/AP26126588569035.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-une-ville-interdit-les-stolpersteine-paves-dedies-aux-victimes-d5a5961b20.html"
-    },
-    {
-      "title": "Côte d'Ivoire : l'opposition appelle à la libération de Justin Katinan Koné",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260928-c%C3%B4te-d-ivoire-l-opposition-appelle-%C3%A0-la-lib%C3%A9ration-de-justin-katinan-kon%C3%A9",
-      "source": "France 24",
-      "publishedAt": "2026-09-28T16:09:05.000Z",
-      "summary": "🇨🇮 En Côte d’Ivoire, l'opposition appelle à la libération de Justin Katinan Koné du PPACI de Laurent Gbagbo. Le PDCI qui s'est joint à la contestation dénonce une justice instrumentalisée.",
-      "image": "https://s.france24.com/media/display/bb70a004-bb53-11f1-ac14-91cf9f3cd539/w:1024/p:16x9/Couv-CIV-Opposition-appel-lib%C3%A9ration-Justin-Kone.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cote-d-ivoire-l-opposition-appelle-a-la-liberation-de-justin-katinan-kon-72355d06f2.html"
-    },
-    {
-      "title": "France: Mediapart rapporte des écrits antisémites attribués à Bardella en 2013, le président du RN dément",
-      "url": "https://www.rfi.fr/fr/france/20260928-france-mediapart-rapporte-des-%C3%A9crits-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella-en-2013-le-pr%C3%A9sident-du-rn-d%C3%A9ment",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T16:02:36.000Z",
-      "summary": "Mediapart a rapporté lundi des écrits antisémites datant de 2013 attribués à Jordan Bardella, alors jeune militant du Front national. Le président du RN conteste « formellement », évoquant des « faux grossiers », Marine Le Pen, la candidate du parti à l'Élysée, dénonçant pour sa part « une barbouzerie ».",
-      "image": "https://s.rfi.fr/media/display/1f01a2ca-3c90-11ef-825e-005056a90284/w:1024/p:16x9/2024-07-07T183654Z_1952271647_UP1EK771FPGUG_RTRMADP_3_FRANCE-ELECTION.JPG",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-mediapart-rapporte-des-ecrits-antisemites-attribues-a-bardella-en-f9cdc3980c.html"
-    },
-    {
-      "title": "«Le Sénat reste une institution surannée qui ne représente pas la population», Gabrielle Cathala (LFI)",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20260928-le-s%C3%A9nat-reste-une-institution-surann%C3%A9e-qui-ne-repr%C3%A9sente-pas-la-population-gabrielle-cathala-lfi",
-      "source": "RFI",
-      "publishedAt": "2026-09-28T15:35:28.000Z",
-      "summary": "Au lendemain des élections sénatoriales, les Insoumis se frayent pour la première fois un chemin jusqu’au palais du Luxembourg : une « victoire » pour Gabrielle Cathala. « Nous avons déjoué tous les pronostics », affirme la députée LFI du Val-d'Oise. Le scrutin a pourtant démontré l'incapacité de la gauche à conclure d",
-      "image": "https://s.rfi.fr/media/display/c8376260-bb43-11f1-8cbd-11fa9f8a3b4f/w:1024/p:16x9/Gabrielle-Cathala.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-senat-reste-une-institution-surannee-qui-ne-represente-pas-la-populat-63b954ffe6.html"
-    },
-    {
-      "title": "100 Go, la 5G incluse et réseau Bouygues : le forfait discret à moins de 10 € qui mérite le détour",
-      "url": "https://www.frandroid.com/bons-plans/3263433_100-go-la-5g-incluse-et-reseau-bouygues-le-forfait-discret-a-moins-de-10-e-qui-merite-le-detour",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-28T17:46:00.000Z",
-      "summary": "Cdiscount Mobile propose 100 Go en 5G à 9,99 euros par mois, sans engagement. Le forfait utilise le réseau de Bouygues Telecom et inclut 25 Go pour les déplacements en Europe.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/sosh.jpg?resize=1200,675&key=ac7fe923",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/100-go-la-5g-incluse-et-reseau-bouygues-le-forfait-discret-a-moins-de-10-3e17508db7.html"
-    },
-    {
-      "title": "4 min 30 pour passer de 10 à 70 % : Geely pulvérise BYD et signe la recharge la plus rapide du monde",
-      "url": "https://www.01net.com/actualites/4-min-30-10-a-70-batterie-geely-pulverise-byd-recharge-plus-rapide-monde.html",
-      "source": "01net",
-      "publishedAt": "2026-09-28T16:28:00.000Z",
-      "summary": "Les marques chinoises continuent à se tirer la bourre pour savoir qui proposera la recharge la plus rapide. Alors que BYD était jusqu’alors le roi avec ses Flash Chargers, Geely vient lui chiper la couronne avec sa nouvelle batterie pouvant prendre jusqu’à 2 250 kW.",
-      "image": "https://www.01net.com/app/uploads/2026/09/geely-charge-rapide-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/4-min-30-pour-passer-de-10-a-70-geely-pulverise-byd-et-signe-la-recharge-e4eb62eec1.html"
     }
   ]
 }
