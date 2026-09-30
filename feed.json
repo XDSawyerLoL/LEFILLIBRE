@@ -1,171 +1,172 @@
 {
-  "updatedAt": "2026-09-30T08:29:01.293Z",
+  "updatedAt": "2026-09-30T15:08:22.670Z",
   "items": [
     {
-      "title": "Teufel Studio 5X : des enceintes moniteur de studio actif à la neutralité assumée",
-      "url": "https://www.frandroid.com/marques/teufel/3266815_teufel-studio-5x-des-enceintes-moniteur-de-studio-actif-a-la-neutralite-assumee",
+      "title": "Payer à l’étranger avec Wero : un énorme réseau européen se prépare, sans date de lancement",
+      "url": "https://www.frandroid.com/culture-tech/3267643_payer-a-letranger-avec-wero-un-enorme-reseau-europeen-se-prepare-sans-date-de-lancement",
       "source": "Frandroid",
-      "publishedAt": "2026-09-30T08:25:52.000Z",
-      "summary": "Teufel dévoile les Studio 5X, ses premières enceintes de monitoring, actives à trois voies et dotées d'un haut-parleur coaxial et de filtres DSP à phase linéaire.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/teufel-studio-5x-lifestyle-olli-wong.jpg?resize=1200,675&key=c3504daf",
+      "publishedAt": "2026-09-30T14:20:38.000Z",
+      "summary": "Bancomat, Bizum, Wero, MB WAY et Vipps MobilePay ont annoncé ce mercredi 30 septembre la création de l’European Network for Payments, une société commune installée à Madrid pour relier leurs applications de paiement. À elles cinq, elles comptent environ 130 millions d’utilisateurs dans 13 pays.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2018/06/nfc-paiement-mobile.jpg?resize=1200,675&key=68ff0fef",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/teufel-studio-5x-des-enceintes-moniteur-de-studio-actif-a-la-neutralite--9375ddc085.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/payer-a-l-etranger-avec-wero-un-enorme-reseau-europeen-se-prepare-sans-d-51f13c0e5e.html"
     },
     {
-      "title": "Radar, triple suspension, vitesses auto et 180 km d’autonomie : le nouveau Lemmo 3 est peut-être le vélo électrique le plus fou de l’année",
-      "url": "https://www.frandroid.com/marques/lemmo/3266709_radar-triple-suspension-vitesses-auto-et-180-km-dautonomie-le-nouveau-lemmo-3-est-peut-etre-le-velo-electrique-le-plus-fou-de-lannee",
+      "title": "Des manifestants visent la conférence d'OpenAI: \"Laisser les travailleurs s'exprimer\"",
+      "url": "https://fr.euronews.com/video/2026/09/30/des-manifestants-visent-la-conference-dopenai-laisser-les-travailleurs-sexprimer",
+      "source": "Euronews",
+      "publishedAt": "2026-09-30T14:07:34.000Z",
+      "summary": "Des dizaines de militants ont manifesté devant la conférence développeurs d'OpenAI à San Francisco, réclamant la fin des contrats avec l'armée américaine et l'agence Immigration and Customs Enforcement, ainsi qu'une régulation renforcée de l'IA.",
+      "image": "https://images.euronews.com/articles/stories/09/93/39/31/696x392_cmsv2_6a78b16f-f378-5d77-8563-e10f20c7bcdb-9933931.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-manifestants-visent-la-conference-d-openai-laisser-les-travailleurs--44f94c566e.html"
+    },
+    {
+      "title": "Afrique du Sud : Cyril Ramaphosa annonce des mesures suites aux féminicides",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-afrique-du-sud-cyril-ramaphosa-annonce-des-mesures-suites-aux-f%C3%A9minicides",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T15:07:24.000Z",
+      "summary": "🇿🇦 Après la découverte de 12 corps de femmes depuis mi-juillet dans un même secteur à l'Est de Johannesburg, Cyril Ramaphosa s’est adressé à la nation ce mardi. Le président sud-africain a annoncé un plan d’urgence contre les violences faites aux femmes.",
+      "image": "https://s.france24.com/media/display/ecb23a20-bcdd-11f1-a708-7be0f5469a6a/w:1024/p:16x9/Couv-AF-DU-SUD-Mesures-contre-f%C3%A9minicides.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-cyril-ramaphosa-annonce-des-mesures-suites-aux-feminicide-61c2c6e589.html"
+    },
+    {
+      "title": "États-Unis: la justice suspend in extremis l'exécution de Christa Pike dans le Tennessee",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260930-%C3%A9tats-unis-la-justice-suspend-in-extremis-l-ex%C3%A9cution-de-christa-pike-dans-le-tennessee",
+      "source": "RFI",
+      "publishedAt": "2026-09-30T15:06:28.000Z",
+      "summary": "Une cour d'appel fédérale américaine a suspendu in extremis, mercredi 30 septembre, l'exécution de Christa Pike dans le Tennessee, qui devait être la première femme mise à mort aux États-Unis depuis 2023 et la première dans cet État depuis plus de 200 ans.",
+      "image": "https://s.rfi.fr/media/display/4c0d0d48-bc38-11f1-b7d6-91cf9f3cd539/w:1024/p:16x9/ETATS-UNIS-CHRISTA-PIKE-JUSTICE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-la-justice-suspend-in-extremis-l-execution-de-christa-pike-da-a49d9b66d9.html"
+    },
+    {
+      "title": "REPLAY : conférence de presse conjointe de Pedro Sanchez et Emmanuel Macron en Espagne",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-replay-conf%C3%A9rence-de-presse-conjointe-de-pedro-sanchez-et-emmanuel-macron-en-espagne",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T14:59:08.000Z",
+      "summary": "Revivez la conférence de presse d’Emmanuel Macron et Pedro Sánchez à Madrid, le 30 septembre 2026, au terme de la visite d’État de deux jours du président français en Espagne.",
+      "image": "https://s.france24.com/media/display/80de70b8-bcdb-11f1-b45c-d367a0468893/w:1024/p:16x9/FR-20260930-134810-141052-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/replay-conference-de-presse-conjointe-de-pedro-sanchez-et-emmanuel-macro-bfe259d95c.html"
+    },
+    {
+      "title": "Qui est Fatima Ezzahra El Mansouri, première femme à diriger le gouvernement marocain ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-qui-est-fatima-ezzahra-el-mansouri-premi%C3%A8re-femme-%C3%A0-diriger-le-gouvernement-marocain",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T14:58:11.000Z",
+      "summary": "🇲🇦 Pour la première fois de son histoire, le Maroc sera dirigé par une femme à la tête de son gouvernement.Fatima Ezzahra El Mansouri a été nommée Première ministre par le roi Mohammed VI.Avocate de formation, à la tête des 20 femmes d’Afrique les plus influentes selon Forbes en 2014, qui est Fatima Ezzahra El Mansou",
+      "image": "https://s.france24.com/media/display/f805e054-bcdb-11f1-a382-098db7fa8bc7/w:1024/p:16x9/FR-Miniature-6.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qui-est-fatima-ezzahra-el-mansouri-premiere-femme-a-diriger-le-gouvernem-5e4b78e2b3.html"
+    },
+    {
+      "title": "Le rejet du traité d'amitié avec la France, l'ombre au tableau de la visite de Macron en Espagne",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-le-rejet-du-trait%C3%A9-d-amiti%C3%A9-avec-la-france-l-ombre-au-tableau-de-la-visite-de-macron-en-espagne",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T14:57:36.000Z",
+      "summary": "Emmanuel Macron est en Espagne pour resserrer les liens entre Paris et Madrid, à l’occasion de l’une de ses dernières visites d’État avant la fin de son mandat. L'objectif : renforcer les relations politiques et économiques, dans un contexte de bonne entente entre les deux pays. Mais un point de friction subsiste : le ",
+      "image": "https://s.france24.com/media/display/a8f9950e-bc28-11f1-8940-852b23529bb9/w:1024/p:16x9/ab66ef07054be128194ac309c227c6fe2d59e70aw.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-rejet-du-traite-d-amitie-avec-la-france-l-ombre-au-tableau-de-la-visi-05efd43d63.html"
+    },
+    {
+      "title": "Le miracle espagnol : comment expliquer la bonne santé économique ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-le-miracle-espagnol-comment-expliquer-la-bonne-sant%C3%A9-%C3%A9conomique",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T14:25:25.000Z",
+      "summary": "La visite d’État d’Emmanuel Macron en Espagne est aussi l’occasion de renforcer les échanges économiques entre les deux pays. Alors que l’Espagne affiche une croissance solide quand plusieurs économies européennes connaissent davantage de difficultés, comment expliquer cette bonne santé ? Jesus Castillo, économiste che",
+      "image": "https://s.france24.com/media/display/1c7a20d8-bcd9-11f1-b8b2-d367a0468893/w:1024/p:16x9/FR-20260930-150939-151921-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-miracle-espagnol-comment-expliquer-la-bonne-sante-economique-a77d6d9724.html"
+    },
+    {
+      "title": "Nintendo Switch 2 : les 5 réglages indispensables avant de jouer",
+      "url": "https://www.frandroid.com/marques/nintendo/2638139_nintendo-switch-2-les-5-reglages-indispensables-avant-de-jouer",
       "source": "Frandroid",
-      "publishedAt": "2026-09-30T08:23:00.000Z",
-      "summary": "La marque berlinoise Lemmo a présenté ce mardi 29 septembre le Lemmo 3, un vélo cargo électrique entièrement suspendu de 39 kg, attendu sur Kickstarter en octobre. Lemmo en fait le premier modèle de sa catégorie maison, l'APV, dont elle montrait un prototype dès 2024.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/LEMMO-32.webp?resize=1200,675&key=8aff121f",
+      "publishedAt": "2026-09-30T13:20:07.000Z",
+      "summary": "Si vous venez de vous procurer une Nintendo Switch 2, on vous explique les 5 premiers réglages à configurer avant de vous lancer en pleine partie.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/06/nintendo-switch-2-376-1200x800-1.jpg?resize=1200,675&key=dc538988",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/radar-triple-suspension-vitesses-auto-et-180-km-d-autonomie-le-nouveau-l-3a1802a2ac.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nintendo-switch-2-les-5-reglages-indispensables-avant-de-jouer-fbd4c1dbbf.html"
     },
     {
-      "title": "Javier Milei en opération séduction à Paris",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260930-javier-milei-en-op%C3%A9ration-s%C3%A9duction-%C3%A0-paris",
+      "title": "Maroc : Fatima el Mansouri devient la première femme nommée cheffe du gouvernement",
+      "url": "https://fr.euronews.com/2026/09/30/maroc-fatima-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouvernement",
+      "source": "Euronews",
+      "publishedAt": "2026-09-30T12:47:08.000Z",
+      "summary": "Fatima el Mansouri n'est que la deuxième femme du monde arabe à accéder au poste de Première ministre. Sa longue carrière politique l'a menée à la mairie de Marrakech puis au Parlement.",
+      "image": "https://images.euronews.com/articles/stories/09/93/31/22/696x392_cmsv2_cc9f2f38-6949-58b8-8a24-2359ae1b0a38-9933122.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-fatima-el-mansouri-devient-la-premiere-femme-nommee-cheffe-du-gouv-2e5f40f9cb.html"
+    },
+    {
+      "title": "Impôts : attention à ces erreurs si vous devez corriger votre déclaration de revenus",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3266967_impots-attention-a-ces-erreurs-si-vous-devez-corriger-votre-declaration-de-revenus",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-30T12:27:14.000Z",
+      "summary": "Le service de correction en ligne des déclarations de revenus ferme le 30 novembre 2026. Pour rappel, en 2025, le fisc a réclamé 17,1 milliards d'euros après contrôle, un record. L'occasion de rappeler comment corriger sa déclaration, et les oublis qui coûtent le plus cher aux investisseurs.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/declaration-impots.jpg?resize=1200,675&key=d85c1865",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/impots-attention-a-ces-erreurs-si-vous-devez-corriger-votre-declaration--bba6af8b45.html"
+    },
+    {
+      "title": "\"Une ampleur absolument colossale\" : la rafle du Vieux-Port reconnue comme crime contre l'humanité",
+      "url": "https://www.france24.com/fr/france/20260930-rafle-marseille-vieux-port-nazis-seconde-guerre-mondiale-crimes-contre-humanite-histoire",
       "source": "France 24",
-      "publishedAt": "2026-09-30T08:26:54.000Z",
-      "summary": "Le président argentin Javier Milei est à Paris pour défendre son bilan et attirer les investisseurs européens. Si sa thérapie de choc a permis de faire chuter l'inflation et de rétablir les comptes publics, la reprise économique s'essouffle et la pauvreté repart à la hausse.",
-      "image": "https://s.france24.com/media/display/6c0a8636-bca4-11f1-a7cb-8f3418d01115/w:1024/p:16x9/capture-20473654416abcc0a36faa29-09566094.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/javier-milei-en-operation-seduction-a-paris-058703a28a.html"
+      "publishedAt": "2026-09-30T12:20:21.000Z",
+      "summary": "La justice française a qualifié mercredi de \"crime contre l'humanité\" les rafles menées à Marseille dans le quartier du Vieux-Port en janvier 1943, une reconnaissance réclamée de longue date par des survivants et leurs descendants.",
+      "image": "https://s.france24.com/media/display/fa6b6d10-bcc1-11f1-b1ca-816a8398162d/w:1024/p:16x9/000-C9RQ9HA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-ampleur-absolument-colossale-la-rafle-du-vieux-port-reconnue-comme-c-229905f069.html"
     },
     {
-      "title": "Maroc: après sa nomination, Fatima Ezzahra El Mansouri entame les discussions avec les partis",
-      "url": "https://www.rfi.fr/fr/afrique/20260930-maroc-apr%C3%A8s-sa-nomination-fatima-ezzahra-el-mansouri-entame-les-discussions-avec-les-partis",
+      "title": "France: le maire de Béziers, Robert Ménard, jugé pour avoir refusé de marier un Algérien sous OQTF",
+      "url": "https://www.rfi.fr/fr/france/20260930-france-le-maire-de-b%C3%A9ziers-robert-m%C3%A9nard-jug%C3%A9-pour-avoir-refus%C3%A9-de-marier-un-alg%C3%A9rien-sous-oqtf",
       "source": "RFI",
-      "publishedAt": "2026-09-30T08:18:21.000Z",
-      "summary": "Au lendemain de sa nomination par le roi Mohammed VI, Fatima Ezzahra El Mansouri, présidente du Parti authenticité et modernité (PAM), arrivé en tête des législatives, engage les discussions pour former le futur gouvernement. Elle affirme tendre « la main du dialogue » à l'ensemble des formations, y compris aux islamis",
-      "image": "https://s.rfi.fr/media/display/a0f943fe-bca5-11f1-add2-177f79e345bf/w:1024/p:16x9/000-C9Q83U7.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-apres-sa-nomination-fatima-ezzahra-el-mansouri-entame-les-discussi-1bedd33ae6.html"
+      "publishedAt": "2026-09-30T11:59:43.000Z",
+      "summary": "Robert Ménard, maire proche de l'extrême droite de la ville de Béziers, dans le sud de la France, comparaît mercredi 30 septembre devant le tribunal correctionnel de Montpellier pour avoir fait obstacle à l'exécution de la loi. Le 7 juillet 2023, il avait refusé de marier un couple dont le futur époux était un Algérien",
+      "image": "https://s.rfi.fr/media/display/46fb5e34-bcc6-11f1-8d33-1b050e7dec5f/w:1024/p:16x9/000-C9RU6RT.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-le-maire-de-beziers-robert-menard-juge-pour-avoir-refuse-de-marie-59a7fbd9f2.html"
     },
     {
-      "title": "Julien Aubert (LR) : les propos antisémites attribués à Bardella sont \"un risque\" pour Marine Le Pen",
-      "url": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20260930-julien-aubert-lr-les-propos-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella-sont-un-risque-pour-marine-le-pen",
+      "title": "Blocus des lycées: la mobilisation continue, appel à un \"acte deux\" jeudi",
+      "url": "https://www.france24.com/fr/info-en-continu/20260930-blocus-des-lyc%C3%A9es-la-mobilisation-continue-appel-%C3%A0-un-acte-deux-jeudi",
       "source": "France 24",
-      "publishedAt": "2026-09-30T08:17:35.000Z",
-      "summary": "Julien Aubert, vice-président des Républicains et président d'Osez la France réagit aux accusations d'antisémitisme portées par Mediapart à l'encontre de Jordan Bardella, président du Rassemblement national. Il pense que \"ces accusations viennent de l'intérieur\" du parti et estime que si celles-ci sont avérées, \"le ris",
-      "image": "https://s.france24.com/media/display/00f7b760-bc27-11f1-acb8-11fa9f8a3b4f/w:1024/p:16x9/capture-16968660936abbee38b66616-44315109.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/julien-aubert-lr-les-propos-antisemites-attribues-a-bardella-sont-un-ris-818cefdb75.html"
+      "publishedAt": "2026-09-30T11:42:34.000Z",
+      "summary": "La mobilisation des lycéens s'est poursuivie mercredi, émaillée par des violences que le président Macron a condamnées, l'Union syndicale lycéenne appelant à une convergence des luttes avec les étudiants et à un \"acte deux\" jeudi.",
+      "image": "https://s.france24.com/media/display/0697a5e8-bcc4-11f1-8662-ddce071186a9/w:1024/p:16x9/1635579c27fc01c4f75885ac5fca8c35cb5de4a6.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/blocus-des-lycees-la-mobilisation-continue-appel-a-un-acte-deux-jeudi-09f76c63d8.html"
     },
     {
-      "title": "Influences étrangères: « Nous allons amener ceux qui ne sont pas encore inscrits à s’inscrire », assure le président de la HATVP",
-      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20260930-influences-%C3%A9trang%C3%A8res-nous-allons-amener-ceux-qui-ne-sont-pas-encore-inscrits-%C3%A0-s-inscrire-assure-le-pr%C3%A9sident-de-la-hatvp",
+      "title": "Bulgarie: «Une avancée majeure», la réforme contre les «poursuites-bâillons» adoptée par le Parlement",
+      "url": "https://www.rfi.fr/fr/europe/20260930-bulgarie-une-avanc%C3%A9e-majeure-la-r%C3%A9forme-contre-les-poursuites-b%C3%A2illons-adopt%C3%A9e-par-le-parlement",
       "source": "RFI",
-      "publishedAt": "2026-09-30T07:37:57.000Z",
-      "summary": "Jean Maïa, président de la Haute Autorité pour la transparence de la vie publique (HATVP), est l'invité de RFI ce 30 septembre 2026. Face aux risques d'ingérences étrangères, elle est chargée de contrôler les activités d'influences étrangères en France. Un répertoire a été ouvert le 1er octobre 2025.",
-      "image": "https://s.rfi.fr/media/display/64d0a298-bc9e-11f1-bd0e-11fa9f8a3b4f/w:1024/p:16x9/Studio-31-2026-09-30T06-22-19-047Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/influences-etrangeres-nous-allons-amener-ceux-qui-ne-sont-pas-encore-ins-01a59ba41c.html"
+      "publishedAt": "2026-09-30T11:41:38.000Z",
+      "summary": "Ce mercredi 30 septembre, le Parlement bulgare a adopté définitivement une réforme visant à mieux protéger les journalistes, militants et autres participants au débat public contre les « poursuites-bâillons » (SLAPP en anglais).",
+      "image": "https://s.rfi.fr/media/display/4556bbb0-1646-11ea-8334-005056bf7c53/w:1024/p:16x9/National_Assembly_of_Bulgaria_Sofia_TB_0.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bulgarie-une-avancee-majeure-la-reforme-contre-les-poursuites-baillons-a-555356ea31.html"
     },
     {
-      "title": "Inde: des milliers d’étudiantes mobilisées à New Delhi pour dénoncer les agressions sexuelles",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20260930-inde-des-milliers-d-%C3%A9tudiantes-mobilis%C3%A9es-%C3%A0-new-delhi-pour-d%C3%A9noncer-les-agressions-sexuelles",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T07:22:36.000Z",
-      "summary": "Des milliers d’étudiantes défilent en colère dans les rues de New Delhi depuis plusieurs jours. Elles dénoncent la multiplication des agressions sexuelles après quatre viols récents enregistrés sur des mineures. Dans la capitale indienne, la police recense en moyenne cinq viols par jour. Face à cette réalité, la jeunes",
-      "image": "https://s.rfi.fr/media/display/8e828caa-bc99-11f1-9b74-555a0aff87a4/w:1024/p:16x9/000-C9BP767.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/inde-des-milliers-d-etudiantes-mobilisees-a-new-delhi-pour-denoncer-les--32317c7f0e.html"
+      "title": "Propos antisémites attribués à Jordan Bardella : le RN fait bloc",
+      "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20260930-propos-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-jordan-bardella-le-rn-fait-bloc",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T11:38:45.000Z",
+      "summary": "Jordan Bardella est accusé par le journal Mediapart de propos et d'écrits antisémites. Le président du Rassemblement national (RN) contre-attaque en déclarant que l'objectif est de \"l’abattre politiquement\". Cette stratégie de défense peut-elle payer ? En attendant, le RN fait bloc, mais certains estiment que les fuite",
+      "image": "https://s.france24.com/media/display/9550ace2-bcb7-11f1-ba99-816a8398162d/w:1024/p:16x9/TK064881-A-01-20260925-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/propos-antisemites-attribues-a-jordan-bardella-le-rn-fait-bloc-1f099c99cc.html"
     },
     {
-      "title": "Piratage des impôts : l’ANSSI révèle ce qu’il s’est vraiment passé lors de la cyberattaque",
-      "url": "https://www.01net.com/actualites/piratage-impots-anssi-revele-vraiment-passe-cyberattaque.html",
+      "title": "Des milliers de pompiers défilent à Paris pour réclamer plus de moyens",
+      "url": "https://fr.euronews.com/video/2026/09/30/des-milliers-de-pompiers-defilent-a-paris-pour-reclamer-plus-de-moyens",
+      "source": "Euronews",
+      "publishedAt": "2026-09-30T11:24:29.000Z",
+      "summary": "Près de 8 000 pompiers français ont défilé dans Paris, réclamant des effectifs et des moyens supplémentaires et dénonçant l'inaction du gouvernement décrite par les syndicats.",
+      "image": "https://images.euronews.com/articles/stories/09/93/32/56/696x392_cmsv2_f7c28f27-63a6-5dc4-b5e1-ae539cf00de9-9933256.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-milliers-de-pompiers-defilent-a-paris-pour-reclamer-plus-de-moyens-822c555b6e.html"
+    },
+    {
+      "title": "Android dit non à l’Union européenne : Google refuse d’ouvrir l’OS à ChatGPT et Claude",
+      "url": "https://www.01net.com/actualites/android-dit-non-a-lunion-europeenne-google-refuse-douvrir-los-a-chatgpt-et-claude.html",
       "source": "01net",
-      "publishedAt": "2026-09-30T07:12:13.000Z",
-      "summary": "L'Agence nationale de la sécurité des systèmes d'information (ANSSI) s'est penchée sur le piratage des impôts. Selon les investigations de l'agence, la cyberattaque n’est « pas la conséquence d’une attaque sophistiquée », mais l’« exploitation de faiblesses » connues au sein des systèmes du fisc.",
-      "image": "https://www.01net.com/app/uploads/2026/07/france-fuite-donnees-1344x896.jpg",
+      "publishedAt": "2026-09-30T11:03:37.000Z",
+      "summary": "Votre prochain téléphone Android devait vous laisser convoquer ChatGPT ou Claude à la voix, comme Gemini aujourd'hui. Google a saisi la justice européenne pour que ce jour n'arrive pas de sitôt.",
+      "image": "https://www.01net.com/app/uploads/2026/04/Image-16-1600x900-31-1344x840.jpeg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/piratage-des-impots-l-anssi-revele-ce-qu-il-s-est-vraiment-passe-lors-de-a3dd235a78.html"
-    },
-    {
-      "title": "Mallow officialise sa première enceinte de jeux sans écran pour enfants dopée à l’IA",
-      "url": "https://www.frandroid.com/produits-android/3262393_on-a-essaye-mallow-la-console-audio-sans-ecran-pour-enfants-qui-fonctionne-avec-lia",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-30T07:00:00.000Z",
-      "summary": "La start-up française Mallow, cofondée par l'ancien secrétaire d'État au numérique Cédric O, lance ce mercredi 30 septembre une enceinte de jeux audio sans écran pour les enfants de 4 à 10 ans, vendue 119,99 euros. L'enfant y fait avancer des histoires avec sa voix, face à une IA générative que nous avons pu essayer av",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/copy-of-laralutzmallow0626-1164.jpg?resize=1200,675&key=7f9d5970",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mallow-officialise-sa-premiere-enceinte-de-jeux-sans-ecran-pour-enfants--84acc9d2fc.html"
-    },
-    {
-      "title": "Après les accusations d'antisémitisme, un ministre israélien prend la défense de Jordan Bardella",
-      "url": "https://www.rfi.fr/fr/france/20260930-apr%C3%A8s-les-accusations-d-antis%C3%A9mitisme-un-ministre-isra%C3%A9lien-prend-la-d%C3%A9fense-de-jordan-bardella",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T06:54:02.000Z",
-      "summary": "Un ministre israélien a pris la défense de Jordan Bardella, mardi 29 septembre, après que le média d'investigation Mediapart a affirmé que le président du parti français d'extrême droite Rassemblement national (RN), avait tenu des propos antisémites en 2013.",
-      "image": "https://s.rfi.fr/media/display/8c85c348-aa30-11f1-9180-005056a90284/w:1024/p:16x9/000-C7CR3YK.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-les-accusations-d-antisemitisme-un-ministre-israelien-prend-la-def-311dfebba2.html"
-    },
-    {
-      "title": "Crise du logement en Espagne: les manifestants maintiennent la pression malgré l'annonce d'un décret-loi",
-      "url": "https://www.rfi.fr/fr/europe/20260930-crise-du-logement-en-espagne-malgr%C3%A9-l-annonce-d-un-d%C3%A9cret-loi-les-manifestants-maintiennent-la-pression",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T06:10:26.000Z",
-      "summary": "L'exécutif de Pedro Sanchez espère apaiser la colère pour le droit au logement avec deux décrets-lois, qui viennent d’être scellés après des jours d’intenses négociations entre les socialistes et le parti de la gauche radicale Sumar, principal allié du gouvernement. La réforme doit être approuvée vendredi 2 octobre en ",
-      "image": "https://s.rfi.fr/media/display/072875fc-a5da-11f0-b6d3-005056a90284/w:1024/p:16x9/AP25261614427597.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-du-logement-en-espagne-les-manifestants-maintiennent-la-pression-m-e6c5dcd3ae.html"
-    },
-    {
-      "title": "Le RN face aux révélations sur Bardella: \"Dinguerie\", \"barbouzerie\", \"manip\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260930-le-rn-face-aux-r%C3%A9v%C3%A9lations-sur-bardella-dinguerie-barbouzerie-manip",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T05:57:26.000Z",
-      "summary": "A la Une de la presse, une manifestation d’étudiants contre le régime iranien à Téhéran, malgré la répression en cours. La désignation de Fatima Ezzahra El-Mansouri au poste de première ministre du Maroc après la victoire de son parti aux législatives. L’onde de choc, en France, après les révélations sur des propos ant",
-      "image": "https://s.france24.com/media/display/913222ca-bc95-11f1-9fbf-555a0aff87a4/w:1024/p:16x9/capture-1350443326abca7b75549a3-94140937.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-rn-face-aux-revelations-sur-bardella-dinguerie-barbouzerie-manip-609b8c7af7.html"
-    },
-    {
-      "title": "Aux États-Unis, la Cour suprême lève de nouveau des limites aux expulsions vers des pays tiers",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260930-aux-%C3%A9tats-unis-la-cour-supr%C3%AAme-l%C3%A8ve-de-nouveau-des-limites-aux-expulsions-vers-des-pays-tiers",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T05:46:29.000Z",
-      "summary": "La Cour suprême des États-Unis a accordé mardi 29 septembre un nouveau répit à l’administration Trump sur l’un des dossiers les plus sensibles de sa politique migratoire : l’expulsion de migrants vers des pays tiers. La plus haute juridiction ne se prononce pas encore sur le fond, mais elle autorise ces transferts à re",
-      "image": "https://s.rfi.fr/media/display/6d6cf386-74cb-11f1-9797-005056bfb2b6/w:1024/p:16x9/AP26181712353723.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/aux-etats-unis-la-cour-supreme-leve-de-nouveau-des-limites-aux-expulsion-c942fe8aed.html"
-    },
-    {
-      "title": "Visite de Javier Milei à Paris : \"Il n’y a plus d'argent en Argentine, il doit en trouver ailleurs\"",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260930-visite-france-javier-milei-paris-argentina-week-crise-economie-argentine-investissements-pauvrete",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T05:18:50.000Z",
-      "summary": "À Paris à partir de mercredi pour un forum économique, Javier Milei cherche de nouveaux investisseurs pour l’Argentine, alors que la croissance reste fragile et que la pauvreté repart à la hausse. Pour le chercheur Jean-Jacques Kourliandsky, le président d’extrême droite argentin vient surtout \"pousser des portes qui l",
-      "image": "https://s.france24.com/media/display/4ebb18da-bc44-11f1-b2c7-555a0aff87a4/w:1024/p:16x9/AP26246522595101.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/visite-de-javier-milei-a-paris-il-n-y-a-plus-d-argent-en-argentine-il-do-e56b40a8ad.html"
-    },
-    {
-      "title": "Au Yémen, le système de santé proche du «point de rupture», alerte l'OMS",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260930-au-y%C3%A9men-le-syst%C3%A8me-de-sant%C3%A9-proche-du-point-de-rupture-alerte-l-oms",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T05:10:04.000Z",
-      "summary": "Le prince héritier d'Arabie saoudite a reçu mardi 29 septembre à Riyad le vice-président des Émirats arabes unis. Les deux pays sont à la fois des concurrents régionaux et des alliés. Au Yémen, ils se sont affrontés en début d'année. Mais face à l'avancée des rebelles houthis, l'Arabie saoudite, qui soutient les forces",
-      "image": "https://s.rfi.fr/media/display/2e11b654-bc88-11f1-a4ea-177f79e345bf/w:1024/p:16x9/AP26257522181500.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-yemen-le-systeme-de-sante-proche-du-point-de-rupture-alerte-l-oms-1ecb73bdde.html"
-    },
-    {
-      "title": "À un mois des midterms, sur la route 66: un patrimoine qui ne vaut plus rien [3/5]",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20260930-%C3%A0-un-mois-des-midterms-sur-la-route-66-un-patrimoine-qui-ne-vaut-plus-rien-3-5",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T04:46:01.000Z",
-      "summary": "À cinq semaines des élections de mi-mandat aux États-Unis, RFI poursuit son chemin sur le tracé de la route 66. Artère mythique qui traverse huit États américains, symbole d'une certaine idée de la liberté, celle des motards et des routiers, mais aussi d'une Amérique à deux vitesses, mégalopoles contre petites villes. ",
-      "image": "https://s.rfi.fr/media/display/ceefda66-bc87-11f1-949f-177f79e345bf/w:1024/p:16x9/Baxter-Springs-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-un-mois-des-midterms-sur-la-route-66-un-patrimoine-qui-ne-vaut-plus-ri-8d1f74f572.html"
-    },
-    {
-      "title": "Irak : la coalition antijihadiste menée par les États-Unis achève son retrait",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-irak-la-coalition-antijihadiste-men%C3%A9e-par-les-%C3%A9tats-unis-ach%C3%A8ve-son-retrait",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T04:42:55.000Z",
-      "summary": "Le départ d'Irak des dernières troupes de la coalition anti-État islamique menée par les États-Unis, prévu ce mercredi, met fin à une présence entamée en 2014. Ce retrait relance la question du désarmement des factions pro-iraniennes, dont plusieurs groupes refusent toujours de rendre les armes.",
-      "image": "https://s.france24.com/media/display/e191a87e-bc88-11f1-97e6-11fa9f8a3b4f/w:1024/p:16x9/FR-20260930-060226-060541-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irak-la-coalition-antijihadiste-menee-par-les-etats-unis-acheve-son-retr-efdab4e1b8.html"
-    },
-    {
-      "title": "France: un budget très attendu alors que la dette atteint une part record du PIB",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20260930-france-un-budget-tr%C3%A8s-attendu-alors-que-la-dette-atteint-une-part-record-du-pib",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T04:42:06.000Z",
-      "summary": "La France empruntera un montant record de 340 milliards d'euros sur les marchés en 2027, soit 28 milliards de plus qu'en 2026, a indiqué l'Agence France Trésor mardi 29 septembre, deux jours avant la présentation du budget de l'État pour l'an prochain. Celui-ci sera particulièrement scruté par les investisseurs qui prê",
-      "image": "https://s.rfi.fr/media/display/61f47634-adea-11f1-97e3-005056bfb2b6/w:1024/p:16x9/2026-09-11T093551Z-1542309202-RC2XGNA9QN8N-RTRMADP-3-FRANCE-BUDGET.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-un-budget-tres-attendu-alors-que-la-dette-atteint-une-part-record-5d1a083b65.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/android-dit-non-a-l-union-europeenne-google-refuse-d-ouvrir-l-os-a-chatg-3c65c46bd4.html"
     }
   ]
 }
