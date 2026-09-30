@@ -1,25 +1,79 @@
 {
-  "updatedAt": "2026-09-30T19:59:16.648Z",
+  "updatedAt": "2026-09-30T23:32:57.452Z",
   "items": [
     {
-      "title": "Ce petit forfait sur le réseau d’Orange coche toutes les cases pour une seconde ligne",
-      "url": "https://www.frandroid.com/bons-plans/3268027_ce-petit-forfait-sur-le-reseau-dorange-coche-toutes-les-cases-pour-une-seconde-ligne",
-      "source": "Frandroid",
-      "publishedAt": "2026-09-30T17:08:00.000Z",
-      "summary": "YouPrice propose un forfait de 30 Go sur le réseau d'Orange à 7,99 euros par mois, sans engagement. Une formule bien calibrée pour une seconde ligne, un étudiant ou un proche qui veut l'essentiel.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/683026018.jpg?resize=1200,675&key=507ac770",
+      "title": "\"America\" : Quand l'IA de Trump contredit... Trump",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260930-america-quand-l-ia-de-trump-contredit-trump",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T21:41:46.000Z",
+      "summary": "Donald Trump a lancé un chatbot alimenté par l’Intelligence Artificielle. Le robot utilise l'IA de Gemini (Google) et de Grok (X). Conçu pour répondre à toutes les interrogations des Américains, il ne suit pas toujours la ligne du président américain, va même jusqu'à contredire les fausses informations et les mensonges",
+      "image": "https://s.france24.com/media/display/2e8de9b2-bd15-11f1-b29a-7be0f5469a6a/w:1024/p:16x9/FRAN260930-2115-Live-CS2115.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-petit-forfait-sur-le-reseau-d-orange-coche-toutes-les-cases-pour-une--b85c4bacbc.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/america-quand-l-ia-de-trump-contredit-trump-7ae791ccd7.html"
     },
     {
-      "title": "Turquie: la justice bloque l’un des principaux médias en ligne du pays pour «propagande LGBT»",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260930-turquie-la-justice-bloque-l-un-des-principaux-m%C3%A9dias-en-ligne-du-pays-pour-propagande-lgbt",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T17:07:48.000Z",
-      "summary": "En Turquie, les autorités poursuivent leurs opérations anti-LGBT+. Après l’arrestation de dizaines de militants mi-septembre et la fermeture de nombreux comptes sur les réseaux sociaux ces dernières semaines, un tribunal d’Istanbul a ordonné mercredi 30 septembre le blocage du site internet et des comptes sur les résea",
-      "image": "https://s.rfi.fr/media/display/faa52460-b1ae-11f1-8ea2-53b7617a3a51/w:1024/p:16x9/2026-09-15T172922Z-597681243-RC2RJNAGKUWC-RTRMADP-3-TURKEY-LGBT.jpg",
+      "title": "Google annonce Gemini 4 Argon et affirme battre GPT-6 et Opus 5.5",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3268205_google-annonce-gemini-4-argon-et-affirme-battre-gpt-6-et-opus-5-5",
+      "source": "Frandroid",
+      "publishedAt": "2026-09-30T20:26:34.000Z",
+      "summary": "Surprise, après OpenAI et Claude, Google réplique et annonce Gemini 4 Argon son prochain modèle haut de gamme. S'il n'y a pas de date sortie, les premiers benchmarks semblent flatteurs.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/g4_30-09-26_key-art_blog.width-2200.format-webp.webp?resize=1200,675&key=0ad87b5d",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/turquie-la-justice-bloque-l-un-des-principaux-medias-en-ligne-du-pays-po-2128c0a762.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-annonce-gemini-4-argon-et-affirme-battre-gpt-6-et-opus-5-5-450dd2adcc.html"
+    },
+    {
+      "title": "Le remboursement de certaines protections menstruelles, une avancée jugée insuffisante [1/2]",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20260930-le-remboursement-de-certaines-protections-menstruelles-une-avanc%C3%A9e-jug%C3%A9e-insuffisante-1-2",
+      "source": "RFI",
+      "publishedAt": "2026-09-30T23:19:32.000Z",
+      "summary": "Cela fait trois ans que la mesure était dans les tiroirs. À partir du jeudi 1er octobre, les protections hygiéniques réutilisables sont intégralement ou partiellement remboursées pour toutes les femmes de moins de 26 ans et pour les plus précaires. Près de 7 millions de personnes peuvent récupérer des culottes ou des c",
+      "image": "https://s.rfi.fr/media/display/665b1762-bd19-11f1-9984-098db7fa8bc7/w:1024/p:16x9/000-33BC2MG.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-remboursement-de-certaines-protections-menstruelles-une-avancee-jugee-95cf5aaea1.html"
+    },
+    {
+      "title": "La Corée du Sud fulmine contre l'Ukraine après l'annonce du transfert de deux prisonniers nord-coréens",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20260930-la-cor%C3%A9e-du-sud-fulmine-contre-l-ukraine-apr%C3%A8s-l-annonce-du-transfert-de-deux-prisonniers-nord-cor%C3%A9ens",
+      "source": "RFI",
+      "publishedAt": "2026-09-30T21:28:11.000Z",
+      "summary": "L'affaire d'un transfert de prisonniers nord-coréens capturés en Ukraine tend les relations entre Kiev et Séoul. Alors que leur renvoi vers la Corée du Sud devait rester secret, le président Volodymyr Zelensky n'a pas hésité à dévoiler l'affaire, provoquant la colère chez certains Sud-Coréens, qui dénoncent une manœuvr",
+      "image": "https://s.rfi.fr/media/display/342616c0-bb25-11f1-a9c6-555a0aff87a4/w:1024/p:16x9/2026-09-28T053548Z-230733951-RC22SNAN5SOU-RTRMADP-3-SOUTHKOREA-UKRAINE-NORTHKOREA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-coree-du-sud-fulmine-contre-l-ukraine-apres-l-annonce-du-transfert-de-d2945ceb93.html"
+    },
+    {
+      "title": "Gaza: l’Unrwa a secrètement transféré ses archives en Jordanie pour préserver la mémoire des réfugiés",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20260930-gaza-l-unrwa-a-secr%C3%A8tement-transf%C3%A9r%C3%A9-ses-archives-en-jordanie-pour-pr%C3%A9server-la-m%C3%A9moire-des-r%C3%A9fugi%C3%A9s",
+      "source": "RFI",
+      "publishedAt": "2026-09-30T21:26:52.000Z",
+      "summary": "Depuis les massacres perpétrés en Israël par le Hamas le 7 octobre 2023 et le déclenchement par Israël d’une guerre à Gaza, dont le caractère potentiellement génocidaire est étudié par la justice internationale, l’agence onusienne craignait pour ses archives. Durant dix mois, elle a donc organisé clandestinement leur t",
+      "image": "https://s.rfi.fr/media/display/4bb88850-bd09-11f1-af91-7be0f5469a6a/w:1024/p:16x9/AP25123513828188.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gaza-l-unrwa-a-secretement-transfere-ses-archives-en-jordanie-pour-prese-31c636913d.html"
+    },
+    {
+      "title": "Un nouveau \"miracle espagnol\" ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260930-un-nouveau-miracle-espagnol",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T20:42:30.000Z",
+      "summary": "Le président français, Emmanuel Macron, vient d'effectuer une visite officielle de deux jours en Espagne. C'est l'occasion de se pencher sur l'économie de ce pays, qui affiche un dynamisme à faire pâlir tous ses voisins européens. La croissance de l'Espagne devrait atteindre 2,6 % cette année.",
+      "image": "https://s.france24.com/media/display/93c22610-bd0e-11f1-9e97-098db7fa8bc7/w:1024/p:16x9/Francais-2026-09-30T20-19-42-945Z.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-nouveau-miracle-espagnol-101646e206.html"
+    },
+    {
+      "title": "En France, le président argentin Javier Milei est en quête d'investisseurs",
+      "url": "https://www.rfi.fr/fr/france/20260930-en-france-le-pr%C3%A9sident-argentin-javier-milei-est-en-qu%C3%AAte-d-investisseurs",
+      "source": "RFI",
+      "publishedAt": "2026-09-30T20:02:26.000Z",
+      "summary": "Javier Milei est arrivé à Paris mercredi 30 septembre. Avant d'être reçu vendredi par son homologue Emmanuel Macron à l'Élysée, le président libertarien, au pouvoir depuis près de trois ans, doit s'exprimer au siège de l'OCDE jeudi pour vanter les opportunités de l'Argentine aux entrepreneurs, en particulier dans le do",
+      "image": "https://s.rfi.fr/media/display/8a5ac94a-a8f2-11f1-aa29-005056bf30b7/w:1024/p:16x9/rp-inter-05-09.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-france-le-president-argentin-javier-milei-est-en-quete-d-investisseur-74c970d161.html"
+    },
+    {
+      "title": "Fin de partie pour Ronaldo, qui quitte le rassemblement de l'équipe du Portugal",
+      "url": "https://www.france24.com/fr/sports/20260930-fin-de-partie-cristiano-ronaldo-quitte-rassemblement-%C3%A9quipe-portugal",
+      "source": "France 24",
+      "publishedAt": "2026-09-30T19:58:38.000Z",
+      "summary": "À 41 ans, Cristiano Ronaldo a annoncé mercredi avoir quitté le rassemblement de l'équipe du Portugal. Il promet d'expliquer \"en temps voulu\" les motifs de sa décision.",
+      "image": "https://s.france24.com/media/display/d1515c0a-754a-11f1-b69e-005056bf30b7/w:1024/p:16x9/AP26179057254154.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fin-de-partie-pour-ronaldo-qui-quitte-le-rassemblement-de-l-equipe-du-po-320a9a17ee.html"
     },
     {
       "title": "Projet d'attaque à Fairford : \"Tout porte à ⁠croire que l'Iran a joué un rôle\", affirme Andy Burnham",
@@ -47,123 +101,6 @@
       "summary": "🇧🇫 Quatre ans après son arrivée au pouvoir par un putsch, Ibrahim Traoré dirige toujours le Burkina Faso. Face à l’insécurité et à la restriction de l’espace politique, une question demeure : quand prendra fin la transition ?",
       "image": "https://s.france24.com/media/display/e4a97e14-bcf7-11f1-b996-ddce071186a9/w:1024/p:16x9/Couv-BURKINA-4-ans-Coup-Etat.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ou-va-le-burkina-faso-4-ans-apres-le-coup-d-etat-d-ibrahim-traore-41fe0ae032.html"
-    },
-    {
-      "title": "Irak: clap de fin pour la coalition contre l'organisation État islamique à Bagdad",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20260930-irak-clap-de-fin-pour-la-coalition-contre-l-organisation-%C3%A9tat-islamique-%C3%A0-bagdad",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T17:23:32.000Z",
-      "summary": "La mission de la coalition internationale de lutte contre l’État islamique a officiellement pris fin dans la matinée du 30 septembre, lors d’une cérémonie officielle, après 12 ans de présence en Irak. Alors que toutes les forces internationales ont quitté les bases irakiennes, les autorités ont décrété quatre jours fér",
-      "image": "https://s.rfi.fr/media/display/68557f84-bcb6-11f1-be9b-7be0f5469a6a/w:1024/p:16x9/AP26273350464265.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irak-clap-de-fin-pour-la-coalition-contre-l-organisation-etat-islamique--a9a5d22b6f.html"
-    },
-    {
-      "title": "Aux États-Unis, la condamnation à mort imminente de Christa Pike suspendue au dernier moment",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20260930-aux-%C3%A9tats-unis-la-condamnation-%C3%A0-mort-imminente-de-christa-pike-suspendue-au-dernier-moment",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T17:11:39.000Z",
-      "summary": "Christa Pike devait être exécutée par injection létale mercredi dans l'État du Tennessee, mais la cour d'appel a suspendu in extremis sa condamnation à mort, afin d'examiner la recevabilité d'un recours produit par la défense. Christa Pike avait été condamnée à la peine capitale en 1996, pour le meurtre de sa camarade ",
-      "image": "https://s.france24.com/media/display/7a4f7cc8-bce1-11f1-a0fb-1b050e7dec5f/w:1024/p:16x9/2026-09-30T135639Z-1416470123-RC2PTNAYXSRM-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/aux-etats-unis-la-condamnation-a-mort-imminente-de-christa-pike-suspendu-c06e96e3cc.html"
-    },
-    {
-      "title": "Vol Flydubai dérouté vers l’Arabie saoudite, la piste \"terroriste\" évoquée",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-vol-flydubai-d%C3%A9rout%C3%A9-vers-l-arabie-saoudite-la-piste-terroriste-%C3%A9voqu%C3%A9e",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T16:03:06.000Z",
-      "summary": "Vol #Flydubai : ce mercredi, un avion reliant Dubaï à Tel-Aviv a été dérouté vers l’Arabie saoudite après un incident à bord. Selon des témoins, l’un des pilotes aurait tenté de poignarder l’autre avec un couteau et de faire s’écraser l’appareil. Le Premier ministre israélien Benjamin Netanyahu a évoqué une tentative d",
-      "image": "https://s.france24.com/media/display/ea2c5a20-bce6-11f1-bf70-1b050e7dec5f/w:1024/p:16x9/Miniature-FlyDubai.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/vol-flydubai-deroute-vers-l-arabie-saoudite-la-piste-terroriste-evoquee-628ec9a27c.html"
-    },
-    {
-      "title": "Suède: un rapport réclame des excuses de l’État pour les injustices subies par le peuple sami",
-      "url": "https://www.rfi.fr/fr/europe/20260930-su%C3%A8de-un-rapport-r%C3%A9clame-des-excuses-de-l-%C3%A9tat-pour-les-injustices-subies-par-le-peuple-sami",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T15:58:46.000Z",
-      "summary": "Les injustices subies par les Sami ont été présentées au gouvernement suédois mercredi 30 septembre. Seul peuple autochtone d’Europe juridiquement reconnu comme tel, les Sami sont près de 100 000, répartis sur leur territoire ancestral arctique, qui s’étend sur la Finlande, la Norvège, la Suède et une partie de la Russ",
-      "image": "https://s.rfi.fr/media/display/a4e91fc0-bce1-11f1-812c-1b050e7dec5f/w:1024/p:16x9/000-33A93YY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/suede-un-rapport-reclame-des-excuses-de-l-etat-pour-les-injustices-subie-96105f013c.html"
-    },
-    {
-      "title": "Irak : la coalition antijihadiste des États-Unis se retire",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-irak-la-coalition-antijihadiste-des-%C3%A9tats-unis-se-retire",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T15:44:18.000Z",
-      "summary": "Déployées depuis plus d'une décennie en Irak pour combattre le groupe Etat islamique (EI), les dernières troupes de la coalition antijihadiste menée par les Etats-Unis ont quitté le pays mercredi, laissant les Kurdes dans l'inquiétude.",
-      "image": "https://s.france24.com/media/display/02530e1c-bce4-11f1-9f80-098db7fa8bc7/w:1024/p:16x9/minia-irak.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/irak-la-coalition-antijihadiste-des-etats-unis-se-retire-4f74f4770d.html"
-    },
-    {
-      "title": "La Chine inaugure une installation militaire conjointe avec Vientiane au Laos",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20260930-la-chine-inaugure-une-installation-militaire-conjointe-avec-vientiane-au-laos",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T15:39:39.000Z",
-      "summary": "La Chine et le Laos ont inauguré une installation militaire conjointe sur le site d'un aéroport au nord de Vientiane, ont annoncé, le 29 septembre 2026, les gouvernements des deux pays. Pékin élargit sa présence militaire dans la région.",
-      "image": "https://s.rfi.fr/media/display/8bbd571c-bce3-11f1-8c6e-1b050e7dec5f/w:1024/p:16x9/Une-image-satellite-montre-la-construction-d-un-a%C3%A9roport-%C3%A0-Ban-Keun-o%C3%B9-le-minist%C3%A8re-chinois-de-la-D%C3%A9fense-nationale-affirme-avoir-ouvert-un-centre-conjoint-de-soutien-et-de-formation-militaires-dans-la-province-de-V.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-chine-inaugure-une-installation-militaire-conjointe-avec-vientiane-au-b241588cb2.html"
-    },
-    {
-      "title": "Maroc: «Fatima Ezzahra El Mansouri a été nommée aussi pour son parcours politique», rappelle le journaliste Abdellah Tourabi",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique-midi/20260930-maroc-fatima-ezzahra-el-mansouri-a-%C3%A9t%C3%A9-nomm%C3%A9e-aussi-pour-son-parcours-politique-rappelle-le-journaliste-abdellah-tourabi",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T15:22:32.000Z",
-      "summary": "C'est la première fois qu'une femme devient cheffe du gouvernement au Maroc : le roi Mohammed VI a nommé, mardi 29 septembre à ce poste, Fatima Ezzahra El Mansouri, coordinatrice nationale du Parti authenticité et modernité (PAM), qui était arrivé en tête aux législatives de la semaine dernière. Abdellah Tourabi, journ",
-      "image": "https://s.rfi.fr/media/display/510fcb9e-bcda-11f1-936d-d367a0468893/w:1024/p:16x9/Fatima-Ezzahra-El-Mansouri-la-nouvelle-chef-du-gouvernement-marocain-arrive-%C3%A0-Rabat-pour-une-r%C3%A9union-le-29-septembre-2026.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-fatima-ezzahra-el-mansouri-a-ete-nommee-aussi-pour-son-parcours-po-376933c586.html"
-    },
-    {
-      "title": "Espagne : \"la visite d'E. Macron intervient dans un contexte intérieur particulièrement troublé\"",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-espagne-la-visite-d-e-macron-intervient-dans-un-contexte-int%C3%A9rieur-particuli%C3%A8rement-troubl%C3%A9",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T15:10:59.000Z",
-      "summary": "La visite d’État d’Emmanuel Macron en Espagne intervient dans un contexte intérieur particulièrement troublé. Alors que le traité d’amitié et de coopération entre la France et l’Espagne, ratifié par Paris, n’a toujours pas été ratifié par Madrid — notamment en raison de l’opposition du Parti populaire, principal parti ",
-      "image": "https://s.france24.com/media/display/01da9ea4-bce0-11f1-998d-d367a0468893/w:1024/p:16x9/FR-20260930-133743-134745-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-la-visite-d-e-macron-intervient-dans-un-contexte-interieur-parti-154522407f.html"
-    },
-    {
-      "title": "Syrie: un regard exclusif sur l’intégration des combattants étrangers , l’exemple des Ouïghours",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-syrie-un-regard-exclusif-sur-l-int%C3%A9gration-des-combattants-%C3%A9trangers-l-exemple-des-ou%C3%AFghours",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T15:08:13.000Z",
-      "summary": "Depuis le retrait américain de Syrie en avril dernier, l’armée syrienne connaît une profonde reconfiguration. Parmi les nouveaux contingents étrangers figurent quelque 2 000 combattants Ouïghours, issus du Parti islamique du Turkistan, aujourd’hui dissous. Ils constituent l’un des contingents les plus disciplinés des n",
-      "image": "https://s.france24.com/media/display/1a5682ea-bce0-11f1-9f1e-098db7fa8bc7/w:1024/p:16x9/FR-20260930-161043-161934-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/syrie-un-regard-exclusif-sur-l-integration-des-combattants-etrangers-l-e-2bd5ee7402.html"
-    },
-    {
-      "title": "Afrique du Sud : Cyril Ramaphosa annonce des mesures suites aux féminicides",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-afrique-du-sud-cyril-ramaphosa-annonce-des-mesures-suites-aux-f%C3%A9minicides",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T15:07:24.000Z",
-      "summary": "🇿🇦 Après la découverte de 12 corps de femmes depuis mi-juillet dans un même secteur à l'Est de Johannesburg, Cyril Ramaphosa s’est adressé à la nation ce mardi. Le président sud-africain a annoncé un plan d’urgence contre les violences faites aux femmes.",
-      "image": "https://s.france24.com/media/display/ecb23a20-bcdd-11f1-a708-7be0f5469a6a/w:1024/p:16x9/Couv-AF-DU-SUD-Mesures-contre-f%C3%A9minicides.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-cyril-ramaphosa-annonce-des-mesures-suites-aux-feminicide-61c2c6e589.html"
-    },
-    {
-      "title": "États-Unis: la justice suspend in extremis l'exécution de Christa Pike dans le Tennessee",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260930-%C3%A9tats-unis-la-justice-suspend-in-extremis-l-ex%C3%A9cution-de-christa-pike-dans-le-tennessee",
-      "source": "RFI",
-      "publishedAt": "2026-09-30T15:06:28.000Z",
-      "summary": "Une cour d'appel fédérale américaine a suspendu in extremis, mercredi 30 septembre, l'exécution de Christa Pike dans le Tennessee, qui devait être la première femme mise à mort aux États-Unis depuis 2023 et la première dans cet État depuis plus de 200 ans.",
-      "image": "https://s.rfi.fr/media/display/4c0d0d48-bc38-11f1-b7d6-91cf9f3cd539/w:1024/p:16x9/ETATS-UNIS-CHRISTA-PIKE-JUSTICE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-la-justice-suspend-in-extremis-l-execution-de-christa-pike-da-a49d9b66d9.html"
-    },
-    {
-      "title": "REPLAY : conférence de presse conjointe de Pedro Sanchez et Emmanuel Macron en Espagne",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-replay-conf%C3%A9rence-de-presse-conjointe-de-pedro-sanchez-et-emmanuel-macron-en-espagne",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T14:59:08.000Z",
-      "summary": "Revivez la conférence de presse d’Emmanuel Macron et Pedro Sánchez à Madrid, le 30 septembre 2026, au terme de la visite d’État de deux jours du président français en Espagne.",
-      "image": "https://s.france24.com/media/display/80de70b8-bcdb-11f1-b45c-d367a0468893/w:1024/p:16x9/FR-20260930-134810-141052-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/replay-conference-de-presse-conjointe-de-pedro-sanchez-et-emmanuel-macro-bfe259d95c.html"
-    },
-    {
-      "title": "Qui est Fatima Ezzahra El Mansouri, première femme à diriger le gouvernement marocain ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-qui-est-fatima-ezzahra-el-mansouri-premi%C3%A8re-femme-%C3%A0-diriger-le-gouvernement-marocain",
-      "source": "France 24",
-      "publishedAt": "2026-09-30T14:58:11.000Z",
-      "summary": "🇲🇦 Pour la première fois de son histoire, le Maroc sera dirigé par une femme à la tête de son gouvernement.Fatima Ezzahra El Mansouri a été nommée Première ministre par le roi Mohammed VI.Avocate de formation, à la tête des 20 femmes d’Afrique les plus influentes selon Forbes en 2014, qui est Fatima Ezzahra El Mansou",
-      "image": "https://s.france24.com/media/display/f805e054-bcdb-11f1-a382-098db7fa8bc7/w:1024/p:16x9/FR-Miniature-6.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qui-est-fatima-ezzahra-el-mansouri-premiere-femme-a-diriger-le-gouvernem-5e4b78e2b3.html"
     }
   ]
 }
