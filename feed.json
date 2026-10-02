@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T21:09:41.638Z",
+  "updatedAt": "2026-10-02T00:44:41.585Z",
   "items": [
     {
       "title": "Comment récupérer votre historique Messenger : voici l’outil de Meta qui a servi à Mediapart",
@@ -12,14 +12,40 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-recuperer-votre-historique-messenger-voici-l-outil-de-meta-qui-a-7b104f0b73.html"
     },
     {
-      "title": "Que disent les images de Gaza rendues publiques par Google?",
-      "url": "https://www.rfi.fr/fr/monde/20261001-que-disent-les-images-de-gaza-rendues-publiques-par-google",
+      "title": "Deuxième débat de la primaire de la gauche : une possible alliance avec LFI divise",
+      "url": "https://www.france24.com/fr/france/20261001-deuxieme-debat-primaire-gauche-possible-alliance-lfi-divise-genocide-gaza-glucksmann-faure",
+      "source": "France 24",
+      "publishedAt": "2026-10-01T23:14:26.000Z",
+      "summary": "Lors d'un deuxième débat télévisé, jeudi soir, les cinq candidats à la primaire de la gauche sociale-démocrate, et en particulier Raphaël Glucksmann et Olivier Faure, se sont opposés sur une possible alliance avec La France insoumise et sur l'emploi du mot \"génocide\" à Gaza. Tous se sont en revanche accordés pour juger",
+      "image": "https://s.france24.com/media/display/f760f6ae-bdec-11f1-b082-dd51fcab6130/w:1024/p:16x9/000-C9YW8PM.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/deuxieme-debat-de-la-primaire-de-la-gauche-une-possible-alliance-avec-lf-6df16f812a.html"
+    },
+    {
+      "title": "Manifs étudiantes : les casseurs, une vieille histoire ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261001-manifs-%C3%A9tudiantes-les-casseurs-une-vieille-histoire",
+      "source": "France 24",
+      "publishedAt": "2026-10-01T22:21:31.000Z",
+      "summary": "De mai 68 à aujourd’hui, en passant par le mouvement contre la loi Devaquet, les étudiants ont régulièrement fait trembler le pouvoir. Et les casseurs se sont souvent invités au sein de leurs rangs. Ce jeudi, la situation a d’ailleurs fortement dégénéré à tel point que tous les préfets ont pris des arrêtés d’interdicti",
+      "image": "https://s.france24.com/media/display/00f9de68-bde5-11f1-be33-578a4b968fd6/w:1024/p:16x9/FRAN261001-2339-Live-CS2339.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifs-etudiantes-les-casseurs-une-vieille-histoire-9a557c2923.html"
+    },
+    {
+      "title": "Élections législatives en Lettonie: un vote sous haute tension sécuritaire et économique",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261001-%C3%A9lections-l%C3%A9gislatives-en-lettonie-un-vote-sous-haute-tension-s%C3%A9curitaire-et-%C3%A9conomique",
       "source": "RFI",
-      "publishedAt": "2026-10-01T18:03:34.000Z",
-      "summary": "Dimanche 27 septembre, l'application Google Earth a réactualisé certaines des images satellites de la bande de Gaza, avec de nouveaux visuels datant de février 2026 qui concernent essentiellement le sud de l'enclave. Cela faisait deux ans que Google n’avait plus rendu publiques les photos de cette partie du territoire ",
-      "image": "https://s.rfi.fr/media/display/65373ee8-bdb8-11f1-842e-1ff0321dbbd3/w:1024/p:16x9/UNE-GZAZ-Capture.png",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/que-disent-les-images-de-gaza-rendues-publiques-par-google-e7710b203e.html"
+      "publishedAt": "2026-10-01T22:04:22.000Z",
+      "summary": "Les Lettons vont aux urnes ce samedi 3 octobre 2026 pour renouveler leur Parlement. Quatorze listes, près de 1 400 candidats pour 100 sièges : dans ce pays limitrophe, la défense et la sécurité sont évidemment dans le débat, mais le consensus pour la financer est assez large. Les questions de société dominent depuis le",
+      "image": "https://s.rfi.fr/media/display/e996c354-bdbb-11f1-a846-13420ab900a2/w:1024/p:16x9/000-C9LE6CT.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-legislatives-en-lettonie-un-vote-sous-haute-tension-securitair-b461827aaf.html"
+    },
+    {
+      "title": "France: les «re.traiteurs», des retraités qui cuisinent pour arrondir leurs fins de mois",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261001-france-les-re-traiteurs-des-retrait%C3%A9s-qui-cuisinent-pour-arrondir-leurs-fins-de-mois",
+      "source": "RFI",
+      "publishedAt": "2026-10-01T22:02:21.000Z",
+      "summary": "En France, le gouvernement affiche sa volonté de « redresser » les finances publiques en présentant son projet de budget pour 2027, avec une série de mesures d'économies, notamment en voulant taxer les pensions de retraites. Dans le pays, ils sont 18 millions de retraités, et certains gardent un pied dans une activité ",
+      "image": "https://s.rfi.fr/media/display/df06c524-bdc0-11f1-af88-13420ab900a2/w:1024/p:16x9/RETRAITEURS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-les-re-traiteurs-des-retraites-qui-cuisinent-pour-arrondir-leurs--ef70937a95.html"
     },
     {
       "title": "Ligue des Nations : pour Zinedine Zidane, un France-Italie au goût si particulier",
@@ -47,125 +73,6 @@
       "summary": "Le Premier ministre, Sébastien Lecornu a présenté ce matin, le projet de loi de financement de la Sécurité sociale (PLFSS) en Conseil des ministres qui prévoit de diviser presque par deux le déficit en 2027, via notamment d'importants efforts demandés aux retraités, les assurés sociaux et les entreprises...",
       "image": "https://s.france24.com/media/display/8ed25f72-b21d-11f1-859d-757719c1152f/w:1024/p:16x9/2026-09-10T135013Z-1576945763-RC2DGNAOB4I0-RTRMADP-3-FRANCE-POLITICS.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/budget-2027-qui-va-payer-l-addition-3cdc8c7176.html"
-    },
-    {
-      "title": "Elon Musk revient dans l'administration Trump pour codiriger une étude du Pentagone sur la guerre",
-      "url": "https://fr.euronews.com/2026/10/01/elon-musk-revient-dans-ladministration-trump-pour-codiriger-une-etude-du-pentagone-sur-la-",
-      "source": "Euronews",
-      "publishedAt": "2026-10-01T17:28:41.000Z",
-      "summary": "Musk, soutien de Trump en 2024, prend la tête du Département de l'efficacité gouvernementale (DOGE) et pilote des coupes massives dans l'administration fédérale.",
-      "image": "https://images.euronews.com/articles/stories/09/93/59/14/696x392_cmsv2_80971f18-4ff4-57f1-9955-15f1c75c7dc4-9935914.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elon-musk-revient-dans-l-administration-trump-pour-codiriger-une-etude-d-01a2ec743e.html"
-    },
-    {
-      "title": "Budget 2027 : le plan de l'exécutif jugé \"optimiste\" face à la situation",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261001-budget-2027-le-plan-de-l-ex%C3%A9cutif-jug%C3%A9-optimiste-face-%C3%A0-la-situation",
-      "source": "France 24",
-      "publishedAt": "2026-10-01T17:28:05.000Z",
-      "summary": "Benjamin Coriat, économiste membre des Economistes Atterrés, est notre invité.",
-      "image": "https://s.france24.com/media/display/be97dc5a-bdbc-11f1-923c-578a4b968fd6/w:1024/p:16x9/FR-20261001-150433-151056-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/budget-2027-le-plan-de-l-executif-juge-optimiste-face-a-la-situation-54162aeaab.html"
-    },
-    {
-      "title": "Brésil : dans l'Etat de Bahia, 46% des habitants sont sous le seuil de pauvreté",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261001-br%C3%A9sil-dans-l-etat-de-bahia-46-des-habitants-sous-le-seuil-de-pauvret%C3%A9",
-      "source": "France 24",
-      "publishedAt": "2026-10-01T17:27:20.000Z",
-      "summary": "Un reportage signé Marine Resse, Fanny Lothaire, et Marine Blondeau.",
-      "image": "https://s.france24.com/media/display/7f2515d8-bdbc-11f1-a374-13420ab900a2/w:1024/p:16x9/FR-20261001-160953-161239-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-dans-l-etat-de-bahia-46-des-habitants-sont-sous-le-seuil-de-pauvr-30423680ca.html"
-    },
-    {
-      "title": "Projet d'attaque contre une base militaire en Angleterre : un Britanno-Iranien arrêté",
-      "url": "https://www.france24.com/fr/europe/20261001-incident-projet-attaque-base-militaire-fairford-un-britanno-iranien-arr%C3%AAt%C3%A9",
-      "source": "France 24",
-      "publishedAt": "2026-10-01T17:26:52.000Z",
-      "summary": "La police antiterroriste britannique a annoncé jeudi l’arrestation à Londres d'un Britanno-Iranien de 25 ans dans le cadre de l’enquête sur l’incident survenu dimanche près de la base militaire de Fairford. Il est soupçonné de \"préparation d'un acte terroriste\".",
-      "image": "https://s.france24.com/media/display/79072c1c-bc0a-11f1-9add-555a0aff87a4/w:1024/p:16x9/2026-09-29T064654Z-1635109463-RC2USNAUC1I4-RTRMADP-3-BRITAIN-USA-FAIRFORD.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/projet-d-attaque-contre-une-base-militaire-en-angleterre-un-britanno-ira-c132118bc2.html"
-    },
-    {
-      "title": "Lutte contre le cancer du sein : 61 000 nouveaux cas par an en France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261001-lutte-contre-le-cancer-du-sein-61-000-nouveaux-cas-par-an-en-france",
-      "source": "France 24",
-      "publishedAt": "2026-10-01T17:23:54.000Z",
-      "summary": "Accès facilité aux rendez-vous, renforcement de la participation des radiologues et centres d'imagerie, formation des radiologues hospitaliers: le ministère de la Santé a affiché mercredi, avant Octobre rose, la volonté que le dépistage du cancer du sein atteigne \"davantage de femmes\".",
-      "image": "https://s.france24.com/media/display/d5e2d398-bdbb-11f1-9d44-13420ab900a2/w:1024/p:16x9/FR-20261001-170855-171043-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/lutte-contre-le-cancer-du-sein-61-000-nouveaux-cas-par-an-en-france-0135a55e6d.html"
-    },
-    {
-      "title": "Violences sexistes et sexuelles : une loi intégrale sans accord intégral",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261001-violences-sexistes-et-sexuelles-une-loi-int%C3%A9grale-sans-accord-int%C3%A9gral",
-      "source": "France 24",
-      "publishedAt": "2026-10-01T17:10:19.000Z",
-      "summary": "Marie-Charlotte Garin, rapporteure de la proposition de la loi intégrale, est au micro de France 24.",
-      "image": "https://s.france24.com/media/display/a17c413a-bdba-11f1-87bb-13420ab900a2/w:1024/p:16x9/FR-20261001-170056-170349-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/violences-sexistes-et-sexuelles-une-loi-integrale-sans-accord-integral-849e28069e.html"
-    },
-    {
-      "title": "Blocages des lycées : Matignon dénonce des \"violences urbaines\" et pointe du doigt LFI",
-      "url": "https://www.france24.com/fr/%C3%A9missions/politique/20261001-blocages-des-lyc%C3%A9es-matignon-d%C3%A9nonce-des-violences-urbaines-et-pointe-du-doigt-lfi",
-      "source": "France 24",
-      "publishedAt": "2026-10-01T16:48:34.000Z",
-      "summary": "Le gouvernement estime que le mouvement des lycéens, qui manifestent contre le manque de moyens dans l'Éducation nationale, \"bascule dans la violence\". Les autorités pointent la responsabilité de La France insoumise. Autre actualité qui a secoué la vie politique : les propos antisémites attribués à Jordan Bardella par ",
-      "image": "https://s.france24.com/media/display/110cef08-bdb7-11f1-a20d-1ff0321dbbd3/w:1024/p:16x9/capture-11642901626abe8d6a6aad65-38747919.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/blocages-des-lycees-matignon-denonce-des-violences-urbaines-et-pointe-du-fd78b9b50e.html"
-    },
-    {
-      "title": "Blocages des lycées : Matignon dénonce \"des violences urbaines\"",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261001-politique",
-      "source": "France 24",
-      "publishedAt": "2026-10-01T16:48:33.000Z",
-      "summary": "Le gouvernement estime que le mouvement des lycéens, qui manifestent contre le manque de moyens, \"bascule dans la violence\". Les autorités pointent la responsabilité de LFI. L'autre actualité qui a secoué la vie politique, ce sont les propos antisémites attribués à Jordan Bardella par Mediapart et qui mettent à mal la ",
-      "image": "https://s.france24.com/media/display/110cef08-bdb7-11f1-a20d-1ff0321dbbd3/w:1024/p:16x9/capture-11642901626abe8d6a6aad65-38747919.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/blocages-des-lycees-matignon-denonce-des-violences-urbaines-0d40aae25b.html"
-    },
-    {
-      "title": "Une voiture neuve si la batterie brûle : en Chine, Hyundai dégaine la garantie à vie avec la Ioniq V",
-      "url": "https://www.frandroid.com/marques/hyundai/3269759_une-voiture-neuve-si-la-batterie-brule-en-chine-hyundai-degaine-la-garantie-a-vie-avec-la-ioniq-v",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-01T16:33:33.000Z",
-      "summary": "Beijing Hyundai, la coentreprise chinoise du constructeur coréen, a lancé le 29 septembre l'Ioniq V, une berline électrique vendue à partir de 99&nbsp;900 yuans, soit environ 13&nbsp;100&nbsp;euros. Elle arrive avec une garantie à vie pour le premier propriétaire et la promesse d'une voiture neuve si la batterie prend ",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-11.png?resize=1200,675&key=b8fa2366",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-voiture-neuve-si-la-batterie-brule-en-chine-hyundai-degaine-la-garan-380ea451cf.html"
-    },
-    {
-      "title": "France: Mediapart révèle avoir pu authentifier les messages antisémites attribués à Jordan Bardella",
-      "url": "https://www.rfi.fr/fr/france/20261001-france-mediapart-r%C3%A9v%C3%A8le-avoir-pu-authentifier-les-messages-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella",
-      "source": "RFI",
-      "publishedAt": "2026-10-01T16:26:36.000Z",
-      "summary": "Le média d'investigation Mediapart révèle, jeudi 1er octobre 2026, avoir pu authentifier, via la maison-mère de Facebook Meta et un huissier, les messages antisémites datant de 2013 attribués au président du Rassemblement national Jordan Bardella, dont ce dernier dément être l'auteur.",
-      "image": "https://s.rfi.fr/media/display/c9961a48-bdb4-11f1-a91d-1ff0321dbbd3/w:1024/p:16x9/FRANCE-POLITIQUE-RN-JORDAN-BARDELLA.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-mediapart-revele-avoir-pu-authentifier-les-messages-antisemites-a-d1dd74c0fc.html"
-    },
-    {
-      "title": "Humanitaire: sans nouveaux financements, «l'Urnwa devra choisir quelles écoles et quels centres de santé fermeront»",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261001-humanitaire-sans-nouveaux-financements-l-urnwa-devra-choisir-quelles-%C3%A9coles-et-quels-centres-de-sant%C3%A9-fermeront",
-      "source": "RFI",
-      "publishedAt": "2026-10-01T16:18:57.000Z",
-      "summary": "Au moment où la question de la reconstruction de Gaza domine les discussions diplomatiques, l’une des principales organisations susceptibles d’y participer se demande encore si elle pourra continuer à fonctionner. L'agence des Nations unies pour les réfugiés palestiniens (Unrwa) lutte aujourd'hui pour sa survie. Entret",
-      "image": "https://s.rfi.fr/media/display/ee2c8158-a0ae-11f1-a567-005056a90284/w:1024/p:16x9/AP26237481922621.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/humanitaire-sans-nouveaux-financements-l-urnwa-devra-choisir-quelles-eco-ce7625afff.html"
-    },
-    {
-      "title": "La dette des États flambe sur fond de crise énergétique et d'inflation",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261001-la-dette-des-%C3%A9tats-flambe-sur-fond-de-crise-%C3%A9nerg%C3%A9tique-et-d-inflation",
-      "source": "RFI",
-      "publishedAt": "2026-10-01T15:45:44.000Z",
-      "summary": "La dette des États flambe un peu partout dans le monde. Cette tension sur le marché traduit l'inquiétude des investisseurs quant à la capacité des pays à réduire leurs déficits publics. La France est particulièrement surveillée, alors que le gouvernement Lecornu a dévoilé, ce 1er octobre 2026, son projet de budget pour",
-      "image": "https://s.rfi.fr/media/display/f9724ff4-8e1f-11eb-85c0-005056a98db9/w:1024/p:16x9/Bercy%20Minist%C3%A8re%20de%20l%27%C3%A9conomie.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-dette-des-etats-flambe-sur-fond-de-crise-energetique-et-d-inflation-f74b7fe535.html"
-    },
-    {
-      "title": "France: la proposition de loi intégrale permettra-t-elle de lutter efficacement contre les violences sexistes et sexuelles?",
-      "url": "https://www.rfi.fr/fr/france/20261001-france-la-proposition-de-loi-int%C3%A9grale-permettra-t-elle-de-lutter-efficacement-contre-les-violences-sexistes-et-sexuelles",
-      "source": "RFI",
-      "publishedAt": "2026-10-01T15:25:03.000Z",
-      "summary": "Ce jeudi 1er octobre 2026, une proposition de « loi intégrale » contre les violences sexuelles et sexistes fait son entrée dans l'hémicycle. Soixante-neuf articles qui touchent plusieurs secteurs dans lesquelles s'exercent ces violences : la justice, la police, la santé, l'éducation, l'enfance etc. Un texte ambitieux p",
-      "image": "https://s.rfi.fr/media/display/b3b5b03e-7ba2-11f1-ab6b-005056a97e36/w:1024/p:16x9/000-B8PL8KU.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-la-proposition-de-loi-integrale-permettra-t-elle-de-lutter-effica-90bfb09de2.html"
     }
   ]
 }
