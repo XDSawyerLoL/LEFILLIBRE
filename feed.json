@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-05T22:39:23.102Z",
+  "updatedAt": "2026-10-06T02:30:05.405Z",
   "items": [
-    {
-      "title": "Le monde doit accepter les « conséquences négatives de l’IA » : le patron d’OpenAI fait une sortie controversée",
-      "url": "https://www.01net.com/actualites/le-monde-doit-accepter-les-consequences-negatives-de-lia-le-patron-dopenai-fait-une-sortie-controversee.html",
-      "source": "01net",
-      "publishedAt": "2026-10-05T17:00:59.000Z",
-      "summary": "Sam Altman considère que le monde doit accepter certaines conséquences négatives de l’IA. Le dirigeant d’OpenAI estime par ailleurs que l’intelligence artificielle apportera bien plus de choses positives que négatives. Sam Altman est ainsi quelque peu entré en contradiction avec la position tenue par Dario Amodei (Anth",
-      "image": "https://www.01net.com/app/uploads/2026/10/Sam-Altman-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-monde-doit-accepter-les-consequences-negatives-de-l-ia-le-patron-d-op-52a96c99d1.html"
-    },
     {
       "title": "C’est le top départ des Jours Flash Prime sur Amazon : voici les meilleures offres Tech en DIRECT",
       "url": "https://www.frandroid.com/bons-plans/3273169_cest-le-top-depart-des-jours-flash-prime-sur-amazon-voici-les-meilleures-offres-tech-en-direct",
@@ -19,6 +9,15 @@
       "summary": "Les Jours Flash Prime sont tout simplement un Prime Day qui ne dit pas son nom. Toutes les offres sont réservées aux membres payants d'Amazon, avec de très belles pépites Tech dans le lot. Dans cet article mis à jour en direct, vous retrouverez toutes les offres recommandées par la rédaction de Frandroid.",
       "category": "IA & Tech",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/c-est-le-top-depart-des-jours-flash-prime-sur-amazon-voici-les-meilleure-444b9d5384.html"
+    },
+    {
+      "title": "UE : ces villes où le loyer dévore les salaires",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261005-ue-ces-villes-o%C3%B9-le-loyer-d%C3%A9vore-les-salaires",
+      "source": "France 24",
+      "publishedAt": "2026-10-05T22:18:42.000Z",
+      "summary": "Selon la Commission européenne, les prix de l'immobilier ont augmenté de 60% depuis 2013. Ce mardi, les députés européens ont donc décidé de débattre des moyens de rendre le logement plus abordable d'autant que les 27 sont loin d'être égaux dans ce domaine. Les villes les plus chères ne sont pas forcément celles où la ",
+      "image": "https://s.france24.com/media/display/fe430172-c109-11f1-8f9e-69fad0a7cb9f/w:1024/p:16x9/FRAN261005-2339-Live-CS2339.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ue-ces-villes-ou-le-loyer-devore-les-salaires-a149c68cdc.html"
     },
     {
       "title": "Les lycéens solidaires manifestent pour dénoncer leurs conditions d'étude",
@@ -64,51 +63,6 @@
       "summary": "Au Sénégal, au moins quatre personnes sont mortes à Dakar suite aux inondations et à la forte pluie qui s’est abattue sur la capitale dimanche 4 octobre : plus de 140 mm tombés en 24h dans certains quartiers, suffisamment pour provoquer des inondations, des effondrements de murs et partiellement bloquer la capitale jus",
       "image": "https://s.rfi.fr/media/display/bc28b236-c0fb-11f1-ad7e-578a4b968fd6/w:1024/p:16x9/2026-10-05T172640Z-1702917028-RC2YWNALKYZP-RTRMADP-3-SENEGAL-WEATHER.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-des-inondations-font-plusieurs-morts-et-bloquent-plusieurs-quart-9b3a366519.html"
-    },
-    {
-      "title": "Blocage des lycées en France: la LDH dénonce une «dérive globale par rapport à l'État de droit» de la police",
-      "url": "https://www.rfi.fr/fr/france/20261005-blocage-des-lyc%C3%A9es-en-france-la-ldh-d%C3%A9nonce-une-d%C3%A9rive-globale-par-rapport-%C3%A0-l-%C3%A9tat-de-droit-de-la-police",
-      "source": "RFI",
-      "publishedAt": "2026-10-05T20:18:02.000Z",
-      "summary": "À la veille d'une nouvelle journée de mobilisation des lycéens, rejoints par les étudiants et plusieurs syndicats de l'éducation nationale, la Ligue des droits de l'homme (LDH) et plusieurs organisations syndicales ont dénoncé ce lundi 5 octobre des dérives, en particulier lors des interventions des forces de l'ordre. ",
-      "image": "https://s.rfi.fr/media/display/1e0fd608-c0f4-11f1-97cb-dd51fcab6130/w:1024/p:16x9/AP26275493751682.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/blocage-des-lycees-en-france-la-ldh-denonce-une-derive-globale-par-rappo-64df6d036d.html"
-    },
-    {
-      "title": "Brésil : Lula peut-il encore gagner ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261005-br%C3%A9sil-lula-peut-il-encore-gagner",
-      "source": "France 24",
-      "publishedAt": "2026-10-05T18:36:22.000Z",
-      "summary": "Au Brésil, c’est une surprise : Flavio Bolsonaro, ultraconservateur et fils de l’ex-président Jair Bolsonaro, est sorti en tête du premier tour de la présidentielle ce dimanche, avec 47 % des voix contre 45 % pour le président sortant Lula. Le sénateur de 45 ans et le président sortant de 80 ans s’affronteront le 25 oc",
-      "image": "https://s.france24.com/media/display/629cda5a-bfe6-11f1-b662-13420ab900a2/w:1024/p:16x9/000-C9LQ3ZQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-lula-peut-il-encore-gagner-f13e3e3a71.html"
-    },
-    {
-      "title": "Japon: vague d'indignation après l'arrestation d'un marine américain soupçonné de meurtre",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261005-japon-vague-d-indignation-apr%C3%A8s-l-arrestation-d-un-marine-am%C3%A9ricain-soup%C3%A7onn%C3%A9-de-meurtre",
-      "source": "RFI",
-      "publishedAt": "2026-10-05T18:30:12.000Z",
-      "summary": "La colère gronde au Japon après l'arrestation d'un marine américain soupçonné d'avoir tué une Japonaise. Le meurtre est survenu samedi 3 octobre sur l'archipel d'Okinawa, connu pour abriter la plus grande base aérienne américaine en Asie. La Première ministre japonaise Sanae Takaichi a vivement protesté auprès des État",
-      "image": "https://s.rfi.fr/media/display/86f6aec4-c0e2-11f1-aa83-1ff0321dbbd3/w:1024/p:16x9/2026-10-05T102710Z-1583437452-RC2YWNAONB84-RTRMADP-3-JAPAN-CRIME-USA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/japon-vague-d-indignation-apres-l-arrestation-d-un-marine-americain-soup-5ed6dfe43b.html"
-    },
-    {
-      "title": "Le président du Bénin Romuald Wadagni reçu à Paris par son homologue français Emmanuel Macron",
-      "url": "https://www.rfi.fr/fr/afrique/20261005-le-pr%C3%A9sident-du-b%C3%A9nin-romuald-wadagni-re%C3%A7u-%C3%A0-paris-par-son-homologue-fran%C3%A7ais-emmanuel-macron",
-      "source": "RFI",
-      "publishedAt": "2026-10-05T17:55:32.000Z",
-      "summary": "Le président français Emmanuel Macron a reçu son homologue béninois ce 5 octobre 2026 à Paris, dans la première visite officielle de Romuald Wadagni en France. Au cœur des échanges, la coopération bilatérale entre les deux pays.",
-      "image": "https://s.rfi.fr/media/display/52c8ab24-c0bb-11f1-8f45-578a4b968fd6/w:1024/p:16x9/000-D29D4ZQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-president-du-benin-romuald-wadagni-recu-a-paris-par-son-homologue-fra-c651fb4340.html"
-    },
-    {
-      "title": "L'Allemagne pourrait «se retrouver dans un conflit violent avec la Russie», avertit le chef du renseignement",
-      "url": "https://www.rfi.fr/fr/europe/20261005-l-allemagne-pourrait-se-retrouver-dans-un-conflit-violent-avec-la-russie-avertit-le-chef-du-renseignement",
-      "source": "RFI",
-      "publishedAt": "2026-10-05T16:43:22.000Z",
-      "summary": "En Allemagne, le chef des renseignements extérieurs met une nouvelle fois en garde contre la menace russe, lors de son audition annuelle devant le Parlement lundi 5 octobre. Martin Jäger estime que le risque d’une confrontation entre l’Allemagne et la Russie est réel.",
-      "image": "https://s.rfi.fr/media/display/51a39e1a-a91b-11f0-b5cf-005056bfb2b6/w:1024/p:16x9/AP25254442314888.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-allemagne-pourrait-se-retrouver-dans-un-conflit-violent-avec-la-russie-9833e2ed9e.html"
     }
   ]
 }
