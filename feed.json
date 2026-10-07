@@ -1,136 +1,170 @@
 {
-  "updatedAt": "2026-10-07T06:14:42.103Z",
+  "updatedAt": "2026-10-07T13:27:28.645Z",
   "items": [
     {
-      "title": "Une fuite massive « inévitable » : chez Meta, des ingénieurs s’inquiètent de l’IA Muse",
-      "url": "https://www.01net.com/actualites/une-fuite-massive-inevitable-chez-meta-des-ingenieurs-sinquietent-de-lia-muse.html",
-      "source": "01net",
-      "publishedAt": "2026-10-07T06:00:29.000Z",
-      "summary": "Lancé il y a un mois à peine, l'agent personnel de Meta inquiète jusque dans ses propres équipes. Documents internes, failles colmatées dans l'urgence et un pronostic qui glace : la fuite massive de données serait une question de temps.",
-      "image": "https://www.01net.com/app/uploads/2026/10/Canva1920_1280-13-1344x896.jpeg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-fuite-massive-inevitable-chez-meta-des-ingenieurs-s-inquietent-de-l--101ed9585c.html"
-    },
-    {
-      "title": "Streamera ? Streamera pas ? GTA 6 dans le cloud c’est compliqué",
-      "url": "https://www.frandroid.com/produits-android/console/cloud-gaming/3275479_streamera-streamera-pas-gta-6-dans-le-cloud-cest-complique",
+      "title": "Fin des chiffres gonflés : la nouvelle méthode de Segway pour afficher la vraie autonomie de ses trottinettes électriques",
+      "url": "https://www.frandroid.com/marques/3276397_fin-des-chiffres-gonfles-la-nouvelle-methode-de-segway-pour-afficher-la-vraie-autonomie-de-ses-trottinettes-electriques",
       "source": "Frandroid",
-      "publishedAt": "2026-10-07T05:46:34.000Z",
-      "summary": "L’arrivée imminente de GTA&nbsp;6 fait trépigner d’excitation tous les fans, à part celles et ceux qui jouent sur PC, puisqu’ils seront a priori privés du plaisir de jouer. Même en streaming, l’accès s’annonce compliqué.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/08/gta-6-bande-annonce.png?resize=1200,675&key=e0efaa79",
+      "publishedAt": "2026-10-07T13:08:56.000Z",
+      "summary": "Pour ses nouvelles trottinettes électriques ZT3 Max et Max G3 Pro, Segway a appliqué un nouveau protocole qui teste chaque mode de conduite à sa vitesse maximale, jusqu'à ce que la trottinette ne puisse plus tenir 60 % de cette vitesse. Cette méthode se rapproche enfin de la façon dont les trottinettes électriques sont",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/07/segway-f3-e.jpg?resize=1200,675&key=9cd9b209",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/streamera-streamera-pas-gta-6-dans-le-cloud-c-est-complique-d41d1dae23.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fin-des-chiffres-gonfles-la-nouvelle-methode-de-segway-pour-afficher-la--54c3aed699.html"
     },
     {
-      "title": "Comment Verifactu impactera les PME et les travailleurs indépendants espagnols après son report",
-      "url": "https://fr.euronews.com/2026/10/07/comment-verifactu-impactera-les-pme-et-les-travailleurs-independants-espagnols-apres-son-r",
-      "source": "Euronews",
-      "publishedAt": "2026-10-07T06:04:12.000Z",
-      "summary": "Le report par le gouvernement du système de facturation électronique Verifactu laisse plus de temps aux entreprises et indépendants, mais crée une incertitude sur sa mise en œuvre.",
-      "image": "https://images.euronews.com/articles/stories/09/71/21/64/696x392_cmsv2_f9399913-ea53-5019-b4bf-3ca96cf16c40-9712164.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-verifactu-impactera-les-pme-et-les-travailleurs-independants-esp-7a9e5539ba.html"
-    },
-    {
-      "title": "Qualcomm et ARM s’étrillent à nouveau devant la justice : le prix de votre prochain smartphone va-t-il augmenter ?",
-      "url": "https://www.01net.com/actualites/qualcomm-et-arm-setrillent-a-nouveau-devant-la-justice-le-prix-de-votre-prochain-smartphone-va-t-il-augmenter.html",
-      "source": "01net",
-      "publishedAt": "2026-10-07T05:09:07.000Z",
-      "summary": "Cinq jours de procès, des milliards de redevances et deux entreprises dont la technologie équipe l'essentiel des smartphones Android : Qualcomm et ARM déterrent la hache de guerre pour un troisième round devant les tribunaux américains.",
-      "image": "https://www.01net.com/app/uploads/2026/05/Smartphone-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qualcomm-et-arm-s-etrillent-a-nouveau-devant-la-justice-le-prix-de-votre-537cb668e2.html"
-    },
-    {
-      "title": "La mer Caspienne se rétracte depuis des décennies : une nouvelle île émerge",
-      "url": "https://fr.euronews.com/2026/10/07/la-mer-caspienne-se-retracte-depuis-des-decennies-une-nouvelle-ile-emerge",
-      "source": "Euronews",
-      "publishedAt": "2026-10-07T05:02:49.000Z",
-      "summary": "Des scientifiques mettent en garde : certaines zones du nord de la mer Caspienne pourraient connaître un scénario comparable à celui de la mer d'Aral, tandis que le changement climatique et l'utilisation humaine de l'eau accentuent la pression sur la région.",
-      "image": "https://images.euronews.com/articles/stories/09/93/20/83/696x392_cmsv2_464f26c0-ed9b-5d8e-8c50-ac1b90b8c60c-9932083.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-mer-caspienne-se-retracte-depuis-des-decennies-une-nouvelle-ile-emerg-df58730edc.html"
-    },
-    {
-      "title": "«Si tout le monde meurt, tant pis»: la radicalisation des habitants de Sédrot, trois ans après le 7-Octobre",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261007-si-tout-le-monde-meurt-tant-pis-la-radicalisation-des-habitants-de-s%C3%A9drot-trois-ans-apr%C3%A8s-le-7-octobre",
-      "source": "RFI",
-      "publishedAt": "2026-10-07T04:52:57.000Z",
-      "summary": "La ville de Sdérot a été traumatisée par le 7-Octobre. Une soixantaine de combattants du Hamas sont entrés dans la ville et ont tué plus de 70 Israéliens. Une cicatrice encore ouverte trois ans après, qui a radicalisé le paysage politique de la ville, alors que des élections législatives se profilent.",
-      "image": "https://s.rfi.fr/media/display/26f6b0ba-c208-11f1-8bff-0f96b136895a/w:1024/p:16x9/AP25352638449601.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/si-tout-le-monde-meurt-tant-pis-la-radicalisation-des-habitants-de-sedro-2f8da14da5.html"
-    },
-    {
-      "title": "Trois ans après le 7-Octobre, Israël \"face à l'abîme\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261007-trois-ans-apr%C3%A8s-le-7-octobre-isra%C3%ABl-face-%C3%A0-l-ab%C3%AEme",
-      "source": "France 24",
-      "publishedAt": "2026-10-07T04:50:42.000Z",
-      "summary": "A la Une de la presse, ce mercredi 7 octobre, la mobilisation massive, hier, partout en France, des lycéens, rejoints par de nombreux adultes. La présentation par Marine Le Pen de son futur budget si elle est élue à la présidentielle. Les commémorations des attaques du 7-Octobre en Israël. Et une aventure extraordinair",
-      "image": "https://s.france24.com/media/display/bbaa3d62-c212-11f1-8edc-0f96b136895a/w:1024/p:16x9/capture-15827536816ac5dd312e7257-39046407.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trois-ans-apres-le-7-octobre-israel-face-a-l-abime-c4a77fc6dc.html"
-    },
-    {
-      "title": "Essai Hyundai Ioniq 3 : cette citadine à prix d’or cache une excellente surprise à bord",
-      "url": "https://www.01net.com/actualites/essai-hyundai-ioniq-3-citadine-prix-or-cache-excellente-surprise-bord.html",
-      "source": "01net",
-      "publishedAt": "2026-10-07T04:50:00.000Z",
-      "summary": "Inster, Ioniq 5, Ioniq 9… Hyundai cumule en ce moment les bons points côté électrique. Dernière trouvaille de la marque, la Ioniq 3 sera-t-elle une énième pépite ou brisera-t-elle malencontreusement la série ? Direction la région bordelaise pour le vérifier.",
-      "image": "https://www.01net.com/app/uploads/2026/10/hyundai-ioniq-3-26-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/essai-hyundai-ioniq-3-cette-citadine-a-prix-d-or-cache-une-excellente-su-3b2a7717a2.html"
-    },
-    {
-      "title": "Grèce: des manifestants dans le centre d'Athènes pour protester contre la visite de Marco Rubio",
-      "url": "https://www.rfi.fr/fr/europe/20261007-gr%C3%A8ce-des-manifestants-dans-le-centre-d-ath%C3%A8nes-pour-protester-contre-la-visite-de-marco-rubio",
-      "source": "RFI",
-      "publishedAt": "2026-10-07T04:44:18.000Z",
-      "summary": "Le secrétaire d’État américain Marco Rubio est arrivé à Athènes hier pour une visite axée sur les questions énergétiques et de défense. Le gouvernement grec du conservateur Kyriakos Mitsotakis s’est illustré par une collaboration étroite avec l’administration Trump dans plusieurs domaines stratégiques. Au moment où le ",
-      "image": "https://s.rfi.fr/media/display/2ee62372-c209-11f1-8f5e-b942c38e4bd7/w:1024/p:16x9/AP26279616029702.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/grece-des-manifestants-dans-le-centre-d-athenes-pour-protester-contre-la-58c6441379.html"
-    },
-    {
-      "title": "7-Octobre: que savait Benyamin Netanyahu?",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-que-savait-benyamin-netanyahu",
-      "source": "RFI",
-      "publishedAt": "2026-10-07T04:02:44.000Z",
-      "summary": "Trois ans après le drame, les zones d’ombres persistent sur cet événement majeur qui a entraîné la région dans le chaos. Comment en est-on arrivé là et le Premier ministre israélien était-il au courant en amont de l'attaque ?",
-      "image": "https://s.rfi.fr/media/display/064f7e72-80da-11ee-abad-005056bfb2b6/w:1024/p:16x9/AP23306411843646.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/7-octobre-que-savait-benyamin-netanyahu-d3e6210862.html"
-    },
-    {
-      "title": "En direct : Israël commémore les 3 ans des attaques du 7-Octobre",
-      "url": "https://www.france24.com/fr/moyen-orient/20261007-en-direct-yemen-coalition-arabie-saoudite-houthis-israel-7-octobre-iran",
-      "source": "France 24",
-      "publishedAt": "2026-10-07T02:47:51.000Z",
-      "summary": "Israël rend hommage mercredi aux victimes de l'attaque du Hamas il y a trois ans, juste avant des élections marquées par la mémoire du 7 octobre 2023. Des cérémonies sont prévues tout au long de la journée pour commémorer cette attaque sans précédent dans le pays. Suivez notre direct.",
-      "image": "https://s.france24.com/media/display/a377259a-c215-11f1-9cb9-73f176a2394c/w:1024/p:16x9/AP26280168639582.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-israel-commemore-les-3-ans-des-attaques-du-7-octobre-e623d0fa7b.html"
-    },
-    {
-      "title": "Trois ans après, Israël commémore les attaques du 7-Octobre juste avant les élections",
-      "url": "https://www.france24.com/fr/moyen-orient/20261007-trois-ans-apres-israel-commemore-attaques-7-octobre-elections-netanyahu",
-      "source": "France 24",
-      "publishedAt": "2026-10-07T00:51:45.000Z",
-      "summary": "Plusieurs cérémonies sont organisées ce mercredi en Israël, trois ans après les attaques du 7-Octobre. À l'aube, des personnes endeuillées ont observé une minute de silence sur des sites du sud du pays pris d'assaut par le Hamas en 2023. Ces commémorations se déroulent dans un état d'alerte accrue, à trois semaines des",
-      "image": "https://s.france24.com/media/display/b4f06d36-c1e8-11f1-a942-ff8cff4603f0/w:1024/p:16x9/AP26278486794430.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trois-ans-apres-israel-commemore-les-attaques-du-7-octobre-juste-avant-l-a4d155acde.html"
-    },
-    {
-      "title": "Haitï : face à la violence des gangs, les élections présidentielle et législative reportées sine die",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261007-haiti-report-sine-die-ses-elections-presidentielle-legislatives",
-      "source": "France 24",
-      "publishedAt": "2026-10-07T00:22:28.000Z",
-      "summary": "Confrontées à la violence de bandes criminelles partout sur le territoire, les autorités électorales d'Haïti ont annoncé mardi reporter sine die les élections présidentielle et législatives qui auraient dû avoir lieu en décembre.",
-      "image": "https://s.france24.com/media/display/0cfb6390-c1e5-11f1-9b8e-0f96b136895a/w:1024/p:16x9/2026-09-29T174335Z-1383141441-RC25BNAS7IYK-RTRMADP-3-HAITI-VIOLENCE-UN.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/haiti-face-a-la-violence-des-gangs-les-elections-presidentielle-et-legis-ab581d2a62.html"
-    },
-    {
-      "title": "HUAWEI WATCH D3 : cette montre connectée prend vraiment votre tension, mais pas que [Sponso]",
-      "url": "https://www.frandroid.com/marques/huawei/3259893_huawei-watch-d3-cette-montre-connectee-prend-vraiment-votre-tension-mais-pas-que",
+      "title": "Test du Samsung Galaxy S26 FE : un Galaxy S25 FE plus cher pour un poil plus de puissance",
+      "url": "https://www.frandroid.com/marques/samsung/3247257_test-samsung-galaxy-s26-fe-un-galaxy-s26-light-qui-en-donne-beaucoup-pour-son-prix",
       "source": "Frandroid",
-      "publishedAt": "2026-10-07T05:18:00.000Z",
-      "summary": "Huawei renouvelle sa montre santé avec la WATCH D3, plus fine, plus lumineuse et plus complète pour la prise de tension. Elle est arrivée en France le mardi 29 septembre, à 449,99 euros.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/huawei-watch-d3-une.png?resize=1200,675&key=355726c4",
+      "publishedAt": "2026-10-07T12:44:20.000Z",
+      "summary": "Avec son processeur Exynos 2500, son écran OLED de 6,7 pouces et un téléobjectif 3x, le Galaxy S26 FE n'a pas grand-chose à envier à son grand frère, le Galaxy S26+. D'autant que son prix est nettement inférieur.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/samsung-galaxy-s26-fe.jpg?resize=1200,675&key=adedc288",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/huawei-watch-d3-cette-montre-connectee-prend-vraiment-votre-tension-mais-418ed80674.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/test-du-samsung-galaxy-s26-fe-un-galaxy-s25-fe-plus-cher-pour-un-poil-pl-a7f4ed8b24.html"
+    },
+    {
+      "title": "Donald Trump se moque de la présidente mexicaine concernant le golfe du Mexique",
+      "url": "https://fr.euronews.com/2026/10/07/donald-trump-se-moque-de-la-presidente-mexicaine-concernant-le-golfe-du-mexique",
+      "source": "Euronews",
+      "publishedAt": "2026-10-07T12:35:01.000Z",
+      "summary": "Le président américain affirme que la présidente mexicaine l'a appelé pour lui demander de ne pas rebaptiser le golfe du Mexique en \"golfe d'Amérique\", comme l'a décidé le président américain.",
+      "image": "https://images.euronews.com/articles/stories/09/94/22/07/696x392_cmsv2_cf065177-75ec-5dcc-a4b9-d2593f6174e8-9942207.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-se-moque-de-la-presidente-mexicaine-concernant-le-golfe-du--0a298b7cff.html"
+    },
+    {
+      "title": "Turquie: le maire d'Izmir quitte l'opposition pour rejoindre le parti du président Erdogan",
+      "url": "https://www.rfi.fr/fr/europe/20261007-turquie-le-maire-d-izmir-quitte-l-opposition-pour-rejoindre-le-parti-du-pr%C3%A9sident-erdogan",
+      "source": "RFI",
+      "publishedAt": "2026-10-07T11:53:20.000Z",
+      "summary": "En Turquie, l’opposition perd peu à peu le contrôle de ses bastions municipaux. Dernier symbole en date, et non des moindres : Izmir, longtemps considérée comme la citadelle de l’opposition à Recep Tayyip Erdogan. Son maire a rejoint ce mercredi 7 octobre le parti présidentiel, l’AKP. Depuis les municipales de 2024, le",
+      "image": "https://s.rfi.fr/media/display/9c6da888-c241-11f1-855b-73f176a2394c/w:1024/p:16x9/2026-10-07T103335Z-2018800050-RC2AYNA5CE62-RTRMADP-3-TURKEY-OPPOSITION-ERDOGAN.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/turquie-le-maire-d-izmir-quitte-l-opposition-pour-rejoindre-le-parti-du--887138c119.html"
+    },
+    {
+      "title": "Brésil: pourquoi la poussée bolsonariste au Sénat va façonner la prochaine présidence",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261007-br%C3%A9sil-pourquoi-la-pouss%C3%A9e-bolsonariste-au-s%C3%A9nat-va-fa%C3%A7onner-la-prochaine-pr%C3%A9sidence",
+      "source": "RFI",
+      "publishedAt": "2026-10-07T11:49:36.000Z",
+      "summary": "Outre les résultats impressionnants au premier tour de l’élection présidentielle brésilienne du candidat d’extrême droite, Flavio Bolsonaro, son parti s’assure une place de choix au Sénat. Cette mainmise sur la Chambre haute du Parlement offrirait aux bolsonaristes les moyens de leurs ambitions.",
+      "image": "https://s.rfi.fr/media/display/6e252e00-be87-11f1-b0fb-13e372f41e70/w:1024/p:16x9/AP26250684115017.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-pourquoi-la-poussee-bolsonariste-au-senat-va-faconner-la-prochain-5b2ab27af4.html"
+    },
+    {
+      "title": "France : la jeunesse au pied du mur de la dette",
+      "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261007-france-la-jeunesse-au-pied-du-mur-de-la-dette",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T11:32:45.000Z",
+      "summary": "Le gouvernement peine à trouver une issue à la crise qui secoue la jeunesse française. Faute de moyens budgétaires, comment venir à bout des blocages de lycées ? On va plus loin avec Richard Werly et Antoine Mariotti.",
+      "image": "https://s.france24.com/media/display/7d2e7232-c1be-11f1-b2f4-0f96b136895a/w:1024/p:16x9/FRAN261006-2030-Live-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-la-jeunesse-au-pied-du-mur-de-la-dette-908b46d8b8.html"
+    },
+    {
+      "title": "Mouvement lycéen : le gouvernement dans l'impasse",
+      "url": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20261007-mouvement-lyc%C3%A9en-le-gouvernement-dans-l-impasse",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T11:15:04.000Z",
+      "summary": "Mardi, \"l'acte III\" du mouvement lycéen a rassemblé plus de 260 000 personnes en France selon le ministère de l'Intérieur. Face à une mobilisation qui ne semble pas faiblir et face aux accusations de violences policières, le Premier ministre tente de reprendre la main. Il s'exprimera ce mercredi soir sur les lycées, la",
+      "image": "https://s.france24.com/media/display/517334a0-c238-11f1-a400-b942c38e4bd7/w:1024/p:16x9/capture-6218950026ac61c40269076-85580126.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mouvement-lyceen-le-gouvernement-dans-l-impasse-251cac2f13.html"
+    },
+    {
+      "title": "Parti d’Activision sur fond de scandales, Bobby Kotick hérite du comité de gouvernance de Skydance",
+      "url": "https://www.frandroid.com/culture-tech/3276055_parti-dactivision-sur-fond-de-scandales-bobby-kotick-herite-du-comite-de-gouvernance-de-skydance",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-07T10:50:43.000Z",
+      "summary": "Bobby Kotick, l'ancien patron d'Activision Blizzard parti en 2023 après des années de scandales, entre au conseil d'administration de Skydance, le groupe né ce mardi 6 octobre de la fusion entre Paramount et Warner Bros. Discovery. Il siégera à côté de ceux qui ont financé le rachat, la famille Ellison et le fonds RedB",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2022/01/bobby-kotick.jpg?resize=1200,675&key=23296e82",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/parti-d-activision-sur-fond-de-scandales-bobby-kotick-herite-du-comite-d-dc02eb8fde.html"
+    },
+    {
+      "title": "Les Houthis visent Riyad et l’aéroport d’Aden au Yémen",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-les-houthis-visent-riyad-et-l-a%C3%A9roport-d-aden-au-y%C3%A9men",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T10:39:46.000Z",
+      "summary": "La coalition dirigée par l’Arabie saoudite annonce avoir intercepté un missile houthi au nord de Riyad, après un autre tir visant Khamis Mushait. Au Yémen, l’aéroport d’Aden a également été attaqué par des missiles et des drones, selon les autorités gouvernementales. Une escalade des tensions dans la région racontée pa",
+      "image": "https://s.france24.com/media/display/b89e1b22-c238-11f1-a5cd-0f96b136895a/w:1024/p:16x9/FR-20261007-110647-110811-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-houthis-visent-riyad-et-l-aeroport-d-aden-au-yemen-f3e808484f.html"
+    },
+    {
+      "title": "Ronaldo s’excuse et ouvre la porte à un retour en sélection portugaise",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-ronaldo-s-excuse-et-ouvre-la-porte-%C3%A0-un-retour-en-s%C3%A9lection-portugaise",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T10:35:55.000Z",
+      "summary": "Après avoir quitté le rassemblement du Portugal sur fond de désaccord avec le sélectionneur Jorge Jesus, Cristiano Ronaldo présente ses excuses aux supporters et à ses coéquipiers. Le capitaine se dit disponible pour retrouver la sélection, sous réserve de sa condition physique et après avoir purgé une éventuelle suspe",
+      "image": "https://s.france24.com/media/display/9eef343e-c23a-11f1-967f-13e372f41e70/w:1024/p:16x9/AP26272820459315.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ronaldo-s-excuse-et-ouvre-la-porte-a-un-retour-en-selection-portugaise-49c1a5ee08.html"
+    },
+    {
+      "title": "La colère lycéenne persiste malgré le dialogue proposé par Lecornu",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-la-col%C3%A8re-lyc%C3%A9enne-persiste-malgr%C3%A9-le-dialogue-propos%C3%A9-par-lecornu",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T10:32:56.000Z",
+      "summary": "Alors que les blocages se poursuivent, le gouvernement souhaite organiser des temps de dialogue avec les lycéens. Des chefs d’établissement jugent toutefois la mesure difficile à mettre en œuvre sans un climat serein et des conditions de sécurité réunies. À Aubervilliers, notre journaliste Karim Yahiaoui est auprès des",
+      "image": "https://s.france24.com/media/display/337eda30-c238-11f1-823c-b942c38e4bd7/w:1024/p:16x9/FR-20261007-110059-110343-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-colere-lyceenne-persiste-malgre-le-dialogue-propose-par-lecornu-8d69c217ad.html"
+    },
+    {
+      "title": "7-Octobre: trois ans de traumatismes accumulés pour les familles de Gaza",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261007-7-octobre-trois-ans-de-traumatismes-accumul%C3%A9s-pour-les-familles-de-gaza",
+      "source": "RFI",
+      "publishedAt": "2026-10-07T10:15:31.000Z",
+      "summary": "Le 7 octobre 2023, Israël déclare l’état de guerre et lance des frappes militaires sur la bande de Gaza. Une campagne de bombardements intensifs qui visent officiellement le Hamas et qui se poursuit malgré un cessez-le-feu proclamé l'an dernier. Dans un territoire si densément peuplé et surtout sous blocus depuis 2007,",
+      "image": "https://s.rfi.fr/media/display/2e9e340e-c236-11f1-83af-b942c38e4bd7/w:1024/p:16x9/AP26279574766504.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/7-octobre-trois-ans-de-traumatismes-accumules-pour-les-familles-de-gaza-abf4d2c386.html"
+    },
+    {
+      "title": "Le TAS va-t-il enfin désigner le vainqueur de la CAN 2025 entre le Maroc et Sénégal ?",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261007-le-tas-va-t-il-enfin-d%C3%A9signer-le-vainqueur-de-la-can-2025-entre-le-maroc-et-s%C3%A9n%C3%A9gal",
+      "source": "RFI",
+      "publishedAt": "2026-10-07T10:10:51.000Z",
+      "summary": "Pour la première fois de son histoire, le Tribunal arbitral du sport doit trancher l’issue d’une Coupe d’Afrique des nations. À Lausanne, le Maroc et le Sénégal rejouent la finale sur le terrain du droit, après le forfait infligé aux Lions par la CAF et l'attribution de la Coupe aux Lions de l'Atlas. Trois issues sont ",
+      "image": "https://s.rfi.fr/media/display/0b42ab5e-c194-11f1-91c8-ff8cff4603f0/w:1024/p:16x9/000-936L4WH.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-tas-va-t-il-enfin-designer-le-vainqueur-de-la-can-2025-entre-le-maroc-b1824b40d2.html"
+    },
+    {
+      "title": "Maroc - Sénégal en finale de la CAN 2025 : à qui le TAS va-t-il attribuer le trophée ?",
+      "url": "https://www.france24.com/fr/sports/20261007-finale-can-2025-maroc-senegal-audience-tas",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T10:07:38.000Z",
+      "summary": "Près de neuf mois après la finale chaotique de la CAN 2025, le Maroc et le Sénégal se retrouvent, jeudi, devant le Tribunal arbitral du sport à Lausanne, en Suisse. Les deux nations se disputent le titre de champion d'Afrique, remporté par les Sénégalais sur le terrain mais attribué aux Marocains sur tapis vert. Découv",
+      "image": "https://s.france24.com/media/display/928b15e2-c234-11f1-835a-ff8cff4603f0/w:1024/p:16x9/Senegal-Maroc-audience-TAS-can-2025.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maroc-senegal-en-finale-de-la-can-2025-a-qui-le-tas-va-t-il-attribuer-le-d328f35770.html"
+    },
+    {
+      "title": "Une enquête fait état de violences sexuelles \"systématiques\" commises par le Hamas",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-une-enqu%C3%AAte-fait-%C3%A9tat-de-violences-sexuelles-syst%C3%A9matiques-commises-par-le-hamas",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T10:04:04.000Z",
+      "summary": "Des viols et des violences sexuelles \"systématiques\", selon un rapport de la Commission civile israélienne. Invitée en plateau, Céline Bardet, juriste et enquêtrice internationale, revient sur les investigations concernant les crimes commis lors des attaques du 7-Octobre.",
+      "image": "https://s.france24.com/media/display/fd95e5c8-c235-11f1-a906-13e372f41e70/w:1024/p:16x9/AP26280306328652.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-enquete-fait-etat-de-violences-sexuelles-systematiques-commises-par--d01f1aeb4b.html"
+    },
+    {
+      "title": "Netanyahu avait-il été alerté avant les attaques du 7-Octobre ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-netanyahu-avait-il-%C3%A9t%C3%A9-alert%C3%A9-avant-les-attaques-du-7-octobre",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T09:57:07.000Z",
+      "summary": "À l’approche des législatives en Israël, les avertissements reçus avant les attaques du 7-Octobre placent la responsabilité de Benjamin Netanyahu au cœur du débat électoral. Des enquêtes journalistiques font état d’alertes adressées au Premier ministre, qui conteste ces révélations. Ces mises en garde ne précisaient to",
+      "image": "https://s.france24.com/media/display/98adc3c4-c235-11f1-a606-73f176a2394c/w:1024/p:16x9/capture-21367569276ac617af3b85c0-81075590.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/netanyahu-avait-il-ete-alerte-avant-les-attaques-du-7-octobre-f27a230271.html"
+    },
+    {
+      "title": "Que reste-t-il du Hamas trois ans après le 7-Octobre ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261007-que-reste-t-il-du-hamas-trois-ans-apr%C3%A8s-le-7-octobre",
+      "source": "France 24",
+      "publishedAt": "2026-10-07T09:53:00.000Z",
+      "summary": "Éliminer le Hamas était l’un des objectifs de guerre affichés par Israël après les attaques du 7-Octobre. Trois ans plus tard, le mouvement est fortement affaibli, mais conserve des combattants et une emprise sur une partie de Gaza. Retour sur les objectifs du Hamas lors des attaques et sur la place qu’il pourrait occu",
+      "image": "https://s.france24.com/media/display/82a1b2da-c234-11f1-88f8-0f96b136895a/w:1024/p:16x9/AP26279585707613.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/que-reste-t-il-du-hamas-trois-ans-apres-le-7-octobre-4a8f27e5a9.html"
+    },
+    {
+      "title": "Afrique du Sud: un ancien policier de l'apartheid, condamné pour meurtre, candidat à la mairie de Nelson Mandela Bay",
+      "url": "https://www.rfi.fr/fr/afrique/20261007-afrique-du-sud-un-ancien-policier-de-l-apartheid-condamn%C3%A9-pour-meurtre-candidat-%C3%A0-la-mairie-de-nelson-mandela-bay",
+      "source": "RFI",
+      "publishedAt": "2026-10-07T09:29:56.000Z",
+      "summary": "À l'approche des élections municipales de novembre en Afrique du Sud, une candidature crée la polémique. Bill Harington, ancien policier du temps de l'apartheid, emprisonné près de quatorze ans pour avoir commandité le meurtre d'un jeune militant de l'ANC dans les années 1990, se présente à la mairie de Nelson Mandela ",
+      "image": "https://s.rfi.fr/media/display/cd124734-c230-11f1-8ad9-13e372f41e70/w:1024/p:16x9/Port-Elizabeth-City-Hall-front-facade.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-un-ancien-policier-de-l-apartheid-condamne-pour-meurtre-c-8e2b583fcf.html"
     }
   ]
 }
