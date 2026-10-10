@@ -1,25 +1,87 @@
 {
-  "updatedAt": "2026-10-09T20:05:42.062Z",
+  "updatedAt": "2026-10-10T00:00:46.541Z",
   "items": [
-    {
-      "title": "J’ai testé le TV Sony Bravia 3 II de 65 pouces : le traitement d’image Sony et l’antireflet à le prix doux",
-      "url": "https://www.frandroid.com/marques/sony/3276429_jai-teste-le-tv-sony-bravia-3-ii-de-65-pouces-le-traitement-dimage-sony-et-lantireflet-a-le-prix-doux",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-09T17:09:00.000Z",
-      "summary": "Le Bravia 3 II est un téléviseur LCD LED qui embarque le processeur XR de Sony, une dalle 120 Hz, un traitement antireflet sur certaines diagonales et quatre vraies entrées HDMI 2.1, à un prix de milieu de gamme. Voici notre test complet.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/sony-bravia-3-ii-test-intro.jpg?resize=1200,675&key=5dc3cdce",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-teste-le-tv-sony-bravia-3-ii-de-65-pouces-le-traitement-d-image-son-4be01477ef.html"
-    },
     {
       "title": "Test du Xiaomi 18 Fold : le rival du Galaxy Z Fold 8 qui devance l’iPhone Duo",
       "url": "https://www.frandroid.com/marques/xiaomi/3275463_test-xiaomi-18-fold-le-rival-du-galaxy-z-fold-8-qui-devance-liphone-duo",
       "source": "Frandroid",
-      "publishedAt": "2026-10-09T17:07:23.000Z",
+      "publishedAt": "2026-10-09T21:50:00.000Z",
       "summary": "Le Xiaomi 18 Fold reprend le gabarit de l'iPhone Duo au millimètre près, avec 35 grammes de moins et une batterie de 6 000 mAh. Je l'utilise au quotidien en France, alors qu'il n'est vendu qu'en Chine. Le format m'a convaincu. La partie logicielle demande encore du travail.",
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/dsc03614.jpg?resize=1200,675&key=a6bda3e2",
       "category": "IA & Tech",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/test-du-xiaomi-18-fold-le-rival-du-galaxy-z-fold-8-qui-devance-l-iphone--9fe268f27c.html"
+    },
+    {
+      "title": "Hongrie: face à la lenteur des enquêtes anti-corruption, les citoyens s'impatientent",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261009-hongrie-face-%C3%A0-la-lenteur-des-enqu%C3%AAtes-anti-corruption-les-citoyens-s-impatientent",
+      "source": "RFI",
+      "publishedAt": "2026-10-09T23:08:47.000Z",
+      "summary": "La Hongrie est, avec la Bulgarie, le pays le plus mal classé de l'Union européenne par l'ONG Transparency International. Après 16 ans de gouvernement de Viktor Orban, le pays est passé de la 50e à la 84e place. Il faut dire que la famille et les hommes d'affaires proches de Viktor Orban ont accumulé une immense fortune",
+      "image": "https://s.rfi.fr/media/display/89b65642-c41a-11f1-81e0-3774aeac812a/w:1024/p:16x9/Les-rives-du-Danube-au-centre-de-Budapest-en-Hongrie-le-2-juillet-2023.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/hongrie-face-a-la-lenteur-des-enquetes-anti-corruption-les-citoyens-s-im-85309544ad.html"
+    },
+    {
+      "title": "Bruxelles : la marche contre l’austérité dégénère en affrontements violents",
+      "url": "https://fr.euronews.com/video/2026/10/10/bruxelles-affrontements-entre-police-et-manifestants-lors-dune-marche-contre-les-coupes",
+      "source": "Euronews",
+      "publishedAt": "2026-10-09T22:29:09.000Z",
+      "summary": "Des affrontements violents ont éclaté à Bruxelles entre certains manifestants et les forces de l’ordre, en marge d’un rassemblement contre les coupes budgétaires du gouvernement. La police fait état de 30 000 participants et de plus de 100 interpellations.",
+      "image": "https://images.euronews.com/articles/stories/09/94/66/12/696x392_cmsv2_78ba201c-ea81-55ff-9fa7-c12a3f954f6a-9946612.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bruxelles-la-marche-contre-l-austerite-degenere-en-affrontements-violent-8530ec24e4.html"
+    },
+    {
+      "title": "Belgique: fronde des brasseurs contre le nouveau message de prévention sur l'alcool",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261009-belgique-fronde-des-brasseurs-contre-le-nouveau-message-de-pr%C3%A9vention-sur-l-alcool",
+      "source": "RFI",
+      "publishedAt": "2026-10-09T22:25:05.000Z",
+      "summary": "En Belgique, le gouvernement s'apprête à mettre en place un arrêté pour remplacer sur les publicités la mention « l'abus d'alcool nuit à la santé » par « l'alcool nuit à la santé ». Cet avertissement sanitaire rejoint les recommandations de l'Organisation mondiale de la santé (OMS), selon laquelle il n'y a pas de conso",
+      "image": "https://s.rfi.fr/media/display/423aa208-c412-11f1-b531-77317c09f325/w:1024/p:16x9/Cette-photographie-a%C3%A9rienne-montre-une-vue-de-la-brasserie-belge-Alken-Maes-%C3%A0-Alken-le-16-janvier-2026.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/belgique-fronde-des-brasseurs-contre-le-nouveau-message-de-prevention-su-c9963c3b2b.html"
+    },
+    {
+      "title": "En France, la difficile couverture médiatique des manifestations de lycéens",
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20261009-en-france-la-difficile-couverture-m%C3%A9diatique-des-manifestations-de-lyc%C3%A9ens",
+      "source": "RFI",
+      "publishedAt": "2026-10-09T22:15:49.000Z",
+      "summary": "Quelques semaines après les premières manifestations devant les établissements, retour sur la mobilisation lycéenne en France et la difficulté de sa couverture médiatique.",
+      "image": "https://s.rfi.fr/media/display/1a8b0e76-c41e-11f1-bab7-77317c09f325/w:1024/p:16x9/Des-%C3%A9l%C3%A8ves-se-tiennent-devant-un-lyc%C3%A9e-bloqu%C3%A9-alors-qu-ils-manifestent-contre-le-manque-de-moyens-dans-les-%C3%A9tablissements-scolaires-%C3%A0-Paris-ce-mercredi-7-octobre-2026.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-france-la-difficile-couverture-mediatique-des-manifestations-de-lycee-76a91b6347.html"
+    },
+    {
+      "title": "«Elle a uni l'Espagne»: l'hommage de Barcelone à Maricarmen, la retraitée symbole de la crise du logement",
+      "url": "https://www.rfi.fr/fr/europe/20261009-elle-a-uni-l-espagne-l-hommage-de-barcelone-%C3%A0-maricarmen-la-retrait%C3%A9e-symbole-de-la-crise-du-logement",
+      "source": "RFI",
+      "publishedAt": "2026-10-09T21:23:49.000Z",
+      "summary": "Une manifestation s'est tenue, vendredi 9 octobre au soir à Barcelone, en hommage à Maricarmen Abascal, la retraitée madrilène dont l'expulsion de son logement avait provoqué une vague d'indignation en Espagne. Pour les manifestants, les lobbies immobiliers portent la responsabilité de la mort de celle qui était devenu",
+      "image": "https://s.rfi.fr/media/display/edd589c6-c420-11f1-bf72-3774aeac812a/w:1024/p:16x9/2026-10-09T190820Z-354321408-RC2UZNA9HK2U-RTRMADP-3-SPAIN-HOUSING-MARICARMEN-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elle-a-uni-l-espagne-l-hommage-de-barcelone-a-maricarmen-la-retraitee-sy-c4423cc0c7.html"
+    },
+    {
+      "title": "Pologne: après deux attaques au couteau dans des écoles, les autorités appellent au calme",
+      "url": "https://www.rfi.fr/fr/europe/20261009-pologne-apr%C3%A8s-deux-attaques-au-couteau-dans-des-%C3%A9coles-les-autorit%C3%A9s-appellent-au-calme",
+      "source": "RFI",
+      "publishedAt": "2026-10-09T21:09:01.000Z",
+      "summary": "Deux attaques au couteau ont été perpétrées par des élèves et ont fait un mort et douze blessés dans deux écoles de Pologne, mercredi 7 et jeudi 8 octobre. Après ces événements, la police a visité près de 15 000 écoles vendredi 9 octobre et arrêté 19 élèves munis d'objets potentiellement dangereux ou menaçant de passer",
+      "image": "https://s.rfi.fr/media/display/c1420068-c422-11f1-8f5a-77317c09f325/w:1024/p:16x9/POLOGNE-ATTAQUES-COUTEAU-ECOLES.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pologne-apres-deux-attaques-au-couteau-dans-des-ecoles-les-autorites-app-515222f70a.html"
+    },
+    {
+      "title": "L'ancien président congolais Joseph Kabila s'attaque au bilan de Tshisekedi",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261009-l-ancien-pr%C3%A9sident-congolais-joseph-kabila-s-attaque-au-bilan-de-tshisekedi",
+      "source": "France 24",
+      "publishedAt": "2026-10-09T20:49:27.000Z",
+      "summary": "L'ancien président de la République démocratique du Congo s'est exprimé ce vendredi. Une allocation dans laquelle il n'épargne pas son successeur Félix Tshisekedi.",
+      "image": "https://s.france24.com/media/display/01c88084-c41f-11f1-88c4-29a2e29ae696/w:1024/p:16x9/DN197476-A-01-20261005-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ancien-president-congolais-joseph-kabila-s-attaque-au-bilan-de-tshisek-d756d2f3b3.html"
+    },
+    {
+      "title": "«La situation de la RDC n'a cessé d'empirer»: l'ancien président Joseph Kabila tance Félix Tshisekedi",
+      "url": "https://www.rfi.fr/fr/afrique/20261009-la-situation-de-la-rdc-n-a-cess%C3%A9-d-empirer-l-ancien-pr%C3%A9sident-joseph-kabila-tance-f%C3%A9lix-tshisekedi",
+      "source": "RFI",
+      "publishedAt": "2026-10-09T20:02:02.000Z",
+      "summary": "L'ancien président congolais, Joseph Kabila, s'est adressé à la nation, vendredi 9 octobre en fin d'après-midi – sa deuxième allocution depuis son départ du pays. Et il a de nouveau livré un réquisitoire sévère contre son successeur. Joseph Kabila accuse Félix Tshisekedi d'avoir conduit la RDC vers une crise politique,",
+      "image": "https://s.rfi.fr/media/display/40bd4052-c41c-11f1-9030-29a2e29ae696/w:1024/p:16x9/RDC-POLITIQUE-KABILA-JOSEPH.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-situation-de-la-rdc-n-a-cesse-d-empirer-l-ancien-president-joseph-kab-bd868bcd39.html"
     },
     {
       "title": "Pressions américaines dans une conférence européenne sur la désinformation ?",
@@ -35,7 +97,7 @@
       "url": "https://www.france24.com/fr/am%C3%A9riques/20261009-trump-annonce-accord-avec-poutine-pour-des-livraisons-massives-diesel-%C3%A9tats-unis-russie",
       "source": "France 24",
       "publishedAt": "2026-10-09T19:53:32.000Z",
-      "summary": "Donald Trump a annoncé vendredi que son homologue russe Vladimir Poutine s'était engagé à fournir plusieurs millions de tonnes de diesel \"pour le marché américain et mondial\", sur plusieurs mois, espérant ainsi endiguer la hausse des prix du carburant à l'approche des élections de mi-mandat aux États-Unis, créant ainsi",
+      "summary": "Donald Trump a annoncé vendredi que Vladimir Poutine s'était engagé à fournir plusieurs millions de tonnes de diesel \"pour le marché américain et mondial\", sur plusieurs mois. Le président américain espère ainsi endiguer la hausse des prix du carburant à l'approche des élections de mi-mandat, mais crée une brèche dans ",
       "image": "https://s.france24.com/media/display/12b624b2-c417-11f1-bda1-e362370cce2e/w:1024/p:16x9/000-C4EQ663-1.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-annonce-un-accord-avec-poutine-pour-des-livraisons-massives-de-die-0f7462bdc1.html"
     },
@@ -56,115 +118,6 @@
       "summary": "Le prix Nobel de la paix a récompensé vendredi la juriste Navi Pillay, octogénaire sud-africaine qui a lancé un plaidoyer pour le droit international attaqué de toutes parts, y compris le même jour par l'administration de Donald Trump.",
       "image": "https://s.france24.com/media/display/8de5b158-c40c-11f1-8abc-77317c09f325/w:1024/p:16x9/2026-10-09T091256Z-2108488287-RC2LZNANWBG4-RTRMADP-3-NOBEL-PRIZE-PEACE.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-nobel-de-la-paix-a-la-navi-pillay-une-vie-de-combat-contre-les-atroci-6117094639.html"
-    },
-    {
-      "title": "Ce que l’on sait des pressions américaines sur une conférence européenne contre la désinformation",
-      "url": "https://www.france24.com/fr/europe/20261009-ce-que-l-on-sait-pressions-%C3%A9tats-unis-sur-conf%C3%A9rence-europ%C3%A9enne-contre-d%C3%A9sinformation",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T17:47:24.000Z",
-      "summary": "Le Service européen pour l'action extérieure, le Canada et le ministère des Affaires étrangères de la Lituanie ont retiré leur soutien à une conférence sur la lutte contre la désinformation, Disinfo 2026, qui se tenait à Vilnius, en Lituanie, les 7 et 8 octobre. Plusieurs sources pointent une pression de la part des Ét",
-      "image": "https://s.france24.com/media/display/6cb52dda-c405-11f1-a163-29a2e29ae696/w:1024/p:16x9/image2-145.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-que-l-on-sait-des-pressions-americaines-sur-une-conference-europeenne-7b433e9655.html"
-    },
-    {
-      "title": "David Clarinval : \"La Belgique veut une ligne pragmatique entre protectionnisme et libéralisme naïf\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261009-david-clarinval-la-belgique-veut-une-ligne-pragmatique-entre-protectionnisme-et-lib%C3%A9ralisme-na%C3%AFf",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T17:46:51.000Z",
-      "summary": "Cette semaine, nous recevons David Clarinval, Vice-premier ministre et ministre belge de l'Emploi, de l'Économie et de l'Agriculture. Il commente la position de son pays en termes de concurrence commerciale ou de participation au prochain budget de l'Union européenne (UE).",
-      "image": "https://s.france24.com/media/display/26697852-c3cb-11f1-8ba4-27c2853ad5a5/w:1024/p:16x9/Clarinval.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/david-clarinval-la-belgique-veut-une-ligne-pragmatique-entre-protectionn-112f1e4f7f.html"
-    },
-    {
-      "title": "Étude du budget 2027 à l'Assemblée nationale : le Premier ministre appelle au patriotisme",
-      "url": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261009-%C3%A9tude-du-budget-2027-%C3%A0-l-assembl%C3%A9e-nationale-le-premier-ministre-appelle-au-patriotisme",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T17:00:42.000Z",
-      "summary": "C'est le début d'un marathon parlementaire. Quelques jours après sa présentation en Conseil des ministres, le projet de loi de finances 2027 va être examiné par l'Assemblée nationale mi-octobre. Ce texte est élaboré par le Premier ministre Sébastien Lecornu, qui doit composer avec des déficits qui dérapent, une dette q",
-      "image": "https://s.france24.com/media/display/aa144884-c3fe-11f1-a0f1-29a2e29ae696/w:1024/p:16x9/FRA-NEWS-09-10-2026-15-59-ING09-PGM-N2.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etude-du-budget-2027-a-l-assemblee-nationale-le-premier-ministre-appelle-de064ad85f.html"
-    },
-    {
-      "title": "Affaire Epstein : tout comprendre du scandale qui a ébranlé l'élite mondiale",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261009-affaire-epstein-tout-comprendre-du-scandale-qui-a-%C3%A9branl%C3%A9-l-%C3%A9lite-mondiale",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T16:59:33.000Z",
-      "summary": "Le 30 janvier 2026, le département de la Justice américain publiait 3 millions de documents: photos, vidéos, e-mails, SMS, documents judiciaires… Tous liés à un homme : Jeffrey Epstein. Depuis, des médias à travers le monde ont enquêté sur les Epstein files et révélé l’ampleur du réseau et des personnalités qui le comp",
-      "image": "https://s.france24.com/media/display/baf9812e-c402-11f1-a9f2-53993c5f1f18/w:1024/p:16x9/YT-canva-1-6.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/affaire-epstein-tout-comprendre-du-scandale-qui-a-ebranle-l-elite-mondia-80979aaa29.html"
-    },
-    {
-      "title": "Mali: à Kidal, les soldats sont plus nombreux que les habitants",
-      "url": "https://www.rfi.fr/fr/afrique/20261009-mali-%C3%A0-kidal-les-soldats-sont-plus-nombreux-que-les-habitants",
-      "source": "RFI",
-      "publishedAt": "2026-10-09T16:57:25.000Z",
-      "summary": "Trois jours après leur retour à Kidal, les soldats maliens et leurs partenaires russes de l'Africa Corps sécurisent la ville et ses alentours. L'armée mène quotidiennement des frappes aériennes dans la région mais n'a pas encore poursuivi sa progression au sol. Les indépendantistes du Front de libération de l'Azawad (F",
-      "image": "https://s.rfi.fr/media/display/57b40660-5faf-11eb-9c82-005056a98db9/w:1024/p:16x9/000_8RG2RJ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-a-kidal-les-soldats-sont-plus-nombreux-que-les-habitants-92e70283ce.html"
-    },
-    {
-      "title": "Blocus lycéens : en marge des images de violence policière, des contenus trompeurs générés par IA",
-      "url": "https://www.france24.com/fr/france/20261009-france-blocus-lyc%C3%A9ens-violence-polici%C3%A8re-contenus-trompeurs-g%C3%A9n%C3%A9r%C3%A9s-par-ia",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T16:21:17.000Z",
-      "summary": "Si de nombreuses images vérifiées attestent de violences policières lors des manifestations lycéennes en France, une vidéo d'un jeune homme frappé au visage devenue virale ces derniers jours a en réalité été générée par IA. L’image d’une policière frappée à la tête par un lycéen est également fausse.",
-      "image": "https://s.france24.com/media/display/7ef955b4-c3f8-11f1-89ec-e362370cce2e/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-16-2.png",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/blocus-lyceens-en-marge-des-images-de-violence-policiere-des-contenus-tr-8b07b9435e.html"
-    },
-    {
-      "title": "Exécution en direct aux États-Unis : quand Pete Hegseth s'inspire de l'Iran et de la Corée du Nord",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261009-ex%C3%A9cution-en-direct-pete-hegseth-%C3%A9tats-unisnidal-malik-hasan-fort-hood-inspire-de-l-iran-et-de-la-cor%C3%A9e-du-nord",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T16:20:50.000Z",
-      "summary": "Le ministre américain de la Défense, Pete Hegseth, a annoncé vendredi vouloir diffuser en direct l’exécution de Nidal Malik Hasan, l’auteur de la fusillade sur la base militaire de Fort Hood en 2009. Une décision critiquée de toutes parts aux États-Unis, même parmi les républicains, mais qui cadre avec la stratégie pol",
-      "image": "https://s.france24.com/media/display/7e64c41e-c3f6-11f1-af52-e362370cce2e/w:1024/p:16x9/HegsethLive2.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/execution-en-direct-aux-etats-unis-quand-pete-hegseth-s-inspire-de-l-ira-040951a827.html"
-    },
-    {
-      "title": "Navi Pillay prix Nobel de la paix 2026 : paix et droit international à l'honneur",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261009-navi-pillay-prix-nobel-de-la-paix-2026-paix-et-droit-international-%C3%A0-l-honneur",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T16:03:04.000Z",
-      "summary": "Cannelle Lavite, juriste en droits humains, est notre invitée.",
-      "image": "https://s.france24.com/media/display/0f8d9f40-c3d6-11f1-baa6-ef6152f87623/w:1024/p:16x9/FR-20261009-130105-131108-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/navi-pillay-prix-nobel-de-la-paix-2026-paix-et-droit-international-a-l-h-887062d8f3.html"
-    },
-    {
-      "title": "Comment le Yémen a replongé dans une guerre multi-fronts",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261009-comment-le-y%C3%A9men-a-replong%C3%A9-dans-une-guerre-multi-fronts-arabie-saoudite",
-      "source": "RFI",
-      "publishedAt": "2026-10-09T16:01:20.000Z",
-      "summary": "Après quatre ans de cessez-le-feu, la guerre au Yémen a regagné en intensité ces dernières semaines. Les combats ont repris en juillet et se sont intensifiés à partir du mois de septembre. Le Yémen a désormais renoué avec une guerre sur plusieurs fronts.",
-      "image": "https://s.rfi.fr/media/display/5721b57a-c3e6-11f1-87a7-e362370cce2e/w:1024/p:16x9/2026-10-04T160843Z-936785478-RC2EWNAY0MJL-RTRMADP-3-IRAN-CRISIS-YEMEN.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-le-yemen-a-replonge-dans-une-guerre-multi-fronts-991fa4489f.html"
-    },
-    {
-      "title": "Brésil : le clan Bolsonaro de retour au pouvoir ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A9tats/20261009-br%C3%A9sil-le-clan-bolsonaro-de-retour-au-pouvoir",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T15:50:34.000Z",
-      "summary": "Une fois de plus, l'extrême droite déjoue les pronostics au Brésil. Flavio Bolsonaro vire en tête devant le président sortant, Lula, en difficulté à l'heure de briguer un quatrième mandat. Pour en parler, notre invitée : Lamia Oualalou, spécialiste de l'Amérique latine, ancienne correspondante au Brésil, autrice de \"Jé",
-      "image": "https://s.france24.com/media/display/af423078-c3f4-11f1-bdb5-3774aeac812a/w:1024/p:16x9/capture-18123723806ac905c60df4a8-10655084.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-le-clan-bolsonaro-de-retour-au-pouvoir-d0942eed7d.html"
-    },
-    {
-      "title": "Brésil : le clan Bolsonaro bientôt de retour au pouvoir ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261009-ptw-le-monde-dans-tous-ses-etats-bresil-elex",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T15:50:33.000Z",
-      "summary": "Une fois de plus, l'extrême droite déjoue les pronostics au Brésil. Flavio Bolsonaro vire en tête devant le président sortant, Lula, en difficulté à l'heure de briguer un quatrième mandat. Pour en parler, notre invitée : Lamia Oualalou, spécialiste de l'Amérique latine, ancienne correspondante au Brésil, autrice de \"Jé",
-      "image": "https://s.france24.com/media/display/af423078-c3f4-11f1-bdb5-3774aeac812a/w:1024/p:16x9/capture-18123723806ac905c60df4a8-10655084.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-le-clan-bolsonaro-bientot-de-retour-au-pouvoir-52dcbb22c5.html"
-    },
-    {
-      "title": "Manque d'enseignants, vétusté des établissements, classes surchargées... les lycéens en colère",
-      "url": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20261009-manque-d-enseignants-v%C3%A9tust%C3%A9-des-%C3%A9tablissements-classes-surcharg%C3%A9es-les-lyc%C3%A9ens-en-col%C3%A8re",
-      "source": "France 24",
-      "publishedAt": "2026-10-09T15:35:58.000Z",
-      "summary": "Les lycéens ont battu le pavé pour dire \"non\" aux classes surchargées, à la vétusté des établissements, à la plateforme d'orientation Parcoursup... En Outre-mer comme dans l'Hexagone, le mouvement a été émaillé de violences malgré les tentatives d'apaisement du gouvernement.",
-      "image": "https://s.france24.com/media/display/da8ff412-c3eb-11f1-8e0c-29a2e29ae696/w:1024/p:16x9/capture-1682116456ac8f6f54cb386-75492305.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manque-d-enseignants-vetuste-des-etablissements-classes-surchargees-les--0adaa20235.html"
     }
   ]
 }
