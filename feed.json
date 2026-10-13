@@ -1,174 +1,176 @@
 {
-  "updatedAt": "2026-10-13T08:14:45.075Z",
+  "updatedAt": "2026-10-13T16:01:27.033Z",
   "items": [
     {
-      "title": "Google transforme Gemini : la nouvelle interface accueille Spark, l’agent IA qui travaille pour vous 24h/24",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3282659_google-transforme-gemini-la-nouvelle-interface-accueille-spark-lagent-ia-qui-travaille-pour-vous-24h-24",
+      "title": "Gemini 4 Argon passe un cap : déploiement mondial et bonne surprise pour les abonnés Pro",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3283689_gemini-4-argon-passe-un-cap-deploiement-mondial-et-bonne-surprise-pour-les-abonnes-pro",
       "source": "Frandroid",
-      "publishedAt": "2026-10-13T08:13:46.000Z",
-      "summary": "Google repense l’interface de Gemini pour y intégrer directement Spark, son agent IA capable d’exécuter des tâches en arrière-plan. Une nouvelle page permet aussi de suivre l’avancement des tâches en cours.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/05/gemini-spark.jpg?resize=1200,675&key=e3f09f1d",
+      "publishedAt": "2026-10-13T16:00:00.000Z",
+      "summary": "Google ouvre ce mardi 13 octobre Gemini 4 Argon aux abonnés Google AI Pro et Ultra, ainsi qu'aux développeurs et aux entreprises via l'API Gemini. Annoncé le 30 septembre, le modèle était jusqu'ici réservé à quelques équipes de cybersécurité.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/gemini-4-argon-deploye-mondialement.jpg?resize=1200,675&key=2adcc5e6",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-transforme-gemini-la-nouvelle-interface-accueille-spark-l-agent-i-df7c8d4d1c.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gemini-4-argon-passe-un-cap-deploiement-mondial-et-bonne-surprise-pour-l-6f1a68c9ff.html"
     },
     {
-      "title": "Ça y est, YouTube déploie « Ask YouTube » sur smartphone, mais la France devra patienter",
-      "url": "https://www.frandroid.com/marques/3282587_ca-y-est-youtube-deploie-ask-youtube-sur-smartphone-mais-la-france-devra-patienter",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-13T08:06:19.000Z",
-      "summary": "Google déploie « Ask YouTube » sur mobile, une nouvelle expérience de recherche conversationnelle, fondée sur l'IA générative. Pensée pour découvrir plus rapidement du contenu, cette nouveauté reste, pour le moment, limitée aux États-Unis.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/07/youtube-frandroid-illustration-4.png?resize=1200,675&key=90f1ba94",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ca-y-est-youtube-deploie-ask-youtube-sur-smartphone-mais-la-france-devra-4550253996.html"
-    },
-    {
-      "title": "En France, les émissions de gaz à effet de serre en baisse en 2026, mais le rythme reste trop lent",
-      "url": "https://www.france24.com/fr/france/20261013-france-%C3%A9missions-gaz-effet-de-serre-baisse-2026-mais-rythme-reste-trop-lent-carburants",
+      "title": "Des bots russes inactifs après l'attaque de datacenters par l'Ukraine ? Attention à ces interprétations",
+      "url": "https://www.france24.com/fr/europe/20261013-bots-russes-inactifs-attaque-de-datacenters-par-l-ukraine-attention-%C3%A0-ces-interpr%C3%A9tations",
       "source": "France 24",
-      "publishedAt": "2026-10-13T06:35:11.000Z",
-      "summary": "La forte baisse de la consommation de carburants, dont les prix atteignent des sommets, ont largement participé à faire diminuer les émissions de gaz à effet de serre en France au cours des derniers mois. Selon l'organisme chargé du suivi des émissions, les rejets carbonés ont diminué de 4,1 % au premier semestre et po",
-      "image": "https://s.france24.com/media/display/82a54b6c-e77a-11ee-91ea-005056bfb2b6/w:1024/p:16x9/000_34J77HG.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-france-les-emissions-de-gaz-a-effet-de-serre-en-baisse-en-2026-mais-l-4b50cc8311.html"
+      "publishedAt": "2026-10-13T15:43:21.000Z",
+      "summary": "Des frappes ukrainiennes contre les datacenters russes ont-elles fait chuter la désinformation russe en ligne ? À ce jour, aucune des données mobilisées, notamment deux graphiques devenus viraux, ne prouve une telle baisse d'activité.",
+      "image": "https://s.france24.com/media/display/cf8d3000-c712-11f1-8e30-29a2e29ae696/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-19-1.png",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-bots-russes-inactifs-apres-l-attaque-de-datacenters-par-l-ukraine-at-3e793f45fc.html"
     },
     {
-      "title": "Belgique : neuf mineurs arrêtés lors de heurts près de Bruxelles-Midi",
-      "url": "https://fr.euronews.com/video/2026/10/13/belgique-neuf-mineurs-arretes-lors-de-heurts-pres-de-bruxelles-midi",
-      "source": "Euronews",
-      "publishedAt": "2026-10-13T05:57:32.000Z",
-      "summary": "Heurts près de la gare de Bruxelles-Midi : une dizaine d'interpellations, dont neuf mineurs, sur fond de manifestations étudiantes et anti-austérité en Belgique.",
-      "image": "https://images.euronews.com/articles/stories/09/94/94/49/696x392_cmsv2_c307b578-3b30-566b-a78e-2a9e4ae3041e-9949449.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/belgique-neuf-mineurs-arretes-lors-de-heurts-pres-de-bruxelles-midi-79196fb513.html"
-    },
-    {
-      "title": "France: toujours aussi divisée, l'Assemblée nationale entame l'examen du budget 2027 sur fond de crises multiples",
-      "url": "https://www.rfi.fr/fr/europe/20261013-france-toujours-aussi-divis%C3%A9e-l-assembl%C3%A9e-nationale-entame-l-examen-du-budget-2027-sur-fond-de-crises-multiples",
+      "title": "Élargissement de l’Union européenne: pourquoi Bruxelles ralentit et accélère à la fois",
+      "url": "https://www.rfi.fr/fr/europe/20261013-%C3%A9largissement-de-l-union-europ%C3%A9enne-pourquoi-bruxelles-ralentit-et-acc%C3%A9l%C3%A8re-%C3%A0-la-fois",
       "source": "RFI",
-      "publishedAt": "2026-10-13T05:49:45.000Z",
-      "summary": "Cerné par le mouvement lycéen, les inquiétudes sur le pouvoir d'achat et la crainte d'une crise financière, le gouvernement transmet le projet de loi de finance pour 2027 aux députés, ce mardi 13 octobre. Un texte dont l'adoption est plus incertaine que jamais, faute de majorité et à l'approche de la présidentielle.",
-      "image": "https://s.rfi.fr/media/display/72419302-852f-11f1-bf2d-005056bf30b7/w:1024/p:16x9/000-C2RB7LA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-toujours-aussi-divisee-l-assemblee-nationale-entame-l-examen-du-b-431a12d957.html"
+      "publishedAt": "2026-10-13T15:32:06.000Z",
+      "summary": "Pour leur deuxième jour de réunion à Luxembourg, les ministres européens des Affaires étrangères rencontrent ce 13 octobre leurs homologues d’Albanie, Moldavie et Ukraine après le Monténégro la veille. Un « super mardi » de l’élargissement, selon la présidence irlandaise du Conseil des ministres, avec quatre « conféren",
+      "image": "https://s.rfi.fr/media/display/6df3a8e0-122b-11ea-9824-005056bf7c53/w:1024/p:16x9/2019-04-30t121645z_473019649_rc1fbdac5d00_rtrmadp_3_eu-election_0.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elargissement-de-l-union-europeenne-pourquoi-bruxelles-ralentit-et-accel-973267443a.html"
     },
     {
-      "title": "Pesticides: des médecins français \"haussent le non\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261013-pesticides-des-m%C3%A9decins-fran%C3%A7ais-haussent-le-non",
+      "title": "RDC : Joseph Kabila prend la tête de la rébellion",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261013-rdc-joseph-kabila-prend-la-t%C3%AAte-de-la-r%C3%A9bellion",
       "source": "France 24",
-      "publishedAt": "2026-10-13T05:45:45.000Z",
-      "summary": "A la Une de la presse, ce mardi 13 octobre , «l’acte V» de la mobilisation, aujourd’hui, en France, des lycéens. La confirmation, en Espagne, par le Tribunal suprême, de sa décision suspendre le droit de vote de dizaines de milliers de citoyens naturalisés. Les discussions, au sein de l’UE, sur un texte controversé, l’",
-      "image": "https://s.france24.com/media/display/d8b73544-c6c8-11f1-a431-e362370cce2e/w:1024/p:16x9/1-LIBERATION-PESTICIDES-UE.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pesticides-des-medecins-francais-haussent-le-non-f1722f96bb.html"
+      "publishedAt": "2026-10-13T15:17:58.000Z",
+      "summary": "C'est un coup de tonnerre dans le ciel congolais. L'ancien président Joseph Kabila prend la tête du Front pour la refondation de la Nation. Il s'agit d'un mouvement politique et militaire car cette nouvelle plateforme englobe l'Alliance Fleuve Congo (AFC) et le Mouvement du 23 Mars (M23) qui contrôle la ville de GOMA d",
+      "image": "https://s.france24.com/media/display/0a682e52-c716-11f1-abc2-53993c5f1f18/w:1024/p:16x9/capture-6aaccb12.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rdc-joseph-kabila-prend-la-tete-de-la-rebellion-9bf07f8b4a.html"
     },
     {
-      "title": "Iran: la mobilisation contre la peine de mort continue de défier la censure du régime",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261013-iran-la-mobilisation-contre-la-peine-de-mort-continue-de-d%C3%A9fier-la-censure-du-r%C3%A9gime",
+      "title": "Éthiopie-Érythrée : le bras de fer diplomatique fait craindre un retour de la guerre",
+      "url": "https://www.france24.com/fr/afrique/20261013-%C3%A9thiopie-%C3%A9rythr%C3%A9e-le-bras-de-fer-diplomatique-fait-craindre-un-retour-de-la-guerre",
+      "source": "France 24",
+      "publishedAt": "2026-10-13T14:02:10.000Z",
+      "summary": "Après des heurts survenus début octobre entre troupes éthiopiennes et érythréennes dans la région du Tigré, dans le nord de l'Éthiopie, c'est sur le terrain diplomatique qu'Asmara et Addis-Abeba choisissent de s’affronter. Les passe d'armes au Conseil de sécurité de l’ONU font craindre le retour de la guerre entre les ",
+      "image": "https://s.france24.com/media/display/e79661f4-c3dd-11f1-982d-77317c09f325/w:1024/p:16x9/AP26282257265767.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ethiopie-erythree-le-bras-de-fer-diplomatique-fait-craindre-un-retour-de-386000053f.html"
+    },
+    {
+      "title": "L'UE annonce une mission civilo-militaire pour former les forces de sécurité libanaises",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261013-l-ue-annonce-une-mission-civilo-militaire-pour-former-les-forces-de-s%C3%A9curit%C3%A9-libanaises",
       "source": "RFI",
-      "publishedAt": "2026-10-13T05:28:43.000Z",
-      "summary": "Comme tous les mardis en Iran, les détenus de 61 prisons du pays observeront une grève de la faim aujourd'hui contre la peine de mort. Une campagne qui dure depuis deux ans et demi, reprise également à l'étranger. Dans l'ombre de la guerre contre les États-Unis et Israël et dans les suites des manifestations historique",
-      "image": "https://s.rfi.fr/media/display/19ccc812-c6c1-11f1-975b-77317c09f325/w:1024/p:16x9/000-C2EB2KE-2.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iran-la-mobilisation-contre-la-peine-de-mort-continue-de-defier-la-censu-a72976a808.html"
+      "publishedAt": "2026-10-13T14:00:24.000Z",
+      "summary": "Au Liban, l’Union européenne veut renforcer les capacités des forces de sécurité, à l’approche du retrait programmé des casques bleus de l’ONU. Les Vingt-Sept ont approuvé ce lundi 12 octobre 2026 une nouvelle mission civile et militaire, distincte de la Finul, qui pourrait être opérationnelle d’ici à deux mois.",
+      "image": "https://s.rfi.fr/media/display/2476d5e0-953a-11f1-846b-005056bf30b7/w:1024/p:16x9/2026-04-16T110351Z-1066065248-RC2AQKA6EGXL-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL-STRIKE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ue-annonce-une-mission-civilo-militaire-pour-former-les-forces-de-secu-9992df660c.html"
     },
     {
-      "title": "Surface Laptop Ultra : le nouveau PC portable à puce Nvidia RTX Spark de Microsoft est en précommande",
-      "url": "https://www.frandroid.com/bons-plans/3282007_surface-laptop-ultra-le-nouveau-pc-portable-a-puce-nvidia-rtx-spark-de-microsoft-est-en-precommande",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-13T05:24:00.000Z",
-      "summary": "Le Microsoft Surface Laptop Ultra, équipé de la puce Nvidia RTX Spark N1X et d'un écran tactile mini-LED de 15 pouces, est déjà en précommande à la Fnac. Il est affiché à 2 899 euros, avec une expédition prévue à partir du 31 octobre.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/microsoft-surface-ultra.jpg?resize=1200,675&key=e3791844",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/surface-laptop-ultra-le-nouveau-pc-portable-a-puce-nvidia-rtx-spark-de-m-4173c1e8cf.html"
-    },
-    {
-      "title": "En direct : \"Une décrue par rapport aux semaines précédentes\", juge le ministre de l'Éducation",
-      "url": "https://www.france24.com/fr/france/20261013-en-direct-france-manifestations-lyceens-acte-v-mouvement",
+      "title": "Les députés en passe de voter pour la loi intégrale contre les violences sexistes et sexuelles",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261013-les-d%C3%A9put%C3%A9s-en-passe-de-voter-pour-la-loi-int%C3%A9grale-contre-les-violences-sexistes-et-sexuelles",
       "source": "France 24",
-      "publishedAt": "2026-10-13T04:46:52.000Z",
-      "summary": "Estimant n'avoir reçu \"que des miettes\", les lycéens appellent mardi à une nouvelle journée nationale de mobilisation, alors que le gouvernement espère une décélération du mouvement à l'approche des vacances scolaires. Le ministre de l'Éducation nationale, Édouard Geffray, a jugé mardi matin que le mouvement était \"plu",
-      "image": "https://s.france24.com/media/display/8ca87ed2-c6d3-11f1-8084-29a2e29ae696/w:1024/p:16x9/000-D2PV373.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-une-decrue-par-rapport-aux-semaines-precedentes-juge-le-minist-5bfa736ec1.html"
+      "publishedAt": "2026-10-13T12:23:49.000Z",
+      "summary": "Les députés se prononcent mardi 13 octobre sur la loi intégrale contre les violences sexistes et sexuelles, dont l'adoption ne fait guère de doute. Cap ensuite sur le Sénat, plus conservateur, avec la crainte pour ses défenseurs d'un détricotage des principales avancées obtenues.",
+      "image": "https://s.france24.com/media/display/b6c604bc-c6f3-11f1-b23d-53993c5f1f18/w:1024/p:16x9/FR-20261013-120428-120615-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-deputes-en-passe-de-voter-pour-la-loi-integrale-contre-les-violences-b5885fe92b.html"
     },
     {
-      "title": "Claude : après une nouvelle dérive, Anthropic prive certaines IA d’accès Internet",
-      "url": "https://www.01net.com/actualites/claude-apres-une-nouvelle-derive-anthropic-prive-certaines-ia-dacces-internet.html",
+      "title": "Manifestations de lycéens en France : \"deux départs de cortèges différents\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261013-manifestations-de-lyc%C3%A9ens-en-france-deux-d%C3%A9parts-de-cort%C3%A8ges-diff%C3%A9rents",
+      "source": "France 24",
+      "publishedAt": "2026-10-13T12:20:38.000Z",
+      "summary": "\"Les lycéens se dirigent vers les deux départs de cortèges différents\" à Paris, rapporte notre envoyé spécial devant le lycée Turgot Johan Bodin. À l'appel de l'acte V, l'Union syndicale des lycéens exige toujours la suppression de Parcoursup et un plan de 10 milliards d'euros pour les lycées.",
+      "image": "https://s.france24.com/media/display/e66f2ea6-c6f2-11f1-89ab-53993c5f1f18/w:1024/p:16x9/FR-20261013-120235-120402-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-de-lyceens-en-france-deux-departs-de-corteges-differents-65a8202519.html"
+    },
+    {
+      "title": "Incidents en mer Noire : l'Otan ajustera \"selon les besoins\" son dispositif de défense",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261013-incidents-en-mer-noire-l-otan-ajustera-selon-les-besoins-son-dispositif-de-d%C3%A9fense",
+      "source": "France 24",
+      "publishedAt": "2026-10-13T12:19:02.000Z",
+      "summary": "La Russie a frappé au moins six cibles énergétiques en Ukraine au cours d'une nuit et d'une matinée marquées par des bombardements meurtriers à travers le pays, ​a déclaré lundi le président Volodimir Zelensky, preuve selon lui que Moscou n'a aucun intérêt pour le cessez-le-feu annoncé par Donald Trump. Nous en parlons",
+      "image": "https://s.france24.com/media/display/3175b7d6-c6f2-11f1-b762-e362370cce2e/w:1024/p:16x9/FR-20261012-210343-211242-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/incidents-en-mer-noire-l-otan-ajustera-selon-les-besoins-son-dispositif--f40ffbce5c.html"
+    },
+    {
+      "title": "DIRECT - Mouvement lycéen en France: environ 480 000 manifestants selon l'intersyndicale, des heurts éclatent à Paris",
+      "url": "https://www.rfi.fr/fr/france/20261013-direct-mouvement-lyc%C3%A9en-en-france-90-des-universit%C3%A9s-bloqu%C3%A9es-pour-une-nouvelle-journ%C3%A9e-de-mobilisation-selon-un-syndicat",
+      "source": "RFI",
+      "publishedAt": "2026-10-13T11:55:04.000Z",
+      "summary": "Alors que les lycéens, étudiants et membres du personnel de l'Éducation battent le pavé partout en France, des heurts ont eu lieu dans les cortèges parisiens, mardi 13 octobre, dans le cadre de la nouvelle journée nationale de mobilisation. Selon le gouvernement, 161 500 personnes ont pris part aux manifestations parto",
+      "image": "https://s.rfi.fr/media/display/55cb37f8-c71c-11f1-b4a7-29a2e29ae696/w:1024/p:16x9/AP26286557031206.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-mouvement-lyceen-en-france-environ-480-000-manifestants-selon-l-i-c3127380e4.html"
+    },
+    {
+      "title": "Guerre en Ukraine: deux nouveaux navires marchands frappés près des côtes bulgares en mer Noire",
+      "url": "https://www.rfi.fr/fr/europe/20261013-guerre-en-ukraine-deux-nouveaux-navires-marchands-frapp%C3%A9s-pr%C3%A8s-des-c%C3%B4tes-bulgares-en-mer-noire-russie",
+      "source": "RFI",
+      "publishedAt": "2026-10-13T11:03:35.000Z",
+      "summary": "Deux navires marchands ont été frappés près des côtes bulgares, a annoncé mardi 13 octobre le Premier ministre Roumen Radev, disant vouloir convoquer l'ambassadrice de Russie après des attaques qualifiées d'« inacceptables » dont il a informé l'Otan. L'Union européenne (UE) dit « condamner fermement [ces] attaques de d",
+      "image": "https://s.rfi.fr/media/display/fb8a35c2-c6f4-11f1-a819-29a2e29ae696/w:1024/p:16x9/2026-10-13T081131Z-1542720900-RC282OA7F0VF-RTRMADP-3-BULGARIA-INCIDENT-DRONE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-deux-nouveaux-navires-marchands-frappes-pres-des-cotes-e6463e594e.html"
+    },
+    {
+      "title": "Les smartphones de nombreux Français vont sonner ce mardi, voici pourquoi",
+      "url": "https://www.01net.com/actualites/smartphones-nombreux-francais-sonner-mardi-on-vous-explique-pourquoi.html",
       "source": "01net",
-      "publishedAt": "2026-10-13T04:30:09.000Z",
-      "summary": "Un faux signalement de meurtre envoyé à la police de Philadelphie, un serveur universitaire piraté pour finir un calcul, des accès payants contournés : le créateur de Claude prive d'Internet l'ensemble de ses évaluations internes, faute de surveillance fiable.",
-      "image": "https://www.01net.com/app/uploads/2026/10/Canva1920_1280-21-1344x896.jpeg",
+      "publishedAt": "2026-10-13T10:30:54.000Z",
+      "summary": "Sonnerie stridente, message anxiogène et aucune catastrophe à l'horizon : plusieurs préfectures activent FR-Alert ce mardi pour un exercice grandeur nature. On vous dit où, à quelle heure, et surtout comment réagir.",
+      "image": "https://www.01net.com/app/uploads/2026/10/Canva-1920x1280-26-1344x896.jpeg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/claude-apres-une-nouvelle-derive-anthropic-prive-certaines-ia-d-acces-in-90138c7675.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-smartphones-de-nombreux-francais-vont-sonner-ce-mardi-voici-pourquoi-3c753d43df.html"
     },
     {
-      "title": "États-Unis: l'élue démocrate Ilhan Omar, visée par une perquisition, dénonce une «​​​​​​​intimidation» de Donald Trump",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261013-%C3%A9tats-unis-l-%C3%A9lue-d%C3%A9mocrate-ilhan-omar-vis%C3%A9e-par-une-perquisition-d%C3%A9nonce-une-intimidation-de-donald-trump",
+      "title": "En France, l’intelligence artificielle menace déjà l’emploi des plus jeunes",
+      "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261013-en-france-l-intelligence-artificielle-menace-d%C3%A9j%C3%A0-l-emploi-des-plus-jeunes",
       "source": "RFI",
-      "publishedAt": "2026-10-13T04:28:02.000Z",
-      "summary": "Le domicile à Washington d'Ilhan Omar, élue démocrate du Minnesota, a été perquisitionné lundi 12 octobre par des agents fédéraux. Cette opération intervient à trois semaines des élections de mi-mandat aux États-Unis, alors que les départements de la Justice et de la Sécurité intérieure affirment enquêter depuis plusie",
-      "image": "https://s.rfi.fr/media/display/9318ac68-c685-11f1-87aa-53993c5f1f18/w:1024/p:16x9/2026-10-12T134629Z-32534691-RC2YHMA9HSLT-RTRMADP-3-USA-ELECTION-MINNESOTA-OMAR.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-l-elue-democrate-ilhan-omar-visee-par-une-perquisition-denonc-59f66a7d0d.html"
-    },
-    {
-      "title": "Le Giec à l’épreuve de la transparence",
-      "url": "https://www.rfi.fr/fr/environnement/20261013-le-giec-%C3%A0-l-%C3%A9preuve-de-la-transparence",
-      "source": "RFI",
-      "publishedAt": "2026-10-13T04:19:27.000Z",
-      "summary": "RFI révélait lundi 12 octobre la récompense remise à la co-présidente malaisienne du stratégique groupe III de l’instance onusienne de la science du climat par un fonds d'entreprises pétrolières. Nouvelle illustration, après la mise en cause d’auteurs travaillant aux intérêts saoudiens, de la difficulté du Giec à gérer",
-      "image": "https://s.rfi.fr/media/display/1d73bedc-c57f-11f1-9841-29a2e29ae696/w:1024/p:16x9/Giec-partie-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-giec-a-l-epreuve-de-la-transparence-f2cc72d956.html"
-    },
-    {
-      "title": "Cisjordanie occupée: des Palestiniens blessés par des colons israéliens dénoncent l'impunité",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261013-cisjordanie-occup%C3%A9e-des-palestiniens-bless%C3%A9s-par-des-colons-isra%C3%A9liens-d%C3%A9noncent-l-impunit%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-10-13T03:51:20.000Z",
-      "summary": "En Cisjordanie occupée, à quelques semaines des élections législatives en Israël, nombreux sont les Palestiniens à espérer que la nouvelle coalition issue du scrutin leur soit plus favorable. Depuis l'arrivée au pouvoir du gouvernement d'extrême droite actuel, en décembre 2022, 231 nouveaux avant-postes ont été établis",
-      "image": "https://s.rfi.fr/media/display/a8d06530-c67d-11f1-82c1-53993c5f1f18/w:1024/p:16x9/Cette-photo-montre-une-vue-d-ensemble-de-la-colonie-isra%C3%A9lienne-de-Bat-Ayin-situ%C3%A9e-en-Cisjordanie-occup%C3%A9e-par-Isra%C3%ABl-le-20-septembre-2026.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cisjordanie-occupee-des-palestiniens-blesses-par-des-colons-israeliens-d-be44b374de.html"
-    },
-    {
-      "title": "France: les policiers municipaux de Montrouge se forment pour mieux accueillir les femmes victimes de violences",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261013-france-les-policiers-municipaux-de-montrouge-se-forment-pour-mieux-accueillir-les-femmes-victimes-de-violences",
-      "source": "RFI",
-      "publishedAt": "2026-10-13T03:44:59.000Z",
-      "summary": "Ce 12 octobre 2026, l'Assemblée nationale vote de manière solennelle la loi intégrale pour protéger les victimes des violences sexistes et sexuelles. Mieux former la police municipale aux violences faites aux femmes, c'est l'un des dispositifs prévus par cette loi. À Montrouge, dans les Hauts-de-Seine, c'est la premièr",
-      "image": "https://s.rfi.fr/media/display/c9a003e8-c677-11f1-8aff-3774aeac812a/w:1024/p:16x9/Un-agent-de-la-police-municipale-%C3%A0-Neuville-en-Ferain-pr%C3%A8s-de-Tourcoing-dans-le-nord-de-la-France-le-3-septembre-2022.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-les-policiers-municipaux-de-montrouge-se-forment-pour-mieux-accue-fe80526948.html"
-    },
-    {
-      "title": "Vélos électriques Bosch : cette nouvelle mise à jour gratuite apporte une fonction de charge bien pratique",
-      "url": "https://www.frandroid.com/marques/bosch/3282725_velos-electriques-bosch-cette-nouvelle-mise-a-jour-gratuite-apporte-une-fonction-de-charge-bien-pratique",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-13T08:00:00.000Z",
-      "summary": "Bosch a lancé ce lundi 12 octobre la version 1.38 de son application eBike Flow. Elle apporte un contrôle de traction réglable pour chaque mode, un tendeur de chaîne qu'on active à la demande et l'affichage du temps de charge restant.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/bosch-maj-.webp?resize=1200,675&key=68505056",
+      "publishedAt": "2026-10-13T10:05:56.000Z",
+      "summary": "Pour la première fois, une étude menée par les chercheurs de l’école de commerce HEC et la Banque de France pointe une baisse des embauches chez les jeunes dans les métiers les plus exposés à l'intelligence artificielle.",
+      "image": "https://s.rfi.fr/media/display/73c81662-b331-11f1-8b1c-8bce42b8e305/w:1024/p:16x9/000-C89Z663.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/velos-electriques-bosch-cette-nouvelle-mise-a-jour-gratuite-apporte-une--d4ab85ee28.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-france-l-intelligence-artificielle-menace-deja-l-emploi-des-plus-jeun-f93371e7c8.html"
     },
     {
-      "title": "Avis aux sportifs, cette ceinture cardio Garmin de référence est bradée à -28 % sur Amazon",
-      "url": "https://www.frandroid.com/bons-plans/3107541_avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-bradee-a-moins-28-pourcents-sur-amazon",
+      "title": "Avec ou sans Huawei ? Les SUV électriques chinois d’Aito arrivent enfin en Europe, mais plusieurs mystères demeurent",
+      "url": "https://www.frandroid.com/marques/aito/3281721_avec-ou-sans-huawei-les-suv-electriques-chinois-daito-arrivent-enfin-en-europe-mais-plusieurs-mysteres-demeurent",
       "source": "Frandroid",
-      "publishedAt": "2026-10-13T07:59:00.000Z",
-      "summary": "La Garmin HRM 200 est une ceinture cardio intéressante grâce à son module amovible pour facilement changer la sangle si besoin. En ce moment, elle est affichée à 64,99 euros au lieu de 89,99 euros sur Amazon.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/01/hrm200-image1.jpg?resize=1200,675&key=c16e7fe1",
+      "publishedAt": "2026-10-13T15:42:50.000Z",
+      "summary": "Après un premier bain de foule à Paris en 2024 puis à Munich en 2025, Aito profite du Mondial de l'Auto 2026 pour confirmer son arrivée en Europe en 2027. La marque chinoise, cofondée avec Seres et Huawei, fera donc débarquer ses SUV électriques et hybrides dans nos marchés... avec une différence de taille par rapport ",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/2-clifford-kang-board-member-and-vice-president-of-seres-group.png?resize=1200,675&key=3c7aaebf",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/avis-aux-sportifs-cette-ceinture-cardio-garmin-de-reference-est-bradee-a-63db99205f.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/avec-ou-sans-huawei-les-suv-electriques-chinois-d-aito-arrivent-enfin-en-fd315a69b5.html"
     },
     {
-      "title": "WhatsApp : il devient enfin possible de programmer un message, voici comment essayer",
-      "url": "https://www.frandroid.com/android/applications/3282649_whatsapp-il-devient-enfin-possible-de-programmer-un-message-voici-comment-essayer",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-13T07:50:54.000Z",
-      "summary": "Après une très longue attente, Meta est enfin en train de déployer une fonctionnalité d’envoi de messages programmés sur WhatsApp. Elle n’est malheureusement pour le moment disponible qu’en bêta pour un petit groupe de privilégiés.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/05/whatsapp-logo-liquid-glass.jpg?resize=1200,675&key=1bf6e731",
+      "title": "Cyberattaque nationale contre les supermarchés : la situation est encore pire que prévu, une seconde cible dans la tourmente",
+      "url": "https://www.01net.com/actualites/cyberattaque-nationale-contre-les-supermarches-la-situation-est-encore-pire-que-prevu-une-seconde-cible-dans-la-tourmente.html",
+      "source": "01net",
+      "publishedAt": "2026-10-13T15:29:43.000Z",
+      "summary": "Deux supermarchés ont subi une rupture de la chaîne du froid, quelques heures après la cyberattaque nationale. Les magasins sont équipés de contrôleurs électroniques qui ne sont pas fournis par Danfoss, le groupe danois au cœur de la cyberattaque. Les derniers éléments laissent penser que les pirates se sont attaqués à",
+      "image": "https://www.01net.com/app/uploads/2026/10/frigos-supermarche-cyberattaque-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/whatsapp-il-devient-enfin-possible-de-programmer-un-message-voici-commen-34fca308ca.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cyberattaque-nationale-contre-les-supermarches-la-situation-est-encore-p-710fef60a6.html"
     },
     {
-      "title": "« Acheter ce produit » : Gemini pourrait vous aider à faire du shopping depuis sa bulle flottante",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3282617_acheter-ce-produit-gemini-pourrait-vous-aider-a-faire-du-shopping-depuis-sa-bulle-flottante",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-13T07:38:21.000Z",
-      "summary": "Google préparerait une nouvelle fonction pour Gemini baptisée « Shop this ». Repérée dans le code de l’application Google, elle permettrait d’identifier un produit affiché à l’écran et d’indiquer où l’acheter, sans quitter l’application en cours.",
+      "title": "Ukraine : pourquoi les centres de données russes sont devenus des cibles",
+      "url": "https://www.france24.com/fr/europe/20261013-ukraine-pourquoi-les-centres-de-donn%C3%A9es-russes-sont-devenus-des-cibles-yandex-guerre-data-centers",
+      "source": "France 24",
+      "publishedAt": "2026-10-13T15:24:25.000Z",
+      "summary": "Après les entrepôts du géant du commerce en ligne Wildberries, l'Ukraine s’attaque aux infrastructures numériques russes. Plusieurs centres de données de Yandex, le \"Google russe\", ont été frappés par des drones ukrainiens début octobre, perturbant certains services. Une stratégie qui vise à fragiliser l'économie russe",
+      "image": "https://s.france24.com/media/display/dec635ee-c70d-11f1-bda6-77317c09f325/w:1024/p:16x9/000-1A52E6.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/acheter-ce-produit-gemini-pourrait-vous-aider-a-faire-du-shopping-depuis-27bac9c123.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-pourquoi-les-centres-de-donnees-russes-sont-devenus-des-cibles-74e8ac2a28.html"
+    },
+    {
+      "title": "Pour 69 euros, votre vieille Apple TV peut s’offrir la télécommande qu’on ne perd plus sous le canapé",
+      "url": "https://www.01net.com/actualites/pour-69-euros-votre-vieille-apple-tv-peut-soffrir-la-telecommande-quon-ne-perd-plus-sous-le-canape.html",
+      "source": "01net",
+      "publishedAt": "2026-10-13T15:13:45.000Z",
+      "summary": "Avec sa nouvelle Apple TV 4K, Apple a aussi revu sa télécommande. Vendue séparément, la Siri Remote fonctionne avec des boîtiers sortis il y a plus de dix ans, et gagne enfin la fonction que tous les habitués du canapé attendaient.",
+      "image": "https://www.01net.com/app/uploads/2026/10/apple-tv-siri-remote-4-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pour-69-euros-votre-vieille-apple-tv-peut-s-offrir-la-telecommande-qu-on-a2750bce39.html"
+    },
+    {
+      "title": "Logitech prépare une MX Master 4 Special Edition, et seul le look change",
+      "url": "https://www.frandroid.com/produits-android/ordinateurs/peripheriques-pc/souris/3283691_logitech-prepare-une-mx-master-4-special-edition-et-seul-le-look-change",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-13T15:13:41.000Z",
+      "summary": "Logitech prépare une MX Master 4 « Special Edition », dont des visuels marketing officiels ont fuité ce mardi 13 octobre.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-149.png?resize=1200,675&key=d0afca14",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/logitech-prepare-une-mx-master-4-special-edition-et-seul-le-look-change-e1b0d4a129.html"
     }
   ]
 }
