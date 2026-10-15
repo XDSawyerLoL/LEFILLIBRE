@@ -1,87 +1,52 @@
 {
-  "updatedAt": "2026-10-15T00:41:26.217Z",
+  "updatedAt": "2026-10-15T05:12:03.085Z",
   "items": [
     {
-      "title": "Elon Musk peut-il paralyser l'armée ukrainienne ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261014-elon-musk-peut-il-paralyser-l-arm%C3%A9e-ukrainienne",
-      "source": "France 24",
-      "publishedAt": "2026-10-14T22:16:28.000Z",
-      "summary": "C'est un réseau invisible mais devenu indispensable à l'armée ukrainienne. Dans la nuit de mardi à mercredi, certaines connexions Starlink ont été restreintes, perturbant plusieurs missions de drones ukrainiens. Derrière cette technologie, il y a SpaceX, l'entreprise américaine du milliardaire Elon Musk. Ce système pri",
-      "image": "https://s.france24.com/media/display/4391820e-c81b-11f1-a7a6-2d1c143cdef3/w:1024/p:16x9/FRAN261014-2339-Live-CS2339.jpg",
+      "title": "Qui est Meowan, l’« OVNI des MVNO » qui loue le réseau Orange ?",
+      "url": "https://www.frandroid.com/telecom/forfait-mobile/3285729_qui-est-meowan-l-ovni-des-mvno-qui-loue-le-reseau-orange",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-15T05:10:47.000Z",
+      "summary": "Meowan, un opérateur français immatriculé en août 2026, vend six forfaits mobiles sur le réseau Orange, de 3,99 à 24,99 euros par mois. Ces forfaits incluent la Suisse, Andorre et la télévision dès 50 Go, mais le plus gros coûte plus cher que celui de Sosh.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-168.png?resize=1200,675&key=dd5cba1b",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elon-musk-peut-il-paralyser-l-armee-ukrainienne-49e7436669.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qui-est-meowan-l-ovni-des-mvno-qui-loue-le-reseau-orange-c5a41ee7c9.html"
     },
     {
-      "title": "Nouvelle journée de heurts entre manifestants et policiers en Albanie, des ministères attaqués",
-      "url": "https://www.france24.com/fr/europe/20261014-nouvelle-journee-heurts-entre-manifestants-policiers-albanie-etudiant-aide-ministeres-attaques-incendie-demission-edi-rama",
+      "title": "À court de cartes graphiques, Apple réquisitionne les Mac de ses employés",
+      "url": "https://www.01net.com/actualites/a-court-de-cartes-graphiques-apple-requisitionne-les-mac-de-ses-employes.html",
+      "source": "01net",
+      "publishedAt": "2026-10-15T04:35:43.000Z",
+      "summary": "Certains calculs d'IA patientaient des heures entières en interne : même Apple manque de puces graphiques disponibles. Sa réponse s'appelle Minions, et elle dort dans les Mac de ses salariés.",
+      "image": "https://www.01net.com/app/uploads/2026/08/ordinateur-apple-mac-mini-clavier-souris-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-court-de-cartes-graphiques-apple-requisitionne-les-mac-de-ses-employes-098622fc08.html"
+    },
+    {
+      "title": "Guerre en Ukraine en direct : la Roumanie enquête sur une attaque contre un pétrolier",
+      "url": "https://www.france24.com/fr/europe/20261015-guerre-ukraine-en-direct-starlink-reseau-musk-volodymyr-zelesky-roumanie-enquete-attaque-contre-petrolier-etats-unis-defense-starshield-drones",
       "source": "France 24",
-      "publishedAt": "2026-10-14T22:50:01.000Z",
-      "summary": "Les unités antiémeutes ont fait usage de canons à eau et de gaz lacrymogène, à Tirana mercredi, contre les manifestants rassemblés pour réclamer la démission d'Edi Rama et une aide plus importante pour les étudiants. Plusieurs incendies ont été déclenchés, des protestataires ont pris pour cible les bureaux du chef du g",
-      "image": "https://s.france24.com/media/display/fbf524c2-c820-11f1-9100-2d1c143cdef3/w:1024/p:16x9/2026-10-14T222222Z-1949817444-RC233OAJSBMG-RTRMADP-3-ALBANIA-PROTESTS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-journee-de-heurts-entre-manifestants-et-policiers-en-albanie-de-078acc7c18.html"
+      "publishedAt": "2026-10-15T03:42:51.000Z",
+      "summary": "Des drones russes présumés ont frappé le Yara J, battant pavillon des Îles Comores, mercredi soir au large de Sulina. La Roumanie enquête sur cette possible nouvelle attaque, a indiqué mercredi le ministre de la Défense. Revenant sur les restrictions d'utilisation du réseau en Ukraine, Elon Musk a déclaré mercredi que ",
+      "image": "https://s.france24.com/media/display/3ec22678-c84a-11f1-85e1-4dd8ac2cf3bf/w:1024/p:16x9/000-B6L73WH.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-en-direct-la-roumanie-enquete-sur-une-attaque-contre-u-68c19ff9ef.html"
     },
     {
-      "title": "«Le pouvoir se croit tout permis»: l’opposition turque voit dans le cas Halk TV un tournant autoritaire",
-      "url": "https://www.rfi.fr/fr/europe/20261014-le-pouvoir-se-croit-tout-permis-l-opposition-turque-voit-dans-le-cas-halk-tv-un-tournant-autoritaire",
+      "title": "Donald Trump évoque le Somaliland comme un «pays», Mogadiscio appelle Washington à respecter sa souveraineté",
+      "url": "https://www.rfi.fr/fr/afrique/20261015-donald-trump-%C3%A9voque-le-somaliland-comme-un-pays-mogadiscio-appelle-washington-%C3%A0-respecter-sa-souverainet%C3%A9",
       "source": "RFI",
-      "publishedAt": "2026-10-14T22:07:08.000Z",
-      "summary": "Les autorités turques ont pris le contrôle mercredi 14 octobre du siège de la principale chaîne de télévision d’opposition, Halk TV, connue pour sa couverture critique du président Recep Tayyip Erdogan. L’opération s’inscrit dans le cadre d’une enquête judiciaire contre les dirigeants de la chaîne. Mais elle suscite l’",
-      "image": "https://s.rfi.fr/media/display/de296b32-c7c2-11f1-a090-77317c09f325/w:1024/p:16x9/AP26287258643914.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-pouvoir-se-croit-tout-permis-l-opposition-turque-voit-dans-le-cas-hal-310c95763e.html"
+      "publishedAt": "2026-10-15T02:13:01.000Z",
+      "summary": "Lundi 12 octobre 2026, lors d’un rassemblement dans l’Ohio pour les élections de mi-mandat, Donald Trump a évoqué le Somaliland comme un pays. Cette république autoproclamée s’est séparée de la Somalie en 1991. Pour l’heure, seul Israël la reconnaît. Mais les mots du président américain ont suscité beaucoup d’espoir au",
+      "image": "https://s.rfi.fr/media/display/82b74d96-b29f-11ed-b8d0-005056a90284/w:1024/p:16x9/Carte-somaliland.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-evoque-le-somaliland-comme-un-pays-mogadiscio-appelle-washi-c302bee3f7.html"
     },
     {
-      "title": "En Italie, Roberto Vannacci prône l'héritage fasciste du «patriarcat méditerranéen»",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261014-en-italie-roberto-vannacci-pr%C3%B4ne-l-h%C3%A9ritage-fasciste-du-patriarcat-m%C3%A9diterran%C3%A9en",
-      "source": "RFI",
-      "publishedAt": "2026-10-14T22:03:54.000Z",
-      "summary": "Près de 10 ans après le mouvement #MeToo, les discours virilistes gagnent du terrain en Europe. C'est le cas en Italie, où Roberto Vannacci, candidat aux élections législatives de 2027, déploie depuis plusieurs mois une rhétorique identitaire et masculiniste. C'est à travers ses discours provocateurs que son parti, Fut",
-      "image": "https://s.rfi.fr/media/display/7fc273e2-c801-11f1-b940-2d1c143cdef3/w:1024/p:16x9/AP26165368298001.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-italie-roberto-vannacci-prone-l-heritage-fasciste-du-patriarcat-medit-66b57b2e34.html"
-    },
-    {
-      "title": "Belgique: perquisitions chez des membres de la famille du président congolais Félix Tshisekedi",
-      "url": "https://www.rfi.fr/fr/afrique/20261014-belgique-perquisitions-chez-des-membres-de-la-famille-du-pr%C3%A9sident-congolais-f%C3%A9lix-tshisekedi",
-      "source": "RFI",
-      "publishedAt": "2026-10-14T21:49:18.000Z",
-      "summary": "Plusieurs perquisitions menées par le parquet fédéral belge, à Bruxelles et dans ses environs, ont visé mercredi 14 octobre 2026 des résidences appartenant à des membres de la famille de Félix Tshisekedi. C’est une affaire d’enrichissement personnel présumé qui a mené la police fédérale chez les proches du président de",
-      "image": "https://s.rfi.fr/media/display/d7af25b0-d47c-11f0-8f97-005056a97e36/w:1024/p:16x9/RDC-Felix-Tshisekedi.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/belgique-perquisitions-chez-des-membres-de-la-famille-du-president-congo-dff088f62a.html"
-    },
-    {
-      "title": "France: à l'ouverture de son procès, la «revenante» Selma Tahar Aouidate revient sur son jihad familial",
-      "url": "https://www.rfi.fr/fr/france/20261014-france-%C3%A0-l-ouverture-de-son-proc%C3%A8s-la-revenante-selma-tahar-aouidate-revient-sur-son-jihad-familial",
-      "source": "RFI",
-      "publishedAt": "2026-10-14T20:40:01.000Z",
-      "summary": "Le procès de la « revenante » Radia Tahar Aouidate, dite Selma, s’est ouvert mercredi 14 octobre devant la cour d’assises spécialement composée de Paris. Aujourd’hui âgée de 33 ans, elle est poursuivie pour association de malfaiteurs terroriste pour avoir rejoint l’État islamique entre 2014 et 2020 et pour le recruteme",
-      "image": "https://s.rfi.fr/media/display/f0e60660-eacd-11ee-b618-005056a97e36/w:1024/p:16x9/000_1C82WL-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-a-l-ouverture-de-son-proces-la-revenante-selma-tahar-aouidate-rev-969533793a.html"
-    },
-    {
-      "title": "Ebola : le Kenya annonce un deuxième cas, mais \"aucune propagation\" à grande échelle",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261014-ebola-le-kenya-annonce-un-deuxi%C3%A8me-cas-mais-aucune-propagation-%C3%A0-grande-%C3%A9chelle",
+      "title": "Colombie : des milliers de manifestants dans la rue contre le durcissement du gouvernement de droite",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261015-colombie-des-milliers-de-manifestants-dans-la-rue-contre-le-durcissement-du-gouvernement-de-droite",
       "source": "France 24",
-      "publishedAt": "2026-10-14T20:22:17.000Z",
-      "summary": "Au Kenya, le ministère de la santé vient de l’annoncer ce mercredi soir : il y a une deuxième cas d’Ebola dans le pays, et cette fois-ci il ne s’agit pas d’une personne ayant voyagé. Depuis une semaine les autorités sanitaires travaillent d’arrache pied pour éviter qu’une épidémie ne se déclenche dans le pays après le ",
-      "image": "https://s.france24.com/media/display/e889e648-c80c-11f1-8fd2-4dd8ac2cf3bf/w:1024/p:16x9/capture-14c3e171-1.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ebola-le-kenya-annonce-un-deuxieme-cas-mais-aucune-propagation-a-grande--c78ef384d4.html"
-    },
-    {
-      "title": "Depuis Londres, Zelensky exprime son amertume après avoir été \"trahi\" par Trump et Musk",
-      "url": "https://www.france24.com/fr/europe/20261014-depuis-londres-zelensky-exprime-son-amertume-apr%C3%A8s-avoir-%C3%A9t%C3%A9-trahi-par-trump-et-musk",
-      "source": "France 24",
-      "publishedAt": "2026-10-14T20:06:06.000Z",
-      "summary": "En visite à Londres mercredi, Volodymyr Zelensky a dit s'être senti trahi par les récentes annonces de Donald Trump et par les restrictions du réseau Starlink d'Elon Musk, essentiel aux opérations de l'armée ukrainienne. Le président ukrainien affirme néanmoins continuer à \"compter sur le partenariat avec les États-Uni",
-      "image": "https://s.france24.com/media/display/609dabb2-c806-11f1-8333-638c1c1f5fd6/w:1024/p:16x9/AP26287587203020.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/depuis-londres-zelensky-exprime-son-amertume-apres-avoir-ete-trahi-par-t-464631ba15.html"
-    },
-    {
-      "title": "Le président ukrainien Volodymyr Zelensky venu à Londres s'assurer du soutien britannique",
-      "url": "https://www.rfi.fr/fr/europe/20261014-le-pr%C3%A9sident-ukrainien-volodymyr-zelensky-venu-%C3%A0-londres-s-assurer-du-soutien-britannique",
-      "source": "RFI",
-      "publishedAt": "2026-10-14T19:18:27.000Z",
-      "summary": "Alors que l’Ukraine craint une nouvelle nuit de frappes russes, sans alerte de la part de ses alliés occidentaux. Volodymyr Zelensky s’est rendu ce mercredi 14 octobre à Londres, l’un des soutiens les plus assurés de Kiev. Alors que le président américain Donald Trump a ces dernières semaines appelé à son remplacement.",
-      "image": "https://s.rfi.fr/media/display/390e657a-c7f5-11f1-93f5-2d1c143cdef3/w:1024/p:16x9/AP26287579426267.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-president-ukrainien-volodymyr-zelensky-venu-a-londres-s-assurer-du-so-2d99946e5d.html"
+      "publishedAt": "2026-10-15T00:12:54.000Z",
+      "summary": "Des milliers de personnes ont manifesté mercredi à Bogota contre les politiques du président Abelardo de la Espriella. Le président, au pouvoir depuis août, s'est aligné sur Washington et veut démanteler les reformes de son prédécesseur, rappelle Pascale Mariani, correspondante de France 24 à Bogota. L'ambiance est ten",
+      "image": "https://s.france24.com/media/display/0bfd06d8-c820-11f1-a92c-d1d2c32ebb87/w:1024/p:16x9/NW262666-O-01-20261014-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/colombie-des-milliers-de-manifestants-dans-la-rue-contre-le-durcissement-6236f908f0.html"
     }
   ]
 }
