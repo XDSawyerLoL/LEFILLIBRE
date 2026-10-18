@@ -1,6 +1,53 @@
 {
-  "updatedAt": "2026-10-18T00:30:29.140Z",
+  "updatedAt": "2026-10-18T05:06:58.344Z",
   "items": [
+    {
+      "title": "IA: pourquoi il faut lui parler poliment",
+      "url": "https://www.rfi.fr/fr/technologies/20261018-ia-pourquoi-il-faut-lui-parler-poliment",
+      "source": "RFI",
+      "publishedAt": "2026-10-18T05:03:00.000Z",
+      "summary": "Insulter Claude AI pourrait bientôt coûter cher : son concepteur, Anthropic, interdit à partir du 12 novembre la « cruauté gratuite et répétée » envers son IA. Une règle qui peut sembler saugrenue, mais qui révèle un basculement plus profond : les laboratoires traitent le bien-être des modèles comme un enjeu de sécurit",
+      "image": "https://s.rfi.fr/media/display/8bd35358-c87a-11f1-83bb-2d1c143cdef3/w:1024/p:16x9/2026-10-13T100009Z-1525273854-RC2UNLA1K3E0-RTRMADP-3-AI-SAFETY-EVALUATORS.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ia-pourquoi-il-faut-lui-parler-poliment-7883aed4da.html"
+    },
+    {
+      "title": "Prix Caine: un auteur zimbabwéen primé et à son tour accusé d’avoir utilisé l’intelligence artificielle",
+      "url": "https://www.rfi.fr/fr/afrique/20261018-prix-caine-un-auteur-zimbabw%C3%A9en-prim%C3%A9-et-%C3%A0-son-tour-accus%C3%A9-d-avoir-utilis%C3%A9-l-intelligence-artificielle",
+      "source": "RFI",
+      "publishedAt": "2026-10-18T04:48:22.000Z",
+      "summary": "Le prix Caine récompense chaque année la meilleure nouvelle anglophone écrite par un auteur africain. Et pour 2026, c’est le Zimbabwéen Simbarashe Kundizeza qui l’a remporté au début du mois, avec son texte The Blue Fighter. « Une histoire puissante qui explore la paternité, l’ambition et les difficultés financières » ",
+      "image": "https://s.rfi.fr/media/display/68bcb370-7558-11f1-85de-005056bf30b7/w:1024/p:16x9/2026-06-23T015714Z-958100442-RC21P1AS0LL7-RTRMADP-3-AI-BASETEN.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/prix-caine-un-auteur-zimbabween-prime-et-a-son-tour-accuse-d-avoir-utili-956e2ef3af.html"
+    },
+    {
+      "title": "Gaza: la population face à une crise de l'eau qui n'en finit pas",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261018-gaza-la-population-face-%C3%A0-une-crise-de-l-eau-qui-n-en-finit-pas",
+      "source": "RFI",
+      "publishedAt": "2026-10-18T04:55:57.000Z",
+      "summary": "À Gaza, la crise de l’eau perdure après trois ans de conflit. Le seuil minimum d’eau par jour et par personne recommandé par l’ONU est de 15 litres environ. Selon les autorités de la bande de Gaza contrôlées par le Hamas, les Palestiniens de l'enclave n'ont accès qu'à la moitié. Les infrastructures nécessaires au stock",
+      "image": "https://s.rfi.fr/media/display/c88de520-caae-11f1-9e47-d1d2c32ebb87/w:1024/p:16x9/AP26280545242190.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gaza-la-population-face-a-une-crise-de-l-eau-qui-n-en-finit-pas-eef5318255.html"
+    },
+    {
+      "title": "À Rome et à Milan, plusieurs dizaines de milliers d'Italiens manifestent contre la vie chère",
+      "url": "https://www.rfi.fr/fr/europe/20261018-%C3%A0-rome-et-%C3%A0-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent-contre-la-vie-ch%C3%A8re",
+      "source": "RFI",
+      "publishedAt": "2026-10-18T03:00:59.000Z",
+      "summary": "Comme en France, une grande journée de mobilisation contre la hausse du coût de la vie s'est déroulée ce samedi 17 octobre en Italie. Alors que la manifestation organisée à Rome a rassemblé environ 100 000 personnes, le secrétaire général du syndicat CGIL, Maurizio Landini, a annoncé une journée de grève générale le 20",
+      "image": "https://s.rfi.fr/media/display/0e78a372-ca82-11f1-a637-638c1c1f5fd6/w:1024/p:16x9/AP26290630227600.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-rome-et-a-milan-plusieurs-dizaines-de-milliers-d-italiens-manifestent--de82ea8d8f.html"
+    },
+    {
+      "title": "\"No Kings\" : à Atlanta, une manifestation anti-Trump tournée vers les urnes",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261018-no-kings-%C3%A0-atlanta-une-manifestation-anti-trump-tourn%C3%A9e-vers-les-urnes",
+      "source": "France 24",
+      "publishedAt": "2026-10-18T01:29:23.000Z",
+      "summary": "Immigration, guerre en Iran, coût de la vie : à Atlanta, les manifestants de \"No Kings\" (\"Pas de rois\") dénoncent la politique de Donald Trump. Mais à trois semaines des élections de mi-mandat, le mouvement entend aussi transformer la colère en mobilisation citoyenne et encourager les Américains à se rendre aux urnes.",
+      "image": "https://s.france24.com/media/display/8a8fa932-ca88-11f1-a2fb-4dd8ac2cf3bf/w:1024/p:16x9/minia-trump-no-kings.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/no-kings-a-atlanta-une-manifestation-anti-trump-tournee-vers-les-urnes-dc09109bbb.html"
+    },
     {
       "title": "«La France tourne mal»: un 17 octobre marqué par une forte mobilisation sociale et des violences",
       "url": "https://www.rfi.fr/fr/france/20261017-la-france-tourne-mal-un-17-octobre-marqu%C3%A9-par-une-forte-mobilisation-sociale-et-des-violences",
@@ -9,60 +56,6 @@
       "summary": "Des centaines de milliers de personnes ont manifesté, samedi 17 octobre à travers la France, contre la « vie chère » et pour défendre les services publics. Le ministère de l'Intérieur a comptabilisé 550 000 participants, contre 800 000 selon les organisateurs. La mobilisation, qui réunissait notamment gilets jaunes, ly",
       "image": "https://s.rfi.fr/media/display/4c3f1fb4-ca79-11f1-8d60-6313a763b466/w:1024/p:16x9/2026-10-17T192550Z-1814175687-RC225OANEKJH-RTRMADP-3-FRANCE-PROTEST.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-france-tourne-mal-un-17-octobre-marque-par-une-forte-mobilisation-soc-49c08ec579.html"
-    },
-    {
-      "title": "Témoignage: Jean-Patrick Nourricier raconte sa nostalgie de l'Afrique, où il a grandi",
-      "url": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20261017-t%C3%A9moignage-jean-patrick-nourricier-raconte-sa-nostalgie-de-l-afrique-o%C3%B9-il-a-grandi",
-      "source": "RFI",
-      "publishedAt": "2026-10-17T22:43:07.000Z",
-      "summary": "De ses années passées en Afrique avec ses parents depuis sa tendre enfance, Jean-Patrick Nourricier a gardé un souvenir impérissable. Mais de tous ces pays d'accueil, dont la Côte d'Ivoire et le Togo, la Mauritanie a une place particulière dans son cœur. Jean-Patrick est aujourd'hui régisseur général et habite près de ",
-      "image": "https://s.rfi.fr/media/display/09a222bc-100b-11ea-93a4-005056bf7c53/w:1024/p:16x9/saudi_mosque_in_nouakchott_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/temoignage-jean-patrick-nourricier-raconte-sa-nostalgie-de-l-afrique-ou--f55b04e20e.html"
-    },
-    {
-      "title": "Plus de 3000 personnes à Tunis contre la vie chère et pour les libertés publiques",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261017-plus-de-3000-personnes-%C3%A0-tunis-contre-la-vie-ch%C3%A8re-et-pour-les-libert%C3%A9s-publiques",
-      "source": "France 24",
-      "publishedAt": "2026-10-17T21:13:59.000Z",
-      "summary": "En Tunisie, plusieurs milliers de manifestants ont répondu à l'appel de la Centrale syndicale l'UGTT et de neuf organisations de la société civile pour descendre dans la rue et dénoncer l'échec selon leurs mots de la politique menée par le président Kais Saied depuis 5 ans. En cause notamment, la détérioration de la si",
-      "image": "https://s.france24.com/media/display/f81f9218-ca66-11f1-b0c9-638c1c1f5fd6/w:1024/p:16x9/FRAN261017-2141-Live-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/plus-de-3000-personnes-a-tunis-contre-la-vie-chere-et-pour-les-libertes--38fc2c61df.html"
-    },
-    {
-      "title": "Limoges : l’historique hôtel de ville en flammes en marge des manifestations",
-      "url": "https://fr.euronews.com/2026/10/17/limoges-lhistorique-hotel-de-ville-en-flammes-en-marge-des-manifestations",
-      "source": "Euronews",
-      "publishedAt": "2026-10-17T21:00:38.000Z",
-      "summary": "L'hôtel de ville de Limoges, un bâtiment âgé de 143 ans en France centrale, a été incendié lors de troubles survenus après des manifestations nationales contre la vie chère.",
-      "image": "https://images.euronews.com/articles/stories/09/95/68/48/696x392_cmsv2_16375bf6-e39d-5f0e-bd95-e1916c571549-9956848.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/limoges-l-historique-hotel-de-ville-en-flammes-en-marge-des-manifestatio-02c0fc7f4d.html"
-    },
-    {
-      "title": "Mobilisation massive en France contre la vie chère suivie de scènes de chaos",
-      "url": "https://www.france24.com/fr/france/20261017-affrontements-incendies-sc%C3%A8nes-de-chaos-%C3%A0-l-issue-des-manifestations-contre-la-vie-ch%C3%A8re-macron-melenchon-paris",
-      "source": "France 24",
-      "publishedAt": "2026-10-17T20:29:14.000Z",
-      "summary": "Entre 550 000 et 800 000 personnes ont manifesté samedi en France contre la vie chère, selon la police et les organisateurs. Mais la mobilisation a été marquée par des violences, des pillages et des dégradations dans plusieurs villes. L'exécutif dénonce des scènes de chaos, tandis qu’environ 1 200 interpellations ont é",
-      "image": "https://s.france24.com/media/display/fade05d4-ca34-11f1-a821-6313a763b466/w:1024/p:16x9/000-D3KU7LC.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisation-massive-en-france-contre-la-vie-chere-suivie-de-scenes-de-c-d5a3fff060.html"
-    },
-    {
-      "title": "Pour l'Ukraine, en levant certaines sanctions, Trump «encourage» la Russie à continuer ses attaques",
-      "url": "https://www.rfi.fr/fr/europe/20261017-pour-l-ukraine-trump-encourage-la-russie-de-continuer-%C3%A0-attaquer-en-levant-certaines-sanctions",
-      "source": "RFI",
-      "publishedAt": "2026-10-17T20:12:14.000Z",
-      "summary": "L'Ukraine réagit aux dernières décisions de Donald Trump. Alors que Moscou a lancé l'une de ses plus grandes attaques contre les infrastructures énergétiques ukrainiennes, le président ukrainien s'est exprimé sur l'alignement américain avec Moscou. Selon lui, exempter la Russie de nouvelles sanctions majeures est un « ",
-      "image": "https://s.rfi.fr/media/display/d5763e42-ca66-11f1-826e-4dd8ac2cf3bf/w:1024/p:16x9/UKRAINE-GUERRE-RUSSIE-KIEV.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pour-l-ukraine-en-levant-certaines-sanctions-trump-encourage-la-russie-a-a0d2013b02.html"
-    },
-    {
-      "title": "Le Giec, «en crise», échoue à fixer la date de publication de son prochain grand rapport",
-      "url": "https://www.rfi.fr/fr/environnement/20261017-le-giec-en-crise-%C3%A9choue-%C3%A0-fixer-la-date-de-publication-de-son-prochain-grand-rapport",
-      "source": "RFI",
-      "publishedAt": "2026-10-17T19:06:56.000Z",
-      "summary": "Les membres du Groupe intergouvernemental d'experts du climat (Giec), qui travaillent sous l'égide de l'ONU et qui étaient réunis cette semaine en plénière à Addis-Abeba, en Éthiopie, ont échoué à se mettre d'accord sur la date de publication de leur prochain rapport. Des pays bloquent le calendrier. Un blocage politiq",
-      "image": "https://s.rfi.fr/media/display/a3d63fd2-0d34-11ea-9dd4-005056bfe576/w:1024/p:16x9/800px-Aerials_Ethiopia_2009-08-27_15-26-13_0.gif",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-giec-en-crise-echoue-a-fixer-la-date-de-publication-de-son-prochain-g-b5e31dc992.html"
     }
   ]
 }
