@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-19T19:54:01.415Z",
+  "updatedAt": "2026-10-19T23:13:30.301Z",
   "items": [
+    {
+      "title": "OVHcloud alerte ses clients : changez tous les secrets stockés sur votre PC",
+      "url": "https://www.frandroid.com/culture-tech/securite-applications/3291645_ovhcloud-alerte-ses-clients-changez-tous-les-secrets-stockes-sur-votre-pc",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-19T20:51:56.000Z",
+      "summary": "Le 19 octobre 2026, un pirate a glissé un programme dans l'outil officiel en ligne de commande d'OVHcloud. Il est passé par le compte GitHub d'un développeur de l'entreprise.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/2019-dec-fr-paris-image-0116-bd.jpg?resize=1200,675&key=a23b060b",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ovhcloud-alerte-ses-clients-changez-tous-les-secrets-stockes-sur-votre-p-ccb0c81d4e.html"
+    },
     {
       "title": "Premier Mac tactile en vue : Apple envoie ses invitations pour le 28 octobre",
       "url": "https://www.frandroid.com/marques/apple/3291621_premier-mac-tactile-en-vue-apple-envoie-ses-invitations-pour-le-28-octobre",
@@ -12,14 +22,58 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/premier-mac-tactile-en-vue-apple-envoie-ses-invitations-pour-le-28-octob-d9740f03e2.html"
     },
     {
-      "title": "BoursoBank (2026) : ce que l’on pense de la banque en ligne n°1 de France",
-      "url": "https://www.frandroid.com/services/banque-en-ligne/701825_boursorama-banque-notre-avis-sur-cette-banque-en-ligne",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-19T18:36:19.000Z",
-      "summary": "BoursoBank, la banque en ligne de la Société Générale, revendique 9,1 millions de clients à fin juin 2026, ce qui en fait la première banque en ligne en France. Alors, est-elle à la hauteur de sa réputation ? Voici notre avis sur ce que vaut BoursoBank en 2026.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/09/avis-boursobank.jpg?resize=1200,675&key=6e750e11",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/boursobank-2026-ce-que-l-on-pense-de-la-banque-en-ligne-n-1-de-france-e989b7a7d5.html"
+      "title": "Des pluies intenses provoquent des inondations meurtrières dans l'est de Espagne",
+      "url": "https://www.france24.com/fr/europe/20261019-espagne-pluies-inondations-quatre-morts-valence",
+      "source": "France 24",
+      "publishedAt": "2026-10-19T22:28:55.000Z",
+      "summary": "Des pluies diluviennes ont transformé certaines rues en torrents dans l'est de l'Espagne où des centaines d'opérations de sauvetage ont été menées. Le bilan était de quatre morts lundi soir. Les autorités demandent à la population de la région de Valence de rester chez elle.",
+      "image": "https://s.france24.com/media/display/5ff9c2b8-cc0c-11f1-9977-6313a763b466/w:1024/p:16x9/2026-10-19T192543Z-1902429832-RC2I6OAJNUOO-RTRMADP-3-EUROPE-WEATHER-SPAIN-1.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-pluies-intenses-provoquent-des-inondations-meurtrieres-dans-l-est-de-9b782044f4.html"
+    },
+    {
+      "title": "Manifestations du 17 octobre : près de 3000 commerces vandalisés",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261019-manifestations-du-17-octobre-pr%C3%A8s-de-3000-commerces-vandalis%C3%A9s",
+      "source": "France 24",
+      "publishedAt": "2026-10-19T22:16:31.000Z",
+      "summary": "Selon les premiers bilans, près de 3.000 commerces, restaurants et hôtels auraient été pris pour cible par des pillards en marge des manifestations du 17 octobre, il y en aurait pour des centaines de millions d'euros de dégâts. Le gouvernement a annoncé plusieurs mesures pour accompagner les commerces touchés : chômage",
+      "image": "https://s.france24.com/media/display/90849a7e-cc08-11f1-833e-6313a763b466/w:1024/p:16x9/XX-NW-OOV-ECO-DEGATS-COMMERCES-MANENT-Laure-transfer.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-du-17-octobre-pres-de-3000-commerces-vandalises-985d09daf7.html"
+    },
+    {
+      "title": "Au Sénégal, des appels à manifester et à une grève générale juste avant les JOJ",
+      "url": "https://www.france24.com/fr/afrique/20261019-senegal-appels-manifester-greve-generale-juste-avant-joj-jeux-olympiques-jeunesse-syndicats",
+      "source": "France 24",
+      "publishedAt": "2026-10-19T21:46:43.000Z",
+      "summary": "Le Front syndical pour la défense des travailleurs prévoit une marche mardi à Dakar puis trois jours de grève générale dès mercredi pour exiger l’application d’accords sur les retraites, les primes et l’indemnité logement. Le gouvernement sénégalais appelle au dialogue alors que doivent s'ouvrir, le 31 octobre, les Jeu",
+      "image": "https://s.france24.com/media/display/5dbc66aa-cc06-11f1-9220-6313a763b466/w:1024/p:16x9/000-C7ZU3R6.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-senegal-des-appels-a-manifester-et-a-une-greve-generale-juste-avant-l-bd38677fdc.html"
+    },
+    {
+      "title": "17 octobre : un couple d'octogénaires agressé et dépouillé à Paris ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261019-17-octobre-un-couple-d-octog%C3%A9naires-agress%C3%A9-et-d%C3%A9pouill%C3%A9-%C3%A0-paris",
+      "source": "France 24",
+      "publishedAt": "2026-10-19T21:37:28.000Z",
+      "summary": "Depuis la manifestation du 17 octobre à Paris, des clichés montrant un couple de personnes âgées en sous-vêtements, prétendument dépouillé par des manifestants, cumulent des millions de vues sur les réseaux sociaux. Relayées par des comptes proches de l’extrême droite, ces photos présentent pourtant toutes les anomalie",
+      "image": "https://s.france24.com/media/display/f90d2f8a-cc02-11f1-81e1-6313a763b466/w:1024/p:16x9/FR-20261019-222150-222654-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/17-octobre-un-couple-d-octogenaires-agresse-et-depouille-a-paris-33f6c5ff01.html"
+    },
+    {
+      "title": "Espagne: au moins quatre morts dans des pluies torrentielles et des inondations dans l'Est",
+      "url": "https://www.rfi.fr/fr/europe/20261019-espagne-au-moins-quatre-morts-dans-des-pluies-torrentielles-et-des-inondations-dans-l-est",
+      "source": "RFI",
+      "publishedAt": "2026-10-19T20:40:36.000Z",
+      "summary": "L'Espagne est touchée, depuis dimanche 18 octobre, par de monumentales inondations dans l'Est du pays. Des pluies considérables ont d'abord commencé à s'abattre sur la Catalogne il y a une semaine. Mais désormais, c'est un phénomène météorologique connue comme « goutte froide » (désignée sous l'acronyme DANA en Espagne",
+      "image": "https://s.rfi.fr/media/display/ff31b36e-cbfc-11f1-99e0-4dd8ac2cf3bf/w:1024/p:16x9/ESPAGNE-INONDATIONS-INTEMPERIES-OLIVA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-au-moins-quatre-morts-dans-des-pluies-torrentielles-et-des-inond-51476dce05.html"
+    },
+    {
+      "title": "À l'approche des législatives en Israël, Netanyahu met en avant son alliance avec Trump",
+      "url": "https://www.france24.com/fr/moyen-orient/20261019-%C3%A0-l-approche-des-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-met-en-avant-son-alliance-avec-trump",
+      "source": "France 24",
+      "publishedAt": "2026-10-19T20:35:46.000Z",
+      "summary": "En pleine campagne pour les élections législatives en Israël, Benjamin Netanyahu a affiché, lundi, sa proximité avec Donald Trump en diffusant sur ses réseaux sociaux un appel entre lui et le président américain. Ce dernier lui prédit une \"victoire éclatante\" lours du scrutin du 27 octobre, qui s'annonce très serré dan",
+      "image": "https://s.france24.com/media/display/833ba96a-cbfa-11f1-87dc-4dd8ac2cf3bf/w:1024/p:16x9/AP26291551882349.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-l-approche-des-legislatives-en-israel-netanyahu-met-en-avant-son-allia-10b000cb5c.html"
     },
     {
       "title": "Manifestations en France: «dès qu'il y a un problème social», la droite européenne «rend les politiques migratoires responsables»",
@@ -47,122 +101,14 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-l-ombre-d-elon-musk-plane-sur-le-nouveau-proces-du-militant--066ddd324a.html"
     },
     {
-      "title": "Nouvelle-Calédonie: accord avec l'UE dans la filière nickel, malgré la désapprobation des indépendantistes",
-      "url": "https://www.rfi.fr/fr/france/20261019-nouvelle-cal%C3%A9donie-accord-avec-l-ue-dans-la-fili%C3%A8re-nickel-malgr%C3%A9-la-d%C3%A9sapprobation-des-ind%C3%A9pendantistes",
-      "source": "RFI",
-      "publishedAt": "2026-10-19T17:00:56.000Z",
-      "summary": "Stéphane Séjourné, vice-président exécutif de la Commission européenne, a défendu, lundi 19 octobre au Congrès calédonien, un partenariat stratégique avec l'Union européenne concernant la filière nickel. Les indépendantistes, qui s'y opposent, ont boycotté la séance.",
-      "image": "https://s.rfi.fr/media/display/657dda16-4b36-11ef-848a-005056a97e36/w:1024/p:16x9/000_34UU3PF.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-caledonie-accord-avec-l-ue-dans-la-filiere-nickel-malgre-la-des-306913153f.html"
-    },
-    {
-      "title": "17-Octobre : le Rassemblement national se pose en parti de l'ordre face au gouvernement et à LFI",
-      "url": "https://www.france24.com/fr/france/20261019-france-17-octobre-face-au-chaos-rassemblement-national-se-pose-en-parti-de-l-ordre-face-au-gouvernement-et-lfi",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T16:37:00.000Z",
-      "summary": "Marine Le Pen et Jordan Bardella accusent le gouvernement d'impuissance et La France insoumise d'encourager les casseurs. Surfant sur les images de chaos qui ont rythmé le weekend, les dirigeants du Rassemblement national tentent de capitaliser en se présentant comme le parti de l'ordre, sans pour autant formuler des p",
-      "image": "https://s.france24.com/media/display/b7f9bc3c-cbcd-11f1-ad51-638c1c1f5fd6/w:1024/p:16x9/000-D3PM9D7.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/17-octobre-le-rassemblement-national-se-pose-en-parti-de-l-ordre-face-au-6a7e1bb5c5.html"
-    },
-    {
-      "title": "Manifestations en France : les dessous de la récupération politique par Trump et J.D. Vance",
-      "url": "https://www.france24.com/fr/europe/20261019-manifestations-violence-france-dessous-de-la-r%C3%A9cup%C3%A9ration-politique-par-trump-et-j-d-vance-maga",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T15:56:59.000Z",
-      "summary": "Le président américain Donald Trump et son vice-président J.D. Vance cherchent à présenter le mouvement lycéen et les manifestations du 17 octobre comme le résultat d'une crise migratoire. Une instrumentalisation de la situation qui sert les intérêts du mouvement Maga.",
-      "image": "https://s.france24.com/media/display/7773ab08-cbca-11f1-bf48-638c1c1f5fd6/w:1024/p:16x9/trump-vance-manif.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-les-dessous-de-la-recuperation-politique-par-tr-57d20c4508.html"
-    },
-    {
-      "title": "Commerces saccagés : chômage partiel, fonds de soutien… les aides annoncées par le gouvernement",
-      "url": "https://www.france24.com/fr/france/20261019-commerces-saccag%C3%A9s-ch%C3%B4mage-partiel-fonds-de-soutien-les-aides-annonc%C3%A9es-par-le-gouvernement",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T15:45:36.000Z",
-      "summary": "Alors que 3 000 commerces ont été dégradés et pillés le 17 octobre, les représentants du secteur commercial français, reçus par le ministre du Commerce, ont rapidement obtenu des annonces de mesures de soutien exceptionnelles : la création d'un fonds spécifique et la prise en charge du chômage partiel des salariés à 10",
-      "image": "https://s.france24.com/media/display/50d9795c-cbcd-11f1-8342-d1d2c32ebb87/w:1024/p:16x9/2026-10-18T121231Z-1072358470-RC2O5OALVSAX-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/commerces-saccages-chomage-partiel-fonds-de-soutien-les-aides-annoncees--d0ffc7afa7.html"
-    },
-    {
-      "title": "Chine : la capitale demande \"un renforcement de la sécurité\" en France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-chine-la-capitale-demande-un-renforcement-de-la-s%C3%A9curit%C3%A9-en-france",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T15:45:23.000Z",
-      "summary": "En Chine, État pratiquant une censure stricte, la diffusion des images des manifestations françaises du week-end dernier soulève des interrogations quant aux raisons de cette médiatisation. Les précisions de Baptiste Fallevoz, correspondant France 24 à Pékin.",
-      "image": "https://s.france24.com/media/display/28b26816-cbd3-11f1-a28a-4dd8ac2cf3bf/w:1024/p:16x9/FR-20261019-163420-163735-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chine-la-capitale-demande-un-renforcement-de-la-securite-en-france-e1eb1848fe.html"
-    },
-    {
-      "title": "Finale Maroc -Sénégal de la CAN 2025 : le TAS ne rendra sa décision que \"fin novembre\"",
-      "url": "https://www.france24.com/fr/sports/20261019-finale-maroc-s%C3%A9n%C3%A9gal-de-la-can-2025-le-tas-ne-rendra-sa-d%C3%A9cision-que-fin-novembre",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T15:31:26.000Z",
-      "summary": "Près d'un an après la finale de la CAN 2025, le Tribunal arbitral du sport a indiqué, lundi, dans un communiqué, qu'il annoncera \"fin novembre\" sa décision sur le recours sénégalais contre la victoire du Maroc sur tapis vert.",
-      "image": "https://s.france24.com/media/display/fa62b6dc-cbc3-11f1-b133-6313a763b466/w:1024/p:16x9/000-34J89NT-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/finale-maroc-senegal-de-la-can-2025-le-tas-ne-rendra-sa-decision-que-fin-fd11e3a209.html"
-    },
-    {
-      "title": "Narcotrafic en France : ouverture du procès de l'assasinat du frère d'Amine Kessaci",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-narcotrafic-en-france-ouverture-du-proc%C3%A8s-de-l-assasinat-du-fr%C3%A8re-d-amine-kessaci",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T15:27:33.000Z",
-      "summary": "Lors de l'ouverture du procès, lundi 19 octobre, d'un triple narchomicide perpétré en 2020, les accusés ont nié toute implication au cours du premier face-à-face avec les proches des victimes, dont Amine Kessaci, figure de la lutte antitrafic, dont le grand frère Brahim a été tué dans ce crime particulièrement atroce.",
-      "image": "https://s.france24.com/media/display/84025cda-cbce-11f1-bdbb-4dd8ac2cf3bf/w:1024/p:16x9/FR-20261019-162355-162545-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/narcotrafic-en-france-ouverture-du-proces-de-l-assasinat-du-frere-d-amin-8fae2924e9.html"
-    },
-    {
-      "title": "17 octobre : quelle reprise en main possible pour l'État français ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-17-octobre-quelle-reprise-en-main-possible-pour-l-%C3%A9tat-fran%C3%A7ais",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T15:23:35.000Z",
-      "summary": "Á l'heure où l'exécutif est sous la pression des oppositions, le gouvernement tente de répondre à propos des violences vécus par les commerçants : \"ma détermination, à rétablir l'ordre est totale\" a d'ailleurs affirmé Sébastien Lecornu ce lundi 19 octobre. Les explications de Laurent Frajerman, sociologue et professeur",
-      "image": "https://s.france24.com/media/display/b3c6c128-cbc3-11f1-81b3-4dd8ac2cf3bf/w:1024/p:16x9/FR-20261019-130028-132726-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/17-octobre-quelle-reprise-en-main-possible-pour-l-etat-francais-81dab092dd.html"
-    },
-    {
-      "title": "France : des couvre-feux \"localisés\" après les scènes de chaos du week-end",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-france-des-couvre-feux-localis%C3%A9s-apr%C3%A8s-les-sc%C3%A8nes-de-chaos-du-week-end",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T15:22:03.000Z",
-      "summary": "Après les #violences et les #pillages du week-end, le #gouvernement français annonce des couvre-feux localisés, des aides aux commerces touchés et un renforcement des moyens judiciaires, sans exclure un état d’urgence.",
-      "image": "https://s.france24.com/media/display/59e80144-cbcd-11f1-b055-638c1c1f5fd6/w:1024/p:16x9/couvrefeu-00-03-10-09-Still001.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-des-couvre-feux-localises-apres-les-scenes-de-chaos-du-week-end-2abfaa3eb7.html"
-    },
-    {
-      "title": "Kenya : un huitième cas du virus Ebola a été recensé",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-kenya-un-huiti%C3%A8me-cas-du-virus-ebola-a-%C3%A9t%C3%A9-recens%C3%A9",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T15:04:39.000Z",
-      "summary": "Un nouveau cas d'Ebola a été confirmé dimanche 18 octobre au Kenya, a indiqué un haut responsable du ministère de la Santé, portant le total à huit cas, dont un décès dans le pays. Sur les 130 cas contacts du premier patient identifiés par les autorités sanitaires kényanes le samedi 17 octobre, 128 ont été retrouvés et",
-      "image": "https://s.france24.com/media/display/15cfd774-cbce-11f1-a6e7-d1d2c32ebb87/w:1024/p:16x9/2026-10-14T155723Z-1775272671-RC22ZNATP2R3-RTRMADP-3-HEALTH-EBOLA-KENYA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/kenya-un-huitieme-cas-du-virus-ebola-a-ete-recense-5f3d498874.html"
-    },
-    {
-      "title": "Un couple d'octogénaires agressé et dénudé à Paris ? Des photos générées par IA",
-      "url": "https://www.france24.com/fr/france/20261019-couple-d-octog%C3%A9naires-agress%C3%A9-et-d%C3%A9nud%C3%A9-%C3%A0-paris-photos-g%C3%A9n%C3%A9r%C3%A9es-par-ia",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T14:59:09.000Z",
-      "summary": "Au lendemain de la journée de manifestation et de violences qui a eu lieu le 17 octobre dans toute la France, une image d'un couple d'octogénaires agressé et dévêtu en pleine rue a été partagée par des comptes d'actualité et d'extrême droite étrangers. Elle s’avère générée par IA.",
-      "image": "https://s.france24.com/media/display/19b514b8-cbc8-11f1-ac4e-4dd8ac2cf3bf/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-20.png",
+      "title": "BoursoBank (2026) : ce que l’on pense de la banque en ligne n°1 de France",
+      "url": "https://www.frandroid.com/services/banque-en-ligne/701825_boursorama-banque-notre-avis-sur-cette-banque-en-ligne",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-19T18:36:19.000Z",
+      "summary": "BoursoBank, la banque en ligne de la Société Générale, revendique 9,1 millions de clients à fin juin 2026, ce qui en fait la première banque en ligne en France. Alors, est-elle à la hauteur de sa réputation ? Voici notre avis sur ce que vaut BoursoBank en 2026.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/09/avis-boursobank.jpg?resize=1200,675&key=6e750e11",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-couple-d-octogenaires-agresse-et-denude-a-paris-des-photos-generees-p-caf153d2a3.html"
-    },
-    {
-      "title": "CAN 2025: le TAS donnera sa décision «fin novembre» sur la finale Maroc-Sénégal",
-      "url": "https://www.rfi.fr/fr/afrique-foot/20261019-can-2025-le-tas-donnera-sa-d%C3%A9cision-fin-novembre-sur-la-finale-maroc-s%C3%A9n%C3%A9gal",
-      "source": "RFI",
-      "publishedAt": "2026-10-19T14:38:04.000Z",
-      "summary": "Quasiment un an après la finale de la CAN 2025, le Tribunal arbitral du sport (TAS) annoncera « fin novembre » sa décision sur le recours sénégalais contre la victoire du Maroc sur tapis vert, a indiqué lundi 19 octobre cette juridiction.",
-      "image": "https://s.rfi.fr/media/display/e8862212-22f1-11f1-895b-005056a97e36/w:1024/p:16x9/000-936G4CV.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/can-2025-le-tas-donnera-sa-decision-fin-novembre-sur-la-finale-maroc-sen-6286600284.html"
-    },
-    {
-      "title": "\"Acte II\" le 24 octobre, mobilisation le 5 novembre ... À quoi s'attendre pour la suite du mouvement ?",
-      "url": "https://www.france24.com/fr/france/20261019-acte-ii-le-24-octobre-mobilisation-le-5-novembre-%C3%A0-quoi-s-attendre-pour-la-suite-du-mouvement",
-      "source": "France 24",
-      "publishedAt": "2026-10-19T14:34:13.000Z",
-      "summary": "Après la mobilisation de samedi, des gilets jaunes ont appelé à un \"acte II\" samedi 24 octobre ainsi que le 31 octobre. La plateforme participative 17octobregiletjaune.net recense d'ores et déjà plusieurs dizaines d'actions. Les syndicats, de leur côté, maintiennent leur appel à une grande mobilisation le 5 novembre.",
-      "image": "https://s.france24.com/media/display/912dad72-cbc6-11f1-948e-4dd8ac2cf3bf/w:1024/p:16x9/000-D3K887M-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/acte-ii-le-24-octobre-mobilisation-le-5-novembre-a-quoi-s-attendre-pour--8c7e032da6.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/boursobank-2026-ce-que-l-on-pense-de-la-banque-en-ligne-n-1-de-france-e989b7a7d5.html"
     }
   ]
 }
