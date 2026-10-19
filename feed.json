@@ -1,82 +1,172 @@
 {
-  "updatedAt": "2026-10-19T01:40:28.059Z",
+  "updatedAt": "2026-10-19T06:48:48.964Z",
   "items": [
     {
-      "title": "Votre Plex mine de la crypto Monero à votre insu : voici comment c’est possible",
-      "url": "https://www.frandroid.com/culture-tech/securite-applications/3290191_votre-plex-mine-de-la-crypto-monero-a-votre-insu-voici-comment-cest-possible",
+      "title": "« Apple a fait une grosse erreur » sur les précommandes de l’iPhone Duo",
+      "url": "https://www.frandroid.com/marques/apple/3290205_apple-a-fait-une-grosse-erreur-sur-les-precommandes-de-liphone-duo",
       "source": "Frandroid",
-      "publishedAt": "2026-10-18T21:30:44.000Z",
-      "summary": "Quatre failles Plex combinées permettent de prendre le contrôle d'un serveur multimédia exposé sur Internet, sans mot de passe. Le code d'attaque est public depuis ce vendredi 16 octobre, et des pirates l'utilisent déjà pour installer un mineur de cryptomonnaie.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-213.png?resize=1200,675&key=5ba97e0a",
+      "publishedAt": "2026-10-19T06:41:26.000Z",
+      "summary": "Les précommandes de l'iPhone Duo ont ouvert le 16 octobre. En très peu de temps, les délais de livraison avaient déjà été repoussés jusqu'à fin janvier 2027. Pour Mark Gurman, de Bloomberg, Apple savait que ses stocks ne suffiraient pas, mais a insisté quand même pour un lancement en octobre.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/apple-iphone-duo-1.jpg?resize=1200,675&key=35de6d59",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/votre-plex-mine-de-la-crypto-monero-a-votre-insu-voici-comment-c-est-pos-f0ee04a215.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apple-a-fait-une-grosse-erreur-sur-les-precommandes-de-l-iphone-duo-d37eac92b3.html"
     },
     {
-      "title": "Samsung voudrait tout changer avec One UI 10, à commencer par le Galaxy Z Fold 9",
-      "url": "https://www.frandroid.com/marques/samsung/3290067_samsung-voudrait-tout-changer-avec-one-ui-10-a-commencer-par-le-galaxy-z-fold-9",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-18T20:53:21.000Z",
-      "summary": "Samsung préparerait pour 2027, voire début 2028, une refonte « sans précédent » de son interface avec One UI 10, d'après le leaker Ice Universe et une source interne citée par le site Nokia Power User. Depuis le lancement de One UI en 2018, l'interface des Galaxy n'a eu droit qu'à des retouches annuelles.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-212.png?resize=1200,675&key=7c3d2f57",
+      "title": "Des pirates se servent peut-être de votre serveur Plex pour miner des cryptos",
+      "url": "https://www.01net.com/actualites/pirates-servent-peut-etre-serveur-plex-miner-cryptos.html",
+      "source": "01net",
+      "publishedAt": "2026-10-19T06:31:06.000Z",
+      "summary": "Des pirates exploitent actuellement plusieurs failles de Plex Media Server. Grâce aux vulnérabilités dénichées, ils parviennent à installer un logiciel taillé pour miner des cryptomonnaies à l'insu des utilisateurs. Pour endiguer les attaques, un correctif a été déployé.",
+      "image": "https://www.01net.com/app/uploads/2026/06/Canva-1920x1280-2-1344x896.jpeg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/samsung-voudrait-tout-changer-avec-one-ui-10-a-commencer-par-le-galaxy-z-e55c6f1628.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-pirates-se-servent-peut-etre-de-votre-serveur-plex-pour-miner-des-cr-be569f9d27.html"
     },
     {
-      "title": "Sahara occidental: le Polisario conteste l'envoyé spécial de l'ONU",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261018-sahara-occidental-le-polisario-conteste-l-envoy%C3%A9-sp%C3%A9cial-de-l-onu",
+      "title": "Chaos du 17 octobre : \"Comment en est-on arrivé là ?\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261019-chaos-du-17-octobre-france-manifestations-casseurs-pilleurs",
       "source": "France 24",
-      "publishedAt": "2026-10-18T21:27:56.000Z",
-      "summary": "À deux semaines du vote du prolongement ou non du mandat de la Mission des Nations unies pour l'organisation d'un référendum au Sahara occidental (Minurso), le Front Polisario s'est fendu d'un communiqué mardi 13 octobre à la suite des dernières réunions à huis clos du Conseil de sécurité de l'ONU. Le mouvement indépen",
-      "image": "https://s.france24.com/media/display/e34a67ae-cb2f-11f1-85ba-4dd8ac2cf3bf/w:1024/p:16x9/FRAN261018-2140-Live-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sahara-occidental-le-polisario-conteste-l-envoye-special-de-l-onu-edacb7d3c9.html"
+      "publishedAt": "2026-10-19T06:31:27.000Z",
+      "summary": "À la une de la presse ce lundi 19 octobre les manifestations et les scènes de violence dans toute la France ce week-end, les forces de l’ordre dépassées, les commerçants désemparés, et ce qu’en dit la presse européenne.",
+      "image": "https://s.france24.com/media/display/3a4da218-cb81-11f1-9a5f-4dd8ac2cf3bf/w:1024/p:16x9/FRAN261019-0715-Live-CS0715.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chaos-du-17-octobre-comment-en-est-on-arrive-la-faa75be501.html"
     },
     {
-      "title": "Nvidia jure que la RTX 5090 n’est pas arrêtée, juste rationnée",
-      "url": "https://www.frandroid.com/marques/nvidia/3290057_nvidia-jure-que-la-rtx-5090-nest-pas-arretee-juste-rationnee",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-18T20:47:10.000Z",
-      "summary": "Jeff Fisher, vice-président senior de Nvidia, a démenti le 16 octobre à Taipei l'arrêt de la RTX 5090, mais il a reconnu dans la même réponse que la chaîne d'approvisionnement ne suivait pas. La carte venait de disparaître de la boutique en ligne américaine de Nvidia.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/01/nvidia-geforce-rtx-5090-boitier.jpeg?resize=1200,675&key=770f8547",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nvidia-jure-que-la-rtx-5090-n-est-pas-arretee-juste-rationnee-453d6ddb6c.html"
-    },
-    {
-      "title": "Pillages, affrontements, gaz lacrymogènes... de nouvelles violences à Paris, Lyon et Marseille",
-      "url": "https://www.france24.com/fr/france/20261018-pillages-affrontements-gaz-lacrymog%C3%A8nes-de-nouvelles-violences-%C3%A0-paris-lyon-et-marseille",
+      "title": "🔴 En direct : \"Oui, il y a eu une perte de contrôle\" de la police dans certaines villes, admet Laurent Nuñez",
+      "url": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
       "source": "France 24",
-      "publishedAt": "2026-10-18T20:39:08.000Z",
-      "summary": "Au lendemain des violences des casseurs, en marge des manifestations du 17 octobre, de nouveaux affrontements et pillages ont éclaté dimanche à Paris, notamment autour de la place de la République et dans le centre-ville. Des magasins ont été pris pour cible. Des incidents ont également été signalés à Lyon et à Marseil",
-      "image": "https://s.france24.com/media/display/2aba8900-cb32-11f1-bd41-2d1c143cdef3/w:1024/p:16x9/000-D3NK848.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pillages-affrontements-gaz-lacrymogenes-de-nouvelles-violences-a-paris-l-67b000a37f.html"
+      "publishedAt": "2026-10-19T06:20:07.000Z",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-oui-il-y-a-eu-une-perte-de-controle-de-la-police-dans-certaine-5af2710285.html"
     },
     {
-      "title": "«Honte et colère»: après les violences du 17 octobre en France, Macron promet fermeté et dialogue",
-      "url": "https://www.rfi.fr/fr/france/20261018-honte-et-col%C3%A8re-apr%C3%A8s-les-violences-du-17-octobre-en-france-macron-promet-fermet%C3%A9-et-dialogue",
+      "title": "Présidentielle au Brésil: entre Lula et Flavio Bolsonaro, un premier débat télévisé stérile et violent",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261019-pr%C3%A9sidentielle-au-br%C3%A9sil-entre-lula-et-flavio-bolsonaro-un-premier-d%C3%A9bat-t%C3%A9l%C3%A9vis%C3%A9-st%C3%A9rile-et-violent",
       "source": "RFI",
-      "publishedAt": "2026-10-18T19:57:12.000Z",
-      "summary": "Emmanuel Macron a pris la parole depuis l'Élysée, dimanche 18 octobre, au lendemain d'une journée de mobilisation contre la « vie chère » marquée par de graves débordements dans plusieurs villes de France. Alors que de nouveaux heurts ont éclaté dans la journée, le président de la République a assuré que les auteurs de",
-      "image": "https://s.rfi.fr/media/display/090f1360-cb2e-11f1-84f4-4dd8ac2cf3bf/w:1024/p:16x9/FRANCE-MACRON-ALLOCUTION-ELYSEE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/honte-et-colere-apres-les-violences-du-17-octobre-en-france-macron-prome-9a6c85bbbd.html"
+      "publishedAt": "2026-10-19T06:18:57.000Z",
+      "summary": "À moins d'une semaine du second tour, l’actuel président Lula et son adversaire Flavio Bolsonaro se sont retrouvés face à face pour un débat télévisé. Une première, alors que les deux candidats sont au coude à coude dans les sondages. Le débat a davantage tourné autour d’attaques personnelles que du débat d’idées.",
+      "image": "https://s.rfi.fr/media/display/c90b069e-cb7c-11f1-b36f-6313a763b466/w:1024/p:16x9/AP26292009825551.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-entre-lula-et-flavio-bolsonaro-un-premier-debat-8516c75719.html"
     },
     {
-      "title": "Google TV lent et envahi par les pubs : le projet tv-vibehack corrige tout ça grâce à l’IA, j’ai tenté l’expérience",
-      "url": "https://www.frandroid.com/android/google-tv/3290159_google-tv-lent-et-envahi-par-les-pubs-le-projet-tv-vibehack-corrige-tout-ca-grace-a-lia-jai-tente-lexperience",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-18T20:43:09.000Z",
-      "summary": "Un dépôt GitHub, une IA et dix minutes&nbsp;: il ne m'en a pas fallu plus pour débarrasser ma télé Philips de ses pubs et lui offrir un accueil façon Apple TV. Ça marche très bien, à condition de savoir ce qu'on touche.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/img-0763.jpeg?resize=1200,675&key=d6cff97a",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-tv-lent-et-envahi-par-les-pubs-le-projet-tv-vibehack-corrige-tout-70b36bacef.html"
+      "title": "Mobilisation en France: Emmanuel Macron admet des «défaillances» mais refuse le départ de Laurent Nuñez",
+      "url": "https://www.rfi.fr/fr/france/20261019-mobilisation-en-france-emmanuel-macron-reconna%C3%AEt-d%C3%A9faillances-mais-refuse-la-d%C3%A9mission-du-ministre-de-l-int%C3%A9rieur",
+      "source": "RFI",
+      "publishedAt": "2026-10-19T06:09:32.000Z",
+      "summary": "Emmanuel Macron, sous pression après les violences du week-end en France, a reconnu lundi 19 octobre des « défaillances d'anticipation et de renseignements » dans la gestion des manifestations, demandant à la police d'adapter ses méthodes face aux « casseurs ». Le président français a néanmoins refusé la démission de s",
+      "image": "https://s.rfi.fr/media/display/09e06cb2-cb83-11f1-868f-d1d2c32ebb87/w:1024/p:16x9/000-D3NB77X.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisation-en-france-emmanuel-macron-admet-des-defaillances-mais-refus-a8c0cc30b2.html"
     },
     {
-      "title": "Super Nt+ et Mega Sg+ : Analogue relance ses consoles Super Nintendo et Mega Drive, sans fil cette fois",
-      "url": "https://www.frandroid.com/produits-android/console/console-de-jeux/3289995_super-nt-et-mega-sg-analogue-relance-ses-consoles-super-nintendo-et-mega-drive-sans-fil-cette-fois",
+      "title": "Ukraine : Marco Rubio appelle Volodymyr Zelensky à \"se concentrer\" pour \"mettre fin à la guerre\"",
+      "url": "https://www.france24.com/fr/europe/20261019-en-direct-ukraine-rubio-appelle-zelensky-se-concentrer-mettre-fin-guerre",
+      "source": "France 24",
+      "publishedAt": "2026-10-19T06:05:46.000Z",
+      "summary": "Depuis Samarcande, le secrétaire d'État américain Marco Rubio a appelé lundi le président ukrainien à \"se concentrer\" pour \"mettre fin à la guerre\" avec la Russie, affirmant par ailleurs qu'il n'y avait eu \"aucune pause\" dans le partage de renseignements avec Kiev. Une frappe russe a par ailleurs tué une femme dans la ",
+      "image": "https://s.france24.com/media/display/bf71a96e-cb7f-11f1-8810-6313a763b466/w:1024/p:16x9/2026-10-18T235422Z-1304641961-RC2X5OA93ZJS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-marco-rubio-appelle-volodymyr-zelensky-a-se-concentrer-pour-mett-63ae977653.html"
+    },
+    {
+      "title": "Législatives en Israël: Benyamin Netanyahu obtient le soutien tardif de Donald Trump",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261019-l%C3%A9gislatives-en-isra%C3%ABl-benyamin-netanyahu-obtient-le-soutien-tardif-de-donald-trump",
+      "source": "RFI",
+      "publishedAt": "2026-10-19T05:25:37.000Z",
+      "summary": "Dans un peu plus d’une semaine les Israéliens se rendront aux urnes. Des législatives qui s’annoncent serrées avec un enjeu important. C’est la première élection depuis le 7-Octobre et après trois années de guerre. Le vote risque de se résumer à un référendum - pour ou contre - Benyamin Netanyahu. Et hier le Premier mi",
+      "image": "https://s.rfi.fr/media/display/cbc2a5d8-ad1b-11f1-8f6a-005056bfb2b6/w:1024/p:16x9/2026-09-08T164847Z-1659140614-RC24FNA9LJ05-RTRMADP-3-ISRAEL-POLITICS-NETANYAHU.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-israel-benyamin-netanyahu-obtient-le-soutien-tardif-de-d-1a88422783.html"
+    },
+    {
+      "title": "Madagascar: El Niño va aggraver l'insécurité alimentaire dans le sud du pays",
+      "url": "https://www.rfi.fr/fr/afrique/20261019-madagascar-el-ni%C3%B1o-va-aggraver-l-ins%C3%A9curit%C3%A9-alimentaire-dans-le-sud-du-pays",
+      "source": "RFI",
+      "publishedAt": "2026-10-19T04:28:24.000Z",
+      "summary": "El Niño va aggraver la crise alimentaire dans le Grand Sud malgache : telle est l’alerte lancée il y a quelques jours par Action contre la Faim. Le phénomène climatique mondial accentuera dans les prochains mois la sécheresse, dont souffre déjà cette partie du pays où plus de 2,5 millions de personnes sont actuellement",
+      "image": "https://s.rfi.fr/media/display/70c54d48-aa5b-11f0-95f9-005056bf30b7/w:1024/p:16x9/000-9MT6UG.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/madagascar-el-nino-va-aggraver-l-insecurite-alimentaire-dans-le-sud-du-p-487379041d.html"
+    },
+    {
+      "title": "Mali: HRW confirme l'exécution de soldats maliens par le Jnim et la mort de civils tués par l'armée",
+      "url": "https://www.rfi.fr/fr/afrique/20261019-mali-hrw-confirme-l-ex%C3%A9cution-de-soldats-maliens-par-le-jnim-et-la-mort-de-civils-tu%C3%A9s-par-l-arm%C3%A9e",
+      "source": "RFI",
+      "publishedAt": "2026-10-19T04:00:05.000Z",
+      "summary": "Dans un nouveau rapport publié ce lundi 19 octobre, l'organisation de défense des droits humains affirme que le Groupe de soutien à l'islam et aux musulmans (Jnim) lui a confirmé des exécutions sommaires de soldats maliens à Tabrichat, dans la région de Gao, à la suite de l'attaque d'un convoi militaire parti d'Anefis,",
+      "image": "https://s.rfi.fr/media/display/87b38fb6-8510-11f1-9395-005056a90284/w:1024/p:16x9/AP26199696598399.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-hrw-confirme-l-execution-de-soldats-maliens-par-le-jnim-et-la-mort--a3fcb908ee.html"
+    },
+    {
+      "title": "Après des manifestations ayant viré au chaos, l'exécutif sommé de rendre des comptes",
+      "url": "https://www.france24.com/fr/france/20261019-apr%C3%A8s-des-manifestations-qui-ont-vir%C3%A9-au-chaos-l-ex%C3%A9cutif-somm%C3%A9-de-rendre-des-comptes",
+      "source": "France 24",
+      "publishedAt": "2026-10-19T03:21:28.000Z",
+      "summary": "Fragilisé et critiqué de toutes parts après une vague de manifestations émaillées de violences sur l'ensemble du territoire, l'exécutif doit répondre à la colère et aux craintes soulevées par sa gestion de la mobilisation du 17 octobre, qui a viré au chaos sur le terrain et tourne à la crise politique.",
+      "image": "https://s.france24.com/media/display/2b448fbc-cb6c-11f1-a5bc-4dd8ac2cf3bf/w:1024/p:16x9/12795209430225a6ecb0327dfca8399b6121e6da.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-des-manifestations-ayant-vire-au-chaos-l-executif-somme-de-rendre--f068496edb.html"
+    },
+    {
+      "title": "Canada: les habitants de l'Alberta consultés sur un futur référendum d'indépendance de la province",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261019-canada-les-habitants-de-l-alberta-consult%C3%A9s-sur-un-futur-r%C3%A9f%C3%A9rendum-d-ind%C3%A9pendance-de-la-province",
+      "source": "RFI",
+      "publishedAt": "2026-10-19T03:12:46.000Z",
+      "summary": "« L'Alberta doit-elle rester une province du Canada ? » : telle est la question posée ce lundi 19 octobre 2026 aux électeurs de cette région riche en pétrole de l'ouest du pays lors d'une consultation qui pourrait ensuite aboutir à un référendum - contraignant cette fois - sur l'indépendance de l'Alberta. Si les sondag",
+      "image": "https://s.rfi.fr/media/display/0fdd698e-cb48-11f1-b295-638c1c1f5fd6/w:1024/p:16x9/CANADA-ALBERTA-PROVINCE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/canada-les-habitants-de-l-alberta-consultes-sur-un-futur-referendum-d-in-8aebc50e69.html"
+    },
+    {
+      "title": "France: le procès pour «apologie du terrorisme» de l'eurodéputée insoumise Rima Hassan s'ouvre à Paris",
+      "url": "https://www.rfi.fr/fr/france/20261019-france-le-proc%C3%A8s-pour-apologie-du-terrorisme-de-l-eurod%C3%A9put%C3%A9e-insoumise-rima-hassan-s-ouvre-%C3%A0-paris",
+      "source": "RFI",
+      "publishedAt": "2026-10-19T03:12:27.000Z",
+      "summary": "À la suite de son report en juillet dernier, le procès de Rima Hassan pour « apologie du terrorisme » se déroule lundi 19 et mardi 20 octobre devant le tribunal correctionnel de Paris. L'eurodéputée La France insoumise (LFI) est poursuivie pour avoir publié sur X un message reprenant les propos d'un terroriste japonais",
+      "image": "https://s.rfi.fr/media/display/07a33908-cb41-11f1-80c8-2d1c143cdef3/w:1024/p:16x9/AP26279587203143.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-le-proces-pour-apologie-du-terrorisme-de-l-eurodeputee-insoumise--0170a0679f.html"
+    },
+    {
+      "title": "Vers une PS6 à plus de 1000 € ? La RAM et le stockage coûteraient désormais plus que la PS5",
+      "url": "https://www.frandroid.com/marques/sony/3290211_vers-une-ps6-a-plus-de-1000-e-la-ram-et-le-stockage-couteraient-desormais-plus-que-la-ps5",
       "source": "Frandroid",
-      "publishedAt": "2026-10-18T20:15:01.000Z",
-      "summary": "Analogue annonce la Super Nt+ et la Mega Sg+, deux consoles FPGA vendues 219,99 dollars (environ 195 euros hors taxes) pour rejouer aux cartouches Super Nintendo et Mega Drive. Les modèles d'origine avaient quitté le catalogue en 2022.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-207.png?resize=1200,675&key=1fef8676",
+      "publishedAt": "2026-10-19T06:25:04.000Z",
+      "summary": "Si vous attendez patiemment la PS6 pour découvrir la nouvelle génération de console, il va falloir préparer votre portefeuille. Les coûts de la mémoire auraient tant augmenté qu’un prix de vente à plus de 1000&nbsp;€ semble désormais probable.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/11/ps5-slim-design-scaled.jpg?resize=1200,675&key=03b8bad6",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/super-nt-et-mega-sg-analogue-relance-ses-consoles-super-nintendo-et-mega-a650f3dc24.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/vers-une-ps6-a-plus-de-1000-la-ram-et-le-stockage-couteraient-desormais--71f0de18c0.html"
+    },
+    {
+      "title": "Ces box Orange et SFR peuvent se faire pirater à distance grâce à une faille Wi-Fi",
+      "url": "https://www.01net.com/actualites/box-orange-sfr-peuvent-piratees-distance-faille-wi-fi.html",
+      "source": "01net",
+      "publishedAt": "2026-10-19T06:11:28.000Z",
+      "summary": "Un chercheur belge a dévoilé à la conférence Hexacon une faille qui permet de pirater certaines box Internet à distance, sans connaître le mot de passe du Wi-Fi. En France, une Livebox 5 d’Orange et des box SFR sont concernées. En Belgique, jusqu’à 1,5 million d’appareils pourraient être vulnérables.",
+      "image": "https://www.01net.com/app/uploads/2024/04/livebox-5-orange-1360x907.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ces-box-orange-et-sfr-peuvent-se-faire-pirater-a-distance-grace-a-une-fa-61af094fbb.html"
+    },
+    {
+      "title": "Permis de conduire valable 15 ans : la France va dire adieu au permis à vie",
+      "url": "https://www.01net.com/actualites/permis-de-conduire-valable-15-ans-la-france-va-dire-adieu-au-permis-a-vie.html",
+      "source": "01net",
+      "publishedAt": "2026-10-19T05:50:18.000Z",
+      "summary": "Le permis pour toute la vie, c'est fini. Enfin ça sera terminé le 21 octobre 2028. D'ici là, il faudra trouver une solution sur les conditions de son renouvellement.",
+      "image": "https://www.01net.com/app/uploads/2024/02/France-identite-permis-de-conduire-1360x907.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/permis-de-conduire-valable-15-ans-la-france-va-dire-adieu-au-permis-a-vi-d624d2f99c.html"
+    },
+    {
+      "title": "Le Japon à l'assaut des lunes de Mars, avec l'espoir de ramener des échantillons de Phobos",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261019-le-japon-%C3%A0-l-assaut-des-lunes-de-mars-avec-l-espoir-de-ramener-des-%C3%A9chantillons-de-phobos",
+      "source": "RFI",
+      "publishedAt": "2026-10-19T05:35:02.000Z",
+      "summary": "Ce 19 octobre 2026 s'ouvre une fenêtre de tir en vue du possible lancement de la mission MMX, destinée à explorer Phobos, mais aussi Deimos, les deux étranges petites lunes de Mars. L'objectif est de rapporter sur Terre des échantillons du plus gros des deux satellites de la « planète rouge ». La France et l'Allemagne ",
+      "image": "https://s.rfi.fr/media/display/9ca3d6c8-bdd3-11f1-aa3c-69fad0a7cb9f/w:1024/p:16x9/000-WAS2003062402092.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-japon-a-l-assaut-des-lunes-de-mars-avec-l-espoir-de-ramener-des-echan-889ed51822.html"
+    },
+    {
+      "title": "À peine sorti et déjà dépassé ? Le HomeView d’Apple dort depuis des mois dans des entrepôts",
+      "url": "https://www.frandroid.com/marques/apple/3290197_a-peine-sorti-et-deja-depasse-le-homeview-dapple-dort-depuis-des-mois-dans-des-entrepots",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-19T05:34:25.000Z",
+      "summary": "Censée représenter la nouvelle incursion d’Apple dans le milieu de la domotique, la sortie du HomeView n’a pas provoqué le bouleversement attendu. Et pour cause, l’appareil en lui-même attend son heure de gloire depuis des mois, depuis le fond d’un entrepôt.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/home-view-apple6.jpg?resize=1200,675&key=e1509792",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-peine-sorti-et-deja-depasse-le-homeview-d-apple-dort-depuis-des-mois-d-e6a8a0df41.html"
     }
   ]
 }
