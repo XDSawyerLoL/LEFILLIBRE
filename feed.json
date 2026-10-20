@@ -1,25 +1,126 @@
 {
-  "updatedAt": "2026-10-20T17:24:01.420Z",
+  "updatedAt": "2026-10-20T20:45:25.424Z",
   "items": [
     {
-      "title": "TikTok, Snapchat, Telegram : la France peut-elle vraiment couper l’accès aux réseaux sociaux ?",
-      "url": "https://www.frandroid.com/culture-tech/web/3292765_tiktok-snapchat-telegram-la-france-peut-elle-vraiment-couper-lacces-aux-reseaux-sociaux",
+      "title": "Face à ElevenLabs et ses 90 langues, Mistral dégaine Voxtral 3",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3293341_face-a-elevenlabs-et-ses-90-langues-mistral-degaine-voxtral-3",
       "source": "Frandroid",
-      "publishedAt": "2026-10-20T17:16:30.000Z",
-      "summary": "Gabriel Attal propose de bloquer temporairement les réseaux sociaux dans les zones touchées par les violences survenues en marge des mobilisations du 17 octobre. Une idée qui revient à chaque crise. Mais un tel blocage est-il seulement possible techniquement ?",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/gabriel-attal-bloquer-reseaux-sociaux.jpg?resize=1200,675&key=fb0dc165",
+      "publishedAt": "2026-10-20T20:40:53.000Z",
+      "summary": "Mistral AI a présenté ce mardi 20 octobre 2026 Voxtral 3, une famille de modèles vocaux qui transcrit plus de 50 langues, parle dans plus de 35 et sert de base à un kit pour créer des agents vocaux. En mars, son premier modèle de synthèse vocale ne gérait que 9 langues.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/capture-decran-2026-10-20-a-223734.png?resize=1200,675&key=258b48a1",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/tiktok-snapchat-telegram-la-france-peut-elle-vraiment-couper-l-acces-aux-ccef943fdd.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/face-a-elevenlabs-et-ses-90-langues-mistral-degaine-voxtral-3-af23fa0710.html"
     },
     {
-      "title": "À 10 mètres sous l’eau, ces panneaux solaires ont réussi à recharger une batterie",
-      "url": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3292935_a-10-metres-sous-leau-ces-panneaux-solaires-ont-reussi-a-recharger-une-batterie",
+      "title": "Presque trois fois mieux que ChatGPT à ses débuts : l’agent IA Muse de Meta cartonne aux États-Unis",
+      "url": "https://www.frandroid.com/marques/meta/3293331_presque-trois-fois-mieux-que-chatgpt-a-ses-debuts-lagent-ia-muse-de-meta-cartonne-aux-etats-unis",
       "source": "Frandroid",
-      "publishedAt": "2026-10-20T16:38:21.000Z",
-      "summary": "L’énergie solaire semble pouvoir être exploitée partout : sur terre, dans l’espace, et maintenant sous la mer. Des chercheurs ont conçu des cellules photovoltaïques capables de produire de l’électricité sous l’eau, une technologie qui pourrait faciliter l’exploration de ce monde encore peu connu.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/underwater-solar.jpg?resize=1200,675&key=d9eae15f",
+      "publishedAt": "2026-10-20T20:28:54.000Z",
+      "summary": "Lancée le 8 septembre, l'application Muse de Meta a dépassé les 10 millions de téléchargements aux États-Unis en 40 jours, d'après Sensor Tower. Seules onze applications avaient fait aussi vite avant elle.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-254.png?resize=1200,675&key=d002df1a",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-10-metres-sous-l-eau-ces-panneaux-solaires-ont-reussi-a-recharger-une--8fc3b57614.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presque-trois-fois-mieux-que-chatgpt-a-ses-debuts-l-agent-ia-muse-de-met-c4ffe38c26.html"
+    },
+    {
+      "title": "Trésor, Justice, État : l’IA chinoise DeepSeek doit disparaître des ordinateurs de l’administration américaine",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3293301_tresor-justice-etat-lia-chinoise-deepseek-doit-disparaitre-des-ordinateurs-de-ladministration-americaine",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-20T20:10:52.000Z",
+      "summary": "Le ministère américain de la Sécurité intérieure a rendu public, ce lundi 19 octobre, un ordre qui oblige les agences fédérales civiles à cesser d'acheter DeepSeek et à le retirer de leurs systèmes. Il vise aussi les logiciels tiers construits sur ses modèles, alors que ceux-ci sont téléchargeables librement.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-249.png?resize=1200,675&key=7554ac71",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/tresor-justice-etat-l-ia-chinoise-deepseek-doit-disparaitre-des-ordinate-3d412da033.html"
+    },
+    {
+      "title": "Sénégal: des centaines de travailleurs se mobilisent avant une grève générale annoncée pour trois jours",
+      "url": "https://www.rfi.fr/fr/afrique/20261020-s%C3%A9n%C3%A9gal-des-centaines-de-travailleurs-se-mobilisent-avant-une-gr%C3%A8ve-g%C3%A9n%C3%A9rale-annonc%C3%A9e-pour-trois-jours",
+      "source": "RFI",
+      "publishedAt": "2026-10-20T20:01:28.000Z",
+      "summary": "Quelques centaines de travailleurs sénégalais sont descendus ce mardi 20 octobre dans l'après-midi à Dakar à l'appel du Front national pour la défense du travail (FSDT), un collectif qui rassemble 13 Cette marche annonce une grève générale de 72 heures à compter de mercredi. Malgré l'appel du gouvernement à lever leur ",
+      "image": "https://s.rfi.fr/media/display/f4521bea-ccc0-11f1-bd66-6313a763b466/w:1024/p:16x9/SENEGAL-DAKAR-MANIFESTATION-MOUVEMENT-SOCIAL.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-des-centaines-de-travailleurs-se-mobilisent-avant-une-greve-gene-9e10fc7bbf.html"
+    },
+    {
+      "title": "Espagne: la Guardia Civil sauve une famille et ses chiens des crues à Oliva",
+      "url": "https://fr.euronews.com/video/2026/10/20/espagne-la-guardia-civil-sauve-une-famille-et-ses-chiens-des-crues-a-oliva",
+      "source": "Euronews",
+      "publishedAt": "2026-10-20T19:52:05.000Z",
+      "summary": "En Espagne, la Guardia civil a évacué une famille et ses chiens d'une maison inondée à Oliva, tandis que des images aériennes montrent l'ampleur des crues dans la région de Valence.",
+      "image": "https://images.euronews.com/articles/stories/09/96/01/85/696x392_cmsv2_34e21617-0332-555e-b672-5689953fd965-9960185.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-la-guardia-civil-sauve-une-famille-et-ses-chiens-des-crues-a-oli-06a90d51df.html"
+    },
+    {
+      "title": "Assimiler LFI à l’ultragauche, une stratégie en passe de se retourner contre l’exécutif ?",
+      "url": "https://www.france24.com/fr/france/20261020-assimiler-lfi-a-ultragauche-une-strategie-en-passe-de-se-retourner-contre-executif-sebastien-lecornu",
+      "source": "France 24",
+      "publishedAt": "2026-10-20T19:21:45.000Z",
+      "summary": "En associant dans son discours La France insoumise à l’ultragauche, le gouvernement accuse le parti d’être à l’origine du mouvement lycéen et des scènes de chaos observées le 17 octobre en France. Mais cette rhétorique est à la fois mise à mal par des révélations de Mediapart et les spécialistes de l’ultragauche, qui c",
+      "image": "https://s.france24.com/media/display/4f2808c6-ccae-11f1-ac79-4dd8ac2cf3bf/w:1024/p:16x9/000-D3KX4RL.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/assimiler-lfi-a-l-ultragauche-une-strategie-en-passe-de-se-retourner-con-9b15f1cf3f.html"
+    },
+    {
+      "title": "Élection au Brésil : Lula veut disqualifier Flavio Bolsonaro pour \"ingérence\" de Meta",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261020-%C3%A9lection-au-br%C3%A9sil-lula-veut-disqualifier-flavio-bolsonaro-pour-ing%C3%A9rence-de-meta",
+      "source": "France 24",
+      "publishedAt": "2026-10-20T19:05:29.000Z",
+      "summary": "Le président sortant du Brésil, Lula, doit présenter mardi un recours devant le Tribunal supérieur électoral pour faire annuler la candidature de son rival conservateur Flavio Bolsonaro, accusant Meta d'\"ingérence\" dans le scrutin. Il dénonce des restrictions à la circulation de ses contenus sur deux de ses plateformes",
+      "image": "https://s.france24.com/media/display/5bf056c4-ccbf-11f1-b85e-2d1c143cdef3/w:1024/p:16x9/ac3b4d3fabd7e289ff7354b46f046b9581790594.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/election-au-bresil-lula-veut-disqualifier-flavio-bolsonaro-pour-ingerenc-28c4190434.html"
+    },
+    {
+      "title": "J-7 avant les élections législatives en Israël : Netanyahu peut-il encore gagner ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261020-j-7-avant-les-%C3%A9lections-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-peut-il-encore-gagner",
+      "source": "France 24",
+      "publishedAt": "2026-10-20T18:48:00.000Z",
+      "summary": "Dans une semaine, le 27 octobre, auront lieu les élections législatives en Israël ! Les sondages sont serrés entre le bloc de Benyamin Netanyahou et ses alliés, d’un côté, et celui de l’opposition, emmené par Gadi Eisenkot, ancien chef d’état-major de l’armée, et ses alliés, de l’autre. Même si le bloc de Netanyahou a ",
+      "image": "https://s.france24.com/media/display/0b526206-c3ce-11f1-b875-c55799ef8309/w:1024/p:16x9/2026-09-29T100258Z-26961474-RC2QRNAEO6MD-RTRMADP-3-ISRAEL-ELECTION-NETANYAHU-STRATEGY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-7-avant-les-elections-legislatives-en-israel-netanyahu-peut-il-encore--cd5b99ca86.html"
+    },
+    {
+      "title": "France: prison avec sursis et inéligibilité requises contre Rima Hassan, jugée pour «apologie du terrorisme»",
+      "url": "https://www.rfi.fr/fr/france/20261020-france-prison-avec-sursis-et-in%C3%A9ligibilit%C3%A9-requises-contre-rima-hassan-jug%C3%A9e-pour-apologie-du-terrorisme",
+      "source": "RFI",
+      "publishedAt": "2026-10-20T18:44:38.000Z",
+      "summary": "Mardi 20 octobre, à Paris, le ministère public a réclamé dix mois de prison avec sursis et deux ans d'inéligibilité contre Rima Hassan, eurodéputée de La France insoumise (LFI), jugée pour un tweet, supprimé depuis, où elle citait l'un des auteurs de l'attentat de 1972 à l'aéroport de Tel-Aviv, qui avait fait 26 morts.",
+      "image": "https://s.rfi.fr/media/display/3b5bb07e-ccb6-11f1-b1af-4dd8ac2cf3bf/w:1024/p:16x9/FRANCE-JUSTICE-PALESTINE-RIMA-HASSAN.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-prison-avec-sursis-et-ineligibilite-requises-contre-rima-hassan-j-191a74b8c5.html"
+    },
+    {
+      "title": "Violences du 17 octobre : comment l'exécutif peut-il reprendre la main ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261020-violences-du-17-octobre-comment-l-ex%C3%A9cutif-peut-il-reprendre-la-main",
+      "source": "France 24",
+      "publishedAt": "2026-10-20T17:50:29.000Z",
+      "summary": "Paris, Lyon, Limoges...Plusieurs villes de France portaient encore lundi les stigmates de la mobilisation de samedi. Entre 550 000 et 800 000 personnes, selon les sources, venues manifester pour défendre leur pouvoir d'achat et demander une réforme du système éducatif, principalement. Des manifestations ternies par les",
+      "image": "https://s.france24.com/media/display/806dcfae-ccab-11f1-b440-2d1c143cdef3/w:1024/p:16x9/FRAN261019-2030-Live-CS2030.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/violences-du-17-octobre-comment-l-executif-peut-il-reprendre-la-main-e69bb1ee0c.html"
+    },
+    {
+      "title": "Soudan : une nouvelle attaque sur un marché fait au moins 153 morts dans la zone frontalière",
+      "url": "https://www.france24.com/fr/afrique/20261020-soudan-une-nouvelle-attaque-sur-un-march%C3%A9-fait-au-moins-153-morts-dans-la-zone-frontali%C3%A8re",
+      "source": "France 24",
+      "publishedAt": "2026-10-20T17:38:06.000Z",
+      "summary": "Au moins 153 personnes ont ​été tuées par une frappe de drone sur un marché situé à la frontière entre le Soudan du Sud et le Soudan, ​a déclaré, ‌mardi, le ministre de l'Information par intérim ⁠de la région d'Abyei.",
+      "image": "https://s.france24.com/media/display/ec8e7898-cc9f-11f1-bd31-d1d2c32ebb87/w:1024/p:16x9/2026-10-20T122744Z-1330954664-RC2W6OA7AZTI-RTRMADP-3-SOUTHSUDAN-SUDAN-SECURITY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/soudan-une-nouvelle-attaque-sur-un-marche-fait-au-moins-153-morts-dans-l-f9626cb870.html"
+    },
+    {
+      "title": "Au procès de Rima Hassan, le parquet requiert la prison avec sursis et l'inéligibilité",
+      "url": "https://www.france24.com/fr/france/20261020-au-proc%C3%A8s-de-rima-hassan-le-parquet-requiert-la-prison-avec-sursis-et-l-in%C3%A9ligibilit%C3%A9",
+      "source": "France 24",
+      "publishedAt": "2026-10-20T17:27:15.000Z",
+      "summary": "Mardi, le parquet de Paris a réclamé dix mois de prison avec sursis et deux ans d'inéligibilité contre Rima Hassan. L'eurodéputée de La France Insoumise (LFI) a été jugée pour un tweet – supprimé depuis – où elle citait l'un des auteurs de l'attentat meurtrier à l'aéroport de Tel-Aviv, en 1972. La décision judiciaire s",
+      "image": "https://s.france24.com/media/display/68814132-cca6-11f1-bd8c-638c1c1f5fd6/w:1024/p:16x9/000-A6PL4XR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-proces-de-rima-hassan-le-parquet-requiert-la-prison-avec-sursis-et-l--01eb734348.html"
+    },
+    {
+      "title": "«Donald Trump a besoin de refaçonner le monde et Vladimir Poutine est un de ses alliés pour ce faire»",
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261020-donald-trump-a-besoin-de-refa%C3%A7onner-le-monde-et-vladimir-poutine-est-un-de-ses-alli%C3%A9s-pour-ce-faire",
+      "source": "RFI",
+      "publishedAt": "2026-10-20T17:16:46.000Z",
+      "summary": "La complicité de Donald Trump avec Vladimir Poutine est de plus en plus assumée. Le président étatsuniense dit prêt à un sommet tripartite avec ses homologues chinois et russe pour discuter de la guerre, sans l'Ukraine. Il affirme que la Russie s'est « bien comportée avec Kiev et n'a pas fait grand-chose ». Il multipli",
+      "image": "https://s.rfi.fr/media/display/3411a9d6-0a5c-11f0-9e56-005056a90284/w:1024/p:16x9/AP25077000581676.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-a-besoin-de-refaconner-le-monde-et-vladimir-poutine-est-un--afcb671c20.html"
     },
     {
       "title": "Pourquoi faut-il être prudent sur le profil des auteurs des violences urbaines en France?",
@@ -53,7 +154,7 @@
       "url": "https://www.france24.com/fr/europe/20261020-%C3%A0-oslo-zelensky-tente-de-r%C3%A9tablir-le-dialogue-avec-les-%C3%A9tats-unis",
       "source": "France 24",
       "publishedAt": "2026-10-20T16:21:23.000Z",
-      "summary": "Le président ukrainien est arrivé à Oslo, mardi, où il s'est entretenu avec les émissaires américains Steve Witkoff et Jared Kushner. Cette rencontre doit rétablir la diplomatie après l'accord conclu entre Donald Trump et Vladimir Poutine sur le gazole. Plusieurs pays de l'UE et de l'Otan sont présents dans le but de \"",
+      "summary": "Le président ukrainien s'est entretenu, mardi, à Oslo, avec les émissaires américains Steve Witkoff et Jared Kushner. Cette rencontre visait à rétablir la diplomatie après l'accord conclu entre Donald Trump et Vladimir Poutine sur le gazole. Plusieurs pays de l'UE et de l'Otan étaient également présents afin de \"dévelo",
       "image": "https://s.france24.com/media/display/f0d1ff80-cc98-11f1-ba08-638c1c1f5fd6/w:1024/p:16x9/2026-10-20T140404Z-1957206233-RC217OAO14KP-RTRMADP-3-UKRAINE-CRISIS.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-oslo-zelensky-tente-de-retablir-le-dialogue-avec-les-etats-unis-247d40f915.html"
     },
@@ -66,106 +167,6 @@
       "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/10/img-gallery11_DYkB8QiI_1EEgef.avif?resize=1200,675&key=0d62c6d3",
       "category": "IA & Tech",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pour-fabriquer-sa-premiere-corolla-100-electrique-toyota-se-tourne-vers--b8c964e9e4.html"
-    },
-    {
-      "title": "Australie: la députée Helen Haines grièvement blessée dans une attaque près de sa permanence",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261020-australie-la-d%C3%A9put%C3%A9e-helen-haines-gri%C3%A8vement-bless%C3%A9e-dans-une-attaque-pr%C3%A8s-de-sa-permanence",
-      "source": "RFI",
-      "publishedAt": "2026-10-20T16:08:33.000Z",
-      "summary": "La députée indépendante australienne Helen Haines, connue pour ses combats contre la corruption et le changement climatique, a été percutée volontairement par une voiture devant sa permanence électorale, lundi 19 octobre 2026. Elle a perdu une jambe, selon les médias locaux.",
-      "image": "https://s.rfi.fr/media/display/a24d1f44-cc92-11f1-885c-638c1c1f5fd6/w:1024/p:16x9/AUSTRALIE-HELEN-HAINES-POLITIQUE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/australie-la-deputee-helen-haines-grievement-blessee-dans-une-attaque-pr-4ebf8d24d1.html"
-    },
-    {
-      "title": "Mobilisation du 24 octobre : renfort de policiers, Sentinelle... ce qu'il faut retenir du dispositif",
-      "url": "https://www.france24.com/fr/france/20261020-d%C3%A9ploiement-militaires-24-octobre-dispositif-policier-massif-ce-qu-il-faut-retenir",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T16:04:36.000Z",
-      "summary": "Après un 17 octobre très agité pour l'exécutif, le Premier ministre, Sébastien Lecornu, et le ministre de l'Intérieur, Laurent Nuñez, ont présenté, mardi, devant l'Assemblée, des mesures en vue de la mobilisation de samedi. Dispositif policier \"massif\", militaires Sentinelle ou encore interdiction des manifestations \"p",
-      "image": "https://s.france24.com/media/display/fc2a7636-cc99-11f1-a927-d1d2c32ebb87/w:1024/p:16x9/000-36626T8.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisation-du-24-octobre-renfort-de-policiers-sentinelle-ce-qu-il-faut-aabacd1c45.html"
-    },
-    {
-      "title": "France : des habitations dévastées par des inondations",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-france-des-habitations-d%C3%A9vast%C3%A9es-par-des-inondations",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T15:53:26.000Z",
-      "summary": "🌧️Le sud-est de la #France est en proie à de fortes #inondations après un violent épisode méditerranéen qui a fait un mort près de #Marseille. 🚨⚠️L’Occitanie et la région Provence-Alpes-Côte d’Azur sont touchées, et la Haute-Corse est placée en vigilance rouge pluie-inondation.",
-      "image": "https://s.france24.com/media/display/4497b8b4-cc9c-11f1-9916-638c1c1f5fd6/w:1024/p:16x9/Montage-916-Copy-01-00-00-04-11-Still001.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-des-habitations-devastees-par-des-inondations-340c528d11.html"
-    },
-    {
-      "title": "50 morts : Anthropic veut réglementer l’IA, mais fixe des seuils qui font froid dans le dos",
-      "url": "https://www.01net.com/actualites/50-morts-anthropic-veut-reglementer-lia-mais-fixe-des-seuils-qui-font-froid-dans-le-dos.html",
-      "source": "01net",
-      "publishedAt": "2026-10-20T15:53:23.000Z",
-      "summary": "Des représentants d’Anthropic ont présenté un projet de loi à des élus américains. Ce texte prévoit que le gouvernement américain puisse demander la suspension d’une IA si elle présente un risque imminent et prévisible de causer plus de 50 morts ou blessés graves, ou plus d’un milliard de dollars de dommages. La mort a",
-      "image": "https://www.01net.com/app/uploads/2026/08/Anthropic-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/50-morts-anthropic-veut-reglementer-l-ia-mais-fixe-des-seuils-qui-font-f-da181a4cc3.html"
-    },
-    {
-      "title": "Le Parlement roumain approuve un gouvernement pro-UE après des mois d'impasse",
-      "url": "https://www.rfi.fr/fr/europe/20261020-le-parlement-roumain-approuve-un-gouvernement-pro-ue-apr%C3%A8s-des-mois-d-impasse",
-      "source": "RFI",
-      "publishedAt": "2026-10-20T15:36:46.000Z",
-      "summary": "Le Parlement roumain a approuvé, mardi 20 octobre, le gouvernement du Premier ministre pro-européen Luca Niculescu, mettant fin à plusieurs mois d'impasse politique.",
-      "image": "https://s.rfi.fr/media/display/98a88780-c215-11f1-8080-ff8cff4603f0/w:1024/p:16x9/luca-niculescu.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-parlement-roumain-approuve-un-gouvernement-pro-ue-apres-des-mois-d-im-69024e626b.html"
-    },
-    {
-      "title": "La perspective d'une réunion tripartite : Donald Trump, prêt à rencontrer Poutine et Xi Jinping",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-la-perspective-d-une-r%C3%A9union-tripartite-donald-trump-pr%C3%AAt-%C3%A0-rencontrer-poutine-et-xi-jinping",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T15:22:54.000Z",
-      "summary": "Donald Trump s'est dit favorable lundi 19 octobre à une rencontre avec ses homologues russe et chinois en Chine en novembre. Le président américain, qui a multiplié ces derniers jours les déclarations et décisions favorables à la Russie, a assuré que si la réunion tripartite avait lieu, elle ne se tiendrait \"pas pour l",
-      "image": "https://s.france24.com/media/display/c5c21278-cc96-11f1-8769-638c1c1f5fd6/w:1024/p:16x9/FR-20261020-161725-162704-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-perspective-d-une-reunion-tripartite-donald-trump-pret-a-rencontrer-p-61284f3e39.html"
-    },
-    {
-      "title": "LFI menacé d'interdiction: «Une instrumentalisation malhonnête pour discréditer un concurrent»",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261020-lfi-menac%C3%A9-d-interdiction-une-instrumentalisation-malhonn%C3%AAte-pour-discr%C3%A9diter-un-concurrent-d%C3%A9nonce-le-parti",
-      "source": "RFI",
-      "publishedAt": "2026-10-20T15:19:53.000Z",
-      "summary": "Après les émeutes du week-end du 17-18 octobre, l'’ensemble de la classe politique pointe du doigt la responsabilité du parti de Jean-Luc Mélenchon, La France insoumise (LFI), accusée « d'attiser le désordre ». Après plusieurs ténors de droite et du centre, le patron du Sénat, Gérard Larcher (Les Républicains), estime ",
-      "image": "https://s.rfi.fr/media/display/3f99ee12-cc8e-11f1-8c51-2d1c143cdef3/w:1024/p:16x9/000-D3KX4RL.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/lfi-menace-d-interdiction-une-instrumentalisation-malhonnete-pour-discre-2008a4a418.html"
-    },
-    {
-      "title": "Réunion de crise suite au 17 octobre : les députés questionnent Sébastien Lecornu et Laurent Nuñez",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-r%C3%A9union-de-crise-suite-au-17-octobre-les-d%C3%A9put%C3%A9s-questionnent-s%C3%A9bastien-lecornu-et-laurent-nu%C3%B1ez",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T15:16:41.000Z",
-      "summary": "Laurent Nuñez a reproché mardi 20 octobre au parti de gauche radicale LFI, d'avoir \"jeté de l'huile sur le feu\" en accusant le ministre de l'Intérieur \"de manipuler les services de renseignements pour les diriger contre La France insoumise\" lors des événements du week-end dernier. Mediapart a publié une enquête lundi 1",
-      "image": "https://s.france24.com/media/display/93dd99d2-cc99-11f1-a87d-d1d2c32ebb87/w:1024/p:16x9/2026-10-20T145836Z-370295816-RC227OA69I9M-RTRMADP-3-FRANCE-POLITICS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/reunion-de-crise-suite-au-17-octobre-les-deputes-questionnent-sebastien--a525121954.html"
-    },
-    {
-      "title": "17 octobre : le gouvernement tente de reprendre la main sur la situation",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-17-octobre-le-gouvernement-tente-de-reprendre-la-main-sur-la-situation",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T15:05:38.000Z",
-      "summary": "Suites aux émeutes en marge des manifestations du 17 octobre, le gouvernement tente de reprendre la main sur la situation par l'instauration de couvre-feux et la rencontre avec les syndicats et les différents politiques. Les précisions de Clovis Casali, journaliste à France 24.",
-      "image": "https://s.france24.com/media/display/f0504204-cc90-11f1-be2a-6313a763b466/w:1024/p:16x9/FR-20261020-133427-134044-CS-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/17-octobre-le-gouvernement-tente-de-reprendre-la-main-sur-la-situation-77598f3116.html"
-    },
-    {
-      "title": "Défaillance opérationnelle de l'État français le 17 octobre : une commission d'enquête ouverte",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261020-d%C3%A9faillance-op%C3%A9rationnelle-de-l-%C3%A9tat-fran%C3%A7ais-le-17-octobre-une-commission-d-enqu%C3%AAte-ouverte",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T15:00:55.000Z",
-      "summary": "Les groupes politiques de l'Assemblée nationale se sont accordés mardi 20 octobre sur l'opportunité de lancer une commission d'enquête sur les violences et scènes de pillages en marge des manifestations, mais aussi sur le dispositif de maintien de l'ordre déployé. Les explications de Roselyne Febvre, cheffe du service ",
-      "image": "https://s.france24.com/media/display/f0499140-cc8e-11f1-938f-638c1c1f5fd6/w:1024/p:16x9/FR-20261020-140550-141218-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/defaillance-operationnelle-de-l-etat-francais-le-17-octobre-une-commissi-74eb7e4b27.html"
-    },
-    {
-      "title": "Plutôt Mai-1968 ou émeutes de 2005 ? Le regard des historiens sur la journée du 17 octobre",
-      "url": "https://www.france24.com/fr/france/20261020-mai-1968-emeutes-2005-manifestation-17-octobre-histoire",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T14:56:58.000Z",
-      "summary": "La journée de mobilisation contre la vie chère a rassemblé entre 500 000 et 800 000 personnes dans toute la France. Ces manifestations qui se sont, dans l'ensemble, déroulées sans incident ont été ternies par de nombreuses scènes de violence et de pillage. France 24 a demandé à des historiens de replacer ces événements",
-      "image": "https://s.france24.com/media/display/1e70a006-cc65-11f1-9f5c-4dd8ac2cf3bf/w:1024/p:16x9/000-D3KP2LM.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/plutot-mai-1968-ou-emeutes-de-2005-le-regard-des-historiens-sur-la-journ-e90de01dc6.html"
     }
   ]
 }
