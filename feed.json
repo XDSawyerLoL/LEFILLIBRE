@@ -1,129 +1,175 @@
 {
-  "updatedAt": "2026-10-21T02:00:04.419Z",
+  "updatedAt": "2026-10-21T07:20:13.287Z",
   "items": [
     {
-      "title": "Elon Musk a ordonné de brider Starlink en Ukraine, selon le Wall Street Journal",
-      "url": "https://www.frandroid.com/marques/spacex/3293367_elon-musk-a-ordonne-de-brider-starlink-en-ukraine-selon-le-wall-street-journal",
+      "title": "Nouvelle cyberattaque en France : les données de propriétaires de chiens et chats ont encore été volées",
+      "url": "https://www.01net.com/actualites/nouvelle-cyberattaque-france-donnees-proprietaires-chiens-chats-encore-volees.html",
+      "source": "01net",
+      "publishedAt": "2026-10-21T07:04:35.000Z",
+      "summary": "Un pirate est parvenu à dérober les données de millions de propriétaires de chiens et de chats en France. Le truand s'est attaqué à trois fichiers français, à savoir l'I-CAD, la Centrale Canine et le LOOF. Ce dernier vient de confirmer la cyberattaque.",
+      "image": "https://www.01net.com/app/uploads/2026/10/chien-chat-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-cyberattaque-en-france-les-donnees-de-proprietaires-de-chiens-e-7be1cb0ce4.html"
+    },
+    {
+      "title": "Le Xbox Game Pass bientôt en pièces détachées ? Voici ce que prépare Microsoft",
+      "url": "https://www.frandroid.com/marques/microsoft/3293455_le-xbox-game-pass-bientot-en-pieces-detachees-voici-ce-que-prepare-microsoft",
       "source": "Frandroid",
-      "publishedAt": "2026-10-20T21:40:28.000Z",
-      "summary": "Elon Musk a lui-même ordonné de brider Starshield, la version militaire de Starlink utilisée par l'armée ukrainienne, affirme le Wall Street Journal ce mardi 20 octobre 2026. Cinq jours plus tôt, Reuters désignait la Maison Blanche.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/elon-musk-donald-trump-white-house.jpg?resize=1200,675&key=e7f29365",
+      "publishedAt": "2026-10-21T06:59:54.000Z",
+      "summary": "Microsoft préparerait une refonte du Xbox Game Pass qui permettrait de prendre le cloud gaming, le multijoueur ou les jeux console en options séparées, selon le magazine Fortune ce mardi 20 octobre. Un leaker avait déjà évoqué un Game Pass à la carte mi-septembre.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/10/xbox-game-pass-manette-xbox.jpeg?resize=1200,675&key=a48d4073",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elon-musk-a-ordonne-de-brider-starlink-en-ukraine-selon-le-wall-street-j-83965383cc.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-xbox-game-pass-bientot-en-pieces-detachees-voici-ce-que-prepare-micro-fe8689f3e7.html"
     },
     {
-      "title": "Boeing obtient la certification de son avion 737 MAX 10, après celle du MAX 7",
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261020-boeing-obtient-la-certification-de-son-avion-737-max-10-apr%C3%A8s-celle-du-max-7",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T21:07:28.000Z",
-      "summary": "Présenté il y a 15 ans par Boeing, le 737 MAX 10, le plus grand modèle de cette famille d'avions, a reçu le feu vert du régulateur américain mardi après plusieurs retards, dont une suspension fin septembre liée à un bug logiciel. Ses livraisons sont prévues pour 2027.",
-      "image": "https://s.france24.com/media/display/411719cc-ccca-11f1-8133-4dd8ac2cf3bf/w:1024/p:16x9/692b0b9d91e5b324168e8b0a2cd3e35172d7c52d.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/boeing-obtient-la-certification-de-son-avion-737-max-10-apres-celle-du-m-dd76d69faa.html"
-    },
-    {
-      "title": "17 octobre : le retour des courtes peines",
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261020-17-octobre-le-retour-des-courtes-peines",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T23:07:24.000Z",
-      "summary": "L'État, souvent été accusé de lenteur judiciaire, a décidé de serrer la vis pour les violences du week-end dernier. Le ministre de la Justice, Gérald Darmanin a déjà annoncé des peines de prison ferme pour certains individus non connus des services de police. Au total à ce jour, 149 personnes ont été incarcérées et 800",
-      "image": "https://s.france24.com/media/display/1501eede-ccd9-11f1-93a5-2d1c143cdef3/w:1024/p:16x9/FRAN261020-2339-Live-CS2339.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/17-octobre-le-retour-des-courtes-peines-1497f571df.html"
-    },
-    {
-      "title": "Italie : après les heurts du weekend, des militaires seront déployés à Milan",
-      "url": "https://www.france24.com/fr/europe/20261020-italie-heurts-weekend-militaires-deployes-milan-giorgia-meloni",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T22:08:40.000Z",
-      "summary": "Après un week-end d’affrontements et de pillages à Milan, la cheffe du gouvernement italien Giorgia Meloni a annoncé mardi le déploiement de 500 soldats dans la capitale lombarde jusqu'à la fin de l'année. Les militaires n’auront cependant pas de pouvoirs de police, le président Mattarella, une figure modérée, s’y étan",
-      "image": "https://s.france24.com/media/display/30cbdb5e-ccd2-11f1-a6e1-2d1c143cdef3/w:1024/p:16x9/AP26293753064302.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/italie-apres-les-heurts-du-weekend-des-militaires-seront-deployes-a-mila-620b944037.html"
-    },
-    {
-      "title": "Allemagne: en Saxe-Anhalt, les craintes de la communauté juive après la victoire électorale de l'AfD",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261020-allemagne-en-saxe-anhalt-les-craintes-de-la-communaut%C3%A9-juive-apr%C3%A8s-la-victoire-%C3%A9lectorale-de-l-afd",
+      "title": "Brésil: Lula et Bolsonaro cherchent à se disqualifier mutuellement, à quelques jours du second tour",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261021-br%C3%A9sil-lula-et-bolsonaro-cherchent-%C3%A0-se-disqualifier-mutuellement-%C3%A0-quelques-jours-du-second-tour",
       "source": "RFI",
-      "publishedAt": "2026-10-20T22:06:53.000Z",
-      "summary": "Après la victoire de l'extrême droite en Saxe-Anhalt aux élections régionales, la petite communauté juive de cette région de l'est de l'Allemagne navigue entre inquiétude et attentisme. Elle ne sait pas encore ce que le futur probable président de la région fera en matière de lutte contre l'antisémitisme et de travail ",
-      "image": "https://s.rfi.fr/media/display/4d7adfc8-0de1-11ea-a6ed-005056a9aa4d/w:1024/p:16x9/000_14a1ij_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-en-saxe-anhalt-les-craintes-de-la-communaute-juive-apres-la-vi-b66c8db68d.html"
+      "publishedAt": "2026-10-21T07:11:15.000Z",
+      "summary": "À quatre jours du second tour de la présidentielle brésilienne, prévu dimanche 25 octobre, Flavio Bolsonaro a saisi mardi 20 octobre la justice électorale pour lui demander de disqualifier son rival, peu après que le président sortant Luiz Inacio Lula da Silva a annoncé son intention d'en faire autant. Au cœur des accu",
+      "image": "https://s.rfi.fr/media/display/7287edb2-cd1d-11f1-ac07-d1d2c32ebb87/w:1024/p:16x9/2026-10-20T181938Z-1724601291-RC227OAQTQR1-RTRMADP-3-BRAZIL-ELECTION.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-lula-et-bolsonaro-cherchent-a-se-disqualifier-mutuellement-a-quel-c2541e2f2f.html"
     },
     {
-      "title": "Le Nigeria annonce un premier cas de virus Ebola à Abuja",
-      "url": "https://www.france24.com/fr/afrique/20261020-nigeria-annonce-premier-cas-virus-ebola-abuja",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T21:50:01.000Z",
-      "summary": "Une femme arrivée à Abuja par avion en provenance de l'Ouganda est porteuse du virus Ebola, a annoncé mardi le gouvernement du Nigeria qui recense par ailleurs 44 cas contacts étroits. L’épidémie, déclarée en mai en RD Congo où elle a dépassé les 9 000 cas et 4 381 décès, s’étend désormais à plusieurs pays africains.",
-      "image": "https://s.france24.com/media/display/db9f009a-cccf-11f1-8fb9-638c1c1f5fd6/w:1024/p:16x9/AP26293670227514.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-nigeria-annonce-un-premier-cas-de-virus-ebola-a-abuja-2217fbb6bf.html"
-    },
-    {
-      "title": "17 octobre : les commerces et lieux de culte juifs, ciblés par les manifestants ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261020-17-octobre-les-commerces-et-lieux-de-culte-juifs-cibl%C3%A9s-par-les-manifestants",
-      "source": "France 24",
-      "publishedAt": "2026-10-20T21:42:28.000Z",
-      "summary": "Après les violences et pillages survenus le 17 octobre à Marseille, des publications virales affirment que les tous les commerces détenus par des personnes de confession juive ont été ciblés, au contraire de ceux des musulmans. Une autre rumeur attribue l'intrusion dans une synagogue parisienne aux manifestants. En réa",
-      "image": "https://s.france24.com/media/display/863383ec-ccca-11f1-8261-2d1c143cdef3/w:1024/p:16x9/Francais-2026-10-20T19-13-51-251Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/17-octobre-les-commerces-et-lieux-de-culte-juifs-cibles-par-les-manifest-a16f484d95.html"
-    },
-    {
-      "title": "Trésor, Justice, État : l’IA chinoise DeepSeek doit disparaître des ordinateurs de l’administration américaine",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3293301_tresor-justice-etat-lia-chinoise-deepseek-doit-disparaitre-des-ordinateurs-de-ladministration-americaine",
+      "title": "Windows 11 : Microsoft fait marche arrière et supprime déjà ces fonctions Copilot",
+      "url": "https://www.frandroid.com/os/windows/3293395_windows-11-microsoft-fait-marche-arriere-et-supprime-deja-ces-fonctions-dia",
       "source": "Frandroid",
-      "publishedAt": "2026-10-20T20:10:52.000Z",
-      "summary": "Le ministère américain de la Sécurité intérieure a rendu public, ce lundi 19 octobre, un ordre qui oblige les agences fédérales civiles à cesser d'acheter DeepSeek et à le retirer de leurs systèmes. Il vise aussi les logiciels tiers construits sur ses modèles, alors que ceux-ci sont téléchargeables librement.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-249.png?resize=1200,675&key=7554ac71",
+      "publishedAt": "2026-10-21T06:34:46.000Z",
+      "summary": "Microsoft va retirer huit actions Copilot du clic droit de l'Explorateur de fichiers de Windows 11 à partir de la mi-novembre 2026. Ces raccourcis IA venaient à peine de commencer leur déploiement.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/12/logo-microsoft-copilot.jpg?resize=1200,675&key=3074c3ad",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/tresor-justice-etat-l-ia-chinoise-deepseek-doit-disparaitre-des-ordinate-3d412da033.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/windows-11-microsoft-fait-marche-arriere-et-supprime-deja-ces-fonctions--163b97674a.html"
     },
     {
-      "title": "Sénégal: des centaines de travailleurs se mobilisent avant une grève générale annoncée pour trois jours",
-      "url": "https://www.rfi.fr/fr/afrique/20261020-s%C3%A9n%C3%A9gal-des-centaines-de-travailleurs-se-mobilisent-avant-une-gr%C3%A8ve-g%C3%A9n%C3%A9rale-annonc%C3%A9e-pour-trois-jours",
+      "title": "Decathlon brade sa trottinette Btwin SD500E à moins de 250 €, parfaite pour les petit budgets",
+      "url": "https://www.frandroid.com/bons-plans/3292743_decathlon-brade-sa-trottinette-btwin-sd500e-a-moins-de-250-e-parfaite-pour-les-petit-budgets",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-21T06:17:00.000Z",
+      "summary": "La Btwin SD500E est la trottinette électrique pas chère de Decathlon. Elle est pensée pour les petits trajets, avec ses roues de 10 pouces et son moteur de 350 W. Elle est à retrouver pour seulement 249,99 euros au lieu de 299,99 euros sur le site de Decathlon.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/btwin-sd500e.jpg?resize=1200,675&key=0e023abd",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/decathlon-brade-sa-trottinette-btwin-sd500e-a-moins-de-250-parfaite-pour-2bdebbde5c.html"
+    },
+    {
+      "title": "DIRECT - France: après une nouvelle nuit sous couvre-feu, le Premier ministre reçoit les syndicats",
+      "url": "https://www.rfi.fr/fr/france/20261021-direct-france-apr%C3%A8s-une-nouvelle-nuit-sous-couvre-feu-le-premier-ministre-re%C3%A7oit-les-syndicats",
       "source": "RFI",
-      "publishedAt": "2026-10-20T20:01:28.000Z",
-      "summary": "Quelques centaines de travailleurs sénégalais sont descendus ce mardi 20 octobre dans l'après-midi à Dakar à l'appel du Front national pour la défense du travail (FSDT), un collectif qui rassemble 13 Cette marche annonce une grève générale de 72 heures à compter de mercredi. Malgré l'appel du gouvernement à lever leur ",
-      "image": "https://s.rfi.fr/media/display/f4521bea-ccc0-11f1-bd66-6313a763b466/w:1024/p:16x9/SENEGAL-DAKAR-MANIFESTATION-MOUVEMENT-SOCIAL.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-des-centaines-de-travailleurs-se-mobilisent-avant-une-greve-gene-9e10fc7bbf.html"
+      "publishedAt": "2026-10-21T06:14:10.000Z",
+      "summary": "Après les violences et les pillages du week-end dernier en France et une deuxième nuit sous couvre-feu, le Premier ministre Sébastien Lecornu doit recevoir, ce mercredi 21 octobre, les principales organisations syndicales, pour évoquer avec elles la sécurisation des cortèges et les réponses aux lycéens. Jeudi, il s'ent",
+      "image": "https://s.rfi.fr/media/display/410c3bdc-cd16-11f1-843f-6313a763b466/w:1024/p:16x9/2026-10-20T220612Z-1605202101-RC297OA0G6ZG-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-france-apres-une-nouvelle-nuit-sous-couvre-feu-le-premier-ministr-ffe1bfd913.html"
     },
     {
-      "title": "Jusqu’à 1 600 euros : la prochaine Xbox pourrait coûter plus du double d’une Series X",
-      "url": "https://www.frandroid.com/marques/microsoft/3293361_jusqua-1-600-euros-la-prochaine-xbox-pourrait-couter-plus-du-double-dune-series-x",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-20T20:56:27.000Z",
-      "summary": "Microsoft estime en interne que sa prochaine console Xbox, prévue pour les fêtes de fin d'année 2028, pourrait coûter entre 1&nbsp;200 et 1&nbsp;800 dollars (environ 1&nbsp;070 à 1&nbsp;600 euros hors taxes), selon Fortune. Une console portable doit sortir avant elle, fin 2027.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/javier-martinez-hud0puczwjq-unsplash.jpg?resize=1200,675&key=765a3e21",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jusqu-a-1-600-euros-la-prochaine-xbox-pourrait-couter-plus-du-double-d-u-0beb00e3f2.html"
+      "title": "Kyiv et Moscou négocient l'évacuation des habitants d'Olechky",
+      "url": "https://fr.euronews.com/2026/10/21/en-ukraine-kyiv-et-moscou-negocient-levacuation-des-habitants-dolechky",
+      "source": "Euronews",
+      "publishedAt": "2026-10-21T05:55:12.000Z",
+      "summary": "Kyiv et Moscou règlent les derniers détails de l'évacuation des habitants restés à Olechky, ville occupée par l'armée russe dans la région de Kherson, a indiqué Dmytro Loubinets, le commissaire ukrainien aux droits humains.",
+      "image": "https://images.euronews.com/articles/stories/09/96/03/56/696x392_cmsv2_437c9b49-e87d-5192-b608-6b6626116ac3-9960356.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/kyiv-et-moscou-negocient-l-evacuation-des-habitants-d-olechky-7e69c41c16.html"
     },
     {
-      "title": "Face à ElevenLabs et ses 90 langues, Mistral dégaine Voxtral 3",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3293341_face-a-elevenlabs-et-ses-90-langues-mistral-degaine-voxtral-3",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-20T20:40:53.000Z",
-      "summary": "Mistral AI a présenté ce mardi 20 octobre 2026 Voxtral 3, une famille de modèles vocaux qui transcrit plus de 50 langues, parle dans plus de 35 et sert de base à un kit pour créer des agents vocaux. En mars, son premier modèle de synthèse vocale ne gérait que 9 langues.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/capture-decran-2026-10-20-a-223734.png?resize=1200,675&key=258b48a1",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/face-a-elevenlabs-et-ses-90-langues-mistral-degaine-voxtral-3-af23fa0710.html"
+      "title": "Yémen: l'ONU réclame un accès humanitaire à Taëz, assiégée par les Houthis",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261021-y%C3%A9men-l-onu-r%C3%A9clame-un-acc%C3%A8s-humanitaire-%C3%A0-ta%C3%ABz-assi%C3%A9g%C3%A9e-par-les-houthis",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T05:36:52.000Z",
+      "summary": "Les violences se sont encore intensifiées cette semaine au Yémen, avec une frappe attribuée aux Houthis qui a fait plus de 70 morts sur un camp des forces gouvernementales le 19 octobre. Sur le plan humanitaire, les combats ont fait plus de 250 000 déplacés depuis cet été. Beaucoup sont encerclés à Taëz, dans le sud-ou",
+      "image": "https://s.rfi.fr/media/display/32b7a64c-cd0d-11f1-8054-638c1c1f5fd6/w:1024/p:16x9/2026-10-20T174031Z-125933265-RC266OAIEPSQ-RTRMADP-3-IRAN-CRISIS-YEMEN-TAIZ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yemen-l-onu-reclame-un-acces-humanitaire-a-taez-assiegee-par-les-houthis-2491f41e09.html"
     },
     {
-      "title": "Presque trois fois mieux que ChatGPT à ses débuts : l’agent IA Muse de Meta cartonne aux États-Unis",
-      "url": "https://www.frandroid.com/marques/meta/3293331_presque-trois-fois-mieux-que-chatgpt-a-ses-debuts-lagent-ia-muse-de-meta-cartonne-aux-etats-unis",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-20T20:28:54.000Z",
-      "summary": "Lancée le 8 septembre, l'application Muse de Meta a dépassé les 10 millions de téléchargements aux États-Unis en 40 jours, d'après Sensor Tower. Seules onze applications avaient fait aussi vite avant elle.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-254.png?resize=1200,675&key=d002df1a",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presque-trois-fois-mieux-que-chatgpt-a-ses-debuts-l-agent-ia-muse-de-met-c4ffe38c26.html"
+      "title": "Midterms 2026 : Ossoff et El-Sayed, deux candidats, deux visions démocrates",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261021-%C3%A9tats-unis-midterms-2026-ossoff-el-sayed-deux-candidats-deux-visions-parti-d%C3%A9mocrate",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T05:22:05.000Z",
+      "summary": "Aux États-Unis, la campagne électorale des midterms bat son plein. Côté démocrate, le sénateur Jon Ossoff se bat pour sa réélection en Géorgie, tandis qu'Abdul El-Sayed veut se faire élire dans l'État clé du Michigan. Deux profils et deux programmes radicalement différents, symptomatiques des divergences au sein de l'o",
+      "image": "https://s.france24.com/media/display/64a85de8-bcd4-11f1-9439-816a8398162d/w:1024/p:16x9/main-ossof-sayed.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-ossoff-et-el-sayed-deux-candidats-deux-visions-democrates-6a0e6ac050.html"
     },
     {
-      "title": "Bloqué par un sabot, ce SUV BYD lève sa roue de 30 centimètres et s’en va",
-      "url": "https://www.frandroid.com/survoltes/3293321_bloque-par-un-sabot-ce-suv-byd-leve-la-roue-de-30-centimetres-et-sen-va",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-20T20:24:17.000Z",
-      "summary": "Une vidéo tournée à Jinshan, en Chine, montre un SUV BYD Bao 8 rouler sur trois roues, la quatrième levée avec un sabot encore fixé dessus. Le SUV doit ce tour à sa suspension hydraulique DiSus-P Ultra, capable de soulever une roue de 30 centimètres.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-253.png?resize=1200,675&key=ed73d2a5",
+      "title": "Roumanie : le nouveau Premier ministre Luca Niculescu et son gouvernement prêtent serment",
+      "url": "https://fr.euronews.com/2026/10/21/roumanie-le-nouveau-premier-ministre-luca-niculescu-et-son-gouvernement-pretent-serment",
+      "source": "Euronews",
+      "publishedAt": "2026-10-21T05:18:58.000Z",
+      "summary": "Le diplomate indépendant Luca Niculescu obtient le soutien du Parlement pour un gouvernement minoritaire, mais des analystes avertissent que l'accalmie pourrait ne pas durer.",
+      "image": "https://images.euronews.com/articles/stories/09/96/08/19/696x392_cmsv2_5c851331-a6a6-5d6c-82a0-3b345ee51232-9960819.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/roumanie-le-nouveau-premier-ministre-luca-niculescu-et-son-gouvernement--5e06a2f3cd.html"
+    },
+    {
+      "title": "Midterms 2026: six questions sur les milliards de dollars qui financent les élections américaines",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261021-midterms-2026-six-questions-sur-les-milliards-de-dollars-qui-financent-les-%C3%A9lections-am%C3%A9ricaines",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T04:05:38.000Z",
+      "summary": "À l'approche des élections de mi-mandat du 3 novembre aux États-Unis, alors que la bataille pour le Congrès se resserre et que les démocrates caressent de plus en plus l'espoir de reprendre les deux chambres, l'argent afflue dans une course aux financements toujours plus effrénée.",
+      "image": "https://s.rfi.fr/media/display/49c1bc32-c57a-11f1-b221-e362370cce2e/w:1024/p:16x9/2026-09-27T000123Z-1299985978-RC2KANANLHL3-RTRMADP-3-USA-ELECTION-REPUBLICAN-SPENDING.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-six-questions-sur-les-milliards-de-dollars-qui-financent-l-510a5f834b.html"
+    },
+    {
+      "title": "Plus de 220 morts dans des frappes de drone imputées à l'armée soudanaise dans la région disputée d'Abyei",
+      "url": "https://www.rfi.fr/fr/afrique/20261021-plus-de-220-morts-dans-des-frappes-de-drone-imput%C3%A9es-%C3%A0-l-arm%C3%A9e-soudanaise-dans-la-r%C3%A9gion-disput%C3%A9e-d-abyei",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T03:05:31.000Z",
+      "summary": "Située à la frontière entre le Soudan et le Soudan du Sud, la zone administrative d'Abyei – dont les deux pays revendiquent la souveraineté – a été la cible d'une sanglante attaque au drone attribuée aux forces du général Abdel Fattah al-Buhran, lundi 19 octobre. L'armée soudanaise aurait ainsi voulu priver les paramil",
+      "image": "https://s.rfi.fr/media/display/fdd3768e-ccd2-11f1-aa46-638c1c1f5fd6/w:1024/p:16x9/2026-10-20T122744Z-1330954664-RC2W6OA7AZTI-RTRMADP-3-SOUTHSUDAN-SUDAN-SECURITY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/plus-de-220-morts-dans-des-frappes-de-drone-imputees-a-l-armee-soudanais-7a67eb2024.html"
+    },
+    {
+      "title": "Burkina Faso: la junte au pouvoir rétablit la peine de mort",
+      "url": "https://www.rfi.fr/fr/afrique/20261021-burkina-faso-la-junte-au-pouvoir-r%C3%A9tablit-la-peine-de-mort",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T03:04:31.000Z",
+      "summary": "les 71 députés burkinabè ont adopté à l'unanimité, mardi 20 octobre, un nouveau code pénal qui réintroduit la peine capitale pour un certain nombre de crimes en lien avec le terrorisme, l’espionnage, la trahison ou encore l’importation de produits périmés ou prohibés susceptibles d'entraîner la mort. Le texte prévoit é",
+      "image": "https://s.rfi.fr/media/display/293f0426-16c0-11ea-993c-005056a99247/w:1024/p:16x9/000_Par7634959_1_0.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/burkina-faso-la-junte-au-pouvoir-retablit-la-peine-de-mort-37ae2eb192.html"
+    },
+    {
+      "title": "Espagne: à l'approche des législatives, les «indignés» de la Puerta del Sol poursuivent leur mobilisation pour le logement",
+      "url": "https://www.rfi.fr/fr/europe/20261021-espagne-%C3%A0-l-approche-des-l%C3%A9gislatives-les-indign%C3%A9s-de-la-puerta-del-sol-poursuivent-leur-mobilisation-pour-le-logement",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T03:00:42.000Z",
+      "summary": "À quelques semaines des élections législatives anticipées du 29 novembre en Espagne, le gouvernement du Premier ministre socialiste Pedro Sánchez a approuvé, mardi 20 octobre, une nouvelle série de mesures sociales. Mais le mouvement de contestation né à la fin du mois de septembre après l'expulsion, puis la mort, d'un",
+      "image": "https://s.rfi.fr/media/display/4e5fc11e-ccd0-11f1-b8c4-4dd8ac2cf3bf/w:1024/p:16x9/000-D3UX6DL.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-a-l-approche-des-legislatives-les-indignes-de-la-puerta-del-sol--3f98ebf3d7.html"
+    },
+    {
+      "title": "La voiture la plus vendue du monde va enfin passer à l’électrique",
+      "url": "https://www.01net.com/actualites/la-voiture-la-plus-vendue-du-monde-va-enfin-passer-a-lelectrique.html",
+      "source": "01net",
+      "publishedAt": "2026-10-21T06:38:36.000Z",
+      "summary": "Toyota préparerait une Corolla 100 % électrique pour 2028. Développée avec l'aide de la Chine, elle pourrait aussi conserver des motorisations hybrides et essence selon les marchés.",
+      "image": "https://www.01net.com/app/uploads/2026/10/TOYOTA_COROLLA_CONCEPT_001_s-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bloque-par-un-sabot-ce-suv-byd-leve-sa-roue-de-30-centimetres-et-s-en-va-f19e6eb7e6.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-voiture-la-plus-vendue-du-monde-va-enfin-passer-a-l-electrique-7cf6d780d6.html"
+    },
+    {
+      "title": "« Supervision humaine minimale » : l’armée américaine veut ses propres IA pirates pour « neutraliser les menaces »",
+      "url": "https://www.01net.com/actualites/supervision-humaine-minimale-larmee-americaine-veut-ses-propres-ia-pirates-pour-neutraliser-les-menaces.html",
+      "source": "01net",
+      "publishedAt": "2026-10-21T06:33:05.000Z",
+      "summary": "Pendant tout l'été, des agents d'IA se sont introduits seuls dans des systèmes informatiques, sans qu'on le leur demande. L'armée américaine, elle, veut désormais des agents capables d'en faire autant, sur commande.",
+      "image": "https://www.01net.com/app/uploads/2026/10/Canva1920_1280-33-1344x896.jpeg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/supervision-humaine-minimale-l-armee-americaine-veut-ses-propres-ia-pira-540312c9a9.html"
+    },
+    {
+      "title": "Changement de forfait, migration de numéro, couverture mobile : qu’est-ce que le rachat de SFR va changer pour vous selon l’Arcep",
+      "url": "https://www.frandroid.com/marques/sfr/3293413_changement-de-forfait-migration-de-numero-couverture-mobile-quest-ce-que-le-rachat-de-sfr-va-changer-pour-vous-selon-larcep",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-21T06:29:06.000Z",
+      "summary": "C’est une reconfiguration profonde du paysage mobile français qui va s’opérer dans les prochaines années avec la revente de SFR à ses concurrents. Pour y voir plus clair, le gendarme des télécoms détaille les changements à venir.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2015/12/Logo-SFR.jpg?resize=1200,675&key=0b923ca5",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/changement-de-forfait-migration-de-numero-couverture-mobile-qu-est-ce-qu-3f9aa1310a.html"
+    },
+    {
+      "title": "Failles critiques PHP : comment les Freebox propulsent la France en tête des équipements les plus exposés au monde",
+      "url": "https://www.frandroid.com/culture-tech/securite-applications/3293393_failles-critiques-php-comment-les-freebox-propulsent-la-france-en-tete-des-equipements-les-plus-exposes-au-monde",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-21T06:18:04.000Z",
+      "summary": "À quelques heures de la publication d'un correctif d'urgence pour deux failles critiques dans PHP, un recensement mondial place la France en tête des pays les plus exposés. En cause : près de deux millions de Freebox dont l'interface répond publiquement sur Internet.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/d3f158f2-bec9-47ab-b454-3abae88607f5-1-1.jpg?resize=1200,675&key=26b087d5",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/failles-critiques-php-comment-les-freebox-propulsent-la-france-en-tete-d-a1ff3ecd61.html"
     }
   ]
 }
