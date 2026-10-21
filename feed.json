@@ -1,25 +1,80 @@
 {
-  "updatedAt": "2026-10-21T18:00:05.917Z",
+  "updatedAt": "2026-10-21T21:27:04.146Z",
   "items": [
     {
-      "title": "On a reçu l’iPhone Duo : nos premières impressions et nos doutes",
-      "url": "https://www.frandroid.com/marques/apple/3294695_on-a-recu-liphone-duo-nos-premieres-impressions-et-nos-doutes",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T17:06:08.000Z",
-      "summary": "Je viens de recevoir l'iPhone Duo pour commencer le test complet. En attendant celui-ci, voici mes toutes premières impressions sur le premier smartphone pliable d'Apple.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/apple-iphone-duo-frandroid-15.jpg?resize=1200,675&key=e692851e",
+      "title": "Ben Gvir déporte un Gazaoui vers un Paris dévasté ... et généré par IA",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261021-ben-gvir-d%C3%A9porte-un-gazaoui-vers-un-paris-d%C3%A9vast%C3%A9-et-g%C3%A9n%C3%A9r%C3%A9-par-ia",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T21:19:00.000Z",
+      "summary": "Itamar Ben Gvir, ministre israélien de la Sécurité nationale, a partagé sur X une vidéo générée par IA où il prend les traits d'un génie, accédant au \"voeu\" d'un Gazaoui en le déportant par magie vers un Paris en ruines après les manifestations du 17 octobre. Une provocation qui a déclenché une joute en ligne avec le Q",
+      "image": "https://s.france24.com/media/display/c63cf422-cd8e-11f1-90ba-4da0d2c6855d/w:1024/p:16x9/FR-20261021-221856-222450-CS.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/on-a-recu-l-iphone-duo-nos-premieres-impressions-et-nos-doutes-2d29df1210.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ben-gvir-deporte-un-gazaoui-vers-un-paris-devaste-et-genere-par-ia-a18a04ebd5.html"
     },
     {
-      "title": "Affaire Thélyson Orélien: l'éditeur Boréal annonce que l'écrivain a utilisé l'IA pour «C'était ça ou mourir»",
-      "url": "https://www.rfi.fr/fr/culture/20261021-affaire-th%C3%A9lyson-or%C3%A9lien-l-%C3%A9diteur-bor%C3%A9al-annonce-que-l-%C3%A9crivain-a-utilis%C3%A9-l-ia-pour-c-%C3%A9tait-%C3%A7a-ou-mourir",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T16:39:29.000Z",
-      "summary": "L'éditeur Boréal a annoncé, mercredi 21 octobre, mettre fin à sa collaboration avec Thélyson Orélien qui a bien, selon la maison d'édition canadienne, utilisé l'intelligence artificielle (IA) pour écrire son roman C'était ça ou mourir, contrairement à ce qu'il assurait.",
-      "image": "https://s.rfi.fr/media/display/f4297f2c-c70d-11f1-8a0c-e362370cce2e/w:1024/p:16x9/000-C9AN7BE.jpg",
+      "title": "Meta condamné à payer 25 milliards de dollars pour avoir trompé des utilisateurs américains de Facebook",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261021-meta-condamn%C3%A9-%C3%A0-payer-25-milliards-de-dollars-pour-avoir-tromp%C3%A9-des-utilisateurs-am%C3%A9ricains-de-facebook",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T20:43:54.000Z",
+      "summary": "Le scandale Cambridge Analytica avait révélé, en 2018, l'exploitation à des fins de ciblage politique des données personnelles de dizaines de millions d'utilisateurs de Facebook. Il vaut, mercredi, au groupe Meta une amende de 25 milliards de dollars pour avoir trompé les utilisateurs du Nouveau-Mexique. Le groupe dépl",
+      "image": "https://s.france24.com/media/display/20e21dfc-cd90-11f1-9222-19980254bb31/w:1024/p:16x9/37c37ecb05227c00907361a28328cefa7483f365.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/affaire-thelyson-orelien-l-editeur-boreal-annonce-que-l-ecrivain-a-utili-878b34dd7b.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/meta-condamne-a-payer-25-milliards-de-dollars-pour-avoir-trompe-des-util-c2f8702502.html"
+    },
+    {
+      "title": "Grèce : des milliers de manifestants envahissent Athènes pour l'éducation",
+      "url": "https://fr.euronews.com/video/2026/10/21/grece-des-milliers-de-manifestants-envahissent-athenes-pour-leducation",
+      "source": "Euronews",
+      "publishedAt": "2026-10-21T21:03:13.000Z",
+      "summary": "Des milliers de manifestants ont défilé à Athènes mercredi 21 octobre pour réclamer davantage d'investissements dans l'éducation, remplissant les rues de la capitale de banderoles, de slogans et de tambours devant le Parlement grec.",
+      "image": "https://images.euronews.com/articles/stories/09/96/24/03/696x392_cmsv2_f3dc8519-84c6-57a1-8361-a5e5518568c2-9962403.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/grece-des-milliers-de-manifestants-envahissent-athenes-pour-l-education-11e835db88.html"
+    },
+    {
+      "title": "Crise sociale en France: pris pour cible, Emmanuel Macron riposte et assume son action",
+      "url": "https://www.rfi.fr/fr/france/20261021-crise-sociale-en-france-pris-pour-cible-emmanuel-macron-riposte-et-assume-son-action",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T20:39:49.000Z",
+      "summary": "Le déplacement d'Emmanuel Macron au Moyen-Orient, en pleine crise sociale et après les violences qui ont eu lieu en France les 17 et 18 octobre, a été vivement critiqué. Le président français a choisi de répondre, ce mercredi 21 octobre, à l'occasion d'un point presse organisé à Doha au Qatar. Le chef de l'État a manif",
+      "image": "https://s.rfi.fr/media/display/69d1263a-cd8f-11f1-ae40-19980254bb31/w:1024/p:16x9/FRANCE-POLITIQUE-PRESIDENT-EMMANUEL-MACRON.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-sociale-en-france-pris-pour-cible-emmanuel-macron-riposte-et-assum-269d32d985.html"
+    },
+    {
+      "title": "Violences urbaines: l'Europe face à la tentation sécuritaire",
+      "url": "https://www.rfi.fr/fr/europe/20261021-violences-urbaines-l-europe-face-%C3%A0-la-tentation-s%C3%A9curitaire",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T19:10:29.000Z",
+      "summary": "Des soldats dans les rues de Milan en Italie, des couvre-feux en France après les événements du 17 et du 18 octobre : face aux violences urbaines, l'Europe durcit le ton. Mais jusqu'où ? Les eurodéputés sont divisés.",
+      "image": "https://s.rfi.fr/media/display/6df457aa-cadd-11f1-a160-2d1c143cdef3/w:1024/p:16x9/AP26290687287089.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/violences-urbaines-l-europe-face-a-la-tentation-securitaire-0bc6c13526.html"
+    },
+    {
+      "title": "De Baldur’s Gate à Mass Effect : EA sacrifie BioWare",
+      "url": "https://www.frandroid.com/produits-android/console/3294911_de-baldurs-gate-a-mass-effect-ea-sacrifie-bioware",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-21T18:25:53.000Z",
+      "summary": "C'est un monument du jeu de rôle occidental qui s'effondre ce mercredi 21 octobre 2026. Dans le cadre d'un plan social touchant environ 400 salariés, Electronic Arts ferme définitivement le studio mythique BioWare (Dragon Age, Mass Effect) et annule le prochain opus de sa saga spatiale.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/bed46u63da371.jpg?resize=1200,675&key=bf4459b8",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/de-baldur-s-gate-a-mass-effect-ea-sacrifie-bioware-c4fcd66dc0.html"
+    },
+    {
+      "title": "Midterms : Trump peut-il encore convaincre ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261021-midterms-trump-peut-il-encore-convaincre",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T18:17:42.000Z",
+      "summary": "Aux États-Unis, c'est la dernière ligne droite pour la campagne des midterms, les élections de mi-mandat du 3 novembre. Les votes anticipés ou par courrier montrent une forte participation avec 9 millions d’Américains qui se sont déjà prononcés. Donald Trump est en campagne et tente de reconquérir un électorat méconten",
+      "image": "https://s.france24.com/media/display/78964d88-cba7-11f1-83fd-638c1c1f5fd6/w:1024/p:16x9/2026-10-17T212609Z-1651462827-RC285OA65KAS-RTRMADP-3-USA-TRUMP-KENTUCKY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-trump-peut-il-encore-convaincre-d0abd4e301.html"
+    },
+    {
+      "title": "Sénégal : une grève paralyse plusieurs secteurs à l’approche des JOJ",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-s%C3%A9n%C3%A9gal-une-gr%C3%A8ve-paralyse-plusieurs-secteurs-%C3%A0-l-approche-des-joj",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T18:07:36.000Z",
+      "summary": "🇸🇳 Au Sénégal, une grève générale de trois jours a débuté ce mercredi, à l’appel du Front syndical pour la défense du travail. La mobilisation rassemble treize syndicats de l’éducation, des transports. Le gouvernement a appelé les travailleurs à renoncer à cette grève \"illégale\".",
+      "image": "https://s.france24.com/media/display/bbf6a99a-cd75-11f1-9c41-4da0d2c6855d/w:1024/p:16x9/Senegal-00-00-00-00-Still001.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-une-greve-paralyse-plusieurs-secteurs-a-l-approche-des-joj-5a3f0d7f46.html"
     },
     {
       "title": "Dussehra en Inde: des effigies géantes de démons brûlent",
@@ -29,6 +84,43 @@
       "summary": "L'Inde a célébré Dussehra, ou Vijayadashmi, à New Delhi avec des effigies de Ravana brûlées, des feux d'artifice et la présence du Premier ministre.",
       "image": "https://images.euronews.com/articles/stories/09/96/13/79/696x392_cmsv2_7ea8c7da-5390-5ab9-a2c6-5f111b46802a-9961379.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dussehra-en-inde-des-effigies-geantes-de-demons-brulent-bed7dea627.html"
+    },
+    {
+      "title": "Que sait-on de l’image des objets pillés, modifiée par l’IA et publiée par la police du Val-d’Oise ?",
+      "url": "https://www.france24.com/fr/france/20261021-que-sait-on-de-l-image-des-objets-pill%C3%A9s-modifi%C3%A9e-par-l-ia-publi%C3%A9e-par-la-police-du-val-d-oise",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T17:20:26.000Z",
+      "summary": "En marge des manifestations du 17 octobre, de nombreux magasins ont été pillés en France. Depuis, la police est à la recherche des auteurs de ces pillages et des objets volés. Sur X, l’antenne de la police nationale du Val-d’Oise affirme avoir retrouvé certains biens… mais la photo mise en avant n’est pas authentique.",
+      "image": "https://s.france24.com/media/display/ed3cd7f4-cd61-11f1-aa9d-8bea73bbe173/w:1024/p:16x9/neutre-16-9.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/que-sait-on-de-l-image-des-objets-pilles-modifiee-par-l-ia-et-publiee-pa-2d45d1f9c7.html"
+    },
+    {
+      "title": "L’armée déployée le 24 octobre : des précédents rarissimes en France",
+      "url": "https://www.france24.com/fr/france/20261021-armee-deployee-samedi-24-octobre-precedents-rarissimes-france",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T16:59:37.000Z",
+      "summary": "Le gouvernement a annoncé mardi l’envoi de la force Sentinelle, samedi, pour \"des missions de sécurisation statique\" habituellement assurées par des policiers. Des précédents existent mais sont peu nombreux dans l’histoire de la Ve République, les soldats n’étant pas formés au maintien de l’ordre.",
+      "image": "https://s.france24.com/media/display/90f3750e-cd69-11f1-8d2b-ab78a7fed2ce/w:1024/p:16x9/000-B38R6JM.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-armee-deployee-le-24-octobre-des-precedents-rarissimes-en-france-f7d93a047b.html"
+    },
+    {
+      "title": "De la France à l'Albanie, les manifestations menées par la Gen Z continuent à travers l'Europe",
+      "url": "https://www.france24.com/fr/europe/20261021-les-manifestations-men%C3%A9es-par-gen-z-continuent-travers-europe",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T16:47:58.000Z",
+      "summary": "Alors que la mobilisation lycéenne et contre la vie chère continue en France malgré de nouvelles restrictions de rassemblements et des couvre-feux localisés, les manifestations se poursuivent également à travers plusieurs pays d'Europe cette semaine. Le Haut-Commissaire de l'ONU aux droits de l'homme Volker Türk a cond",
+      "image": "https://s.france24.com/media/display/84e4e23c-cd61-11f1-b13f-4da0d2c6855d/w:1024/p:16x9/2026-10-20T190651Z-1155674728-RC227OA4WNEN-RTRMADP-3-ALBANIA-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/de-la-france-a-l-albanie-les-manifestations-menees-par-la-gen-z-continue-b68491154f.html"
+    },
+    {
+      "title": "Salaire, pouvoir d'achat, inflation : pourquoi le coût de la vie alimente la colère sociale",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261021-salaire-pouvoir-achat-inflation-france-co%C3%BBt-vie-reste-c%C5%93ur-inqui%C3%A9tudes",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T16:31:16.000Z",
+      "summary": "Dans la lignée du mouvement des Gilets jaunes en 2018, les manifestations du 17 octobre, comme celles prévues le 24, entendent dénoncer \"la vie chère\" et un \"décrochage du pouvoir d’achat\". Un mécontentement alimenté par l'inflation alors que les prix des carburants et dans les supermarchés continuent d'augmenter.",
+      "image": "https://s.france24.com/media/display/2ba149f8-cd67-11f1-b6dd-8bea73bbe173/w:1024/p:16x9/000-D3K888E.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/salaire-pouvoir-d-achat-inflation-pourquoi-le-cout-de-la-vie-alimente-la-9260859bdb.html"
     },
     {
       "title": "Arnaques en ligne : malgré la nouvelle loi, votre banque peut encore refuser de vous rembourser",
@@ -41,6 +133,35 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/arnaques-en-ligne-malgre-la-nouvelle-loi-votre-banque-peut-encore-refuse-32a522bfe8.html"
     },
     {
+      "title": "Un média pro-israélien à l'origine de la fausse image virale des octogénaires agressés à Paris",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-m%C3%A9dia-pro-isra%C3%A9lien-%C3%A0-l-origine-de-fausse-image-virale-octog%C3%A9naires-agress%C3%A9s-%C3%A0-paris-manifestations",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T16:27:14.000Z",
+      "summary": "Depuis les manifestations du 17 octobre à Paris, une prétendue photo affirme montrer un couple de personnes âgées, en sous-vêtements, qui aurait été dépouillé par des manifestants. Cette image a été générée par IA, et provient d'un site pro-israélien. Explications.",
+      "image": "https://s.france24.com/media/display/0ee0356e-cd6b-11f1-8de2-eb48fa034ddc/w:1024/p:16x9/minia-OBS-OK.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-media-pro-israelien-a-l-origine-de-la-fausse-image-virale-des-octogen-4c3a560dfa.html"
+    },
+    {
+      "title": "Arabie saoudite : Emmanuel Macron à Riyad dans la dernière étape de sa tournée dans le Golfe",
+      "url": "https://www.france24.com/fr/moyen-orient/20261021-arabie-saoudite-emmanuel-macron-dans-derni%C3%A8re-%C3%A9tape-tourn%C3%A9e-golfe",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T16:16:07.000Z",
+      "summary": "Le président français Emmanuel Macron s'est rendu à Riyad dans le cadre d'une visite de \"solidarité\", la première d'un dirigeant occidental en Arabie saoudite depuis que les Houthis du Yémen soutenus par l'Iran ont intensifié leurs attaques début octobre. La visite s'inscrit dans le cadre d'une tournée dans les pays du",
+      "image": "https://s.france24.com/media/display/eccf9780-cd65-11f1-80b5-4da0d2c6855d/w:1024/p:16x9/AP26294541628864.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/arabie-saoudite-emmanuel-macron-a-riyad-dans-la-derniere-etape-de-sa-tou-93b2fba864.html"
+    },
+    {
+      "title": "Non l’ambassade de Côte d’Ivoire à Paris n’a pas été incendiée par les manifestants du 17 octobre",
+      "url": "https://www.france24.com/fr/france/20261021-non-l-ambassade-de-c%C3%B4te-d-ivoire-%C3%A0-paris-n-a-pas-%C3%A9t%C3%A9-incendi%C3%A9e-par-les-manifestants-du-17-octobre",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T15:57:18.000Z",
+      "summary": "Des comptes affichant des positions proches de l’Alliance des États du Sahel (AES) affirment que l’ambassade de Côte d’Ivoire à Paris aurait été incendiée pendant les violences qui ont eu lieu en marge de la manifestation du 17 octobre. La photographie censée le prouver a été générée par IA.",
+      "image": "https://s.france24.com/media/display/be62019c-cd5d-11f1-a56b-eb48fa034ddc/w:1024/p:16x9/image1-182.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/non-l-ambassade-de-cote-d-ivoire-a-paris-n-a-pas-ete-incendiee-par-les-m-e9b21b6408.html"
+    },
+    {
       "title": "Au Salvador, des dizaines de milliers de personnes attendent d'être jugées",
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261021-au-salvador-des-dizaines-de-milliers-de-personnes-attendent-d-%C3%AAtre-jug%C3%A9es",
       "source": "RFI",
@@ -48,129 +169,6 @@
       "summary": "Nayib Bukele, président du Salvador depuis 2019, avait promis « l'enfer » aux membres des gangs. Mardi 20 octobre 2026, le procureur général du pays a donné des précisions chiffrées sur l'avancée de cette politique. Sur les 93 000 personnes emprisonnées dans le cadre de l'état d'exception instauré par le président il y",
       "image": "https://s.rfi.fr/media/display/00d32408-cd67-11f1-9347-19980254bb31/w:1024/p:16x9/SALVADOR-PRISONNIER-JUSTICE.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-salvador-des-dizaines-de-milliers-de-personnes-attendent-d-etre-jugee-1493a1cff3.html"
-    },
-    {
-      "title": "France: après les violences urbaines, le projet de loi «casseurs-payeurs» franchit une première étape au Sénat",
-      "url": "https://www.rfi.fr/fr/france/20261021-france-apr%C3%A8s-les-violences-urbaines-le-projet-de-loi-casseurs-payeurs-franchit-une-premi%C3%A8re-%C3%A9tape-au-s%C3%A9nat",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T15:34:38.000Z",
-      "summary": "Le projet de loi « casseurs-payeurs » porté par le gouvernement français prévoit l'instauration d'une responsabilité civile collective pour les dommages causés lors d'attroupements. Il a été adopté par les sénateurs, mercredi 21 octobre, en Commission des lois. Une première étape avant une discussion plus large.",
-      "image": "https://s.rfi.fr/media/display/e35c56a8-cd64-11f1-a0a3-4da0d2c6855d/w:1024/p:16x9/FRANCE-PARIS-VIOLENCES-URBAINES.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-apres-les-violences-urbaines-le-projet-de-loi-casseurs-payeurs-fr-ee58b09f06.html"
-    },
-    {
-      "title": "Panne Orange : l’astuce simple pour retrouver appels et SMS sur votre smartphone, nous l’avons testée",
-      "url": "https://www.01net.com/actualites/panne-orange-lastuce-simple-pour-retrouver-appels-et-sms-sur-votre-smartphone-nous-lavons-testee.html",
-      "source": "01net",
-      "publishedAt": "2026-10-21T15:18:46.000Z",
-      "summary": "Le réseau mobile d’Orange est perturbé depuis ce mercredi matin. Une manipulation simple permet toutefois de retrouver une partie du service : forcer son smartphone à se connecter en 3G. Nous l’avons testée avec succès sur Android.",
-      "image": "https://www.01net.com/app/uploads/2026/10/orange-appel-3g-panne-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/panne-orange-l-astuce-simple-pour-retrouver-appels-et-sms-sur-votre-smar-ba9d0dbf6b.html"
-    },
-    {
-      "title": "France: «Ceux qui accompagnent les casseurs sont complices et doivent être condamnés», estime Philippe Ballard (RN)",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261021-france-ceux-qui-accompagnent-les-casseurs-sont-complices-et-doivent-%C3%AAtre-condamn%C3%A9s-estime-philippe-ballard-rn",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T14:21:41.000Z",
-      "summary": "Quelques jours seulement après les émeutes et les violences des manifestations du 17 octobre, le projet de loi « casseurs-payeurs » a démarré, mercredi 21 octobre, son parcours législatif au Sénat. Un projet « indispensable » juge, à l'instar du Premier ministre, Philippe Ballard, député et porte-parole du Rassemblemen",
-      "image": "https://s.rfi.fr/media/display/d677680a-cbc1-11f1-adb8-638c1c1f5fd6/w:1024/p:16x9/2026-10-17T161359Z-1093177141-RC235OA6LME5-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-ceux-qui-accompagnent-les-casseurs-sont-complices-et-doivent-etre-4d8471c945.html"
-    },
-    {
-      "title": "Le gouvernement britannique approuve le forage controversé du champ gazier Jackdaw en mer du Nord",
-      "url": "https://www.rfi.fr/fr/europe/20261021-le-gouvernement-britannique-approuve-le-forage-controvers%C3%A9-du-champ-gazier-jackdaw-en-mer-du-nord",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T12:53:17.000Z",
-      "summary": "La décision était attendue depuis plusieurs mois : le gouvernement britannique donne son feu vert à l’exploitation du gisement gazier de Jackdaw, au large de l’Écosse, en mer du Nord. La production, opérée par Shell et Equinor, devrait commencer d’ici à la fin novembre.",
-      "image": "https://s.rfi.fr/media/display/a55e0712-cd4a-11f1-b75b-ab78a7fed2ce/w:1024/p:16x9/000-D3WZ24A.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-gouvernement-britannique-approuve-le-forage-controverse-du-champ-gazi-740d6ba4d0.html"
-    },
-    {
-      "title": "CNIL, DeviantArt, OBS : des sites ferment à cause des failles PHP",
-      "url": "https://www.frandroid.com/culture-tech/web/3294239_cnil-deviantart-obs-des-sites-ferment-a-cause-des-failles-php",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T12:46:58.000Z",
-      "summary": "La CNIL, le Parlement néerlandais, 4chan et DeviantArt ont fermé leurs sites ce mercredi 21&nbsp;octobre, avant même la publication à 16&nbsp;heures du correctif pour deux failles critiques de PHP. Cloudflare dit déjà voir les premières attaques.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/site-verouille.jpg?resize=1200,675&key=f9c0630d",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cnil-deviantart-obs-des-sites-ferment-a-cause-des-failles-php-b8a6bc6618.html"
-    },
-    {
-      "title": "Sénégal: un début de grève générale dans un contexte de bras de fer avec le gouvernement",
-      "url": "https://www.rfi.fr/fr/afrique/20261021-s%C3%A9n%C3%A9gal-un-d%C3%A9but-de-gr%C3%A8ve-g%C3%A9n%C3%A9rale-dans-un-contexte-de-bras-de-fer-avec-le-gouvernement",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T12:44:13.000Z",
-      "summary": "Au Sénégal, la grève générale de 72 heures a commencé ce mercredi 21 octobre. Le mot d’ordre lancé par le Front syndical pour la défense du travail (FSDT), qui réunit treize syndicats dans le secteur de l'éducation, de la santé, de la justice ou encore du transport, s’étend jusqu’à ce vendredi inclus. Le gouvernement a",
-      "image": "https://s.rfi.fr/media/display/cebab096-cd4b-11f1-b18a-eb48fa034ddc/w:1024/p:16x9/2026-10-20T194011Z-1245991724-RC237OANKWT5-RTRMADP-3-SENEGAL-LABOUR-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-un-debut-de-greve-generale-dans-un-contexte-de-bras-de-fer-avec--a737fcff26.html"
-    },
-    {
-      "title": "Fortuneo (2026) : la banque en ligne pour les plus fortunés ? Notre avis",
-      "url": "https://www.frandroid.com/services/banque-en-ligne/701831_notre-avis-sur-fortuneo-en-2023",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T12:31:59.000Z",
-      "summary": "Fortuneo est la banque en ligne du Crédit Mutuel Arkéa. Au départ une plateforme boursière, elle est devenue une banque en ligne qu'à partir de 2009. Elle propose aujourd'hui trois formules avec carte Mastercard, dont deux aux conditions d'accès assez strictes. Voyons si elle vaut le coup.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/04/avis-fortuneo.jpg?resize=1200,675&key=ac6ac536",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fortuneo-2026-la-banque-en-ligne-pour-les-plus-fortunes-notre-avis-396c792850.html"
-    },
-    {
-      "title": "Emmanuel Macron au Qatar, première visite d'État d'un président français depuis 2013",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261021-emmanuel-macron-au-qatar-premi%C3%A8re-visite-d-%C3%A9tat-d-un-pr%C3%A9sident-fran%C3%A7ais-depuis-2013",
-      "source": "France 24",
-      "publishedAt": "2026-10-21T12:22:31.000Z",
-      "summary": "Dernière étape de sa tournée dans le Golfe, Emmanuel Macron effectue une visite d’État au Qatar pour sécuriser les approvisionnements énergétiques français et renforcer la relation stratégique avec Doha.",
-      "image": "https://s.france24.com/media/display/a987fcbe-cd1b-11f1-8cba-d1d2c32ebb87/w:1024/p:16x9/capture-4aeed5a7.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/emmanuel-macron-au-qatar-premiere-visite-d-etat-d-un-president-francais--3fa8617bd0.html"
-    },
-    {
-      "title": "Mort de Paul Barril, ancien patron du GIGN au parcours marqué par les scandales",
-      "url": "https://www.rfi.fr/fr/france/20261021-mort-de-paul-barril-ancien-patron-du-gign-au-parcours-marqu%C3%A9-par-les-scandales",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T12:21:15.000Z",
-      "summary": "Paul Barril, décédé mardi soir à l'âge de 80 ans, a été un brillant officier du GIGN avant d'être impliqué dans deux scandales de l'ère Mitterrand, les Irlandais de Vincennes et les écoutes illégales de l'Élysée, et d'être mis en cause après le génocide du Rwanda.",
-      "image": "https://s.rfi.fr/media/display/0fcaed30-11b5-11ea-ae81-005056bf7c53/w:1024/p:16x9/000_Par7920106_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mort-de-paul-barril-ancien-patron-du-gign-au-parcours-marque-par-les-sca-f6836916a1.html"
-    },
-    {
-      "title": "Midterms : une gauche plus radicale face à Donald trump ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-midterms-une-gauche-plus-radicale-face-%C3%A0-donald-trump",
-      "source": "France 24",
-      "publishedAt": "2026-10-21T12:11:22.000Z",
-      "summary": "La Maine, située dans le nord-est des États-Unis, est l'un des fameux swing states, ces états dont le cœur balance entre républicains et démocrates au gré des élections. Pour contrer la position actuelle du conservateur Trump, les partisans démocrates décident de plus en plus de se radicaliser. Les explications de Loui",
-      "image": "https://s.france24.com/media/display/ad0ca812-cd39-11f1-a9e0-2d1c143cdef3/w:1024/p:16x9/FR-20261020-223006-224216-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-une-gauche-plus-radicale-face-a-donald-trump-f918866537.html"
-    },
-    {
-      "title": "Électrique d’occasion : bonne affaire ou hors de question ? Racontez-nous !",
-      "url": "https://www.frandroid.com/survoltes/voitures-electriques/3292469_electrique-doccasion-bonne-affaire-ou-hors-de-question-racontez-nous",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T16:27:01.000Z",
-      "summary": "Avec la hausse du carburant, des annonces plus intéressantes et quelques primes accordées, les voitures électriques d'occasion se vendent beaucoup mieux cette année. Mais quelques interrogations sur le prix ou la santé des batteries font encore hésiter de nombreux acheteurs. Envisagez-vous de passer à l'électrique de s",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2020/11/borne-recharge-voiture-electrique.jpeg?resize=1200,675&key=1b36284a",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/electrique-d-occasion-bonne-affaire-ou-hors-de-question-racontez-nous-4bae3640d4.html"
-    },
-    {
-      "title": "Oppo lance les Enco X4, ses premiers écouteurs en qualité sans-perte",
-      "url": "https://www.frandroid.com/marques/3294707_oppo-lance-les-enco-x4-ses-premiers-ecouteurs-en-qualite-sans-perte",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T16:18:38.000Z",
-      "summary": "Oppo a lancé ce mercredi 21 octobre à Majorque ses écouteurs Enco X4, vendus 219 euros. Ce sont les premiers écouteurs sans fil de la marque compatibles avec l'audio sans perte.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/oppo-enco-x4-2.jpeg?resize=1200,675&key=a4fc597e",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/oppo-lance-les-enco-x4-ses-premiers-ecouteurs-en-qualite-sans-perte-8f487897c6.html"
-    },
-    {
-      "title": "Mondial de l’Auto 2026 : comment les constructeurs chinois préparent leur offensive en Europe (vidéo)",
-      "url": "https://www.frandroid.com/marques/3294815_mondial-de-lauto-2026-comment-les-constructeurs-chinois-preparent-leur-offensive-en-europe-video",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T16:16:40.000Z",
-      "summary": "Au Mondial de l'Auto de Paris, la présence massive des marques asiatiques redessine le paysage automobile. Entre citadines à 20 000 euros et SUV ultra technologiques, les constructeurs chinois ne cachent plus leurs ambitions européennes.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/youtube-cover-m-n-94gk7w0.jpg?resize=1200,675&key=edf54a44",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mondial-de-l-auto-2026-comment-les-constructeurs-chinois-preparent-leur--0939dee4b3.html"
     }
   ]
 }
