@@ -1,175 +1,172 @@
 {
-  "updatedAt": "2026-10-21T07:20:13.287Z",
+  "updatedAt": "2026-10-21T13:02:24.034Z",
   "items": [
     {
-      "title": "Nouvelle cyberattaque en France : les données de propriétaires de chiens et chats ont encore été volées",
-      "url": "https://www.01net.com/actualites/nouvelle-cyberattaque-france-donnees-proprietaires-chiens-chats-encore-volees.html",
+      "title": "Ces robots de livraison sont accusés d’espionner leurs clients",
+      "url": "https://www.01net.com/actualites/ces-robots-de-livraison-sont-accuses-despionner-leurs-clients.html",
       "source": "01net",
-      "publishedAt": "2026-10-21T07:04:35.000Z",
-      "summary": "Un pirate est parvenu à dérober les données de millions de propriétaires de chiens et de chats en France. Le truand s'est attaqué à trois fichiers français, à savoir l'I-CAD, la Centrale Canine et le LOOF. Ce dernier vient de confirmer la cyberattaque.",
-      "image": "https://www.01net.com/app/uploads/2026/10/chien-chat-1344x896.jpg",
+      "publishedAt": "2026-10-21T13:00:45.000Z",
+      "summary": "Deux clients de Chicago accusent les fabricants de robots de livraison Coco Robotics et Serve Robotics d’avoir capturé des données biométriques sans les informer et sans leur accord. Deux actions collectives ont été déposées ce 9 octobre 2026.",
+      "image": "https://www.01net.com/app/uploads/2026/10/coco-robotics-1344x756.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-cyberattaque-en-france-les-donnees-de-proprietaires-de-chiens-e-7be1cb0ce4.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ces-robots-de-livraison-sont-accuses-d-espionner-leurs-clients-213181a3a4.html"
     },
     {
-      "title": "Le Xbox Game Pass bientôt en pièces détachées ? Voici ce que prépare Microsoft",
-      "url": "https://www.frandroid.com/marques/microsoft/3293455_le-xbox-game-pass-bientot-en-pieces-detachees-voici-ce-que-prepare-microsoft",
+      "title": "CNIL, DeviantArt, OBS : des sites ferment à cause des failles PHP",
+      "url": "https://www.frandroid.com/culture-tech/web/3294239_cnil-deviantart-obs-des-sites-ferment-a-cause-des-failles-php",
       "source": "Frandroid",
-      "publishedAt": "2026-10-21T06:59:54.000Z",
-      "summary": "Microsoft préparerait une refonte du Xbox Game Pass qui permettrait de prendre le cloud gaming, le multijoueur ou les jeux console en options séparées, selon le magazine Fortune ce mardi 20 octobre. Un leaker avait déjà évoqué un Game Pass à la carte mi-septembre.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/10/xbox-game-pass-manette-xbox.jpeg?resize=1200,675&key=a48d4073",
+      "publishedAt": "2026-10-21T12:46:58.000Z",
+      "summary": "La CNIL, le Parlement néerlandais, 4chan et DeviantArt ont fermé leurs sites ce mercredi 21&nbsp;octobre, avant même la publication à 16&nbsp;heures du correctif pour deux failles critiques de PHP. Cloudflare dit déjà voir les premières attaques.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/site-verouille.jpg?resize=1200,675&key=f9c0630d",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-xbox-game-pass-bientot-en-pieces-detachees-voici-ce-que-prepare-micro-fe8689f3e7.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cnil-deviantart-obs-des-sites-ferment-a-cause-des-failles-php-b8a6bc6618.html"
     },
     {
-      "title": "Brésil: Lula et Bolsonaro cherchent à se disqualifier mutuellement, à quelques jours du second tour",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261021-br%C3%A9sil-lula-et-bolsonaro-cherchent-%C3%A0-se-disqualifier-mutuellement-%C3%A0-quelques-jours-du-second-tour",
+      "title": "Le gouvernement britannique approuve le forage controversé du champ gazier Jackdaw en mer du Nord",
+      "url": "https://www.rfi.fr/fr/europe/20261021-le-gouvernement-britannique-approuve-le-forage-controvers%C3%A9-du-champ-gazier-jackdaw-en-mer-du-nord",
       "source": "RFI",
-      "publishedAt": "2026-10-21T07:11:15.000Z",
-      "summary": "À quatre jours du second tour de la présidentielle brésilienne, prévu dimanche 25 octobre, Flavio Bolsonaro a saisi mardi 20 octobre la justice électorale pour lui demander de disqualifier son rival, peu après que le président sortant Luiz Inacio Lula da Silva a annoncé son intention d'en faire autant. Au cœur des accu",
-      "image": "https://s.rfi.fr/media/display/7287edb2-cd1d-11f1-ac07-d1d2c32ebb87/w:1024/p:16x9/2026-10-20T181938Z-1724601291-RC227OAQTQR1-RTRMADP-3-BRAZIL-ELECTION.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-lula-et-bolsonaro-cherchent-a-se-disqualifier-mutuellement-a-quel-c2541e2f2f.html"
+      "publishedAt": "2026-10-21T12:53:17.000Z",
+      "summary": "La décision était attendue depuis plusieurs mois : le gouvernement britannique donne son feu vert à l’exploitation du gisement gazier de Jackdaw, au large de l’Écosse, en mer du Nord. La production, opérée par Shell et Equinor, devrait commencer d’ici à la fin novembre.",
+      "image": "https://s.rfi.fr/media/display/a55e0712-cd4a-11f1-b75b-ab78a7fed2ce/w:1024/p:16x9/000-D3WZ24A.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-gouvernement-britannique-approuve-le-forage-controverse-du-champ-gazi-740d6ba4d0.html"
     },
     {
-      "title": "Windows 11 : Microsoft fait marche arrière et supprime déjà ces fonctions Copilot",
-      "url": "https://www.frandroid.com/os/windows/3293395_windows-11-microsoft-fait-marche-arriere-et-supprime-deja-ces-fonctions-dia",
+      "title": "Sénégal: un début de grève générale dans un contexte de bras de fer avec le gouvernement",
+      "url": "https://www.rfi.fr/fr/afrique/20261021-s%C3%A9n%C3%A9gal-un-d%C3%A9but-de-gr%C3%A8ve-g%C3%A9n%C3%A9rale-dans-un-contexte-de-bras-de-fer-avec-le-gouvernement",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T12:44:13.000Z",
+      "summary": "Au Sénégal, la grève générale de 72 heures a commencé ce mercredi 21 octobre. Le mot d’ordre lancé par le Front syndical pour la défense du travail (FSDT), qui réunit treize syndicats dans le secteur de l'éducation, de la santé, de la justice ou encore du transport, s’étend jusqu’à ce vendredi inclus. Le gouvernement a",
+      "image": "https://s.rfi.fr/media/display/cebab096-cd4b-11f1-b18a-eb48fa034ddc/w:1024/p:16x9/2026-10-20T194011Z-1245991724-RC237OANKWT5-RTRMADP-3-SENEGAL-LABOUR-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-un-debut-de-greve-generale-dans-un-contexte-de-bras-de-fer-avec--a737fcff26.html"
+    },
+    {
+      "title": "Fortuneo (2026) : la banque en ligne pour les plus fortunés ? Notre avis",
+      "url": "https://www.frandroid.com/services/banque-en-ligne/701831_notre-avis-sur-fortuneo-en-2023",
       "source": "Frandroid",
-      "publishedAt": "2026-10-21T06:34:46.000Z",
-      "summary": "Microsoft va retirer huit actions Copilot du clic droit de l'Explorateur de fichiers de Windows 11 à partir de la mi-novembre 2026. Ces raccourcis IA venaient à peine de commencer leur déploiement.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/12/logo-microsoft-copilot.jpg?resize=1200,675&key=3074c3ad",
+      "publishedAt": "2026-10-21T12:31:59.000Z",
+      "summary": "Fortuneo est la banque en ligne du Crédit Mutuel Arkéa. Au départ une plateforme boursière, elle est devenue une banque en ligne qu'à partir de 2009. Elle propose aujourd'hui trois formules avec carte Mastercard, dont deux aux conditions d'accès assez strictes. Voyons si elle vaut le coup.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/04/avis-fortuneo.jpg?resize=1200,675&key=ac6ac536",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/windows-11-microsoft-fait-marche-arriere-et-supprime-deja-ces-fonctions--163b97674a.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fortuneo-2026-la-banque-en-ligne-pour-les-plus-fortunes-notre-avis-396c792850.html"
     },
     {
-      "title": "Decathlon brade sa trottinette Btwin SD500E à moins de 250 €, parfaite pour les petit budgets",
-      "url": "https://www.frandroid.com/bons-plans/3292743_decathlon-brade-sa-trottinette-btwin-sd500e-a-moins-de-250-e-parfaite-pour-les-petit-budgets",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T06:17:00.000Z",
-      "summary": "La Btwin SD500E est la trottinette électrique pas chère de Decathlon. Elle est pensée pour les petits trajets, avec ses roues de 10 pouces et son moteur de 350 W. Elle est à retrouver pour seulement 249,99 euros au lieu de 299,99 euros sur le site de Decathlon.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/btwin-sd500e.jpg?resize=1200,675&key=0e023abd",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/decathlon-brade-sa-trottinette-btwin-sd500e-a-moins-de-250-parfaite-pour-2bdebbde5c.html"
-    },
-    {
-      "title": "DIRECT - France: après une nouvelle nuit sous couvre-feu, le Premier ministre reçoit les syndicats",
-      "url": "https://www.rfi.fr/fr/france/20261021-direct-france-apr%C3%A8s-une-nouvelle-nuit-sous-couvre-feu-le-premier-ministre-re%C3%A7oit-les-syndicats",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T06:14:10.000Z",
-      "summary": "Après les violences et les pillages du week-end dernier en France et une deuxième nuit sous couvre-feu, le Premier ministre Sébastien Lecornu doit recevoir, ce mercredi 21 octobre, les principales organisations syndicales, pour évoquer avec elles la sécurisation des cortèges et les réponses aux lycéens. Jeudi, il s'ent",
-      "image": "https://s.rfi.fr/media/display/410c3bdc-cd16-11f1-843f-6313a763b466/w:1024/p:16x9/2026-10-20T220612Z-1605202101-RC297OA0G6ZG-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-france-apres-une-nouvelle-nuit-sous-couvre-feu-le-premier-ministr-ffe1bfd913.html"
-    },
-    {
-      "title": "Kyiv et Moscou négocient l'évacuation des habitants d'Olechky",
-      "url": "https://fr.euronews.com/2026/10/21/en-ukraine-kyiv-et-moscou-negocient-levacuation-des-habitants-dolechky",
-      "source": "Euronews",
-      "publishedAt": "2026-10-21T05:55:12.000Z",
-      "summary": "Kyiv et Moscou règlent les derniers détails de l'évacuation des habitants restés à Olechky, ville occupée par l'armée russe dans la région de Kherson, a indiqué Dmytro Loubinets, le commissaire ukrainien aux droits humains.",
-      "image": "https://images.euronews.com/articles/stories/09/96/03/56/696x392_cmsv2_437c9b49-e87d-5192-b608-6b6626116ac3-9960356.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/kyiv-et-moscou-negocient-l-evacuation-des-habitants-d-olechky-7e69c41c16.html"
-    },
-    {
-      "title": "Yémen: l'ONU réclame un accès humanitaire à Taëz, assiégée par les Houthis",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261021-y%C3%A9men-l-onu-r%C3%A9clame-un-acc%C3%A8s-humanitaire-%C3%A0-ta%C3%ABz-assi%C3%A9g%C3%A9e-par-les-houthis",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T05:36:52.000Z",
-      "summary": "Les violences se sont encore intensifiées cette semaine au Yémen, avec une frappe attribuée aux Houthis qui a fait plus de 70 morts sur un camp des forces gouvernementales le 19 octobre. Sur le plan humanitaire, les combats ont fait plus de 250 000 déplacés depuis cet été. Beaucoup sont encerclés à Taëz, dans le sud-ou",
-      "image": "https://s.rfi.fr/media/display/32b7a64c-cd0d-11f1-8054-638c1c1f5fd6/w:1024/p:16x9/2026-10-20T174031Z-125933265-RC266OAIEPSQ-RTRMADP-3-IRAN-CRISIS-YEMEN-TAIZ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yemen-l-onu-reclame-un-acces-humanitaire-a-taez-assiegee-par-les-houthis-2491f41e09.html"
-    },
-    {
-      "title": "Midterms 2026 : Ossoff et El-Sayed, deux candidats, deux visions démocrates",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261021-%C3%A9tats-unis-midterms-2026-ossoff-el-sayed-deux-candidats-deux-visions-parti-d%C3%A9mocrate",
+      "title": "Emmanuel Macron au Qatar, première visite d'État d'un président français depuis 2013",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261021-emmanuel-macron-au-qatar-premi%C3%A8re-visite-d-%C3%A9tat-d-un-pr%C3%A9sident-fran%C3%A7ais-depuis-2013",
       "source": "France 24",
-      "publishedAt": "2026-10-21T05:22:05.000Z",
-      "summary": "Aux États-Unis, la campagne électorale des midterms bat son plein. Côté démocrate, le sénateur Jon Ossoff se bat pour sa réélection en Géorgie, tandis qu'Abdul El-Sayed veut se faire élire dans l'État clé du Michigan. Deux profils et deux programmes radicalement différents, symptomatiques des divergences au sein de l'o",
-      "image": "https://s.france24.com/media/display/64a85de8-bcd4-11f1-9439-816a8398162d/w:1024/p:16x9/main-ossof-sayed.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-ossoff-et-el-sayed-deux-candidats-deux-visions-democrates-6a0e6ac050.html"
+      "publishedAt": "2026-10-21T12:22:31.000Z",
+      "summary": "Dernière étape de sa tournée dans le Golfe, Emmanuel Macron effectue une visite d’État au Qatar pour sécuriser les approvisionnements énergétiques français et renforcer la relation stratégique avec Doha.",
+      "image": "https://s.france24.com/media/display/a987fcbe-cd1b-11f1-8cba-d1d2c32ebb87/w:1024/p:16x9/capture-4aeed5a7.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/emmanuel-macron-au-qatar-premiere-visite-d-etat-d-un-president-francais--3fa8617bd0.html"
     },
     {
-      "title": "Roumanie : le nouveau Premier ministre Luca Niculescu et son gouvernement prêtent serment",
-      "url": "https://fr.euronews.com/2026/10/21/roumanie-le-nouveau-premier-ministre-luca-niculescu-et-son-gouvernement-pretent-serment",
-      "source": "Euronews",
-      "publishedAt": "2026-10-21T05:18:58.000Z",
-      "summary": "Le diplomate indépendant Luca Niculescu obtient le soutien du Parlement pour un gouvernement minoritaire, mais des analystes avertissent que l'accalmie pourrait ne pas durer.",
-      "image": "https://images.euronews.com/articles/stories/09/96/08/19/696x392_cmsv2_5c851331-a6a6-5d6c-82a0-3b345ee51232-9960819.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/roumanie-le-nouveau-premier-ministre-luca-niculescu-et-son-gouvernement--5e06a2f3cd.html"
-    },
-    {
-      "title": "Midterms 2026: six questions sur les milliards de dollars qui financent les élections américaines",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261021-midterms-2026-six-questions-sur-les-milliards-de-dollars-qui-financent-les-%C3%A9lections-am%C3%A9ricaines",
+      "title": "Mort de Paul Barril, ancien patron du GIGN au parcours marqué par les scandales",
+      "url": "https://www.rfi.fr/fr/france/20261021-mort-de-paul-barril-ancien-patron-du-gign-au-parcours-marqu%C3%A9-par-les-scandales",
       "source": "RFI",
-      "publishedAt": "2026-10-21T04:05:38.000Z",
-      "summary": "À l'approche des élections de mi-mandat du 3 novembre aux États-Unis, alors que la bataille pour le Congrès se resserre et que les démocrates caressent de plus en plus l'espoir de reprendre les deux chambres, l'argent afflue dans une course aux financements toujours plus effrénée.",
-      "image": "https://s.rfi.fr/media/display/49c1bc32-c57a-11f1-b221-e362370cce2e/w:1024/p:16x9/2026-09-27T000123Z-1299985978-RC2KANANLHL3-RTRMADP-3-USA-ELECTION-REPUBLICAN-SPENDING.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-six-questions-sur-les-milliards-de-dollars-qui-financent-l-510a5f834b.html"
+      "publishedAt": "2026-10-21T12:21:15.000Z",
+      "summary": "Paul Barril, décédé mardi soir à l'âge de 80 ans, a été un brillant officier du GIGN avant d'être impliqué dans deux scandales de l'ère Mitterrand, les Irlandais de Vincennes et les écoutes illégales de l'Élysée, et d'être mis en cause après le génocide du Rwanda.",
+      "image": "https://s.rfi.fr/media/display/0fcaed30-11b5-11ea-ae81-005056bf7c53/w:1024/p:16x9/000_Par7920106_0.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mort-de-paul-barril-ancien-patron-du-gign-au-parcours-marque-par-les-sca-f6836916a1.html"
     },
     {
-      "title": "Plus de 220 morts dans des frappes de drone imputées à l'armée soudanaise dans la région disputée d'Abyei",
-      "url": "https://www.rfi.fr/fr/afrique/20261021-plus-de-220-morts-dans-des-frappes-de-drone-imput%C3%A9es-%C3%A0-l-arm%C3%A9e-soudanaise-dans-la-r%C3%A9gion-disput%C3%A9e-d-abyei",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T03:05:31.000Z",
-      "summary": "Située à la frontière entre le Soudan et le Soudan du Sud, la zone administrative d'Abyei – dont les deux pays revendiquent la souveraineté – a été la cible d'une sanglante attaque au drone attribuée aux forces du général Abdel Fattah al-Buhran, lundi 19 octobre. L'armée soudanaise aurait ainsi voulu priver les paramil",
-      "image": "https://s.rfi.fr/media/display/fdd3768e-ccd2-11f1-aa46-638c1c1f5fd6/w:1024/p:16x9/2026-10-20T122744Z-1330954664-RC2W6OA7AZTI-RTRMADP-3-SOUTHSUDAN-SUDAN-SECURITY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/plus-de-220-morts-dans-des-frappes-de-drone-imputees-a-l-armee-soudanais-7a67eb2024.html"
+      "title": "Midterms : une gauche plus radicale face à Donald trump ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-midterms-une-gauche-plus-radicale-face-%C3%A0-donald-trump",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T12:11:22.000Z",
+      "summary": "La Maine, située dans le nord-est des États-Unis, est l'un des fameux swing states, ces états dont le cœur balance entre républicains et démocrates au gré des élections. Pour contrer la position actuelle du conservateur Trump, les partisans démocrates décident de plus en plus de se radicaliser. Les explications de Loui",
+      "image": "https://s.france24.com/media/display/ad0ca812-cd39-11f1-a9e0-2d1c143cdef3/w:1024/p:16x9/FR-20261020-223006-224216-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-une-gauche-plus-radicale-face-a-donald-trump-f918866537.html"
     },
     {
-      "title": "Burkina Faso: la junte au pouvoir rétablit la peine de mort",
-      "url": "https://www.rfi.fr/fr/afrique/20261021-burkina-faso-la-junte-au-pouvoir-r%C3%A9tablit-la-peine-de-mort",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T03:04:31.000Z",
-      "summary": "les 71 députés burkinabè ont adopté à l'unanimité, mardi 20 octobre, un nouveau code pénal qui réintroduit la peine capitale pour un certain nombre de crimes en lien avec le terrorisme, l’espionnage, la trahison ou encore l’importation de produits périmés ou prohibés susceptibles d'entraîner la mort. Le texte prévoit é",
-      "image": "https://s.rfi.fr/media/display/293f0426-16c0-11ea-993c-005056a99247/w:1024/p:16x9/000_Par7634959_1_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/burkina-faso-la-junte-au-pouvoir-retablit-la-peine-de-mort-37ae2eb192.html"
+      "title": "Mobilisations en France : une sécurité massive prévue pour le 24 octobre",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-mobilisations-en-france-une-s%C3%A9curit%C3%A9-massive-pr%C3%A9vue-pour-le-24-octobre",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T10:25:40.000Z",
+      "summary": "Alors qu'une nouvelle mobilisation sociale est prévue samedi 24 octobre, le gouvernement annonce un important dispositif policier avec le déploiement des militaires de l'opération SENTINELLE. Laurent Nuñez a aussi demandé au préfet d'interdire par endroit les manifestations où la sécurité ne pourrait être garantie.",
+      "image": "https://s.france24.com/media/display/ebab5f16-cd37-11f1-9396-2d1c143cdef3/w:1024/p:16x9/FR-20261021-110442-110540-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisations-en-france-une-securite-massive-prevue-pour-le-24-octobre-4426e67dd4.html"
     },
     {
-      "title": "Espagne: à l'approche des législatives, les «indignés» de la Puerta del Sol poursuivent leur mobilisation pour le logement",
-      "url": "https://www.rfi.fr/fr/europe/20261021-espagne-%C3%A0-l-approche-des-l%C3%A9gislatives-les-indign%C3%A9s-de-la-puerta-del-sol-poursuivent-leur-mobilisation-pour-le-logement",
-      "source": "RFI",
-      "publishedAt": "2026-10-21T03:00:42.000Z",
-      "summary": "À quelques semaines des élections législatives anticipées du 29 novembre en Espagne, le gouvernement du Premier ministre socialiste Pedro Sánchez a approuvé, mardi 20 octobre, une nouvelle série de mesures sociales. Mais le mouvement de contestation né à la fin du mois de septembre après l'expulsion, puis la mort, d'un",
-      "image": "https://s.rfi.fr/media/display/4e5fc11e-ccd0-11f1-b8c4-4dd8ac2cf3bf/w:1024/p:16x9/000-D3UX6DL.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-a-l-approche-des-legislatives-les-indignes-de-la-puerta-del-sol--3f98ebf3d7.html"
+      "title": "Emmanuel Macron à Doha : \"la situation actuelle en France ne requiert pas l'état d'urgence\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-emmanuel-macron-%C3%A0-doha-la-situation-actuelle-en-france-ne-requiert-pas-l-%C3%A9tat-d-urgence",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T10:21:14.000Z",
+      "summary": "Le président français a répondu aux journalistes à Doha mercredi 21 octobre en fin de matinée à l'issue de sa tournée de trois jours dans le Golfe. Des rencontres notamment destinées à sécuriser des approvisionnements en carburant, selon l'Elysée. Emmanuel Macron a aussi abordé les récents événements de mobilisations e",
+      "image": "https://s.france24.com/media/display/13c9a326-cd39-11f1-9d0c-638c1c1f5fd6/w:1024/p:16x9/2026-10-21T100728Z-1180730329-RC2L7OAJMS37-RTRMADP-3-GULF-FRANCE-QATAR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/emmanuel-macron-a-doha-la-situation-actuelle-en-france-ne-requiert-pas-l-d4158db8bd.html"
     },
     {
-      "title": "La voiture la plus vendue du monde va enfin passer à l’électrique",
-      "url": "https://www.01net.com/actualites/la-voiture-la-plus-vendue-du-monde-va-enfin-passer-a-lelectrique.html",
-      "source": "01net",
-      "publishedAt": "2026-10-21T06:38:36.000Z",
-      "summary": "Toyota préparerait une Corolla 100 % électrique pour 2028. Développée avec l'aide de la Chine, elle pourrait aussi conserver des motorisations hybrides et essence selon les marchés.",
-      "image": "https://www.01net.com/app/uploads/2026/10/TOYOTA_COROLLA_CONCEPT_001_s-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-voiture-la-plus-vendue-du-monde-va-enfin-passer-a-l-electrique-7cf6d780d6.html"
-    },
-    {
-      "title": "« Supervision humaine minimale » : l’armée américaine veut ses propres IA pirates pour « neutraliser les menaces »",
-      "url": "https://www.01net.com/actualites/supervision-humaine-minimale-larmee-americaine-veut-ses-propres-ia-pirates-pour-neutraliser-les-menaces.html",
-      "source": "01net",
-      "publishedAt": "2026-10-21T06:33:05.000Z",
-      "summary": "Pendant tout l'été, des agents d'IA se sont introduits seuls dans des systèmes informatiques, sans qu'on le leur demande. L'armée américaine, elle, veut désormais des agents capables d'en faire autant, sur commande.",
-      "image": "https://www.01net.com/app/uploads/2026/10/Canva1920_1280-33-1344x896.jpeg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/supervision-humaine-minimale-l-armee-americaine-veut-ses-propres-ia-pira-540312c9a9.html"
-    },
-    {
-      "title": "Changement de forfait, migration de numéro, couverture mobile : qu’est-ce que le rachat de SFR va changer pour vous selon l’Arcep",
-      "url": "https://www.frandroid.com/marques/sfr/3293413_changement-de-forfait-migration-de-numero-couverture-mobile-quest-ce-que-le-rachat-de-sfr-va-changer-pour-vous-selon-larcep",
+      "title": "Boudées en Chine malgré Xpeng, les nouvelles électriques de Volkswagen pourraient finir en Europe",
+      "url": "https://www.frandroid.com/marques/volkswagen/3293625_boudees-en-chine-malgre-xpeng-les-nouvelles-electriques-de-volkswagen-pourraient-finir-en-europe",
       "source": "Frandroid",
-      "publishedAt": "2026-10-21T06:29:06.000Z",
-      "summary": "C’est une reconfiguration profonde du paysage mobile français qui va s’opérer dans les prochaines années avec la revente de SFR à ses concurrents. Pour y voir plus clair, le gendarme des télécoms détaille les changements à venir.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2015/12/Logo-SFR.jpg?resize=1200,675&key=0b923ca5",
+      "publishedAt": "2026-10-21T10:05:18.000Z",
+      "summary": "En s’associant à Xpeng, Volkswagen pensait faire repartir ses ventes de voitures électriques en Chine. Mais c’est loin d’être le cas, et voici les différentes raisons.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/b7375184-4614-412b-bb2e-d7199ee16599.jpg?resize=1200,675&key=7c254114",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/changement-de-forfait-migration-de-numero-couverture-mobile-qu-est-ce-qu-3f9aa1310a.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/boudees-en-chine-malgre-xpeng-les-nouvelles-electriques-de-volkswagen-po-9934c8cf83.html"
     },
     {
-      "title": "Failles critiques PHP : comment les Freebox propulsent la France en tête des équipements les plus exposés au monde",
-      "url": "https://www.frandroid.com/culture-tech/securite-applications/3293393_failles-critiques-php-comment-les-freebox-propulsent-la-france-en-tete-des-equipements-les-plus-exposes-au-monde",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-21T06:18:04.000Z",
-      "summary": "À quelques heures de la publication d'un correctif d'urgence pour deux failles critiques dans PHP, un recensement mondial place la France en tête des pays les plus exposés. En cause : près de deux millions de Freebox dont l'interface répond publiquement sur Internet.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/d3f158f2-bec9-47ab-b454-3abae88607f5-1-1.jpg?resize=1200,675&key=26b087d5",
+      "title": "Ransomware mortel : le pirate derrière une cyberattaque meurtrière a été arrêté",
+      "url": "https://www.01net.com/actualites/ransomware-mortel-pirate-derriere-cyberattaque-meurtriere-arrete.html",
+      "source": "01net",
+      "publishedAt": "2026-10-21T10:00:12.000Z",
+      "summary": "Soupçonné de faire partie du gang Qilin, un Russe de 28 ans a été arrêté au Japon pendant ses vacances, avant d'être extradé vers l'Allemagne. Le groupe, spécialisé dans les attaques par ransomware, est impliqué dans une cyberattaque qui a contribué à la mort d'un patient dans un hôpital de Londres.",
+      "image": "https://www.01net.com/app/uploads/2026/10/ransomware-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/failles-critiques-php-comment-les-freebox-propulsent-la-france-en-tete-d-a1ff3ecd61.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ransomware-mortel-le-pirate-derriere-une-cyberattaque-meurtriere-a-ete-a-f8d5eaa0ad.html"
+    },
+    {
+      "title": "Sarah Legrain (LFI) : \"c'est un gouvernement aux abois, qui ne prend aucune responsabilité\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20261021-sarah-legrain-lfi-c-est-un-gouvernement-aux-abois-qui-ne-prend-aucune-responsabilit%C3%A9",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T09:35:15.000Z",
+      "summary": "Après les très nombreuses scènes de violence et de pillages commises en marge des manifestations du 17 octobre, l'exécutif met en cause l'ultragauche et accuse La France insoumise d'avoir \"jeté de l'huile sur le feu\". Sarah Legrain, députée LFI de Paris, réagit sur le plateau de France 24 et dénonce la \"stratégie du po",
+      "image": "https://s.france24.com/media/display/34ae08a8-cd24-11f1-a9ba-6313a763b466/w:1024/p:16x9/MardiPolitique-5.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sarah-legrain-lfi-c-est-un-gouvernement-aux-abois-qui-ne-prend-aucune-re-d9e60f0cf0.html"
+    },
+    {
+      "title": "Des drones non autorisés ont survolé la base navale de Toulon et des sites militaires français",
+      "url": "https://www.france24.com/fr/france/20261021-drones-non-autoris%C3%A9s-survol%C3%A9-base-navale-toulon-sites-militaires-fran%C3%A7ais",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T09:33:24.000Z",
+      "summary": "Plusieurs drones \"non autorisés\" ont survolé des sites militaires dans la région de Toulon lors d’un exercice de défense du port militaire mené entre le 5 et le 16 octobre. La Marine nationale précise qu’aucune infrastructure sensible n’a été menacée et indique qu’une enquête judiciaire a été ouverte.",
+      "image": "https://s.france24.com/media/display/9f8b5d4c-cd2e-11f1-a491-638c1c1f5fd6/w:1024/p:16x9/000-97W37QV.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-drones-non-autorises-ont-survole-la-base-navale-de-toulon-et-des-sit-684ef844ce.html"
+    },
+    {
+      "title": "Guerre en Ukraine : l'émissaire américain en Russie après avoir rencontré Volodymyr Zelensky",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-guerre-en-ukraine-l-%C3%A9missaire-am%C3%A9ricain-en-russie-apr%C3%A8s-avoir-rencontr%C3%A9-volodymyr-zelensky",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T09:30:13.000Z",
+      "summary": "Steve Witkoff, l'émissaire du président américain Donald Trump, est arrivé mercredi 21 octobre au matin à Saint-Pétersbourg pour des pourparlers avec Vladimir Poutine dans le but de mettre fin à la guerre en Ukraine. Un rendez-vous qui prend place au lendemain d'entretiens avec Volodymyr Zelensky, marqués par des progr",
+      "image": "https://s.france24.com/media/display/ba948776-cd2e-11f1-9b8b-d1d2c32ebb87/w:1024/p:16x9/FR-20261021-093119-093656-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-l-emissaire-americain-en-russie-apres-avoir-rencontre--50d80b77f0.html"
+    },
+    {
+      "title": "En Côte d'Ivoire, les ravages des crèmes éclaircissantes pour la santé",
+      "url": "https://www.rfi.fr/fr/afrique/20261021-en-c%C3%B4te-d-ivoire-les-ravages-des-cr%C3%A8mes-%C3%A9claircissantes-pour-la-sant%C3%A9",
+      "source": "RFI",
+      "publishedAt": "2026-10-21T09:26:33.000Z",
+      "summary": "Crèmes, savons, lotions... Les cosmétiques font partie du quotidien de millions de personnes. Mais derrière les promesses de beauté se cachent aussi des produits non conformes, aux conséquences parfois graves pour la santé. Illustration en Côte d’Ivoire, où une ONG tire la sonnette d’alarme. Elle affirme avoir recensé ",
+      "image": "https://s.rfi.fr/media/display/79e025dc-5f78-11ed-a448-005056a97e36/w:1024/p:16x9/GettyImages-1280518549.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-cote-d-ivoire-les-ravages-des-cremes-eclaircissantes-pour-la-sante-e690ae6477.html"
+    },
+    {
+      "title": "Déjà 149 incarcérations en marge du 17 octobre : une répression \"historique\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-d%C3%A9j%C3%A0-149-incarc%C3%A9rations-en-marge-du-17-octobre-une-r%C3%A9pression-historique",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T09:23:29.000Z",
+      "summary": "Suite aux mobilisations du 17 octobre, une délégation de plusieurs dizaines d'avocats s'est invitée dans des audiences pour protester contre cette \"repression historique\" abordé dans une lettre ouverte au bâtonnier de Paris. Les explications de Romain Boulet, avocat pénaliste et président de l'Association des avocats p",
+      "image": "https://s.france24.com/media/display/e52df970-cd30-11f1-9c9f-638c1c1f5fd6/w:1024/p:16x9/capture-43d8d785.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/deja-149-incarcerations-en-marge-du-17-octobre-une-repression-historique-49a0183c3c.html"
+    },
+    {
+      "title": "17 octobre : des consignes de fermeté à des tribunaux débordés",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-17-octobre-des-consignes-de-fermet%C3%A9-%C3%A0-des-tribunaux-d%C3%A9bord%C3%A9s",
+      "source": "France 24",
+      "publishedAt": "2026-10-21T09:19:47.000Z",
+      "summary": "Le gouvernement, sous pression, affiche une ligne dure. Le ministre de la Justice a demandé aux procureurs \"d'être impitoyables avec les casseurs\", assurant que \"le peuple français veut de l'extrême fermeté\". Depuis lundi 19 octobre, dans nombre de tribunaux de France, ont lieu des comparutions immédiates à rythme effr",
+      "image": "https://s.france24.com/media/display/942358d0-cd2c-11f1-acd5-2d1c143cdef3/w:1024/p:16x9/FR-20261021-090629-090852-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/17-octobre-des-consignes-de-fermete-a-des-tribunaux-debordes-c7055b531c.html"
     }
   ]
 }
