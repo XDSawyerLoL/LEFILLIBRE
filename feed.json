@@ -1,97 +1,173 @@
 {
-  "updatedAt": "2026-10-22T04:37:13.827Z",
+  "updatedAt": "2026-10-22T09:37:38.731Z",
   "items": [
     {
-      "title": "Panique sur Internet : 2 failles PHP critiques touchent des centaines de millions de sites web, des cyberattaques en cours",
-      "url": "https://www.01net.com/actualites/panique-internet-faille-php-critique-vieille-10-ans-touche-millions-sites-web.html",
+      "title": "Face au succès monstre de l’iPhone Duo, Apple aurait pris une décision forte",
+      "url": "https://www.01net.com/actualites/face-au-succes-monstre-de-liphone-duo-apple-aurait-pris-une-decision-forte.html",
       "source": "01net",
-      "publishedAt": "2026-10-22T04:30:14.000Z",
-      "summary": "Deux failles critiques menacent PHP, le langage de programmation qui fait tourner environ 70 % des sites web. Baptisées PHP2Shell, elles permettent de prendre le contrôle d'un serveur à distance. Les cyberattaques exploitant les vulnérabilités ont déjà commencé. Ces failles ont été débusquées par l'intelligence artific",
-      "image": "https://www.01net.com/app/uploads/2026/10/php-faille-code-1344x896.jpg",
+      "publishedAt": "2026-10-22T09:30:18.000Z",
+      "summary": "Face à l’engouement suscité lors de l’ouverture des préventes de l’iPhone Duo, Apple aurait demandé à ses fournisseurs d’augmenter sensiblement le rythme de production de l’appareil. Plusieurs millions d’iPhone Duo supplémentaires seraient ainsi mis sur le marché.",
+      "image": "https://www.01net.com/app/uploads/2026/09/iPhone-Duo-Apple-smartphone-pliant-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/panique-sur-internet-2-failles-php-critiques-touchent-des-centaines-de-m-e085a1b78b.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/face-au-succes-monstre-de-l-iphone-duo-apple-aurait-pris-une-decision-fo-d2c4c8a757.html"
     },
     {
-      "title": "États-Unis: Meta sanctionné de 25 milliards de dollars pour avoir trompé les utilisateurs de Facebook",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261022-%C3%A9tats-unis-meta-sanctionn%C3%A9-de-25-milliards-de-dollars-pour-avoir-tromp%C3%A9-les-utilisateurs-de-facebook",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T03:06:55.000Z",
-      "summary": "C'est une somme record que Meta doit verser à l'État du Nouveau-Mexique : 25 milliards de dollars. La maison mère de Facebook a été reconnue coupable, mercredi 21 octobre 2026, dans une affaire impliquant les données personnelles des utilisateurs de la plateforme. Une condamnation de plus contre le géant de la tech, vi",
-      "image": "https://s.rfi.fr/media/display/d23f42a8-cda6-11f1-a2a8-ab78a7fed2ce/w:1024/p:16x9/META-FACEBOOK.jpg",
+      "title": "Des sites web hors ligne après la découverte par une IA d'une faille majeure",
+      "url": "https://fr.euronews.com/2026/10/22/des-sites-web-hors-ligne-apres-la-decouverte-par-une-ia-dune-faille-majeure",
+      "source": "Euronews",
+      "publishedAt": "2026-10-22T09:27:32.000Z",
+      "summary": "Des agences publiques et des entreprises du monde entier ont fermé des sites web mercredi après la révélation de deux failles critiques dans PHP, le langage qui sous-tend une grande partie d'internet.",
+      "image": "https://images.euronews.com/articles/stories/09/90/84/22/696x392_cmsv2_9f36bdac-70e8-53f7-aaba-f8fd0841a2df-9908422.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-meta-sanctionne-de-25-milliards-de-dollars-pour-avoir-trompe--66dff34467.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-sites-web-hors-ligne-apres-la-decouverte-par-une-ia-d-une-faille-maj-b4e5a0a427.html"
     },
     {
-      "title": "Volodymyr Zelensky se dit prêt à un gel du front pour sortir de la guerre Russie-Ukraine",
-      "url": "https://www.rfi.fr/fr/europe/20261022-volodymyr-zelensky-se-dit-pr%C3%AAt-%C3%A0-un-gel-du-front-pour-sortir-de-la-guerre-russie-ukraine",
+      "title": "Des conditions de détention \"abominables\" au tribunal de Bobigny",
+      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261022-des-conditions-de-d%C3%A9tention-abominables-au-tribunal-de-bobigny",
+      "source": "France 24",
+      "publishedAt": "2026-10-22T09:34:04.000Z",
+      "summary": "À la Une de la presse le 22 octobre, les conditions de détention de mineurs au tribunal de Bobigny, les derniers jours de campagne au Brésil, et un flamant rose traumatisé à Las Vegas.",
+      "image": "https://s.france24.com/media/display/e17b1db2-cdee-11f1-9663-ab78a7fed2ce/w:1024/p:16x9/FR-20261022-094226-094709-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-conditions-de-detention-abominables-au-tribunal-de-bobigny-ef749791d3.html"
+    },
+    {
+      "title": "«À bas le narco-État»: en Albanie, les manifestations ne cèdent pas et réclament le départ du Premier ministre Edi Rama",
+      "url": "https://www.rfi.fr/fr/europe/20261022-%C3%A0-bas-le-narco-%C3%A9tat-en-albanie-les-manifestations-ne-c%C3%A8dent-pas-et-r%C3%A9clament-le-d%C3%A9part-du-premier-ministre-edi-rama",
       "source": "RFI",
-      "publishedAt": "2026-10-22T03:08:43.000Z",
-      "summary": "C'est une concession que Volodymyr Zelensky a longtemps refusé : le président ukrainien s'est dit prêt à un accord de cessez-le-feu qui gèlerait la ligne de front. Une annonce faite mercredi 21 octobre sur la chaîne américaine Fox News, pour tenter de pousser Moscou vers un accord et sortir d’une guerre sans fin.",
-      "image": "https://s.rfi.fr/media/display/512240c2-cd9b-11f1-8a11-8bea73bbe173/w:1024/p:16x9/UKRAINE-GUERRE-VOLODYMYR-ZELENSKY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/volodymyr-zelensky-se-dit-pret-a-un-gel-du-front-pour-sortir-de-la-guerr-be6a7aa385.html"
+      "publishedAt": "2026-10-22T09:25:33.000Z",
+      "summary": "En Albanie, la contestation contre le Premier ministre Edi Rama ne faiblit pas. Depuis fin mai, les manifestants réclament son départ, sur fond de scandales de corruption, et les affrontements avec la police se sont multipliés ces derniers jours à Tirana. Au cœur de la colère, il y a un pouvoir qu’ils accusent de collu",
+      "image": "https://s.rfi.fr/media/display/b5a89e3c-cdec-11f1-8cfa-19980254bb31/w:1024/p:16x9/2026-10-21T190410Z-839647373-RC2T7OAKQ0CW-RTRMADP-3-ALBANIA-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-bas-le-narco-etat-en-albanie-les-manifestations-ne-cedent-pas-et-recla-5929b8ac58.html"
     },
     {
-      "title": "Norvège: l'eau potable du Svalbard contaminée aux métaux lourds à cause du réchauffement climatique",
-      "url": "https://www.rfi.fr/fr/environnement/20261022-norv%C3%A8ge-l-eau-potable-du-svalbard-contamin%C3%A9e-aux-m%C3%A9taux-lourds-%C3%A0-cause-du-r%C3%A9chauffement-climatique",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T03:07:28.000Z",
-      "summary": "À Longyearbyen, la capitale administrative de l'archipel arctique situé à 1 300 kilomètres du pôle Nord, les 2 600 habitants ont été avertis qu'ils ne devaient plus boire l'eau du robinet en raison d'une contamination aux métaux lourds. Le phénomène est directement lié au dégel du pergélisol dans l'une des régions du m",
-      "image": "https://s.rfi.fr/media/display/7fab6008-cd9c-11f1-8a19-19980254bb31/w:1024/p:16x9/000-982H2CR.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/norvege-l-eau-potable-du-svalbard-contaminee-aux-metaux-lourds-a-cause-d-b465630f42.html"
-    },
-    {
-      "title": "Guinée: l'ancien président de la Cour constitutionnelle, Mohamed Lamine Bangoura, condamné à sept ans de prison",
-      "url": "https://www.rfi.fr/fr/afrique/20261022-guin%C3%A9e-l-ancien-pr%C3%A9sident-de-la-cour-constitutionnelle-mohamed-lamine-bangoura-condamn%C3%A9-%C3%A0-sept-ans-de-prison",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T03:07:09.000Z",
-      "summary": "L'ex-haut magistrat a été reconnu coupable de corruption, d’enrichissement illicite, de détournement de deniers publics et de blanchiment de capitaux dans une affaire portant sur la gestion de fonds publics alloués à l'institution lorsqu'il en était le dirigeant. Il écope aussi d'une lourde amende et de colossales répa",
-      "image": "https://s.rfi.fr/media/display/26afca74-9d62-11ee-83db-005056bf30b7/w:1024/p:16x9/Carte-Guin%C3%A9e-Conakry.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guinee-l-ancien-president-de-la-cour-constitutionnelle-mohamed-lamine-ba-c90c47882a.html"
-    },
-    {
-      "title": "France en direct : des manifestations interdites, les partis reçus à Matignon",
+      "title": "🔴 En direct : à Lyon, \"toute manifestation\" sera interdite samedi",
       "url": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
       "source": "France 24",
-      "publishedAt": "2026-10-22T02:48:54.000Z",
-      "summary": "Les autorités ont annoncé mercredi que les manifestations seront interdites jeudi à Paris et Lyon en raison des risques de troubles. L'exécutif tente toujours de faire retomber la pression avec plusieurs nouvelles réunions au programme jeudi. Sébastien Lecornu doit recevoir en début d'après-midi les partis à Matignon. ",
-      "image": "https://s.france24.com/media/display/82b32d4a-b5a4-11f1-9716-5b4fdf021577/w:1024/p:16x9/2026-09-18T095638Z-156976230-RC2LLNAF6KM4-RTRMADP-3-FRANCE-BUDGET-FUEL.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-en-direct-des-manifestations-interdites-les-partis-recus-a-matign-c60b4eb41f.html"
+      "publishedAt": "2026-10-22T09:21:31.000Z",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-a-lyon-toute-manifestation-sera-interdite-samedi-c60b4eb41f.html"
     },
     {
-      "title": "L'Irlande approuve une législation controversée permettant l'envoi de ses soldats à l'étranger",
-      "url": "https://www.france24.com/fr/europe/20261022-irlande-approuve-legislation-permettant-envoi-soldats-etranger-conseil-securite-onu-militaire-neutralite-dail-triple-verrouillage",
+      "title": "Faille sur Internet : qu’est-ce que le PHP, qui fait tourner la majorité des sites web ?",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261022-faille-sur-internet-qu-est-ce-que-le-php-qui-fait-tourner-la-majorit%C3%A9-des-sites-web",
       "source": "France 24",
-      "publishedAt": "2026-10-22T01:03:11.000Z",
-      "summary": "La chambre basse du Parlement irlandais a approuvé mercredi un projet de loi visant à supprimer un mécanisme empêchant le déploiement à l'étranger de soldats irlandais sans l'autorisation des Nations unies. Le Premier ministre déplore un \"Conseil de sécurité de l'ONU paralysé\", défendant la volonté de répondre à des cr",
-      "image": "https://s.france24.com/media/display/bf8c2c76-cdaf-11f1-a5a0-4da0d2c6855d/w:1024/p:16x9/AP26289293740117.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-irlande-approuve-une-legislation-controversee-permettant-l-envoi-de-se-812f6f69e0.html"
+      "publishedAt": "2026-10-22T08:58:34.000Z",
+      "summary": "Deux failles de sécurité ont été découvertes sur le protocole de programmation PHP, très utilisé sur le Web. Si un correctif a été trouvé mercredi, de nombreux sites, dont ceux des préfectures françaises, ont dû être fermés préventivement pour éviter d’éventuelles attaques.",
+      "image": "https://s.france24.com/media/display/8a62bfea-cdcf-11f1-835f-8bea73bbe173/w:1024/p:16x9/17d20d48dd7c35c2a22cd35c79d7522fecda4d4e.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/faille-sur-internet-qu-est-ce-que-le-php-qui-fait-tourner-la-majorite-de-35551c245b.html"
     },
     {
-      "title": "Les États-Unis ordonnent le départ de l'ambassade américaine à Riyad d'employés et leurs familles",
-      "url": "https://www.france24.com/fr/moyen-orient/20261022-les-%C3%A9tats-unis-ordonnent-le-d%C3%A9part-de-l-ambassade-am%C3%A9ricaine-%C3%A0-riyad-d-employ%C3%A9s-et-leurs-familles",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T00:37:58.000Z",
-      "summary": "Le département d'État américain a demandé, mercredi, à des employés \"non essentiels\" de son ambassade à Riyad et à leurs familles de quitter l'Arabie saoudite. Cette annonce est intervenue alors que des attaques ont fait au moins un mort à l'aéroport de Damman, dans l'est du royaume.",
-      "image": "https://s.france24.com/media/display/d354537c-cdb0-11f1-b90c-eb48fa034ddc/w:1024/p:16x9/0328d7752153aea478c46acce26547da30511c34.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-etats-unis-ordonnent-le-depart-de-l-ambassade-americaine-a-riyad-d-e-8d7d155bda.html"
+      "title": "Panne Orange/Sosh : voici pourquoi des millions d’abonnés ont été privés de réseau mobile",
+      "url": "https://www.01net.com/actualites/panne-orange-sosh-pourquoi-millions-abonnes-prives-reseau-mobile.html",
+      "source": "01net",
+      "publishedAt": "2026-10-22T08:30:53.000Z",
+      "summary": "Ce mercredi 21 octobre, durant une bonne partie de la journée, le réseau mobile d'Orange et de Sosh était indisponible. Une panne qui a touché des millions de clients et dont on commence à connaître la cause.",
+      "image": "https://www.01net.com/app/uploads/2026/10/orange-reseau-mobile-1344x756.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/panne-orange-sosh-voici-pourquoi-des-millions-d-abonnes-ont-ete-prives-d-9237e0a2f6.html"
     },
     {
-      "title": "Des intempéries ont fait au moins quatre morts dans le sud-est de la France",
-      "url": "https://www.france24.com/fr/france/20261021-intemperies-au-moins-quatre-morts-sud-est-france-inondations-rechauffement-climatique-bouches-rhone-secours-disparu",
-      "source": "France 24",
-      "publishedAt": "2026-10-21T23:54:28.000Z",
-      "summary": "De violentes intempéries, ayant entraîné des inondations, ont frappé le sud-est de la France en début de semaine. La préfecture des Bouches-du-Rhône a fait état de trois morts mardi, portant le bilan à quatre morts. Les secours recherchent toujours une personne portée disparue dans le Var.",
-      "image": "https://s.france24.com/media/display/6e0c27e8-cdaa-11f1-ba17-4da0d2c6855d/w:1024/p:16x9/000-D3UB82Y.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-intemperies-ont-fait-au-moins-quatre-morts-dans-le-sud-est-de-la-fra-acecb42f89.html"
+      "title": "Albanie: «Les manifestants veulent la démission d'Edi Rama parce qu'il concentre tous les pouvoirs»",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261022-albanie-les-manifestants-veulent-la-d%C3%A9mission-d-edi-rama-parce-qu-il-concentre-tous-les-pouvoirs",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T08:30:22.000Z",
+      "summary": "Bâtiments incendiés, commerces vandalisés, bureaux saccagés : ce sont des scènes de violence inédites que l’on a vues ces derniers jours non pas à Paris, mais à Tirana. La capitale de l’Albanie est en proie à une contestation chaque jour plus brutale : les étudiants, qui se sont mobilisés à l'origine pour dénoncer la c",
+      "image": "https://s.rfi.fr/media/display/f75cc536-cde4-11f1-8196-eb48fa034ddc/w:1024/p:16x9/Besnik-Mustafaj-1.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/albanie-les-manifestants-veulent-la-demission-d-edi-rama-parce-qu-il-con-2a548513b9.html"
     },
     {
-      "title": "Black bloc : tactique de l'ultra-gauche controversée",
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261021-black-bloc-tactique-de-l-ultra-gauche-controvers%C3%A9e",
-      "source": "France 24",
-      "publishedAt": "2026-10-21T22:53:06.000Z",
-      "summary": "Ils surgissent dans les manifestations entièrement vêtus de noir et souvent masqués. Certains black blocs affrontent les forces de l'ordre, d'autres s'attaquent à des symboles de l'État et du capitalisme. Le mouvement né en Allemagne a beaucoup fait parler de lui ces derniers jours. Et cela devrait encore durer avec le",
-      "image": "https://s.france24.com/media/display/ffc73ff6-cda0-11f1-9b9b-eb48fa034ddc/w:1024/p:16x9/FRAN261021-2339-Live-CS2339.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/black-bloc-tactique-de-l-ultra-gauche-controversee-80845baf79.html"
+      "title": "Des barres de son vraiment pas chères : Thomson élargit sa gamme Cosy dès 89 €, avec ou sans caisson",
+      "url": "https://www.frandroid.com/marques/thomson/3295405_thomson-cosy-deux-barres-de-son-avec-ou-sans-caisson-a-moins-de-90-euros-pour-une-scene-audio-large",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-22T08:28:51.000Z",
+      "summary": "Thomson complète sa gamme Cosy avec deux barres de son particulièrement abordables, l'une dépourvue de caisson, l'autre accompagnée d'un caisson de basses filaire, ainsi qu'un radio-réveil DAB+ Bluetooth.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/thomson-sb380btsbk-lifestyle.jpg?resize=1200,675&key=20b1f4da",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-barres-de-son-vraiment-pas-cheres-thomson-elargit-sa-gamme-cosy-des--ac72fc871f.html"
+    },
+    {
+      "title": "« Les autorités vont être alertées » : Apple et Samsung bloquent les smartphones volés lors des pillages du 17 octobre",
+      "url": "https://www.frandroid.com/produits-android/smartphone/3294157_les-autorites-vont-etre-alertees-apple-et-samsung-bloquent-les-smartphones-voles-lors-des-pillages-du-17-octobre",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-22T08:19:31.000Z",
+      "summary": "Les fabricants de mobiles prennent les devants après le vol de nombreux appareils en marge des manifestations du 17 octobre 2026. Beaucoup sont en train d'être bloqués à distance pour éviter leur revente et leur usage.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/apple-iphone-18-pro-max-4.jpg?resize=1200,675&key=70c5e195",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-autorites-vont-etre-alertees-apple-et-samsung-bloquent-les-smartphon-a2789664ca.html"
+    },
+    {
+      "title": "Le prix des vélos électriques va-t-il exploser ? Cette décision de justice risque de piéger les assembleurs européens",
+      "url": "https://www.frandroid.com/survoltes/3295301_le-prix-des-velos-electriques-va-t-il-exploser-cette-decision-de-justice-risque-de-pieger-les-assembleurs-europeens",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-22T08:13:14.000Z",
+      "summary": "Le Tribunal de l'Union européenne a jugé, le 7 octobre 2026, que des pièces de vélos électriques importées en plusieurs envois peuvent être taxées comme des vélos complets, avec jusqu'à 70,1&nbsp;% de droits antidumping à la clé. L'association professionnelle LEVA-EU s'inquiète surtout pour les marques qui assemblent l",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/01/velo-containers-port.jpg?resize=1200,675&key=6620eb28",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-prix-des-velos-electriques-va-t-il-exploser-cette-decision-de-justice-62f9e95958.html"
+    },
+    {
+      "title": "Grèce: «Comme en France», étudiants, professeurs et fonctionnaires manifestent contre les conditions d'enseignement",
+      "url": "https://www.rfi.fr/fr/europe/20261022-en-gr%C3%A8ce-%C3%A9tudiants-professeurs-et-fonctionnaires-manifestent-contre-les-conditions-d-enseignement-mouvement-france",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T08:08:49.000Z",
+      "summary": "Outre la France, la révolte des étudiants gagne aussi la Grèce. Mercredi 21 octobre, des manifestations ont eu lieu dans plusieurs villes du pays pour réclamer davantage de moyens pour l’éducation, mais aussi pour protester contre le coût de la vie et les difficultés d’accès au logement. Plus de 10 000 étudiants, lycée",
+      "image": "https://s.rfi.fr/media/display/5f48c940-cde7-11f1-ae4d-19980254bb31/w:1024/p:16x9/AP26294341122811.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/grece-comme-en-france-etudiants-professeurs-et-fonctionnaires-manifesten-8e3967358f.html"
+    },
+    {
+      "title": "Colombie : les autorités saisissent 7,6 tonnes de cocaïne destinées à l'Europe",
+      "url": "https://fr.euronews.com/2026/10/22/colombie-les-autorites-saisissent-76-tonnes-de-cocaine-destinees-a-leurope",
+      "source": "Euronews",
+      "publishedAt": "2026-10-22T08:04:59.000Z",
+      "summary": "La Colombie a saisi 7,6 tonnes de cocaïne au port de Cartagena, une opération que le président Abelardo de la Espriella décrit comme la plus grande saisie de stupéfiants du pays depuis dix ans.",
+      "image": "https://images.euronews.com/articles/stories/09/96/27/26/696x392_cmsv2_8a23fc4b-d58d-564a-8474-50d69b57b59b-9962726.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/colombie-les-autorites-saisissent-7-6-tonnes-de-cocaine-destinees-a-l-eu-47dd0a8080.html"
+    },
+    {
+      "title": "Serbie : des étudiants manifestants envahissent Belgrade avant les législatives anticipées",
+      "url": "https://fr.euronews.com/video/2026/10/22/serbie-des-etudiants-manifestants-envahissent-belgrade-avant-les-legislatives-anticipees",
+      "source": "Euronews",
+      "publishedAt": "2026-10-22T07:20:52.000Z",
+      "summary": "Belgrade : des milliers de personnes accueillent en musique des étudiants avant le dernier meeting des élections législatives anticipées du week-end",
+      "image": "https://images.euronews.com/articles/stories/09/96/27/10/696x392_cmsv2_40f5bc59-c946-5137-9444-3ca75d2ef036-9962710.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/serbie-des-etudiants-manifestants-envahissent-belgrade-avant-les-legisla-f5477222a0.html"
+    },
+    {
+      "title": "Présidentielle au Brésil: Lula et Flavio Bolsonaro jettent leurs dernières forces dans la bataille du second tour",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261022-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-flavio-bolsonaro-jettent-leurs-derni%C3%A8res-forces-dans-la-bataille-du-second-tour",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T07:01:24.000Z",
+      "summary": "Au Brésil, la campagne présidentielle pour le second tour, prévu dimanche 25 octobre, bat son plein. Il ne reste que quelques jours aux deux candidats, le président sortant Luiz Inacio Lula da Silva et son challenger, le sénateur d’extrême droite Flavio Bolsonaro, pour mobiliser les électeurs. Au premier tour, l’absten",
+      "image": "https://s.rfi.fr/media/display/c3ce143e-cde1-11f1-bdf9-eb48fa034ddc/w:1024/p:16x9/AP26281731119044.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-lula-et-flavio-bolsonaro-jettent-leurs-derniere-be6b79c7f3.html"
+    },
+    {
+      "title": "Pillages du 17 octobre : la police nationale fait polémique avec une photo de saisie retouchée par IA",
+      "url": "https://www.01net.com/actualites/pillages-du-17-octobre-la-police-nationale-fait-polemique-avec-une-photo-de-saisie-retouchee-par-ia.html",
+      "source": "01net",
+      "publishedAt": "2026-10-22T07:00:12.000Z",
+      "summary": "La Police Nationale du Val d'Oise a publié une image de produits pillés durant les manifestations du 17 octobre. Il s'agit d'une image générée par IA, mais qui n'est pas totalement fausse. Explications.",
+      "image": "https://www.01net.com/app/uploads/2026/10/produits-pilles-17-octobre-police-1344x756.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pillages-du-17-octobre-la-police-nationale-fait-polemique-avec-une-photo-57a90ed25e.html"
+    },
+    {
+      "title": "Manifestations en France: le gouvernement réunit les partis politiques, l'opposition se demande à quelles fins",
+      "url": "https://www.rfi.fr/fr/france/20261022-manifestations-en-france-le-gouvernement-r%C3%A9unit-les-partis-politiques-l-opposition-se-demande-%C3%A0-quelles-fins",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T06:50:40.000Z",
+      "summary": "Après les syndicats mercredi 21 et avant de nouvelles manifestations dès ce samedi 24 octobre, notamment à l'appel des Gilets jaunes, c'est au tour des représentants des partis politiques d'être reçus ce jeudi 22 octobre par le Premier ministre. Face aux tensions qui traversent la France, l’exécutif tente de reprendre ",
+      "image": "https://s.rfi.fr/media/display/b872d310-cde4-11f1-8391-eb48fa034ddc/w:1024/p:16x9/2026-10-20T134118Z-1643217934-RC217OAY71X7-RTRMADP-3-FRANCE-POLITICS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-le-gouvernement-reunit-les-partis-politiques-l--8641c4545f.html"
+    },
+    {
+      "title": "Élection au secrétariat général de l'ONU: les Émirats arabes unis présentent la candidature surprise de Lana Nusseibeh",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261022-%C3%A9lection-au-secr%C3%A9tariat-g%C3%A9n%C3%A9ral-de-l-onu-les-%C3%A9mirats-arabes-unis-pr%C3%A9sentent-la-candidature-surprise-de-lana-nusseibeh",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T06:08:02.000Z",
+      "summary": "Alors que le secrétaire général de l’ONU termine son mandat le 31 décembre et que le processus de sélection de son ou sa successeur bat son plein, une candidate surprise s’est déclarée mercredi 21 octobre. Les Émirats arabes unis ont présenté la candidature de Lana Nusseibeh, une haute responsable de leur ministère des",
+      "image": "https://s.rfi.fr/media/display/f85e49f8-cdd7-11f1-be1c-eb48fa034ddc/w:1024/p:16x9/AP25270804340695.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/election-au-secretariat-general-de-l-onu-les-emirats-arabes-unis-present-f6eedaa817.html"
     }
   ]
 }
