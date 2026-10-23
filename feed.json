@@ -1,15 +1,154 @@
 {
-  "updatedAt": "2026-10-23T05:11:11.520Z",
+  "updatedAt": "2026-10-23T10:01:19.009Z",
   "items": [
     {
-      "title": "Après PHP, une autre brique essentielle du web doit être mise à jour d’urgence",
-      "url": "https://www.01net.com/actualites/apres-php-une-autre-brique-essentielle-du-web-doit-etre-mise-a-jour-durgence.html",
-      "source": "01net",
-      "publishedAt": "2026-10-23T04:58:32.000Z",
-      "summary": "Après les failles critiques découvertes dans PHP, c’est au tour de Node.js de publier des correctifs de sécurité en urgence. Dix vulnérabilités ont été corrigées, dont quatre graves, avec notamment un risque d’exécution de code à distance. Les administrateurs sont invités à mettre à jour leurs serveurs sans attendre.",
-      "image": "https://www.01net.com/app/uploads/2026/05/Cyberattaque-1344x896.jpg",
+      "title": "Manifestation du 24 octobre, panne Orange : pourquoi Bitchat est top 1 des applications téléchargées en France",
+      "url": "https://www.frandroid.com/android/applications/3296721_manifestation-du-24-octobre-panne-orange-pourquoi-bitchat-est-top-1-des-applications-telechargees-en-france",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-23T09:41:40.000Z",
+      "summary": "Bitchat, la messagerie qui fonctionne sans Internet, est passée ce jeudi 22 octobre à la première place des réseaux sociaux sur l'App Store français. Elle est pourtant disponible depuis juillet 2025. Les manifestations et la panne d'Orange l'ont propulsée.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/bitchat-1.jpeg?resize=1200,675&key=3dc7c4a7",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-php-une-autre-brique-essentielle-du-web-doit-etre-mise-a-jour-d-ur-0f66ed5d46.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestation-du-24-octobre-panne-orange-pourquoi-bitchat-est-top-1-des--90e593a1e8.html"
+    },
+    {
+      "title": "Gabarit de Model 3 pour 10 600 € : Volkswagen commercialise sa Jetta M6 en Chine",
+      "url": "https://www.frandroid.com/marques/volkswagen/3296621_gabarit-de-model-3-pour-10-600-e-volkswagen-commercialise-sa-jetta-m6-en-chine",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-23T09:39:27.000Z",
+      "summary": "En Chine, Volkswagen lance sa nouvelle Jetta M6, affichée à seulement 10 600 euros environ. La berline électrique ne manque pas d’arguments, même face à une Tesla Model 3 vendue près de trois fois plus cher sur place.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/9cc060b4-8ae0-4065-9c07-8b31b37bcda5.jpg?resize=1200,675&key=f184dfaf",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gabarit-de-model-3-pour-10-600-volkswagen-commercialise-sa-jetta-m6-en-c-52d8c38a07.html"
+    },
+    {
+      "title": "Jean-Laurent Cassely: «Depuis une décennie, la France vit des éruptions à intervalles réguliers»",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261023-jean-laurent-cassely-depuis-une-d%C3%A9cennie-la-france-vit-des-%C3%A9ruptions-%C3%A0-intervalles-r%C3%A9guliers",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T09:49:21.000Z",
+      "summary": "L'essayiste Jean-Laurent Cassely est vendredi 23 octobre le grand invité international de RFI. Manifestations des lycéens, étudiants, syndicats, la France grouille contre la vie chère et les revendications des actifs et de la jeunesse. Elle est secouée par des mouvements sociaux ponctués par la casse la semaine dernièr",
+      "image": "https://s.rfi.fr/media/display/fbd5b9e2-ceb1-11f1-b31c-bdb9616e85cf/w:1024/p:16x9/Jean-Laurent-Casseny.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jean-laurent-cassely-depuis-une-decennie-la-france-vit-des-eruptions-a-i-c255a61596.html"
+    },
+    {
+      "title": "DIRECT - Colère sociale en France: Emmanuel Macron reçoit les lycéens et va à la rencontre des forces de l'ordre",
+      "url": "https://www.rfi.fr/fr/france/20261023-direct-col%C3%A8re-sociale-en-france-emmanuel-macron-re%C3%A7oit-les-lyc%C3%A9ens-et-va-%C3%A0-la-rencontre-des-forces-de-l-ordre",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T09:21:31.000Z",
+      "summary": "Après plus d'un mois de crise, le président français Emmanuel Macron monte en première ligne vendredi 23 octobre, reçoit les organisations lycéennes pour la première fois depuis le début de la contestation et va à la rencontre des forces de l'ordre. Cela à la veille d'une nouvelle journée de mobilisations strictement e",
+      "image": "https://s.rfi.fr/media/display/e96a9f62-cebf-11f1-9356-5b4a75578ebb/w:1024/p:16x9/000-D43E86J.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-colere-sociale-en-france-emmanuel-macron-recoit-les-lyceens-et-va-f40839a22a.html"
+    },
+    {
+      "title": "France: le parti d’extrême droite RN se rassemble à Orléans, le gouvernement muscle le dispositif sécuritaire face aux risques",
+      "url": "https://www.rfi.fr/fr/france/20261023-france-l-extr%C3%AAme-droite-du-rn-se-rassemble-%C3%A0-orl%C3%A9ans-le-gouvernement-muscle-le-dispositif-s%C3%A9curitaire-face-aux-risques",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T09:13:44.000Z",
+      "summary": "Le congrès du Rassemblement national (RN) se tient à partir de samedi 24 octobre à Orléans, où près de 3 000 policiers et gendarmes sont mobilisés. Car les autorités attendent au moins 20 000 opposants rassemblés samedi à l’appel de la CGT et de la gauche. Dimanche, la leader de l'extrême droite Marine Le Pen doit pron",
+      "image": "https://s.rfi.fr/media/display/74e66e40-cec0-11f1-ac57-bba4eee3dc72/w:1024/p:16x9/2026-10-20T134734Z-875218610-RC217OA8MNVB-RTRMADP-3-FRANCE-POLITICS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-le-parti-d-extreme-droite-rn-se-rassemble-a-orleans-le-gouverneme-9d050e51c5.html"
+    },
+    {
+      "title": "Quad9 : le résolveur DNS annonce quitter la France",
+      "url": "https://www.01net.com/actualites/quad9-le-resolveur-dns-annonce-quitter-la-france.html",
+      "source": "01net",
+      "publishedAt": "2026-10-23T09:03:19.000Z",
+      "summary": "La fondation Suisse Quad9 vient d’annoncer qu’elle mettra fin à son service gratuit de résolution DNS en France. Un départ précipité par une décision de justice défavorable rendue après une action menée par le réseau de chaînes sportives BeIN.",
+      "image": "https://www.01net.com/app/uploads/2026/10/quad9-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/quad9-le-resolveur-dns-annonce-quitter-la-france-e7c3db07b7.html"
+    },
+    {
+      "title": "Rapprochement UE-Canada : après les paroles, place aux actes ?",
+      "url": "https://fr.euronews.com/2026/10/23/rapprochement-ue-canada-apres-les-paroles-places-aux-actes",
+      "source": "Euronews",
+      "publishedAt": "2026-10-23T08:55:11.000Z",
+      "summary": "Le responsable du Parlement européen pour le Canada, Tobias Cremer, a indiqué à Euronews que le projet de \"statut d'association\" devrait inclure un cadre institutionnel pour formaliser des liens plus étroits entre l'UE et le Canada.",
+      "image": "https://images.euronews.com/articles/stories/09/92/17/93/696x392_cmsv2_589af327-2f1c-5cd2-bc7d-8cbed3f46155-9921793.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rapprochement-ue-canada-apres-les-paroles-place-aux-actes-d6e886903e.html"
+    },
+    {
+      "title": "Netanyahu ordonne de préparer le \"bouclage total\" de la Cisjordanie occupée après une attaque",
+      "url": "https://www.france24.com/fr/moyen-orient/20261023-netanyahu-ordonne-de-pr%C3%A9parer-le-bouclage-total-de-la-cisjordanie-occup%C3%A9e-apr%C3%A8s-une-attaque",
+      "source": "France 24",
+      "publishedAt": "2026-10-23T08:54:31.000Z",
+      "summary": "Le Premier ministre israélien Benyamin Netanyahu a ordonné vendredi un \"bouclage total\" de la Cisjordanie occupée après une attaque armée, à quelques jours des législatives du 27 octobre. Cinq personnes ont été blessées dans l'attaque menée par deux assaillants, qui ont été abattus.",
+      "image": "https://s.france24.com/media/display/c0f92bb8-ceb8-11f1-a0a6-bdb9616e85cf/w:1024/p:16x9/AP26296286800872.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/netanyahu-ordonne-de-preparer-le-bouclage-total-de-la-cisjordanie-occupe-eb634b82dc.html"
+    },
+    {
+      "title": "Sigma FP2 : voici le plus petit appareil photo hybride plein format au monde",
+      "url": "https://www.frandroid.com/produits-android/photo/appareil-photo/3296715_sigma-fp2-voici-le-plus-petit-appareil-photo-hybride-plein-format-au-monde",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-23T08:37:48.000Z",
+      "summary": "Sigma a présenté ce vendredi 23 octobre le FP2, un appareil photo hybride plein format de 41,8 mm d'épaisseur. Il sera vendu 2 199 euros boîtier nu à partir du 11 novembre, sept ans après le FP dont il prend la relève.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/fp2-aizu-03.png?resize=1200,675&key=0917c822",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sigma-fp2-voici-le-plus-petit-appareil-photo-hybride-plein-format-au-mon-49140fe760.html"
+    },
+    {
+      "title": "DIRECT - Benyamin Netanyahu ordonne le «bouclage total» de la Cisjordanie occupée après une attaque",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261023-isra%C3%ABl-benyamin-netanyahu-ordonne-le-bouclage-total-de-la-cisjordanie-occup%C3%A9e-apr%C3%A8s-une-attaque",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T08:08:57.000Z",
+      "summary": "Le Premier ministre israélien Benyamin Netanyahu a ordonné vendredi 23 octobre un « bouclage total » de la Cisjordanie occupée après une attaque armée, à quelques jours des législatives du 27 octobre. Cinq personnes ont été blessées dans l’attaque menée par deux assaillants, qui ont été abattus. Un ministre d’extrême d",
+      "image": "https://s.rfi.fr/media/display/26a5353e-ceb8-11f1-a544-bdb9616e85cf/w:1024/p:16x9/2026-10-23T063328Z-2064792553-RC2U8OACJOYD-RTRMADP-3-ISRAEL-PALESTINIANS-ATTACK-WEST-BANK.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-benyamin-netanyahu-ordonne-le-bouclage-total-de-la-cisjordanie-oc-30b5a9af6a.html"
+    },
+    {
+      "title": "Albanie : la colère des étudiants gagne les bancs du Parlement",
+      "url": "https://fr.euronews.com/video/2026/10/23/albanie-le-parlement-sombre-dans-le-chaos-des-deputes-saffrontent",
+      "source": "Euronews",
+      "publishedAt": "2026-10-23T08:06:20.000Z",
+      "summary": "Le Parlement albanais a été le théâtre de violents échanges jeudi, entre bousculades et jets d'objets, tandis que les étudiants manifestaient dehors pour le dixième jour consécutif.",
+      "image": "https://images.euronews.com/articles/stories/09/96/42/80/696x392_cmsv2_a12c901c-9a81-50da-9352-920c654e32d5-9964280.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/albanie-la-colere-des-etudiants-gagne-les-bancs-du-parlement-09f43fe51a.html"
+    },
+    {
+      "title": "Tibet : un séisme de magnitude 7 fait au moins seize morts, des centaines de maisons détruites",
+      "url": "https://fr.euronews.com/2026/10/23/tibet-un-seisme-de-magnitude-7-fait-au-moins-seize-morts-des-centaines-de-maisons-detruite",
+      "source": "Euronews",
+      "publishedAt": "2026-10-23T07:56:11.000Z",
+      "summary": "Selon les médias chinois, il s'agit du séisme le plus puissant à avoir frappé la région depuis cinq ans.",
+      "image": "https://images.euronews.com/articles/stories/09/96/39/22/696x392_cmsv2_cb699d49-5f8b-55f6-be43-f1e6565cb694-9963922.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/tibet-un-seisme-de-magnitude-7-fait-au-moins-seize-morts-des-centaines-d-a31d7819c9.html"
+    },
+    {
+      "title": "Windows 11 : Microsoft travaille sur une alternative à Recall moins intrusive",
+      "url": "https://www.01net.com/actualites/windows-11-microsoft-travaille-sur-une-alternative-a-recall-moins-intrusive.html",
+      "source": "01net",
+      "publishedAt": "2026-10-23T07:32:24.000Z",
+      "summary": "Après le flop monumental de Recall, sa solution de sauvegarde controversée, Microsoft planche actuellement sur une alternative moins intrusive. Pour l’heure nommé Project Pantheon, ce nouveau système ne capture pas continuellement votre écran, mais requiert une sélection manuelle des éléments à enregistrer.",
+      "image": "https://www.01net.com/app/uploads/2026/03/Windows-11-barre-des-taches_-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/windows-11-microsoft-travaille-sur-une-alternative-a-recall-moins-intrus-03041e2071.html"
+    },
+    {
+      "title": "Candidats, partis, enjeu électoral : comment l'armée pèse sur les législatives israéliennes",
+      "url": "https://www.france24.com/fr/moyen-orient/20261023-candidats-partis-enjeu-%C3%A9lectoral-netanyahu-arm%C3%A9e-p%C3%A8se-l%C3%A9gislatives-isra%C3%A9liennes-eisenkot",
+      "source": "France 24",
+      "publishedAt": "2026-10-23T07:17:10.000Z",
+      "summary": "Les élections législatives israéliennes du 27 octobre seront les premières depuis les attentats du Hamas du 7 octobre 2023 et le début de la guerre à Gaza. Un climat militaire qui a fait de l’armée un enjeu politique central.",
+      "image": "https://s.france24.com/media/display/1ed87388-c96e-11f1-8846-4dd8ac2cf3bf/w:1024/p:16x9/israel-armee-elex.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/candidats-partis-enjeu-electoral-comment-l-armee-pese-sur-les-legislativ-00327d8b2c.html"
+    },
+    {
+      "title": "Midterms 2026: dans le Texas rural, la manne pétrolière reste «une bénédiction» pour l’économie locale",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261023-midterms-2026-dans-le-texas-rural-la-manne-p%C3%A9troli%C3%A8re-reste-une-b%C3%A9n%C3%A9diction-pour-l-%C3%A9conomie-locale",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T05:46:00.000Z",
+      "summary": "Au sud de San Antonio, le comté de McMullen a vécu à l’orée des années 2010 une véritable révolution économique grâce à l’exploitation du gaz et du pétrole qui a fait exploser les revenus de ce comté parmi les moins peuplés du Texas. À l'approche des midterms, ce comté particulièrement conservateur ne voit aucune raiso",
+      "image": "https://s.rfi.fr/media/display/a3065416-cdbc-11f1-ba6b-8bea73bbe173/w:1024/p:16x9/Image-1-21.jpeg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-dans-le-texas-rural-la-manne-petroliere-reste-une-benedict-fb81bed5ef.html"
+    },
+    {
+      "title": "Tempête Austen : 161 000 foyers privés d'électricité, 23 départements français en vigilance orange",
+      "url": "https://www.france24.com/fr/france/20261023-temp%C3%AAte-austen-161-000-foyers-priv%C3%A9s-d-%C3%A9lectricit%C3%A9-23-d%C3%A9partements-en-vigilance-orange",
+      "source": "France 24",
+      "publishedAt": "2026-10-23T05:44:08.000Z",
+      "summary": "Environ 161 000 foyers d'électricité sont privés d'électricité vendredi matin en raison de la tempête Austen, principalement en Bretagne, selon Enedis. Huit nouveaux départements doivent être placés en vigilance orange pour les vents au cours de la matinée, portant à 23 le nombre de départements concernés. Au cours de ",
+      "image": "https://s.france24.com/media/display/0a6316aa-cea1-11f1-a8eb-9f7e36a26be0/w:1024/p:16x9/000-D44A2G3.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/tempete-austen-161-000-foyers-prives-d-electricite-23-departements-franc-3d25c26791.html"
     },
     {
       "title": "Législatives en Israël: le ministre d'extrême droite Itamar Ben Gvir passe à l'offensive dans la campagne",
@@ -28,51 +167,6 @@
       "summary": "Les heurts ont éclaté après que la direction du Parlement a rejeté la demande de l'opposition d'un débat sur dix jours de manifestations étudiantes qui ont agité la capitale Tirana.",
       "image": "https://images.euronews.com/articles/stories/09/96/38/93/696x392_cmsv2_259fab57-6fe5-5fd4-a2b6-bda0da1e6f7a-9963893.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/albanie-heurts-au-parlement-entre-majorite-et-opposition-sur-la-colere-e-f48fee73ca.html"
-    },
-    {
-      "title": "Venezuela: des milliers de manifestants réclament des élections et le retour de l’opposante Maria Corina Machado",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261023-venezuela-des-milliers-de-manifestants-r%C3%A9clament-des-%C3%A9lections-et-le-retour-de-l-opposante-maria-corina-machado",
-      "source": "RFI",
-      "publishedAt": "2026-10-23T04:51:34.000Z",
-      "summary": "Au Venezuela, des milliers de personnes se sont rassemblée jeudi 22 octobre lors d’un grand mouvement organisé par l’opposition pour exiger l’organisation d’une élection présidentielle le plus rapidement possible, ainsi que le retour de Maria Corina Machado. La dirigeante de l’opposition est actuellement en exil au Pan",
-      "image": "https://s.rfi.fr/media/display/55fd2474-ce9d-11f1-a235-1fb896579794/w:1024/p:16x9/2026-10-22T220328Z-457550322-RC2L8OAVFLQX-RTRMADP-3-VENEZUELA-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/venezuela-des-milliers-de-manifestants-reclament-des-elections-et-le-ret-37699b9db9.html"
-    },
-    {
-      "title": "Pologne: des manifestations pour réclamer la libéralisation du droit à l'avortement",
-      "url": "https://www.rfi.fr/fr/europe/20261023-pologne-des-manifestations-pour-r%C3%A9clamer-la-lib%C3%A9ralisation-du-droit-%C3%A0-l-avortement",
-      "source": "RFI",
-      "publishedAt": "2026-10-23T03:00:49.000Z",
-      "summary": "Cette semaine, les députés polonais ont voté la dépénalisation de l'aide à l'avortement ainsi que le recours à l’IVG en cas de malformation grave du fœtus, jugé illégal par le Tribunal constitutionnel il y a six ans jour pour jour. Le pays observe toujours la législation la plus stricte d’Europe en matière de droit à l",
-      "image": "https://s.rfi.fr/media/display/4f2e152a-ce7c-11f1-98ee-bd65831edece/w:1024/p:16x9/AP26295608486771.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pologne-des-manifestations-pour-reclamer-la-liberalisation-du-droit-a-l--fb608d9231.html"
-    },
-    {
-      "title": "\"Justice pour papa\" : le jugement sur la mort de Maradona sera rendu le 22 décembre",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261023-argentine-proces-mort-diego-maradona-jugement-22-decembre",
-      "source": "France 24",
-      "publishedAt": "2026-10-23T02:33:43.000Z",
-      "summary": "Après six mois d'audience pour juger l'équipe médicale de Diego Maradona, décédé en 2020, le tribunal a annoncé jeudi qu'il rendrait son jugement le 22 décembre. Sept professionnels de santé sont accusés de potentielles négligences fatales, et risquent jusqu'à 12 ans de prison.",
-      "image": "https://s.france24.com/media/display/fd3a809e-ce87-11f1-825c-bd65831edece/w:1024/p:16x9/AP26294565079879.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/justice-pour-papa-le-jugement-sur-la-mort-de-maradona-sera-rendu-le-22-d-9fafcd0128.html"
-    },
-    {
-      "title": "Brésil: dans le Minas Gerais, les bolsonaristes entre rejet du PT et défense des valeurs traditionnelles",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261023-br%C3%A9sil-dans-le-minas-gerais-les-bolsonaristes-entre-rejet-du-pt-et-d%C3%A9fense-des-valeurs-traditionnelles",
-      "source": "RFI",
-      "publishedAt": "2026-10-23T00:08:20.000Z",
-      "summary": "Ce dimanche 25 octobre, les électeurs brésiliens sont appelés aux urnes pour le second tour de la présidentielle. Le sénateur d’extrême droite Flavio Bolsonaro, fils de l’ancien président Jair Bolsonaro, affronte le président sortant Lula, qui brigue un quatrième mandat non consécutif. Après être arrivé en tête dans l’",
-      "image": "https://s.rfi.fr/media/display/647eac12-ce6a-11f1-93b7-23d55109f116/w:1024/p:16x9/Br%C3%A9sil-Flavio-Bolsonaro.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-dans-le-minas-gerais-les-bolsonaristes-entre-rejet-du-pt-et-defen-d2bfac3175.html"
-    },
-    {
-      "title": "Inde: début d'une série de mesures pour lutter contre la pollution de l'air à New Delhi",
-      "url": "https://www.rfi.fr/fr/environnement/20261022-inde-d%C3%A9but-d-une-s%C3%A9rie-de-mesures-pour-lutter-contre-la-pollution-de-l-air-%C3%A0-new-delhi",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T23:14:17.000Z",
-      "summary": "En Inde, les autorités ont lancé une série de mesures pour lutter contre la pollution atmosphérique à New Delhi. La capitale du pays fait partie des villes à l'air le plus toxique au monde. Et chaque année, la qualité de l'air se détériore encore davantage en hiver, lorsque l'air plus froid retient les polluants près d",
-      "image": "https://s.rfi.fr/media/display/bdb21f7a-af27-11f0-9b1d-005056bf30b7/w:1024/p:16x9/AP25294157302233.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/inde-debut-d-une-serie-de-mesures-pour-lutter-contre-la-pollution-de-l-a-02f826dbd4.html"
     }
   ]
 }
