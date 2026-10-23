@@ -1,25 +1,60 @@
 {
-  "updatedAt": "2026-10-23T00:28:08.004Z",
+  "updatedAt": "2026-10-23T05:11:11.520Z",
   "items": [
     {
-      "title": "Manifestations en France: chez la jeunesse, une mobilisation entre références culturelles et humour acide",
-      "url": "https://www.rfi.fr/fr/france/20261022-chez-les-jeunes-fran%C3%A7ais-une-mobilisation-entre-r%C3%A9f%C3%A9rences-culturelles-et-humour-acide",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T19:56:34.000Z",
-      "summary": "Sur les pancartes, les snaps ou les réels Instagram, la jeunesse française fait preuve d'une très grande créativité pour exprimer ses revendications. Lycéens et étudiants, mobilisés depuis début octobre, ont massivement recours à des références de la culture d'internet, des films, des animes, ainsi qu'à l'histoire et à",
-      "image": "https://s.rfi.fr/media/display/6f633d40-ce52-11f1-bab0-23d55109f116/w:1024/p:16x9/2026-10-08T000000Z-1559194778-MT1ABCPR1022229069-RTRMADP-3-FRANCE-EDUCATION-PROTEST.jpg",
+      "title": "Après PHP, une autre brique essentielle du web doit être mise à jour d’urgence",
+      "url": "https://www.01net.com/actualites/apres-php-une-autre-brique-essentielle-du-web-doit-etre-mise-a-jour-durgence.html",
+      "source": "01net",
+      "publishedAt": "2026-10-23T04:58:32.000Z",
+      "summary": "Après les failles critiques découvertes dans PHP, c’est au tour de Node.js de publier des correctifs de sécurité en urgence. Dix vulnérabilités ont été corrigées, dont quatre graves, avec notamment un risque d’exécution de code à distance. Les administrateurs sont invités à mettre à jour leurs serveurs sans attendre.",
+      "image": "https://www.01net.com/app/uploads/2026/05/Cyberattaque-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-chez-la-jeunesse-une-mobilisation-entre-referen-908c43d435.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-php-une-autre-brique-essentielle-du-web-doit-etre-mise-a-jour-d-ur-0f66ed5d46.html"
     },
     {
-      "title": "Manifestations en France : Bitchat, la messagerie sans réseau qui a le vent en poupe",
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261022-manifestations-france-bitchat-messagerie-sans-r%C3%A9seau-vent-poupe",
+      "title": "Législatives en Israël: le ministre d'extrême droite Itamar Ben Gvir passe à l'offensive dans la campagne",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261023-l%C3%A9gislatives-en-isra%C3%ABl-le-ministre-d-extr%C3%AAme-droite-itamar-ben-gvir-passe-%C3%A0-l-offensive-dans-la-campagne",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T05:02:36.000Z",
+      "summary": "Les Israéliens se rendront aux urnes mardi 27 octobre pour les élections législatives. Ce sont les premières depuis l’attaque meurtrière du Hamas et la sanglante guerre à Gaza qui a suivi. Dans la coalition du Premier ministre Benyamin Netanyahu, candidat à sa réélection, il y a le parti Force juive d’Itamar Ben Gvir, ",
+      "image": "https://s.rfi.fr/media/display/0ddf952c-ce99-11f1-b206-1fb896579794/w:1024/p:16x9/2026-10-13T150815Z-718376199-RC2E2OAW5JD6-RTRMADP-3-ISRAEL-ELECTION.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-israel-le-ministre-d-extreme-droite-itamar-ben-gvir-pass-b1de63efd9.html"
+    },
+    {
+      "title": "Albanie : heurts au Parlement entre majorité et opposition sur la colère étudiante",
+      "url": "https://fr.euronews.com/2026/10/23/albanie-heurts-au-parlement-entre-majorite-et-opposition-sur-la-colere-etudiante",
+      "source": "Euronews",
+      "publishedAt": "2026-10-23T04:54:39.000Z",
+      "summary": "Les heurts ont éclaté après que la direction du Parlement a rejeté la demande de l'opposition d'un débat sur dix jours de manifestations étudiantes qui ont agité la capitale Tirana.",
+      "image": "https://images.euronews.com/articles/stories/09/96/38/93/696x392_cmsv2_259fab57-6fe5-5fd4-a2b6-bda0da1e6f7a-9963893.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/albanie-heurts-au-parlement-entre-majorite-et-opposition-sur-la-colere-e-f48fee73ca.html"
+    },
+    {
+      "title": "Venezuela: des milliers de manifestants réclament des élections et le retour de l’opposante Maria Corina Machado",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261023-venezuela-des-milliers-de-manifestants-r%C3%A9clament-des-%C3%A9lections-et-le-retour-de-l-opposante-maria-corina-machado",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T04:51:34.000Z",
+      "summary": "Au Venezuela, des milliers de personnes se sont rassemblée jeudi 22 octobre lors d’un grand mouvement organisé par l’opposition pour exiger l’organisation d’une élection présidentielle le plus rapidement possible, ainsi que le retour de Maria Corina Machado. La dirigeante de l’opposition est actuellement en exil au Pan",
+      "image": "https://s.rfi.fr/media/display/55fd2474-ce9d-11f1-a235-1fb896579794/w:1024/p:16x9/2026-10-22T220328Z-457550322-RC2L8OAVFLQX-RTRMADP-3-VENEZUELA-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/venezuela-des-milliers-de-manifestants-reclament-des-elections-et-le-ret-37699b9db9.html"
+    },
+    {
+      "title": "Pologne: des manifestations pour réclamer la libéralisation du droit à l'avortement",
+      "url": "https://www.rfi.fr/fr/europe/20261023-pologne-des-manifestations-pour-r%C3%A9clamer-la-lib%C3%A9ralisation-du-droit-%C3%A0-l-avortement",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T03:00:49.000Z",
+      "summary": "Cette semaine, les députés polonais ont voté la dépénalisation de l'aide à l'avortement ainsi que le recours à l’IVG en cas de malformation grave du fœtus, jugé illégal par le Tribunal constitutionnel il y a six ans jour pour jour. Le pays observe toujours la législation la plus stricte d’Europe en matière de droit à l",
+      "image": "https://s.rfi.fr/media/display/4f2e152a-ce7c-11f1-98ee-bd65831edece/w:1024/p:16x9/AP26295608486771.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pologne-des-manifestations-pour-reclamer-la-liberalisation-du-droit-a-l--fb608d9231.html"
+    },
+    {
+      "title": "\"Justice pour papa\" : le jugement sur la mort de Maradona sera rendu le 22 décembre",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261023-argentine-proces-mort-diego-maradona-jugement-22-decembre",
       "source": "France 24",
-      "publishedAt": "2026-10-22T18:58:11.000Z",
-      "summary": "En pleine mobilisation lycéenne et pour le pouvoir d'achat en France, Bitchat mesh se classait n°1, jeudi, des applications sur l'App Store dans la catégorie \"réseaux sociaux\". Lancée en juillet 2025 par le cofondateur de Twitter, cette messagerie décentralisée fonctionne avec le Bluetooth et sans Internet. Pratique qu",
-      "image": "https://s.france24.com/media/display/45638bf4-ce47-11f1-b62c-8d87bc3aeb3a/w:1024/p:16x9/000-D3L43WH.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-bitchat-la-messagerie-sans-reseau-qui-a-le-vent-c6aaee733b.html"
+      "publishedAt": "2026-10-23T02:33:43.000Z",
+      "summary": "Après six mois d'audience pour juger l'équipe médicale de Diego Maradona, décédé en 2020, le tribunal a annoncé jeudi qu'il rendrait son jugement le 22 décembre. Sept professionnels de santé sont accusés de potentielles négligences fatales, et risquent jusqu'à 12 ans de prison.",
+      "image": "https://s.france24.com/media/display/fd3a809e-ce87-11f1-825c-bd65831edece/w:1024/p:16x9/AP26294565079879.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/justice-pour-papa-le-jugement-sur-la-mort-de-maradona-sera-rendu-le-22-d-9fafcd0128.html"
     },
     {
       "title": "Brésil: dans le Minas Gerais, les bolsonaristes entre rejet du PT et défense des valeurs traditionnelles",
@@ -38,132 +73,6 @@
       "summary": "En Inde, les autorités ont lancé une série de mesures pour lutter contre la pollution atmosphérique à New Delhi. La capitale du pays fait partie des villes à l'air le plus toxique au monde. Et chaque année, la qualité de l'air se détériore encore davantage en hiver, lorsque l'air plus froid retient les polluants près d",
       "image": "https://s.rfi.fr/media/display/bdb21f7a-af27-11f0-9b1d-005056bf30b7/w:1024/p:16x9/AP25294157302233.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/inde-debut-d-une-serie-de-mesures-pour-lutter-contre-la-pollution-de-l-a-02f826dbd4.html"
-    },
-    {
-      "title": "Au Kenya, la filière lait bientôt fournie par les bufflonnes?",
-      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261022-au-kenya-la-fili%C3%A8re-lait-bient%C3%B4t-fournie-par-les-bufflonnes",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T23:00:26.000Z",
-      "summary": "Et si le Kenya se mettait au lait de bufflonne ? C’est une proposition récemment faite par le président, William Ruto, lors du sommet kényan sur l’agriculture et l’agro-industrie. La filière lait connaît une crise d’approvisionnement. Depuis septembre, les étals sont régulièrement vides, le gouvernement veut donc diver",
-      "image": "https://s.rfi.fr/media/display/c3028416-ce33-11f1-9e21-97baf3e9dd31/w:1024/p:16x9/3282700-buffalo-1672333.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-kenya-la-filiere-lait-bientot-fournie-par-les-bufflonnes-4a53da038a.html"
-    },
-    {
-      "title": "La ville de New York va interdire les calèches de Central Park, après 20 ans de débats",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261022-etats-unis-new-york-va-interdire-caleches-central-park-mamdani-trump",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T22:02:28.000Z",
-      "summary": "Les calèches de Central Park, une attraction touristique controversée depuis une vingtaine d'années, vont être interdites à partir du 1er juin 2028. Le Conseil municipal de New York a voté en ce sens jeudi, et le maire Zohran Mamdani doit promulguer la mesure. Le délai d'entrée en vigueur doit permettre d'aider les que",
-      "image": "https://s.france24.com/media/display/b7920c8e-ce63-11f1-8962-23d55109f116/w:1024/p:16x9/AP26287746119918.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-ville-de-new-york-va-interdire-les-caleches-de-central-park-apres-20--ec7392ee6a.html"
-    },
-    {
-      "title": "France: un second suspect arrêté pour l'incendie de la mairie de Limoges, les habitants encore sous le choc",
-      "url": "https://www.rfi.fr/fr/france/20261022-france-un-second-suspect-arr%C3%AAt%C3%A9-pour-l-incendie-de-la-mairie-de-limoges-les-habitants-encore-sous-le-choc",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T21:59:55.000Z",
-      "summary": "Un second suspect a été arrêté ce jeudi 22 octobre dans le cadre de l'incendie criminel de la mairie de Limoges, dans le centre de la France. L'incendie de l'édifice a été l'une des dégradations les plus marquantes parmi celles déplorées en marge de la mobilisation du 17 octobre dernier. Sur place, les habitants sont t",
-      "image": "https://s.rfi.fr/media/display/39434c7c-ce53-11f1-80f5-8d87bc3aeb3a/w:1024/p:16x9/000-D3NA6ZR.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-un-second-suspect-arrete-pour-l-incendie-de-la-mairie-de-limoges--537bcc3693.html"
-    },
-    {
-      "title": "Des évêques catholiques prient pour Trump dans le Bureau ovale",
-      "url": "https://fr.euronews.com/2026/10/22/des-eveques-catholiques-prient-pour-trump-dans-le-bureau-ovale",
-      "source": "Euronews",
-      "publishedAt": "2026-10-22T21:51:53.000Z",
-      "summary": "Des évêques et archevêques catholiques se sont réunis autour du président américain Donald Trump au Bureau ovale pour prier pour lui et pour le pays.",
-      "image": "https://images.euronews.com/articles/stories/09/96/38/68/696x392_cmsv2_4073154c-a667-5986-89cc-209bd2a45d26-9963868.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-eveques-catholiques-prient-pour-trump-dans-le-bureau-ovale-e3ebff69bd.html"
-    },
-    {
-      "title": "Équateur: l'ex-candidate de gauche à la présidentielle Luisa Gonzalez arrêtée",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261022-%C3%A9quateur-l-ex-candidate-de-gauche-%C3%A0-la-pr%C3%A9sidentielle-luisa-gonzalez-arr%C3%AAt%C3%A9e",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T21:51:00.000Z",
-      "summary": "La police équatorienne a arrêté l'ex-candidate de gauche à l'élection présidentielle, Luisa Gonzalez, ce jeudi 22 octobre 2026. Elle faisait l'objet d'une enquête pour un financement présumé irrégulier de sa campagne de 2023, en provenance du Venezuela. Le scrutin avait été remporté par Daniel Noboa.",
-      "image": "https://s.rfi.fr/media/display/8a6be2a4-ce57-11f1-8de4-8d87bc3aeb3a/w:1024/p:16x9/AP26295513624745.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/equateur-l-ex-candidate-de-gauche-a-la-presidentielle-luisa-gonzalez-arr-e353aa8e0f.html"
-    },
-    {
-      "title": "Un puissant séisme de magnitude 7 fait des morts et de nombreux blessés au Tibet",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261022-un-puissant-s%C3%A9isme-de-magnitude-7-fait-des-morts-et-de-nombreux-bless%C3%A9s-au-tibet",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T21:33:40.000Z",
-      "summary": "Un puissant séisme de magnitude 7 a frappé la région himalayenne du Tibet en Chine jeudi 22 octobre, faisant 16 morts et 32 blessés, selon un premier bilan communiqué par l'agence de presse officielle chinoise Xinhua.",
-      "image": "https://s.rfi.fr/media/display/27dfdcfe-ce60-11f1-8cb5-7967b15eed96/w:1024/p:16x9/000-C74N8KE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-puissant-seisme-de-magnitude-7-fait-des-morts-et-de-nombreux-blesses--ee76f87c41.html"
-    },
-    {
-      "title": "Chine : un séisme de magnitude 7 fait de nombreux morts au Tibet",
-      "url": "https://www.france24.com/fr/asie-pacifique/20261022-chine-un-s%C3%A9isme-de-magnitude-7-fait-de-nombreux-morts-au-tibet",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T21:17:28.000Z",
-      "summary": "Au moins 16 personnes, selon un premier bilan donné vendredi, ont été tuées dans un séisme de magnitude 7 dans une région montagneuse du Tibet. Plus de 32 personnes ont été blessées et plus de 300 maisons se sont effondrées.",
-      "image": "https://s.france24.com/media/display/fbbd82cc-ce5d-11f1-97a6-23d55109f116/w:1024/p:16x9/ac629e79b049c0c45210a347ff86908be3a86cb3.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chine-un-seisme-de-magnitude-7-fait-de-nombreux-morts-au-tibet-050fdd855c.html"
-    },
-    {
-      "title": "Donald Trump a-t-il vraiment salué dans le vide, révélant une démence sénile ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261022-donald-trump-a-t-il-vraiment-salu%C3%A9-dans-le-vide-r%C3%A9v%C3%A9lant-une-d%C3%A9mence-s%C3%A9nile",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T21:13:19.000Z",
-      "summary": "À l'approche des élections de mi-mandat aux États-Unis, des images prétendent montrer Donald Trump saluant le vide avant de monter dans son hélicoptère Marine One. Pour certains, l'image serait la preuve d'un déclin cognitif du président américain âgé de 80 ans. En réalité, d'autres angles de vue révèlent que Donald Tr",
-      "image": "https://s.france24.com/media/display/552f3ed0-ce5a-11f1-a024-3f59e19fd7f8/w:1024/p:16x9/Francais-2026-10-22T20-20-17-205Z-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-a-t-il-vraiment-salue-dans-le-vide-revelant-une-demence-sen-7be09a3c93.html"
-    },
-    {
-      "title": "Incendies en Indonésie: le gouvernement refuse de proclamer l'état d'urgence, la colère grimpe",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261022-incendies-en-indon%C3%A9sie-le-gouvernement-refuse-de-proclamer-l-%C3%A9tat-d-urgence-la-col%C3%A8re-grimpe",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T21:11:43.000Z",
-      "summary": "La colère gronde en Indonésie alors que les incendies de forêts qui font rage depuis plusieurs mois, ont déjà dévasté près de 2 millions d’hectares et provoqué un épais nuage toxique qui asphyxie la région. Mercredi, des étudiants et des membres de la société civile se sont rassemblés à Pontianak sur l’île de Bornéo, l",
-      "image": "https://s.rfi.fr/media/display/2786f0e2-ce5d-11f1-982a-7967b15eed96/w:1024/p:16x9/000-D3YC8V9.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/incendies-en-indonesie-le-gouvernement-refuse-de-proclamer-l-etat-d-urge-6474e1aa74.html"
-    },
-    {
-      "title": "République centrafricaine : Trois otages libérés après 10 mois de captivité",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261022-r%C3%A9publique-centrafricaine-trois-otages-lib%C3%A9r%C3%A9s-apr%C3%A8s-10-mois-de-captivit%C3%A9",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T20:45:00.000Z",
-      "summary": "En République centrafricaine, c’est le soulagement pour les proches de trois personnes enlevées par un groupe armé, actif dans le sud-est du pays. Parmi elles, la sous-préfète de Bambouti, ainsi que deux agents de l’Autorité nationale des élections, l’organe chargé d’organiser les élections. Retenus en otage depuis déc",
-      "image": "https://s.france24.com/media/display/c195671c-ce54-11f1-95f7-23d55109f116/w:1024/p:16x9/FRAN261022-2141-Live.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/republique-centrafricaine-trois-otages-liberes-apres-10-mois-de-captivit-4c0d04751e.html"
-    },
-    {
-      "title": "24 octobre : Macron serre la vis sur les manifestations, interdites à Marseille et à Lyon",
-      "url": "https://www.france24.com/fr/france/20261022-24-octobre-macron-serre-la-vis-sur-les-manifestations-interdites-%C3%A0-marseille-et-%C3%A0-lyon",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T20:39:21.000Z",
-      "summary": "Emmanuel Macron a annoncé jeudi que seules les manifestations organisées par des syndicats seront autorisées le 24 octobre, lors d'une nouvelle journée de mobilisation pour le pouvoir d'achat. Les préfets du Rhône et des Bouches-du-Rhône ont interdit les manifestations à Lyon et à Marseille. La préfecture du Nord a, el",
-      "image": "https://s.france24.com/media/display/4b764810-ce56-11f1-a86e-8d87bc3aeb3a/w:1024/p:16x9/000-D3MD4CT.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/24-octobre-macron-serre-la-vis-sur-les-manifestations-interdites-a-marse-8b13df1ca9.html"
-    },
-    {
-      "title": "Colère sociale en France : comment faire retomber la pression ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261022-col%C3%A8re-sociale-en-france-comment-faire-retomber-la-pression",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T20:24:11.000Z",
-      "summary": "Certaines le seront, d'autres pas. Pour la nouvelle journée de mobilisation prévue samedi 24 octobre, seules les manifestations organisées par des syndicats pourront être autorisées, a prévenu Emmanuel Macron à l'issue d'un conseil de sécurité. Au nom du retour au calme et du maintien de l'ordre.",
-      "image": "https://s.france24.com/media/display/c1c8c900-ce53-11f1-8934-7967b15eed96/w:1024/p:16x9/capture-22dffef1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/colere-sociale-en-france-comment-faire-retomber-la-pression-da3b42d9ba.html"
-    },
-    {
-      "title": "Chine : un puissant séisme de magnitude 7 frappe le Tibet",
-      "url": "https://fr.euronews.com/video/2026/10/22/chine-panique-apres-un-seisme-de-magnitude-70-au-tibet",
-      "source": "Euronews",
-      "publishedAt": "2026-10-22T19:58:39.000Z",
-      "summary": "Un puissant séisme de magnitude 7 a frappé le Tibet jeudi soir. Des caméras de surveillance montrent des habitants évacuant les bâtiments, tandis que les secours se mobilisent dans la région.",
-      "image": "https://images.euronews.com/articles/stories/09/96/38/10/696x392_cmsv2_4f184246-ef10-5f7c-84b7-36aff58270f9-9963810.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chine-un-puissant-seisme-de-magnitude-7-frappe-le-tibet-0a7cf2dfc5.html"
-    },
-    {
-      "title": "Violences du 17 octobre : le profil type des personnes incarcérées dévoilé",
-      "url": "https://www.france24.com/fr/france/20261022-violences-17-octobre-profil-type-personnes-%C3%A9crou%C3%A9es-d%C3%A9voil%C3%A9",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T19:19:07.000Z",
-      "summary": "La Chancellerie a dévoilé un document qui dresse le profil type des personnes interpellées lors des manifestations marquées par des violences et des pillages ces dernières semaines en France. Le portrait type correspond à un homme âgé entre 18 et 25 ans, de nationalité française, inconnu de la justice, incarcéré pour p",
-      "image": "https://s.france24.com/media/display/822fec10-ca48-11f1-8fa1-d1d2c32ebb87/w:1024/p:16x9/000-D3L84RN.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/violences-du-17-octobre-le-profil-type-des-personnes-incarcerees-devoile-5464fdc4fd.html"
     }
   ]
 }
