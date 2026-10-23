@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T21:59:47.824Z",
+  "updatedAt": "2026-10-23T00:28:08.004Z",
   "items": [
     {
       "title": "Manifestations en France: chez la jeunesse, une mobilisation entre références culturelles et humour acide",
@@ -22,6 +22,51 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-bitchat-la-messagerie-sans-reseau-qui-a-le-vent-c6aaee733b.html"
     },
     {
+      "title": "Brésil: dans le Minas Gerais, les bolsonaristes entre rejet du PT et défense des valeurs traditionnelles",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261023-br%C3%A9sil-dans-le-minas-gerais-les-bolsonaristes-entre-rejet-du-pt-et-d%C3%A9fense-des-valeurs-traditionnelles",
+      "source": "RFI",
+      "publishedAt": "2026-10-23T00:08:20.000Z",
+      "summary": "Ce dimanche 25 octobre, les électeurs brésiliens sont appelés aux urnes pour le second tour de la présidentielle. Le sénateur d’extrême droite Flavio Bolsonaro, fils de l’ancien président Jair Bolsonaro, affronte le président sortant Lula, qui brigue un quatrième mandat non consécutif. Après être arrivé en tête dans l’",
+      "image": "https://s.rfi.fr/media/display/647eac12-ce6a-11f1-93b7-23d55109f116/w:1024/p:16x9/Br%C3%A9sil-Flavio-Bolsonaro.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-dans-le-minas-gerais-les-bolsonaristes-entre-rejet-du-pt-et-defen-d2bfac3175.html"
+    },
+    {
+      "title": "Inde: début d'une série de mesures pour lutter contre la pollution de l'air à New Delhi",
+      "url": "https://www.rfi.fr/fr/environnement/20261022-inde-d%C3%A9but-d-une-s%C3%A9rie-de-mesures-pour-lutter-contre-la-pollution-de-l-air-%C3%A0-new-delhi",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T23:14:17.000Z",
+      "summary": "En Inde, les autorités ont lancé une série de mesures pour lutter contre la pollution atmosphérique à New Delhi. La capitale du pays fait partie des villes à l'air le plus toxique au monde. Et chaque année, la qualité de l'air se détériore encore davantage en hiver, lorsque l'air plus froid retient les polluants près d",
+      "image": "https://s.rfi.fr/media/display/bdb21f7a-af27-11f0-9b1d-005056bf30b7/w:1024/p:16x9/AP25294157302233.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/inde-debut-d-une-serie-de-mesures-pour-lutter-contre-la-pollution-de-l-a-02f826dbd4.html"
+    },
+    {
+      "title": "Au Kenya, la filière lait bientôt fournie par les bufflonnes?",
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261022-au-kenya-la-fili%C3%A8re-lait-bient%C3%B4t-fournie-par-les-bufflonnes",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T23:00:26.000Z",
+      "summary": "Et si le Kenya se mettait au lait de bufflonne ? C’est une proposition récemment faite par le président, William Ruto, lors du sommet kényan sur l’agriculture et l’agro-industrie. La filière lait connaît une crise d’approvisionnement. Depuis septembre, les étals sont régulièrement vides, le gouvernement veut donc diver",
+      "image": "https://s.rfi.fr/media/display/c3028416-ce33-11f1-9e21-97baf3e9dd31/w:1024/p:16x9/3282700-buffalo-1672333.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-kenya-la-filiere-lait-bientot-fournie-par-les-bufflonnes-4a53da038a.html"
+    },
+    {
+      "title": "La ville de New York va interdire les calèches de Central Park, après 20 ans de débats",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261022-etats-unis-new-york-va-interdire-caleches-central-park-mamdani-trump",
+      "source": "France 24",
+      "publishedAt": "2026-10-22T22:02:28.000Z",
+      "summary": "Les calèches de Central Park, une attraction touristique controversée depuis une vingtaine d'années, vont être interdites à partir du 1er juin 2028. Le Conseil municipal de New York a voté en ce sens jeudi, et le maire Zohran Mamdani doit promulguer la mesure. Le délai d'entrée en vigueur doit permettre d'aider les que",
+      "image": "https://s.france24.com/media/display/b7920c8e-ce63-11f1-8962-23d55109f116/w:1024/p:16x9/AP26287746119918.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-ville-de-new-york-va-interdire-les-caleches-de-central-park-apres-20--ec7392ee6a.html"
+    },
+    {
+      "title": "France: un second suspect arrêté pour l'incendie de la mairie de Limoges, les habitants encore sous le choc",
+      "url": "https://www.rfi.fr/fr/france/20261022-france-un-second-suspect-arr%C3%AAt%C3%A9-pour-l-incendie-de-la-mairie-de-limoges-les-habitants-encore-sous-le-choc",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T21:59:55.000Z",
+      "summary": "Un second suspect a été arrêté ce jeudi 22 octobre dans le cadre de l'incendie criminel de la mairie de Limoges, dans le centre de la France. L'incendie de l'édifice a été l'une des dégradations les plus marquantes parmi celles déplorées en marge de la mobilisation du 17 octobre dernier. Sur place, les habitants sont t",
+      "image": "https://s.rfi.fr/media/display/39434c7c-ce53-11f1-80f5-8d87bc3aeb3a/w:1024/p:16x9/000-D3NA6ZR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-un-second-suspect-arrete-pour-l-incendie-de-la-mairie-de-limoges--537bcc3693.html"
+    },
+    {
       "title": "Des évêques catholiques prient pour Trump dans le Bureau ovale",
       "url": "https://fr.euronews.com/2026/10/22/des-eveques-catholiques-prient-pour-trump-dans-le-bureau-ovale",
       "source": "Euronews",
@@ -29,6 +74,15 @@
       "summary": "Des évêques et archevêques catholiques se sont réunis autour du président américain Donald Trump au Bureau ovale pour prier pour lui et pour le pays.",
       "image": "https://images.euronews.com/articles/stories/09/96/38/68/696x392_cmsv2_4073154c-a667-5986-89cc-209bd2a45d26-9963868.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-eveques-catholiques-prient-pour-trump-dans-le-bureau-ovale-e3ebff69bd.html"
+    },
+    {
+      "title": "Équateur: l'ex-candidate de gauche à la présidentielle Luisa Gonzalez arrêtée",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261022-%C3%A9quateur-l-ex-candidate-de-gauche-%C3%A0-la-pr%C3%A9sidentielle-luisa-gonzalez-arr%C3%AAt%C3%A9e",
+      "source": "RFI",
+      "publishedAt": "2026-10-22T21:51:00.000Z",
+      "summary": "La police équatorienne a arrêté l'ex-candidate de gauche à l'élection présidentielle, Luisa Gonzalez, ce jeudi 22 octobre 2026. Elle faisait l'objet d'une enquête pour un financement présumé irrégulier de sa campagne de 2023, en provenance du Venezuela. Le scrutin avait été remporté par Daniel Noboa.",
+      "image": "https://s.rfi.fr/media/display/8a6be2a4-ce57-11f1-8de4-8d87bc3aeb3a/w:1024/p:16x9/AP26295513624745.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/equateur-l-ex-candidate-de-gauche-a-la-presidentielle-luisa-gonzalez-arr-e353aa8e0f.html"
     },
     {
       "title": "Un puissant séisme de magnitude 7 fait des morts et de nombreux blessés au Tibet",
@@ -110,62 +164,6 @@
       "summary": "La Chancellerie a dévoilé un document qui dresse le profil type des personnes interpellées lors des manifestations marquées par des violences et des pillages ces dernières semaines en France. Le portrait type correspond à un homme âgé entre 18 et 25 ans, de nationalité française, inconnu de la justice, incarcéré pour p",
       "image": "https://s.france24.com/media/display/822fec10-ca48-11f1-8fa1-d1d2c32ebb87/w:1024/p:16x9/000-D3L84RN.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/violences-du-17-octobre-le-profil-type-des-personnes-incarcerees-devoile-5464fdc4fd.html"
-    },
-    {
-      "title": "Allemagne: un Ukrainien soupçonné d'espionnage pour le compte de la Russie arrêté près de Berlin",
-      "url": "https://www.rfi.fr/fr/europe/20261022-allemagne-un-ukrainien-soup%C3%A7onn%C3%A9-d-espionnage-pour-le-compte-de-la-russie-arr%C3%AAt%C3%A9-pr%C3%A8s-de-berlin",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T18:27:33.000Z",
-      "summary": "Un Ukrainien a été arrêté ce jeudi 22 octobre en Allemagne, près de Berlin, dans le Land de Brandebourg. Il est soupçonné d'avoir collecté des informations pour le compte de la Russie. L'homme sera présenté dès vendredi à un juge d'instruction. La justice évoque des renseignements militaires.",
-      "image": "https://s.rfi.fr/media/display/efd607c8-34f1-11ec-b149-005056bfb2b6/w:1024/p:16x9/AP20006370422894.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-un-ukrainien-soupconne-d-espionnage-pour-le-compte-de-la-russi-8916d5c81f.html"
-    },
-    {
-      "title": "France, Grèce, Italie... Gen Z : un vent de colère en Europe ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261022-france-gr%C3%A8ce-italie-gen-z-un-vent-de-col%C3%A8re-en-europe",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T18:25:38.000Z",
-      "summary": "La génération Z se mobilise massivement en France mais aussi en Grèce, en Espagne, au Portugal et en Italie. Hier, c’était à Athènes et à Thessalonique que lycéens et professeurs ont battu le pavé contre le coût de la vie et l’état des écoles en s’inspirant de la France. Dans l'Hexagone, le gouvernement tente de trouve",
-      "image": "https://s.france24.com/media/display/d9bcbde0-cd5a-11f1-89c8-ab78a7fed2ce/w:1024/p:16x9/2026-10-21T123954Z-770228045-RC2K7OA8CUCO-RTRMADP-3-GREECE-PROTEST-STUDENTS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-grece-italie-gen-z-un-vent-de-colere-en-europe-92401fa448.html"
-    },
-    {
-      "title": "Pérou: la présidente Keiko Fujimori obtient les pleins pouvoirs pour lutter contre le crime organisé",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261022-p%C3%A9rou-la-pr%C3%A9sidente-keiko-fujimori-obtient-les-pleins-pouvoirs-pour-lutter-contre-le-crime-organis%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T18:23:21.000Z",
-      "summary": "Au Pérou, le Parlement a approuvé mercredi 21 octobre 2026 un projet de loi octroyant à la présidente de droite autoritaire Keiko Fujimori les pouvoirs législatifs en termes de sécurité et pour lutter contre le phénomène climatique El Niño. Pendant trois mois elle pourra légiférer sans passer par les députés. Elle prom",
-      "image": "https://s.rfi.fr/media/display/30329278-ce3f-11f1-8849-23d55109f116/w:1024/p:16x9/AP26280825710431.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/perou-la-presidente-keiko-fujimori-obtient-les-pleins-pouvoirs-pour-lutt-d9ad9c7afa.html"
-    },
-    {
-      "title": "Arnaques sur Booking.com: le géant de la réservation en ligne visé par une enquête de l'Union européenne",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261022-arnaques-sur-booking-com-le-g%C3%A9ant-de-la-r%C3%A9servation-en-ligne-vis%C3%A9-par-une-enqu%C3%AAte-de-l-union-europ%C3%A9enne",
-      "source": "RFI",
-      "publishedAt": "2026-10-22T17:31:19.000Z",
-      "summary": "C'est l'un des sites internet les plus utilisés en Europe pour la réservation d'hôtels par les touristes : le géant américain Booking.com fait l'objet d'une enquête de la Commission européenne. Bruxelles soupçonne la plateforme de ne pas assez protéger ses clients contre les annonces frauduleuses.",
-      "image": "https://s.rfi.fr/media/display/c9376740-ce3b-11f1-a6bb-23d55109f116/w:1024/p:16x9/000-9RF44E.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/arnaques-sur-booking-com-le-geant-de-la-reservation-en-ligne-vise-par-un-22602b003a.html"
-    },
-    {
-      "title": "GTA 6 : où le précommander, date de livraison, consoles, version PC, date de sortie – tout ce qu’il faut savoir",
-      "url": "https://www.frandroid.com/produits-android/console/3295925_gta-6-ou-le-precommander-date-de-livraison-consoles-version-pc-date-de-sortie-tout-ce-quil-faut-savoir",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-22T17:08:00.000Z",
-      "summary": "La sortie de GTA 6 s'annonce comme un phénomène culturel inédit. Entre son budget démesuré, les attentes autour de sa sortie et son lancement inédit dans son format, voici ce qu'il faut savoir sur Grand Theft Auto VI.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/06/gta-6-grand-theft-auto-6-gta-vi-frandroid-cover-1.jpg?resize=1200,675&key=544984d0",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gta-6-ou-le-precommander-date-de-livraison-consoles-version-pc-date-de-s-e243ab0399.html"
-    },
-    {
-      "title": "La Russie n'a pas \"changé d'attitude\", estime Zelensky après des frappes en Ukraine",
-      "url": "https://www.france24.com/fr/europe/20261022-russie-pas-chang%C3%A9-attitude-estime-zelensky-apr%C3%A8s-frappes-ukraine",
-      "source": "France 24",
-      "publishedAt": "2026-10-22T16:20:21.000Z",
-      "summary": "L'attitude de Moscou reste inchangée, a estimé jeudi le président ukrainien après une rencontre avec l'émissaire américain Steve Witkoff, en déplacement à Oslo. Sur le terrain, des frappes nocturnes ont fait de nouvelles victimes en Ukraine, malgré une relance de la diplomatie.",
-      "image": "https://s.france24.com/media/display/2ea45b56-c7f7-11f1-a634-d1d2c32ebb87/w:1024/p:16x9/000-D3AQ7YY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-russie-n-a-pas-change-d-attitude-estime-zelensky-apres-des-frappes-en-d801b6729d.html"
     }
   ]
 }
