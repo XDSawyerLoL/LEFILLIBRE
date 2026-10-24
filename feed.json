@@ -1,95 +1,42 @@
 {
-  "updatedAt": "2026-10-24T00:37:41.057Z",
+  "updatedAt": "2026-10-24T05:01:04.846Z",
   "items": [
     {
-      "title": "Présidentielle au Brésil: la presse craint une victoire de Flavio Bolsonaro",
-      "url": "https://www.rfi.fr/fr/podcasts/menaces-sur-l-information/20261023-pr%C3%A9sidentielle-au-br%C3%A9sil-la-presse-craint-une-victoire-de-flavio-bolsonaro",
+      "title": "« Un échec » cuisant pour la cybersécurité : pourquoi les failles PHP ont plongé une partie d’Internet dans le noir",
+      "url": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
+      "source": "01net",
+      "publishedAt": "2026-10-24T04:21:34.000Z",
+      "summary": "Des préfectures aux hôpitaux en passant par des opérateurs, des centaines de sites se sont retrouvés dans le noir cette semaine à cause de deux failles critiques dans PHP. Aux origines de ce chaos, on trouve un protocole de sécurité qui s'est mal passé. Des fuites ont en effet mené à une véritable course contre la mont",
+      "image": "https://www.01net.com/app/uploads/2026/10/php-fiasco-serveurs-1344x757.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-echec-cuisant-pour-la-cybersecurite-pourquoi-les-failles-php-ont-plon-be71e2239b.html"
+    },
+    {
+      "title": "Présidentielle au Brésil: Lula et le fils Bolsonaro s'affrontent lors d’un dernier débat au ton plus policé",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-un-dernier-d%C3%A9bat-au-ton-plus-polic%C3%A9",
       "source": "RFI",
-      "publishedAt": "2026-10-23T22:22:53.000Z",
-      "summary": "Ce dimanche 25 octobre 2026, s'affronteront au Brésil le président sortant de gauche, Lula, et le candidat d’extrême droite, Flavio Bolsonaro, fils de l’ancien président Jair Bolsonaro. Dans les médias brésiliens, l’inquiétude grandit face au risque d’un retour de l’autoritarisme et à ses conséquences pour la liberté d",
-      "image": "https://s.rfi.fr/media/display/1c428938-cf2c-11f1-8ae3-5b4a75578ebb/w:1024/p:16x9/2026-10-05T155039Z-1477700226-RC2ZWNALY17A-RTRMADP-3-BRAZIL-ELECTION-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-la-presse-craint-une-victoire-de-flavio-bolsona-7e9305a97b.html"
+      "publishedAt": "2026-10-24T04:37:06.000Z",
+      "summary": "Après un premier débat truffé d'insultes, le président brésilien Luiz Inacio Lula da Silva et son rival ultraconservateur Flavio Bolsonaro ont modéré le ton vendredi 23 octobre lors de leur dernier face-à-face. Cela à l'avant-veille d'un second tour le 25 octobre qui s'annonce très serré, après la courte victoire du ca",
+      "image": "https://s.rfi.fr/media/display/e11dfef0-cf62-11f1-a523-bdb9616e85cf/w:1024/p:16x9/AP26297024010203.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-u-b88f02fd5f.html"
     },
     {
-      "title": "Hongrie : drapeaux et hommages pour les 70 ans de la révolution de 1956",
-      "url": "https://fr.euronews.com/video/2026/10/24/hongrie-70-ans-apres-la-repression-sovietique-les-dirigeants-honorent-les-victimes",
-      "source": "Euronews",
-      "publishedAt": "2026-10-23T22:08:41.000Z",
-      "summary": "Soixante-dix ans après l’insurrection de 1956, Péter Magyar a rendu hommage aux victimes, tandis qu’Ursula von der Leyen a défendu devant le Parlement la liberté et la démocratie.",
-      "image": "https://images.euronews.com/articles/stories/09/96/51/79/696x392_cmsv2_1d7824de-f72d-5f60-8bca-f9d862793871-9965179.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/hongrie-drapeaux-et-hommages-pour-les-70-ans-de-la-revolution-de-1956-8cc34d1b48.html"
-    },
-    {
-      "title": "Manifestations en France: un «acte II» sous haute surveillance, les manifestants entre peur et détermination",
-      "url": "https://www.rfi.fr/fr/france/20261023-manifestations-en-france-un-acte-ii-sous-haute-surveillance-les-manifestants-entre-peur-et-d%C3%A9termination",
+      "title": "États-Unis: le redécoupage électoral peut-il sauver les midterms de Donald Trump?",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-%C3%A9tats-unis-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-sauver-les-midterms-de-donald-trump",
       "source": "RFI",
-      "publishedAt": "2026-10-23T22:00:49.000Z",
-      "summary": "Une nouvelle manifestation nationale est prévue samedi 24 octobre en France, mais par peur des débordements de la semaine précédente, le gouvernement et les préfectures ont pris des mesures fortes. Interdictions de manifester à Lyon, Toulon, Rouen et au Mans. Un dispositif policier massif, et surtout le déploiement des",
-      "image": "https://s.rfi.fr/media/display/1784ed84-cf2a-11f1-b188-4d317af013fd/w:1024/p:16x9/AP26296411437511.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-un-acte-ii-sous-haute-surveillance-les-manifest-cb82f1316e.html"
+      "publishedAt": "2026-10-24T04:14:00.000Z",
+      "summary": "Vieux de plus de deux siècles, le « gerrymandering » – le redécoupage des cartes électorales à des fins partisanes – est fréquemment utilisé aux États-Unis à l’approche des élections de mi-mandat du 3 novembre pour chercher à grapiller quelques sièges au Congrès. Depuis l’année dernière, Donald Trump tente de mettre le",
+      "image": "https://s.rfi.fr/media/display/ea4b9c72-b4f9-11f1-8e27-0730212ba17f/w:1024/p:16x9/2026-09-16T224957Z-1146010495-RC2MKNA3LMF0-RTRMADP-3-USA-FED-TRUMP.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-le-redecoupage-electoral-peut-il-sauver-les-midterms-de-donal-5fddf85be2.html"
     },
     {
-      "title": "Attentat à Trappes: Emmanuel Macron tente d'unir plutôt que de diviser, la gauche fustige le racisme décomplexé",
-      "url": "https://www.rfi.fr/fr/france/20261023-attentat-%C3%A0-trappes-emmanuel-macron-tente-d-unir-plut%C3%B4t-que-de-diviser-la-gauche-fustige-le-racisme-d%C3%A9complex%C3%A9",
+      "title": "Argentine: non-lieu pour Milei dans l'enquête pour escroquerie présumée liée à la cryptomonnaie douteuse $LIBRA",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-argentine-non-lieu-pour-milei-dans-l-enqu%C3%AAte-pour-escroquerie-pr%C3%A9sum%C3%A9e-li%C3%A9e-%C3%A0-la-cryptomonnaie-douteuse-libra",
       "source": "RFI",
-      "publishedAt": "2026-10-23T21:46:08.000Z",
-      "summary": "C’est un attentat terroriste raciste qui s’est produit à Trappes, en région parisienne, ce vendredi 23 octobre, faisant un mort et cinq blessés. L’auteur présumé, âgé d’une trentaine d’années, a tiré en rafale à divers endroits avec une arme semi-automatique pour atteindre des personnes issues de l’immigration. Face à ",
-      "image": "https://s.rfi.fr/media/display/26f34320-cf0b-11f1-a3e4-5b4a75578ebb/w:1024/p:16x9/089585c2c4a326211739ce6cc6dc83c5d925c1d1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/attentat-a-trappes-emmanuel-macron-tente-d-unir-plutot-que-de-diviser-la-457f676b58.html"
-    },
-    {
-      "title": "Manifestations du 24 octobre : 70 000 policiers et gendarmes déployés, les lycéens toujours mobilisés",
-      "url": "https://www.france24.com/fr/france/20261023-manifestations-du-24-octobre-70-000-policiers-et-gendarmes-d%C3%A9ploy%C3%A9s-les-lyc%C3%A9ens-toujours-mobilis%C3%A9s",
-      "source": "France 24",
-      "publishedAt": "2026-10-23T21:13:14.000Z",
-      "summary": "Plusieurs représentants lycéens ont été reçus à l'Élysée vendredi pour échanger avec Emmanuel Macron, à la veille d'une nouvelle journée de contestation qui mobilise plus de 70 000 policiers et gendarmes. Globalement \"satisfaits\" de l'écoute du président, ils ont néanmoins appelé vendredi à \"continuer à se mobiliser\" j",
-      "image": "https://s.france24.com/media/display/5ef70560-ced2-11f1-9c1d-5b4a75578ebb/w:1024/p:16x9/2026-10-22T144648Z-214123398-RC2E8OAIMY4S-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-du-24-octobre-70-000-policiers-et-gendarmes-deployes-les--0bd9852a0c.html"
-    },
-    {
-      "title": "Le Salvador envoie des troupes en Haïti pour retrouver quatre soldats disparus",
-      "url": "https://www.rfi.fr/fr/france/20261023-le-salvador-envoie-des-troupes-en-ha%C3%AFti-pour-retrouver-quatre-soldats-disparus",
-      "source": "RFI",
-      "publishedAt": "2026-10-23T20:43:02.000Z",
-      "summary": "Il a fait de la lutte contre les gangs dans son pays une priorité. Le président salvadorien Nayib Bukele menace désormais les groupes armés en Haïti. L'objectif : retrouver les quatre militaires salvadoriens attaqués dimanche. Tous les quatre sont membres de la Force internationale soutenue par l'ONU, la FRG. Ils sont ",
-      "image": "https://s.rfi.fr/media/display/44c0cd7a-cf22-11f1-ad35-bdb9616e85cf/w:1024/p:16x9/2026-10-20T125834Z-1749570977-RC2L6OADIYLM-RTRMADP-3-HAITI-VIOLENCE-GANGS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-salvador-envoie-des-troupes-en-haiti-pour-retrouver-quatre-soldats-di-2427b7e99d.html"
-    },
-    {
-      "title": "Gabriel Dia à AKAA : l'art, les tabous et l'homosexualité au Sénégal",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261023-gabriel-dia-%C3%A0-akaa-l-art-les-tabous-et-l-homosexualit%C3%A9-au-s%C3%A9n%C3%A9gal",
-      "source": "France 24",
-      "publishedAt": "2026-10-23T20:40:29.000Z",
-      "summary": "À Paris, la foire d'art contemporain africain AKAA accueille une installation monumentale du photographe sénégalais Gabriel Dia. Avec Mother's Heritage, l'artiste revisite ses souvenirs d'enfance dans l'atelier de couture de sa mère, à Rufisque. Des photographies imprimées sur des tissus suspendus pour raconter la tran",
-      "image": "https://s.france24.com/media/display/0e5d1aa0-cf21-11f1-a12f-4b25c96ec90e/w:1024/p:16x9/FR-20261023-214907-215744-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gabriel-dia-a-akaa-l-art-les-tabous-et-l-homosexualite-au-senegal-221656161b.html"
-    },
-    {
-      "title": "Gabon: Ali Bongo revient en politique et revendique la tête du PDG",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261023-gabon-ali-bongo-revient-en-politique-et-revendique-la-t%C3%AAte-du-pdg",
-      "source": "France 24",
-      "publishedAt": "2026-10-23T20:38:23.000Z",
-      "summary": "Au Gabon, Ali Bongo sort de son silence. Dans une vidéo publiée depuis Paris, l'ancien président gabonais annonce son retour en politique. Son objectif immédiat : reprendre la tête du Parti démocratique gabonais, le PDG. Il conteste désormais son propre retrait de la scène politique, annoncé en septembre 2024, et reven",
-      "image": "https://s.france24.com/media/display/31a1c82c-cf20-11f1-907a-bba4eee3dc72/w:1024/p:16x9/FRAN261023-2143-Live-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gabon-ali-bongo-revient-en-politique-et-revendique-la-tete-du-pdg-ed7c5b1663.html"
-    },
-    {
-      "title": "Clément Beaune : «Couper le robinet de l’aide à l’Ukraine, c’est défendre Poutine»",
-      "url": "https://www.rfi.fr/fr/podcasts/ici-l-europe/20261023-cl%C3%A9ment-beaune-couper-le-robinet-de-l-aide-%C3%A0-l-ukraine-c-est-d%C3%A9fendre-poutine",
-      "source": "RFI",
-      "publishedAt": "2026-10-23T20:05:49.000Z",
-      "summary": "Cette semaine, nous recevons Clément Beaune, ancien conseiller spécial du président Emmanuel Macron, puis secrétaire d’État aux affaires européennes, ancien ministre des Transports et désormais Haut-commissaire à la Stratégie et au Plan. Il vient de diriger l’ouvrage Comment vivrons-nous en France demain ? paru le 8 oc",
-      "image": "https://s.rfi.fr/media/display/e3029c4c-cefb-11f1-b188-bba4eee3dc72/w:1024/p:16x9/ICI-L-EUROPE-CLEMENT-BEAUNE.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/clement-beaune-couper-le-robinet-de-l-aide-a-l-ukraine-c-est-defendre-po-f52099d8be.html"
-    },
-    {
-      "title": "Emmanuel Macron appelle à l'unité après l'attaque \"terroriste raciste\" de Trappes",
-      "url": "https://www.france24.com/fr/france/20261023-les-r%C3%A9actions-politiques-de-tout-bord-se-multiplient-apr%C3%A8s-la-fusillade-meurtri%C3%A8re-%C3%A0-trappele",
-      "source": "France 24",
-      "publishedAt": "2026-10-23T19:57:19.000Z",
-      "summary": "Le président Emmanuel Macron a dénoncé vendredi soir à Trappes un \"attentat terroriste raciste\" et a appelé à l'unité, après la fusillade survenue dans la matinée, qui a fait un mort et plusieurs blessés. Une enquête a été ouverte par le Parquet national antiterroriste.",
-      "image": "https://s.france24.com/media/display/10d79bd4-cf08-11f1-a815-bba4eee3dc72/w:1024/p:16x9/c72450042ec681bdd95a3809c927a4b194b1bef3.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/emmanuel-macron-appelle-a-l-unite-apres-l-attaque-terroriste-raciste-de--7bef41efea.html"
+      "publishedAt": "2026-10-24T03:00:50.000Z",
+      "summary": "La justice argentine a prononcé vendredi 23 octobre un non-lieu pour le président Javier Milei et sa sœur Karina dans l'affaire de la cryptomonnaie $LIBRA, à laquelle le chef de l'État avait été associé, donnant lieu à une enquête pour escroquerie présumée.",
+      "image": "https://s.rfi.fr/media/display/2255d2a8-91a1-11f1-9b0b-005056a97e36/w:1024/p:16x9/AP26162767102295.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/argentine-non-lieu-pour-milei-dans-l-enquete-pour-escroquerie-presumee-l-cb935f5980.html"
     }
   ]
 }
