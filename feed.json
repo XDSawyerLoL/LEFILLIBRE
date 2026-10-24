@@ -1,15 +1,112 @@
 {
-  "updatedAt": "2026-10-24T05:01:04.846Z",
+  "updatedAt": "2026-10-24T09:29:44.572Z",
   "items": [
     {
-      "title": "« Un échec » cuisant pour la cybersécurité : pourquoi les failles PHP ont plongé une partie d’Internet dans le noir",
-      "url": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
-      "source": "01net",
-      "publishedAt": "2026-10-24T04:21:34.000Z",
-      "summary": "Des préfectures aux hôpitaux en passant par des opérateurs, des centaines de sites se sont retrouvés dans le noir cette semaine à cause de deux failles critiques dans PHP. Aux origines de ce chaos, on trouve un protocole de sécurité qui s'est mal passé. Des fuites ont en effet mené à une véritable course contre la mont",
-      "image": "https://www.01net.com/app/uploads/2026/10/php-fiasco-serveurs-1344x757.jpg",
+      "title": "Trop risquées une fois connectées ? OpenAI entraîne ses IA les plus puissantes sans Internet",
+      "url": "https://www.frandroid.com/marques/openai/3298215_trop-risquees-une-fois-connectees-openai-entraine-ses-ia-les-plus-puissantes-sans-internet",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-24T09:00:00.000Z",
+      "summary": "Après plusieurs incidents de sécurité, OpenAI annonce que ses modèles les plus avancés seront entraînés sans accès au web réel. La mesure, déjà appliquée depuis le 1er octobre, restera en vigueur jusqu'à nouvel ordre.",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-echec-cuisant-pour-la-cybersecurite-pourquoi-les-failles-php-ont-plon-be71e2239b.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trop-risquees-une-fois-connectees-openai-entraine-ses-ia-les-plus-puissa-34ea25d633.html"
+    },
+    {
+      "title": "Une recharge complète en 9 minutes pour 10 000 € : BYD frappe très fort avec sa nouvelle citadine",
+      "url": "https://www.01net.com/actualites/recharge-complete-9-minutes-10-000-euros-byd-frappe-fort-nouvelle-citadine.html",
+      "source": "01net",
+      "publishedAt": "2026-10-24T08:00:12.000Z",
+      "summary": "BYD lance officiellement la nouvelle Seagull en Chine. Avec un prix proche des 10 000 €, la citadine devient la voiture la moins chère de la marque bénéficiant de la recharge en 5 minutes. De quoi convaincre les derniers réfractaires à électrique.",
+      "image": "https://www.01net.com/app/uploads/2026/10/byd-seagull-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-recharge-complete-en-9-minutes-pour-10-000-byd-frappe-tres-fort-avec-0ab5d8526d.html"
+    },
+    {
+      "title": "🔴 Mobilisation du 24 octobre en direct : le tribunal entérine le parcours imposé par la préfecture de Paris",
+      "url": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
+      "source": "France 24",
+      "publishedAt": "2026-10-24T09:12:50.000Z",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisation-du-24-octobre-en-direct-le-tribunal-enterine-le-parcours-im-813974b98b.html"
+    },
+    {
+      "title": "Législatives anticipées en Serbie: les étudiants redoutent la fraude électorale et se préparent aux contrôles",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261024-l%C3%A9gislatives-anticip%C3%A9es-en-serbie-les-%C3%A9tudiants-redoutent-la-fraude-%C3%A9lectorale-et-se-pr%C3%A9parent-aux-contr%C3%B4les",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T08:29:43.000Z",
+      "summary": "Les Serbes sont appelés aux urnes dimanche 25 octobre pour des législatives anticipées. Le régime du président Aleksandar Vucic, en place depuis 14 ans et réputé pour sa corruption et ses penchants autoritaires, fait face à une large contestation populaire menée depuis deux ans par les étudiants, qui présentent leur li",
+      "image": "https://s.rfi.fr/media/display/285d018c-cf7a-11f1-a332-4b25c96ec90e/w:1024/p:16x9/Etudiants-serbes-qui-manifestent-%C3%A0-l-approche-des-l%C3%A9gislatives-%C3%A0-Belgrade.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-anticipees-en-serbie-les-etudiants-redoutent-la-fraude-elec-46a6d00d9f.html"
+    },
+    {
+      "title": "La Chine et Djibouti appellent à rouvrir la navigation dans la mer Rouge face aux tensions régionales",
+      "url": "https://www.rfi.fr/fr/afrique/20261024-la-chine-et-djibouti-appellent-%C3%A0-rouvrir-la-navigation-dans-la-mer-rouge-face-aux-tensions-r%C3%A9gionales",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T07:59:49.000Z",
+      "summary": "La Chine et le Djibouti ont lancé un avertissement dans un communiqué commun, jeudi 22 octobre, pour tenter d’empêcher que les « flammes de la guerre » au Moyen-Orient ne gagnent la Corne de l’Afrique. Pour Pékin, cette possible extension du conflit touche des intérêts stratégiques, sur fond de compétition avec les Éta",
+      "image": "https://s.rfi.fr/media/display/5703e7b6-cf80-11f1-a240-bba4eee3dc72/w:1024/p:16x9/AP19118222183676-1.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-chine-et-djibouti-appellent-a-rouvrir-la-navigation-dans-la-mer-rouge-8197281ffa.html"
+    },
+    {
+      "title": "DIRECT - Manifestations en France: la justice donne raison aux autorités pour le tracé de la manifestation à Paris",
+      "url": "https://www.rfi.fr/fr/france/20261024-direct-manifestations-en-france-des-nombreux-d%C3%A9fil%C3%A9s-attendus-dans-un-contexte-de-fortes-tensions-s%C3%A9curitaires",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T06:57:30.000Z",
+      "summary": "La France vit samedi 24 octobre une nouvelle journée de mobilisations sociales, avec plusieurs manifestations attendues. Le gouvernement a fortement musclé le dispositif sécuritaire après les destructions et pillages, ainsi que les violences policières qui avaient secoué le pays le 17 octobre et dont les images ont fai",
+      "image": "https://s.rfi.fr/media/display/68e1838a-cf71-11f1-abe8-5b4a75578ebb/w:1024/p:16x9/000-D48R7WA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-manifestations-en-france-la-justice-donne-raison-aux-autorites-po-b08808a03d.html"
+    },
+    {
+      "title": "En Italie, des manifestations contre la vie chère et l'austérité prévues sous haute surveillance",
+      "url": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance",
+      "source": "France 24",
+      "publishedAt": "2026-10-24T06:53:52.000Z",
+      "summary": "L'Italie se prépare à une nouvelle journée de manifestations samedi contre les coupes budgétaires et la vie chère, dans huit villes dont Rome et Milan. Après les violences du week-end dernier, les autorités prévoient un important dispositif de sécurité, avec notamment des drones et des hélicoptères pour surveiller les ",
+      "image": "https://s.france24.com/media/display/d9366fa6-cf76-11f1-894f-4d317af013fd/w:1024/p:16x9/AP26296361269027.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-italie-des-manifestations-contre-la-vie-chere-et-l-austerite-prevues--eb84441a60.html"
+    },
+    {
+      "title": "À Kuala Lumpur, une brume de pollution pour seul horizon",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261024-%C3%A0-kuala-lumpur-une-brume-de-pollution-pour-seul-horizon",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T06:42:34.000Z",
+      "summary": "En Malaisie, la brume de pollution venue d’Indonésie enveloppe Kuala Lumpur et plusieurs régions du pays. Favorisés par la sécheresse liée à El Niño, les feux de forêt et de tourbières dégradent fortement la qualité de l’air, faisant peser des risques sur la santé des populations, en particulier les plus vulnérables.",
+      "image": "https://s.rfi.fr/media/display/b0fb4460-cc67-11f1-990c-6313a763b466/w:1024/p:16x9/Photo-pollution-de-l-air-en-malaisie.jpeg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-kuala-lumpur-une-brume-de-pollution-pour-seul-horizon-ad7fd75347.html"
+    },
+    {
+      "title": "Élections en Israël: l’heure des comptes pour Benyamin Netanyahu",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261024-%C3%A9lections-en-isra%C3%ABl-l-heure-des-comptes-pour-benyamin-netanyahu",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T05:57:10.000Z",
+      "summary": "Un peu plus de 7 millions d’Israéliens sont appelés à voter le 27 octobre prochain. Le scrutin, crucial, est perçu comme un référendum pour ou contre le Premier ministre Benyamin Netanyahu, un homme controversé qui a fortement marqué l’histoire d’Israël.",
+      "image": "https://s.rfi.fr/media/display/16d9be6e-cde6-11f0-b08d-005056a90284/w:1024/p:16x9/2025-11-30T111732Z-1870458493-RC2QTHAB3WEV-RTRMADP-3-ISRAEL-NETANYAHU-PARDON.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-israel-l-heure-des-comptes-pour-benyamin-netanyahu-52ac04ae06.html"
+    },
+    {
+      "title": "France: réuni à Orléans autour de Marine Le Pen, le RN cherche une démonstration de force en pleines tensions sociales",
+      "url": "https://www.rfi.fr/fr/france/20261024-france-r%C3%A9uni-%C3%A0-orl%C3%A9ans-autour-de-marine-le-pen-le-rn-cherche-une-d%C3%A9monstration-de-force-en-pleines-tensions-sociales",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T05:09:52.000Z",
+      "summary": "Une partie des regards se tournent vers Orléans en ce premier week-end après les manifestations et les violences du 17 octobre. Dans la ville de Jeanne d'Arc, le parti d'extrême droite Rassemblement national (RN) tient son congrès samedi 24 octobre et un grand meeting, qui lance la campagne présidentielle de Marine Le ",
+      "image": "https://s.rfi.fr/media/display/fa81aed6-cf68-11f1-8b16-4b25c96ec90e/w:1024/p:16x9/AP25082496131041.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-reuni-a-orleans-autour-de-marine-le-pen-le-rn-cherche-une-demonst-a69219b539.html"
+    },
+    {
+      "title": "Présidentielle au Brésil : un entre-deux-tours aux allures de thriller psychologique",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-br%C3%A9sil-entre-deux-tours-allures-thriller-psychologique",
+      "source": "France 24",
+      "publishedAt": "2026-10-24T05:05:21.000Z",
+      "summary": "Les campagnes de Lula et de son rival Flavio Bolsonaro s’achèvent dans un climat extrêmement tendu. Selon les derniers sondages, les deux finalistes de l'élection présidentielle sont au coude-à-coude. Depuis près de trois semaines, ils se livrent une bataille féroce tandis que le Brésil retient sont souffle.",
+      "image": "https://s.france24.com/media/display/d8e4b46a-cec0-11f1-b30c-bba4eee3dc72/w:1024/p:16x9/main-91.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-un-entre-deux-tours-aux-allures-de-thriller-psy-87581ded02.html"
+    },
+    {
+      "title": "\"Un message à nos amis américains\" : l'ambassadeur français prend son poste après une brouille avec Washington",
+      "url": "https://fr.euronews.com/2026/10/24/un-message-a-nos-amis-americains-lambassadeur-francais-prend-son-poste-apres-une-brouille-",
+      "source": "Euronews",
+      "publishedAt": "2026-10-24T04:45:24.000Z",
+      "summary": "Fin d'une crise inédite entre alliés : Aurélien Lechevallier, le nouvel ambassadeur de France aux États-Unis, a entamé sa mission après des semaines de blocage diplomatique. En cause, un différend entre Paris et Washington autour d'un vote à l'ONU.",
+      "image": "https://images.euronews.com/articles/stories/09/96/41/09/696x392_cmsv2_84f0e998-d989-5459-957b-13406f2a4841-9964109.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-message-a-nos-amis-americains-l-ambassadeur-francais-prend-son-poste--c54fc7afe6.html"
     },
     {
       "title": "Présidentielle au Brésil: Lula et le fils Bolsonaro s'affrontent lors d’un dernier débat au ton plus policé",
@@ -21,6 +118,16 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-u-b88f02fd5f.html"
     },
     {
+      "title": "« Un échec » cuisant pour la cybersécurité : pourquoi les failles PHP ont plongé une partie d’Internet dans le noir",
+      "url": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
+      "source": "01net",
+      "publishedAt": "2026-10-24T04:21:34.000Z",
+      "summary": "Des préfectures aux hôpitaux en passant par des opérateurs, des centaines de sites se sont retrouvés dans le noir cette semaine à cause de deux failles critiques dans PHP. Aux origines de ce chaos, on trouve un protocole de sécurité qui s'est mal passé. Des fuites ont en effet mené à une véritable course contre la mont",
+      "image": "https://www.01net.com/app/uploads/2026/10/php-fiasco-serveurs-1344x757.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-echec-cuisant-pour-la-cybersecurite-pourquoi-les-failles-php-ont-plon-be71e2239b.html"
+    },
+    {
       "title": "États-Unis: le redécoupage électoral peut-il sauver les midterms de Donald Trump?",
       "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-%C3%A9tats-unis-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-sauver-les-midterms-de-donald-trump",
       "source": "RFI",
@@ -30,13 +137,34 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-le-redecoupage-electoral-peut-il-sauver-les-midterms-de-donal-5fddf85be2.html"
     },
     {
-      "title": "Argentine: non-lieu pour Milei dans l'enquête pour escroquerie présumée liée à la cryptomonnaie douteuse $LIBRA",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-argentine-non-lieu-pour-milei-dans-l-enqu%C3%AAte-pour-escroquerie-pr%C3%A9sum%C3%A9e-li%C3%A9e-%C3%A0-la-cryptomonnaie-douteuse-libra",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T03:00:50.000Z",
-      "summary": "La justice argentine a prononcé vendredi 23 octobre un non-lieu pour le président Javier Milei et sa sœur Karina dans l'affaire de la cryptomonnaie $LIBRA, à laquelle le chef de l'État avait été associé, donnant lieu à une enquête pour escroquerie présumée.",
-      "image": "https://s.rfi.fr/media/display/2255d2a8-91a1-11f1-9b0b-005056a97e36/w:1024/p:16x9/AP26162767102295.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/argentine-non-lieu-pour-milei-dans-l-enquete-pour-escroquerie-presumee-l-cb935f5980.html"
+      "title": "iPhone Duo : des écrans pliables endommagés à la charnière dès les premières livraisons",
+      "url": "https://www.frandroid.com/marques/apple/3298189_iphone-duo-des-ecrans-pliables-endommages-a-la-charniere-des-les-premieres-livraisons",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-24T07:00:08.000Z",
+      "summary": "Quelques heures après le début des livraisons de l'iPhone Duo, des acheteurs et des appareils de démonstration affichent des écrans internes abîmés le long de la charnière. Le nombre d'appareils concernés reste inconnu, et Apple n'a pas communiqué.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/apple-iphone-duo-ecran-defectueux.jpg?resize=1200,675&key=81b996d2",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-duo-des-ecrans-pliables-endommages-a-la-charniere-des-les-premier-d6ca431ae9.html"
+    },
+    {
+      "title": "Windows 11 26H2 : Rufus permet-il vraiment de réduire l’utilisation de la RAM ?",
+      "url": "https://www.01net.com/actualites/windows-11-26h2-rufus-permet-il-vraiment-de-reduire-lutilisation-de-la-ram.html",
+      "source": "01net",
+      "publishedAt": "2026-10-24T06:30:34.000Z",
+      "summary": "L’utilitaire Rufus, qui permet de créer des supports d’installation de Windows 11 en contournant les restrictions de Microsoft, embarque une option qui donnerait un gros coup de boost au système d’exploitation de Microsoft. Nous avons voulu vérifier, voici ce que nous avons découvert.",
+      "image": "https://www.01net.com/app/uploads/2026/04/Rufus-Windows-11-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/windows-11-26h2-rufus-permet-il-vraiment-de-reduire-l-utilisation-de-la--52ac67779a.html"
+    },
+    {
+      "title": "Arnaques en ligne : comment les pirates détournent Google Drive pour vous piéger",
+      "url": "https://www.01net.com/actualites/arnaques-ligne-comment-pirates-detournent-google-drive-vous-pieger.html",
+      "source": "01net",
+      "publishedAt": "2026-10-24T06:07:37.000Z",
+      "summary": "Les pirates ne se contentent plus d'imiter Google Drive pour vous piéger. Ils utilisent directement les serveurs de Google pour déployer leurs arnaques. Une étude de KnowBe4 révèle que près d’un e-mail malveillant sur dix passe d'ailleurs par des serveurs légitimes, dont ceux du géant de Mountain View. L'astuce contour",
+      "image": "https://www.01net.com/app/uploads/2025/09/google-drive-logo-01net-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/arnaques-en-ligne-comment-les-pirates-detournent-google-drive-pour-vous--ab63e76fc7.html"
     }
   ]
 }
