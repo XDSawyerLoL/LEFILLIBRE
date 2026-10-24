@@ -1,24 +1,88 @@
 {
-  "updatedAt": "2026-10-24T09:29:44.572Z",
+  "updatedAt": "2026-10-24T13:30:11.486Z",
   "items": [
     {
-      "title": "Trop risquées une fois connectées ? OpenAI entraîne ses IA les plus puissantes sans Internet",
-      "url": "https://www.frandroid.com/marques/openai/3298215_trop-risquees-une-fois-connectees-openai-entraine-ses-ia-les-plus-puissantes-sans-internet",
+      "title": "On a testé le tout nouveau Moustache électrique pensé pour la ville : plus léger, plus abordable et tout aussi agréable",
+      "url": "https://www.frandroid.com/survoltes/velo-electrique/3294931_on-a-teste-le-tout-nouveau-moustache-electrique-pense-pour-la-ville-plus-leger-plus-abordable-et-tout-aussi-agreable",
       "source": "Frandroid",
-      "publishedAt": "2026-10-24T09:00:00.000Z",
-      "summary": "Après plusieurs incidents de sécurité, OpenAI annonce que ses modèles les plus avancés seront entraînés sans accès au web réel. La mesure, déjà appliquée depuis le 1er octobre, restera en vigueur jusqu'à nouvel ordre.",
+      "publishedAt": "2026-10-24T12:02:00.000Z",
+      "summary": "Toujours aussi sympa et robuste, le vélo électrique de ville Moustache Lundi 27 gagne en agrément grâce à ses kg en moins et un moteur plus versatile, même s’il perd en autonomie... ce que compense le prix en baisse. Nous l'avons testé, voici notre verdict.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/test-moustache-lundi-27-2026-velo-electrique.jpg?resize=1200,675&key=66863e62",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trop-risquees-une-fois-connectees-openai-entraine-ses-ia-les-plus-puissa-34ea25d633.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/on-a-teste-le-tout-nouveau-moustache-electrique-pense-pour-la-ville-plus-11fd0c91e7.html"
     },
     {
-      "title": "Une recharge complète en 9 minutes pour 10 000 € : BYD frappe très fort avec sa nouvelle citadine",
-      "url": "https://www.01net.com/actualites/recharge-complete-9-minutes-10-000-euros-byd-frappe-fort-nouvelle-citadine.html",
+      "title": "Panne Orange : pourquoi la data doublée risque de ne rien changer pour la plupart des abonnés",
+      "url": "https://www.01net.com/actualites/panne-orange-pourquoi-la-data-doublee-risque-de-ne-rien-changer-pour-la-plupart-des-abonnes.html",
       "source": "01net",
-      "publishedAt": "2026-10-24T08:00:12.000Z",
-      "summary": "BYD lance officiellement la nouvelle Seagull en Chine. Avec un prix proche des 10 000 €, la citadine devient la voiture la moins chère de la marque bénéficiant de la recharge en 5 minutes. De quoi convaincre les derniers réfractaires à électrique.",
-      "image": "https://www.01net.com/app/uploads/2026/10/byd-seagull-1344x896.jpg",
+      "publishedAt": "2026-10-24T11:33:22.000Z",
+      "summary": "Pour se faire pardonner de la panne géante de mercredi, Orange double pendant un mois l'enveloppe de données de ses abonnés. Un geste qui ne changera pas grand-chose pour la plupart d'entre eux, dont la consommation reste très loin de ce que prévoit leur forfait, et qui explique pourquoi certains réclament plutôt une r",
+      "image": "https://www.01net.com/app/uploads/2026/10/5G-smartphone-reseau-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-recharge-complete-en-9-minutes-pour-10-000-byd-frappe-tres-fort-avec-0ab5d8526d.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/panne-orange-pourquoi-la-data-doublee-risque-de-ne-rien-changer-pour-la--492590f6f0.html"
+    },
+    {
+      "title": "Israël: au-delà de la sécurité, le coût de la vie est-il l’autre enjeu des législatives?",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261024-isra%C3%ABl-au-del%C3%A0-de-la-s%C3%A9curit%C3%A9-le-co%C3%BBt-de-la-vie-est-il-l-autre-enjeu-des-l%C3%A9gislatives",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T12:50:38.000Z",
+      "summary": "Les Israéliens se préparent aux législatives anticipées du mardi 27 octobre. Mais au grand marché de Jérusalem, les préoccupations économiques pèsent également dans les cœurs des électeurs pour choisir leurs candidats. Mais le Premier ministre Benyamin Netanyahu et ses alliés misent tout sur la sécurité.",
+      "image": "https://s.rfi.fr/media/display/50170374-cfa9-11f1-a16d-4b25c96ec90e/w:1024/p:16x9/000-D3799TY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-au-dela-de-la-securite-le-cout-de-la-vie-est-il-l-autre-enjeu-des-63c0176afa.html"
+    },
+    {
+      "title": "Des soldats patrouillent Milan, les commerces se barricadent avant les protestations",
+      "url": "https://fr.euronews.com/2026/10/24/des-soldats-patrouillent-milan-les-commerces-se-barricadent-avant-les-protestations",
+      "source": "Euronews",
+      "publishedAt": "2026-10-24T12:07:26.000Z",
+      "summary": "Milan est en alerte avant les manifestations attendues : des soldats supplémentaires sont déployés et les magasins barricadent leurs vitrines, une semaine après des pillages et des heurts avec la police.",
+      "image": "https://images.euronews.com/articles/stories/09/96/57/55/696x392_cmsv2_c453938e-44e1-5200-827c-9d0f91493c38-9965755.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-soldats-patrouillent-milan-les-commerces-se-barricadent-avant-les-pr-8d3d6e8cdc.html"
+    },
+    {
+      "title": "Allemagne: un incendie ravage l'ancien refuge d’Adolf Hitler, le «Nid d’Aigle», un suspect arrêté",
+      "url": "https://www.rfi.fr/fr/europe/20261024-allemagne-un-incendie-ravage-l-ancien-refuge-d-adolf-hitler-le-nid-d-aigle-un-suspect-arr%C3%AAt%C3%A9",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T11:47:37.000Z",
+      "summary": "Le « Nid d'Aigle », ancien refuge de montage du dictateur Adolf Hitler, a pris feu ​vendredi 23 octobre au soir ‌et un suspect ⁠a été arrêté, a annoncé la ‌police allemande. Cette demeure dans les montagnes bavaroises du sud de l'Allemagne, appelée le Kehlsteinhaus, est devenue depuis la fin du régime nazi un site tour",
+      "image": "https://s.rfi.fr/media/display/84e25fb2-cfa0-11f1-8462-5b4a75578ebb/w:1024/p:16x9/000-D4AB46N.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-un-incendie-ravage-l-ancien-refuge-d-adolf-hitler-le-nid-d-aig-d31bd30977.html"
+    },
+    {
+      "title": "Des images montrent des colonnes de fumée après une frappe meurtrière sur une usine russe",
+      "url": "https://fr.euronews.com/2026/10/24/des-images-montrent-des-colonnes-de-fumee-apres-une-frappe-meurtriere-sur-une-usine-russe",
+      "source": "Euronews",
+      "publishedAt": "2026-10-24T11:34:06.000Z",
+      "summary": "Trois personnes ont été tuées et cinq autres grièvement blessées lors d'une attaque ukrainienne contre une usine dans la région russe d'Oriol, selon les autorités locales.",
+      "image": "https://images.euronews.com/articles/stories/09/96/57/29/696x392_cmsv2_9532bec6-4be0-5181-aaa9-3099262ad76a-9965729.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-images-montrent-des-colonnes-de-fumee-apres-une-frappe-meurtriere-su-f65ede4e23.html"
+    },
+    {
+      "title": "Jordan Bardella reprend son poste de «futur» Premier ministre de Marine Le Pen",
+      "url": "https://www.rfi.fr/fr/jordan-bardella-reprend-son-poste-de-futur-premier-ministre-de-marine-le-pen",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T10:08:34.000Z",
+      "summary": "À la faveur des événements tragiques du 17 octobre, les accusations d’antisémitisme portées par le journal Mediapart contre le président du parti Rassemblement national (RN) sont brusquement passées au second plan. Jordan Bardella semble peu à peu reprendre sa place dans la campagne de l'extrême droite.",
+      "image": "https://s.rfi.fr/media/display/34174b46-3d84-11f1-8bad-005056a90284/w:1024/p:16x9/Jordan-Bardella-pr%C3%A9sident-du-Rassemblement-national-RN-parti-d-extr%C3%AAme-droite-fran%C3%A7ais-s-adresse-%C3%A0-la-presse-%C3%A0-son-arriv%C3%A9e-%C3%A0-un-d%C3%A9jeuner-de-travail-avec-le-Mouvement-des-entreprises-de-France-Medef-f%C3%A9d%C3%A9ration-patronale.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jordan-bardella-reprend-son-poste-de-futur-premier-ministre-de-marine-le-3d62f2b483.html"
+    },
+    {
+      "title": "Italie: les étudiants, routiers et agriculteurs poursuivent les manifestations contre la hausse du coût de la vie",
+      "url": "https://www.rfi.fr/fr/europe/20261024-italie-les-%C3%A9tudiants-routiers-et-agriculteurs-poursuivent-les-manifestations-contre-la-hausse-du-co%C3%BBt-de-la-vie",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T09:58:20.000Z",
+      "summary": "Comme une grande partie de l'Europe, l’Italie fait face samedi 24 octobre à une vague massive de contestations. Pouvoir d'achat en berne, détresse d'une jeunesse qui se sent abandonnée mais aussi colère contre la politique de réarmement du gouvernement Meloni. Les motifs de révolte et les manifestations se multiplient.",
+      "image": "https://s.rfi.fr/media/display/71f83d20-cf6b-11f1-86f4-4b25c96ec90e/w:1024/p:16x9/000-D3L672D.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/italie-les-etudiants-routiers-et-agriculteurs-poursuivent-les-manifestat-6ffb5c4b5d.html"
+    },
+    {
+      "title": "«Cela nous fait peur»: après l'attentat raciste à Trappes, l'émotion et l'indignation restent vives chez les habitants",
+      "url": "https://www.rfi.fr/fr/france/20261024-cela-nous-fait-peur-apr%C3%A8s-l-attentat-raciste-%C3%A0-trappes-l-%C3%A9motion-et-l-indignation-restent-vives-chez-les-habitants",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T09:45:31.000Z",
+      "summary": "« C'est la première fois qu'il y a un acte terroriste planifié pour tuer nos compatriotes, à raison de leur couleur de peau ou de la religion qu'on leur donne » : le président français Emmanuel Macron a vendredi 23 octobre soir clairement qualifié de raciste l'attaque qui a eu lieu à Trappes et à La Verrière. Les habit",
+      "image": "https://s.rfi.fr/media/display/6dfe2a4a-cf7f-11f1-a0cb-bba4eee3dc72/w:1024/p:16x9/000-D47R7VY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cela-nous-fait-peur-apres-l-attentat-raciste-a-trappes-l-emotion-et-l-in-b14907e918.html"
     },
     {
       "title": "🔴 Mobilisation du 24 octobre en direct : le tribunal entérine le parcours imposé par la préfecture de Paris",
@@ -46,125 +110,64 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-chine-et-djibouti-appellent-a-rouvrir-la-navigation-dans-la-mer-rouge-8197281ffa.html"
     },
     {
-      "title": "DIRECT - Manifestations en France: la justice donne raison aux autorités pour le tracé de la manifestation à Paris",
-      "url": "https://www.rfi.fr/fr/france/20261024-direct-manifestations-en-france-des-nombreux-d%C3%A9fil%C3%A9s-attendus-dans-un-contexte-de-fortes-tensions-s%C3%A9curitaires",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T06:57:30.000Z",
-      "summary": "La France vit samedi 24 octobre une nouvelle journée de mobilisations sociales, avec plusieurs manifestations attendues. Le gouvernement a fortement musclé le dispositif sécuritaire après les destructions et pillages, ainsi que les violences policières qui avaient secoué le pays le 17 octobre et dont les images ont fai",
-      "image": "https://s.rfi.fr/media/display/68e1838a-cf71-11f1-abe8-5b4a75578ebb/w:1024/p:16x9/000-D48R7WA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-manifestations-en-france-la-justice-donne-raison-aux-autorites-po-b08808a03d.html"
-    },
-    {
-      "title": "En Italie, des manifestations contre la vie chère et l'austérité prévues sous haute surveillance",
-      "url": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance",
-      "source": "France 24",
-      "publishedAt": "2026-10-24T06:53:52.000Z",
-      "summary": "L'Italie se prépare à une nouvelle journée de manifestations samedi contre les coupes budgétaires et la vie chère, dans huit villes dont Rome et Milan. Après les violences du week-end dernier, les autorités prévoient un important dispositif de sécurité, avec notamment des drones et des hélicoptères pour surveiller les ",
-      "image": "https://s.france24.com/media/display/d9366fa6-cf76-11f1-894f-4d317af013fd/w:1024/p:16x9/AP26296361269027.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-italie-des-manifestations-contre-la-vie-chere-et-l-austerite-prevues--eb84441a60.html"
-    },
-    {
-      "title": "À Kuala Lumpur, une brume de pollution pour seul horizon",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261024-%C3%A0-kuala-lumpur-une-brume-de-pollution-pour-seul-horizon",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T06:42:34.000Z",
-      "summary": "En Malaisie, la brume de pollution venue d’Indonésie enveloppe Kuala Lumpur et plusieurs régions du pays. Favorisés par la sécheresse liée à El Niño, les feux de forêt et de tourbières dégradent fortement la qualité de l’air, faisant peser des risques sur la santé des populations, en particulier les plus vulnérables.",
-      "image": "https://s.rfi.fr/media/display/b0fb4460-cc67-11f1-990c-6313a763b466/w:1024/p:16x9/Photo-pollution-de-l-air-en-malaisie.jpeg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-kuala-lumpur-une-brume-de-pollution-pour-seul-horizon-ad7fd75347.html"
-    },
-    {
-      "title": "Élections en Israël: l’heure des comptes pour Benyamin Netanyahu",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261024-%C3%A9lections-en-isra%C3%ABl-l-heure-des-comptes-pour-benyamin-netanyahu",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T05:57:10.000Z",
-      "summary": "Un peu plus de 7 millions d’Israéliens sont appelés à voter le 27 octobre prochain. Le scrutin, crucial, est perçu comme un référendum pour ou contre le Premier ministre Benyamin Netanyahu, un homme controversé qui a fortement marqué l’histoire d’Israël.",
-      "image": "https://s.rfi.fr/media/display/16d9be6e-cde6-11f0-b08d-005056a90284/w:1024/p:16x9/2025-11-30T111732Z-1870458493-RC2QTHAB3WEV-RTRMADP-3-ISRAEL-NETANYAHU-PARDON.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-israel-l-heure-des-comptes-pour-benyamin-netanyahu-52ac04ae06.html"
-    },
-    {
-      "title": "France: réuni à Orléans autour de Marine Le Pen, le RN cherche une démonstration de force en pleines tensions sociales",
-      "url": "https://www.rfi.fr/fr/france/20261024-france-r%C3%A9uni-%C3%A0-orl%C3%A9ans-autour-de-marine-le-pen-le-rn-cherche-une-d%C3%A9monstration-de-force-en-pleines-tensions-sociales",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T05:09:52.000Z",
-      "summary": "Une partie des regards se tournent vers Orléans en ce premier week-end après les manifestations et les violences du 17 octobre. Dans la ville de Jeanne d'Arc, le parti d'extrême droite Rassemblement national (RN) tient son congrès samedi 24 octobre et un grand meeting, qui lance la campagne présidentielle de Marine Le ",
-      "image": "https://s.rfi.fr/media/display/fa81aed6-cf68-11f1-8b16-4b25c96ec90e/w:1024/p:16x9/AP25082496131041.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-reuni-a-orleans-autour-de-marine-le-pen-le-rn-cherche-une-demonst-a69219b539.html"
-    },
-    {
-      "title": "Présidentielle au Brésil : un entre-deux-tours aux allures de thriller psychologique",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-br%C3%A9sil-entre-deux-tours-allures-thriller-psychologique",
-      "source": "France 24",
-      "publishedAt": "2026-10-24T05:05:21.000Z",
-      "summary": "Les campagnes de Lula et de son rival Flavio Bolsonaro s’achèvent dans un climat extrêmement tendu. Selon les derniers sondages, les deux finalistes de l'élection présidentielle sont au coude-à-coude. Depuis près de trois semaines, ils se livrent une bataille féroce tandis que le Brésil retient sont souffle.",
-      "image": "https://s.france24.com/media/display/d8e4b46a-cec0-11f1-b30c-bba4eee3dc72/w:1024/p:16x9/main-91.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-un-entre-deux-tours-aux-allures-de-thriller-psy-87581ded02.html"
-    },
-    {
-      "title": "\"Un message à nos amis américains\" : l'ambassadeur français prend son poste après une brouille avec Washington",
-      "url": "https://fr.euronews.com/2026/10/24/un-message-a-nos-amis-americains-lambassadeur-francais-prend-son-poste-apres-une-brouille-",
-      "source": "Euronews",
-      "publishedAt": "2026-10-24T04:45:24.000Z",
-      "summary": "Fin d'une crise inédite entre alliés : Aurélien Lechevallier, le nouvel ambassadeur de France aux États-Unis, a entamé sa mission après des semaines de blocage diplomatique. En cause, un différend entre Paris et Washington autour d'un vote à l'ONU.",
-      "image": "https://images.euronews.com/articles/stories/09/96/41/09/696x392_cmsv2_84f0e998-d989-5459-957b-13406f2a4841-9964109.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-message-a-nos-amis-americains-l-ambassadeur-francais-prend-son-poste--c54fc7afe6.html"
-    },
-    {
-      "title": "Présidentielle au Brésil: Lula et le fils Bolsonaro s'affrontent lors d’un dernier débat au ton plus policé",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-un-dernier-d%C3%A9bat-au-ton-plus-polic%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T04:37:06.000Z",
-      "summary": "Après un premier débat truffé d'insultes, le président brésilien Luiz Inacio Lula da Silva et son rival ultraconservateur Flavio Bolsonaro ont modéré le ton vendredi 23 octobre lors de leur dernier face-à-face. Cela à l'avant-veille d'un second tour le 25 octobre qui s'annonce très serré, après la courte victoire du ca",
-      "image": "https://s.rfi.fr/media/display/e11dfef0-cf62-11f1-a523-bdb9616e85cf/w:1024/p:16x9/AP26297024010203.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-lula-et-le-fils-bolsonaro-s-affrontent-lors-d-u-b88f02fd5f.html"
-    },
-    {
-      "title": "« Un échec » cuisant pour la cybersécurité : pourquoi les failles PHP ont plongé une partie d’Internet dans le noir",
-      "url": "https://www.01net.com/actualites/echec-structurel-pourquoi-les-failles-php-ont-plonge-une-partie-dinternet-dans-le-noir.html",
-      "source": "01net",
-      "publishedAt": "2026-10-24T04:21:34.000Z",
-      "summary": "Des préfectures aux hôpitaux en passant par des opérateurs, des centaines de sites se sont retrouvés dans le noir cette semaine à cause de deux failles critiques dans PHP. Aux origines de ce chaos, on trouve un protocole de sécurité qui s'est mal passé. Des fuites ont en effet mené à une véritable course contre la mont",
-      "image": "https://www.01net.com/app/uploads/2026/10/php-fiasco-serveurs-1344x757.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-echec-cuisant-pour-la-cybersecurite-pourquoi-les-failles-php-ont-plon-be71e2239b.html"
-    },
-    {
-      "title": "États-Unis: le redécoupage électoral peut-il sauver les midterms de Donald Trump?",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261024-%C3%A9tats-unis-le-red%C3%A9coupage-%C3%A9lectoral-peut-il-sauver-les-midterms-de-donald-trump",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T04:14:00.000Z",
-      "summary": "Vieux de plus de deux siècles, le « gerrymandering » – le redécoupage des cartes électorales à des fins partisanes – est fréquemment utilisé aux États-Unis à l’approche des élections de mi-mandat du 3 novembre pour chercher à grapiller quelques sièges au Congrès. Depuis l’année dernière, Donald Trump tente de mettre le",
-      "image": "https://s.rfi.fr/media/display/ea4b9c72-b4f9-11f1-8e27-0730212ba17f/w:1024/p:16x9/2026-09-16T224957Z-1146010495-RC2MKNA3LMF0-RTRMADP-3-USA-FED-TRUMP.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-le-redecoupage-electoral-peut-il-sauver-les-midterms-de-donal-5fddf85be2.html"
-    },
-    {
-      "title": "iPhone Duo : des écrans pliables endommagés à la charnière dès les premières livraisons",
-      "url": "https://www.frandroid.com/marques/apple/3298189_iphone-duo-des-ecrans-pliables-endommages-a-la-charniere-des-les-premieres-livraisons",
+      "title": "Amazon fait passer le Dell 32 Plus, écran 4K de 32 pouces en 120 Hz, à seulement 356 €",
+      "url": "https://www.frandroid.com/bons-plans/3296989_amazon-fait-passer-le-dell-32-plus-ecran-4k-de-32-pouces-en-120-hz-a-seulement-356-e",
       "source": "Frandroid",
-      "publishedAt": "2026-10-24T07:00:08.000Z",
-      "summary": "Quelques heures après le début des livraisons de l'iPhone Duo, des acheteurs et des appareils de démonstration affichent des écrans internes abîmés le long de la charnière. Le nombre d'appareils concernés reste inconnu, et Apple n'a pas communiqué.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/apple-iphone-duo-ecran-defectueux.jpg?resize=1200,675&key=81b996d2",
+      "publishedAt": "2026-10-24T11:30:00.000Z",
+      "summary": "Le Dell 32 Plus (S3225QS) combine une dalle 4K de 31,5 pouces, un taux de rafraîchissement de 120 Hz et deux haut-parleurs intégrés. Cet écran est actuellement proposé à 356,10 euros au lieu de 429 euros sur Amazon.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/dell-32-plus-s3225qs.jpg?resize=1200,675&key=5e643217",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-duo-des-ecrans-pliables-endommages-a-la-charniere-des-les-premier-d6ca431ae9.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/amazon-fait-passer-le-dell-32-plus-ecran-4k-de-32-pouces-en-120-hz-a-seu-a15a25856b.html"
     },
     {
-      "title": "Windows 11 26H2 : Rufus permet-il vraiment de réduire l’utilisation de la RAM ?",
-      "url": "https://www.01net.com/actualites/windows-11-26h2-rufus-permet-il-vraiment-de-reduire-lutilisation-de-la-ram.html",
+      "title": "Course à l’IA : OpenAI évoque les trois issues possibles, dont une fin « terrible »",
+      "url": "https://www.01net.com/actualites/course-a-lia-openai-evoque-les-trois-issues-possibles-dont-une-fin-terrible.html",
       "source": "01net",
-      "publishedAt": "2026-10-24T06:30:34.000Z",
-      "summary": "L’utilitaire Rufus, qui permet de créer des supports d’installation de Windows 11 en contournant les restrictions de Microsoft, embarque une option qui donnerait un gros coup de boost au système d’exploitation de Microsoft. Nous avons voulu vérifier, voici ce que nous avons découvert.",
-      "image": "https://www.01net.com/app/uploads/2026/04/Rufus-Windows-11-1344x896.jpg",
+      "publishedAt": "2026-10-24T11:06:49.000Z",
+      "summary": "Sam Altman a dessiné devant ses équipes trois issues possibles à la course mondiale à l'intelligence artificielle. La troisième, il la juge lui-même « terrible ». Elle ressemble pourtant beaucoup à la trajectoire de sa propre entreprise.",
+      "image": "https://www.01net.com/app/uploads/2024/01/sam-altman-openai-1360x907.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/windows-11-26h2-rufus-permet-il-vraiment-de-reduire-l-utilisation-de-la--52ac67779a.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/course-a-l-ia-openai-evoque-les-trois-issues-possibles-dont-une-fin-terr-957746521e.html"
     },
     {
-      "title": "Arnaques en ligne : comment les pirates détournent Google Drive pour vous piéger",
-      "url": "https://www.01net.com/actualites/arnaques-ligne-comment-pirates-detournent-google-drive-vous-pieger.html",
-      "source": "01net",
-      "publishedAt": "2026-10-24T06:07:37.000Z",
-      "summary": "Les pirates ne se contentent plus d'imiter Google Drive pour vous piéger. Ils utilisent directement les serveurs de Google pour déployer leurs arnaques. Une étude de KnowBe4 révèle que près d’un e-mail malveillant sur dix passe d'ailleurs par des serveurs légitimes, dont ceux du géant de Mountain View. L'astuce contour",
-      "image": "https://www.01net.com/app/uploads/2025/09/google-drive-logo-01net-1344x896.jpg",
+      "title": "Comment j’ai utilisé l’IA pour m’entraîner pendant six mois et battre mon record sur 10 km",
+      "url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/3291031_comment-jai-utilise-lia-pour-mentrainer-pendant-six-mois-et-battre-mon-record-sur-10-km",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-24T10:03:00.000Z",
+      "summary": "Peut-on remplacer une application de course à pied par une intelligence artificielle ? Pour préparer mon 10 km, j'ai confié mon entraînement à Google Gemini. Entre promesses de personnalisation extrême, manipulations fastidieuses et hallucinations dangereuses, cette préparation inédite a bousculé mes habitudes.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/06/dsc02297.jpg?resize=1200,675&key=e923f846",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/arnaques-en-ligne-comment-les-pirates-detournent-google-drive-pour-vous--ab63e76fc7.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-j-ai-utilise-l-ia-pour-m-entrainer-pendant-six-mois-et-battre-mo-d06236cee6.html"
+    },
+    {
+      "title": "Un TV géant de 75 pouces pour moins de 700 € ? C’est possible avec ce TV QNED signé LG",
+      "url": "https://www.frandroid.com/bons-plans/3294361_un-tv-geant-de-75-pouces-pour-moins-de-700-e-cest-possible-avec-ce-tv-qned-signe-lg",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-24T09:32:00.000Z",
+      "summary": "Le LG 75QNED8E, un téléviseur QNED 4K de 75 pouces de la gamme 2025, est affiché à 699 euros sur Amazon au lieu de 1 799 euros à son lancement. De quoi profiter d'une grande diagonale dans son salon sans se ruiner.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/lg-75qned8e-2025.jpg?resize=1200,675&key=38b7ad58",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-tv-geant-de-75-pouces-pour-moins-de-700-c-est-possible-avec-ce-tv-qne-837af97b17.html"
+    },
+    {
+      "title": "Trop risquées une fois connectées ? OpenAI entraîne ses IA les plus puissantes sans Internet",
+      "url": "https://www.frandroid.com/marques/openai/3298215_trop-risquees-une-fois-connectees-openai-entraine-ses-ia-les-plus-puissantes-sans-internet",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-24T09:00:00.000Z",
+      "summary": "Après plusieurs incidents de sécurité, OpenAI annonce que ses modèles les plus avancés seront entraînés sans accès au web réel. La mesure, déjà appliquée depuis le 1er octobre, restera en vigueur jusqu'à nouvel ordre.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/openai-securite.jpg?resize=1200,675&key=9b4d3ee0",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trop-risquees-une-fois-connectees-openai-entraine-ses-ia-les-plus-puissa-34ea25d633.html"
+    },
+    {
+      "title": "Une recharge complète en 9 minutes pour 10 000 € : BYD frappe très fort avec sa nouvelle citadine",
+      "url": "https://www.01net.com/actualites/recharge-complete-9-minutes-10-000-euros-byd-frappe-fort-nouvelle-citadine.html",
+      "source": "01net",
+      "publishedAt": "2026-10-24T08:00:12.000Z",
+      "summary": "BYD lance officiellement la nouvelle Seagull en Chine. Avec un prix proche des 10 000 €, la citadine devient la voiture la moins chère de la marque bénéficiant de la recharge en 5 minutes. De quoi convaincre les derniers réfractaires à électrique.",
+      "image": "https://www.01net.com/app/uploads/2026/10/byd-seagull-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-recharge-complete-en-9-minutes-pour-10-000-byd-frappe-tres-fort-avec-0ab5d8526d.html"
     }
   ]
 }
