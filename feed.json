@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-24T21:36:14.087Z",
+  "updatedAt": "2026-10-24T23:41:55.210Z",
   "items": [
+    {
+      "title": "Avec HypAIRion la chasse française prépare l'arrivée de l'IA dans les cockpits",
+      "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261024-avec-hypairion-la-chasse-fran%C3%A7aise-pr%C3%A9pare-l-arriv%C3%A9e-de-l-ia-dans-les-cockpits",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T22:08:49.000Z",
+      "summary": "L'armée de l'air et de l'espace française veut sa part d'IA. Associée à la Direction générale de l'armement et à l'agence ministérielle pour l'IA de défense, l'armée de l'air lance le projet HypAIRion. Objectif : faire voler des avions de chasse avec des drones collaboratifs grâce à une intelligence artificielle souver",
+      "image": "https://s.rfi.fr/media/display/4d72e10c-cfe9-11f1-9eb3-4d317af013fd/w:1024/p:16x9/000-32EE47M.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/avec-hypairion-la-chasse-francaise-prepare-l-arrivee-de-l-ia-dans-les-co-b9cfec7660.html"
+    },
     {
       "title": "WhatsApp en Afrique : piratages et arnaques se multiplient",
       "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-whatsapp-en-afrique-piratages-et-arnaques-se-multiplient",
@@ -12,14 +22,67 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/whatsapp-en-afrique-piratages-et-arnaques-se-multiplient-597c1e23d8.html"
     },
     {
-      "title": "Ionity veut rendre l’autoroute électrique moins chère que l’essence, la SNCF refuse bientôt les fatbikes dans ses TGV",
-      "url": "https://www.frandroid.com/actualites-generales/3298121_ionity-veut-rendre-lautoroute-electrique-moins-chere-que-lessence-la-sncf-refuse-bientot-les-fatbikes-dans-ses-tgv",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-24T18:01:00.000Z",
-      "summary": "Des bornes Ionity qui veulent rivaliser avec le plein d'essence sur autoroute, une SNCF qui resserre l'accès de ses trains aux engins électriques et des automobilistes qui vont chercher leur voiture électrique d'occasion jusqu'en Chine : cette semaine, la mobilité électrique s'est surtout jouée sur le prix et les règle",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/03/1772430933300.jpeg?resize=1200,675&key=66341ead",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ionity-veut-rendre-l-autoroute-electrique-moins-chere-que-l-essence-la-s-82c8a5a3bb.html"
+      "title": "Turquie: manifestation de journalistes et d'ONG de défense de la liberté de la presse",
+      "url": "https://www.rfi.fr/fr/europe/20261024-turquie-manifestation-de-journalistes-et-d-ong-de-d%C3%A9fense-de-la-libert%C3%A9-de-la-presse",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T22:25:41.000Z",
+      "summary": "En Turquie, plusieurs milliers de personnes marchaient dans les rues ce samedi 24 octobre. Des syndicats de journalistes et des ONG de défense de la liberté de la presse appelaient à manifester dans une dizaine de villes du pays pour dénoncer une forte hausse du nombre de journalistes emprisonnés ces derniers mois, mai",
+      "image": "https://s.rfi.fr/media/display/3e8c751e-cff2-11f1-a984-bba4eee3dc72/w:1024/p:16x9/2026-10-24T150039Z-181392430-RC2R9OAR3HYA-RTRMADP-3-TURKEY-MEDIA-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/turquie-manifestation-de-journalistes-et-d-ong-de-defense-de-la-liberte--ed56aa492d.html"
+    },
+    {
+      "title": "Nigeria: le président Tinubu lance sa campagne présidentielle dans l'État de Kaduna",
+      "url": "https://www.rfi.fr/fr/afrique/20261024-nigeria-le-pr%C3%A9sident-tinubu-lance-sa-campagne-pr%C3%A9sidentielle-dans-l-%C3%A9tat-de-kaduna",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T22:16:04.000Z",
+      "summary": "C’est dans l’État de Kaduna, au centre-nord du Nigeria, que le président Bola Ahmed Tinubu a participé à son premier grand rassemblement de campagne pour l’élection présidentielle qui aura lieu le 16 janvier. Un choix révélateur d’une mission, celle de séduire dans un État où il avait été battu en 2023. Mais aussi de p",
+      "image": "https://s.rfi.fr/media/display/03de85ec-cff2-11f1-a4aa-5b4a75578ebb/w:1024/p:16x9/AP26297632385031.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nigeria-le-president-tinubu-lance-sa-campagne-presidentielle-dans-l-etat-07d23babf8.html"
+    },
+    {
+      "title": "Ultra-trail : l'incroyable exploit d'Hugo Deck à la Diagonale des Fous",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-ultra-trail-l-incroyable-exploit-d-hugo-deck-%C3%A0-la-diagonale-des-fous",
+      "source": "France 24",
+      "publishedAt": "2026-10-24T21:50:02.000Z",
+      "summary": "Avec les 180 km et 10.200 m de dénivelé positif de ce tracé, du sud au nord de l'île, à travers des pitons escarpés, des rivières et des forêts luxuriantes, la Diagonale des Fous est considérée comme l'une des courses en montagne les plus dures du monde. À 26 ans, et pour sa première participation, le Français Hugo Dec",
+      "image": "https://s.france24.com/media/display/588392c0-cff4-11f1-b56e-5b4a75578ebb/w:1024/p:16x9/FRA-NEWS-24-10-2026-19-59-ING10-CLEAN-N2.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ultra-trail-l-incroyable-exploit-d-hugo-deck-a-la-diagonale-des-fous-e7cc9330e1.html"
+    },
+    {
+      "title": "Une semaine avant le coup d'envoi des Jeux Olympiques de la Jeunesse",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261024-une-semaine-avant-le-coup-d-envoi-des-jeux-olympiques-de-la-jeunesse",
+      "source": "France 24",
+      "publishedAt": "2026-10-24T21:49:18.000Z",
+      "summary": "Une semaine avant l'ouverture des Jeux Olympiques de la Jeunesse de Dakar, un évènement historique pour le continent africain, nous entendrons le président du comité d'organisation des JOJ sur les enjeux de cette 4ème édition et comment malgré la situation économique difficile, le Sénégal se prépare à accueillir 2700 j",
+      "image": "https://s.france24.com/media/display/b5bc45e0-cfef-11f1-85ad-5b4a75578ebb/w:1024/p:16x9/DN197667-A-01-20261013-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-semaine-avant-le-coup-d-envoi-des-jeux-olympiques-de-la-jeunesse-d027fda86d.html"
+    },
+    {
+      "title": "Sénégal: les députés du Pastef rejettent la loi de finances rectificative du gouvernement",
+      "url": "https://www.rfi.fr/fr/afrique/20261024-s%C3%A9n%C3%A9gal-les-d%C3%A9put%C3%A9s-du-pastef-rejettent-la-loi-de-finances-rectificative-du-gouvernement",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T21:34:02.000Z",
+      "summary": "Au Sénégal, un nouvel épisode du bras de fer engagé entre le parti Pastef et le gouvernement du président Bassirou Diomaye Faye. Ce vendredi 24 octobre, la commission des lois de l’Assemblée nationale a rejeté le projet de loi de finances rectificative (LFR) 2026. Le parti d’Ousmane Sonko, largement majoritaire à la ch",
+      "image": "https://s.rfi.fr/media/display/7ef8263e-5e00-11f1-bf28-005056a97e36/w:1024/p:16x9/SENEGAL-ASSEMBLEE-NATIONALE-POLITIQUE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-les-deputes-du-pastef-rejettent-la-loi-de-finances-rectificative-f642e385aa.html"
+    },
+    {
+      "title": "Italie: déploiement massif des forces de sécurité pour les manifestations après des heurts",
+      "url": "https://www.rfi.fr/fr/europe/20261024-italie-d%C3%A9ploiement-massif-des-forces-de-s%C3%A9curit%C3%A9-pour-les-manifestations-apr%C3%A8s-des-heurts",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T21:28:12.000Z",
+      "summary": "Les forces de sécurité ont été massivement déployées en Italie face à des manifestations samedi qui se sont révélées finalement modestes et en grande partie pacifiques, après une vaste opération de répression consécutive à de violents affrontements le week-end dernier.",
+      "image": "https://s.rfi.fr/media/display/882003a4-cff1-11f1-80a0-5b4a75578ebb/w:1024/p:16x9/2026-10-24T151135Z-974136982-RC2R9OAQZ5AS-RTRMADP-3-ITALY-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/italie-deploiement-massif-des-forces-de-securite-pour-les-manifestations-a3c1b0513a.html"
+    },
+    {
+      "title": "France: à Orléans, le congrès du RN s'ouvre sous cloche, 13 000 personnes manifestent contre l'extrême droite",
+      "url": "https://www.rfi.fr/fr/france/20261024-france-%C3%A0-orl%C3%A9ans-le-congr%C3%A8s-du-rn-s-ouvre-sous-cloche-13-000-personnes-manifestent-contre-l-extr%C3%AAme-droite",
+      "source": "RFI",
+      "publishedAt": "2026-10-24T21:02:28.000Z",
+      "summary": "À Orléans, quadrillée par 3 000 forces de l'ordre et où la gauche manifestait avec 13 000 personnes son opposition à l’extrême droite, le RN a pu tenir son congrès ce samedi 24 octobre. Dans cette ambiance particulière, Jordan Bardella, seul candidat, a été reconduit président du parti.",
+      "image": "https://s.rfi.fr/media/display/bdd85b30-cfe3-11f1-b1e1-5b4a75578ebb/w:1024/p:16x9/000-D4B298W.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-a-orleans-le-congres-du-rn-s-ouvre-sous-cloche-13-000-personnes-m-6ba9ae82f3.html"
     },
     {
       "title": "\"Les cortèges se sont bien passés\", affirme Laurent Nuñez, qui recense près de 1 000 interpellations",
@@ -76,95 +139,14 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-france-des-heurts-en-marge-des-manifestations-du-24-octobre-93f301e1de.html"
     },
     {
-      "title": "En Albanie, les manifestants et l'opposition dans la rue contre la corruption et les mauvaises conditions d'études",
-      "url": "https://www.rfi.fr/fr/europe/20261024-en-albanie-les-manifestants-et-l-opposition-dans-la-rue-contre-la-corruption-et-les-mauvaises-conditions-d-%C3%A9tudes",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T17:39:30.000Z",
-      "summary": "Masques chirurgicaux sur le visage et slogans pour réclamer la démission du Premier ministre… En Albanie, plusieurs milliers de manifestants, jeunes femmes en tête, se sont rassemblés samedi à Tirana. Ils dénoncent les mauvaises conditions d'études et la corruption.",
-      "image": "https://s.rfi.fr/media/display/9e4cd032-cfd1-11f1-b8be-bba4eee3dc72/w:1024/p:16x9/2026-10-24T164317Z-1094468349-RC2R9OALDLH9-RTRMADP-3-ALBANIA-PROTESTS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-albanie-les-manifestants-et-l-opposition-dans-la-rue-contre-la-corrup-a1693c4fe6.html"
-    },
-    {
-      "title": "«Trump est l'aboutissement, même s'il n'est pas le seul, des mouvements fascistes aux États-Unis»",
-      "url": "https://www.rfi.fr/fr/podcasts/livre-international/20261024-trump-est-l-aboutissement-m%C3%AAme-s-il-n-est-pas-le-seul-des-mouvements-fascistes-aux-%C3%A9tats-unis",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T17:05:43.000Z",
-      "summary": "À dix jours des midterms, les élections de mi-mandat aux États-Unis, la crainte existe d'une crise démocratique, si les Républicains perdent la Chambre des représentants, comme les sondages le prédisent, et le Sénat, c'est moins sûr, et surtout si Donald Trump refuse les résultats du scrutin. Certains observateurs parl",
-      "image": "https://s.rfi.fr/media/display/c0d5ff10-cfc3-11f1-b679-bdb9616e85cf/w:1024/p:16x9/petite-histoire-du-fascisme-am%C3%A9ricain.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-est-l-aboutissement-meme-s-il-n-est-pas-le-seul-des-mouvements-fas-7672b51347.html"
-    },
-    {
-      "title": "Au congrès du RN, Marine Le Pen lance sa campagne pour l’Élysée, Bardella vise Matignon",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-au-congr%C3%A8s-du-rn-marine-le-pen-lance-sa-campagne-pour-l-%C3%A9lys%C3%A9e-bardella-vise-matignon",
-      "source": "France 24",
-      "publishedAt": "2026-10-24T16:56:20.000Z",
-      "summary": "Réélu à la tête du Rassemblement national avec 98,98% des voix, Jordan Bardella est présenté par les militants comme un futur Premier ministre en cas de victoire de Marine Le Pen à la présidentielle. Réunis à Orléans pour le 19e congrès du parti, ses soutiens affichent leur confiance et voient dans les sondages favorab",
-      "image": "https://s.france24.com/media/display/a68cafee-cfca-11f1-9d51-bdb9616e85cf/w:1024/p:16x9/FR-20261024-180715-181107-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-congres-du-rn-marine-le-pen-lance-sa-campagne-pour-l-elysee-bardella--fbc83059d5.html"
-    },
-    {
-      "title": "À Paris, une dispersion sous tension après une journée de mobilisation dans le calme",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-%C3%A0-paris-une-dispersion-sous-tension-apr%C3%A8s-une-journ%C3%A9e-de-mobilisation-dans-le-calme",
-      "source": "France 24",
-      "publishedAt": "2026-10-24T16:53:14.000Z",
-      "summary": "Gaz lacrymogènes et canon à eau ont été utilisés à Paris lors d’une fin de manifestation marquée par quelques tensions. Alors que les forces de l’ordre fermaient la marche en direction de la porte de Vincennes, un petit groupe de manifestants ont tenté de rejoindre la place de la Nation. Florent Rodo, reporter sur plac",
-      "image": "https://s.france24.com/media/display/30a3d33e-cfca-11f1-96e9-5b4a75578ebb/w:1024/p:16x9/FR-20261024-180114-180320-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-paris-une-dispersion-sous-tension-apres-une-journee-de-mobilisation-da-ad1ba480e7.html"
-    },
-    {
-      "title": "Yémen: les combattants houthis revendiquent une nouvelle attaque à Aden et en Arabie saoudite",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261024-y%C3%A9men-les-combattants-houthis-revendiquent-une-nouvelle-attaque-%C3%A0-aden",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T16:49:56.000Z",
-      "summary": "Les Houthis du Yémen ont revendiqué samedi des attaques à Aden, dans le sud du pays, ainsi qu'en Arabie saoudite, après avoir accusé Riyad d'avoir mené des frappes ayant fait 17 morts dans des régions que les combattants pro-iraniens contrôlent.",
-      "image": "https://s.rfi.fr/media/display/b9b5be30-cfca-11f1-89f4-4d317af013fd/w:1024/p:16x9/2026-10-24T162722Z-2088143413-RC2Q9OARGLA5-RTRMADP-3-IRAN-CRISIS-YEMEN.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yemen-les-combattants-houthis-revendiquent-une-nouvelle-attaque-a-aden-e-4be2f0a59f.html"
-    },
-    {
-      "title": "Israël évacue environ 250 familles palestiniennes à Hébron après la mort de soldats",
-      "url": "https://fr.euronews.com/2026/10/24/israel-evacue-environ-250-familles-palestiniennes-a-hebron-apres-la-mort-de-soldats",
-      "source": "Euronews",
-      "publishedAt": "2026-10-24T16:24:00.000Z",
-      "summary": "À quelques jours d'élections serrées en Israël, Netanyahou lance une vaste opération en Cisjordanie après la mort de deux soldats à un checkpoint",
-      "image": "https://images.euronews.com/articles/stories/09/96/58/38/696x392_cmsv2_77120e07-5399-5b6d-b6ec-c120215f8441-9965838.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-evacue-environ-250-familles-palestiniennes-a-hebron-apres-la-mort-a7dabe9b7a.html"
-    },
-    {
-      "title": "Ebola au Nigeria et au Kenya: les deux patients se sont-ils croisés en Ouganda?",
-      "url": "https://www.rfi.fr/fr/afrique/20261024-ebola-au-nigeria-et-au-kenya-les-deux-patients-se-sont-ils-crois%C3%A9s-en-ouganda",
-      "source": "RFI",
-      "publishedAt": "2026-10-24T16:00:35.000Z",
-      "summary": "Après le Kenya où un deuxième décès a été annoncé, vendredi 23 octobre, Ebola est arrivé au Nigeria. Une enquête est en cours pour déterminer son origine. Selon le ministère nigérian de la Santé, des analyses génétiques montrent un lien entre le virus de la patiente et celui identifié chez le premier patient atteint d’",
-      "image": "https://s.rfi.fr/media/display/df14a1be-cf39-11f1-872b-4d317af013fd/w:1024/p:16x9/2026-10-22T140653Z-588759255-RC2D8OAXHDGQ-RTRMADP-3-HEALTH-EBOLA-NIGERIA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ebola-au-nigeria-et-au-kenya-les-deux-patients-se-sont-ils-croises-en-ou-41cee68aec.html"
-    },
-    {
-      "title": "Vie chère, services publics, justice : les raisons de la colère du 24 octobre",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-vie-ch%C3%A8re-services-publics-justice-les-raisons-de-la-col%C3%A8re-du-24-octobre",
-      "source": "France 24",
-      "publishedAt": "2026-10-24T15:57:12.000Z",
-      "summary": "Pouvoir d’achat, éducation, services publics et justice : la mobilisation du 24 octobre rassemble des revendications multiples. Notre invité, Benjamin Ball, porte-parole de la Coordination des gilets jaunes, revient sur les raisons de la colère et les perspectives d’une convergence des luttes.",
-      "image": "https://s.france24.com/media/display/26f4e67c-cfc3-11f1-8d63-bdb9616e85cf/w:1024/p:16x9/AP26297519934183.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/vie-chere-services-publics-justice-les-raisons-de-la-colere-du-24-octobr-95fb5da278.html"
-    },
-    {
-      "title": "iPhone Duo : les 4 bizarreries du premier smartphone pliant d’Apple",
-      "url": "https://www.01net.com/actualites/iphone-duo-les-4-bizarreries-du-premier-smartphone-pliant-dapple.html",
-      "source": "01net",
-      "publishedAt": "2026-10-24T15:55:01.000Z",
-      "summary": "Pour son premier smartphone pliant, Apple ne s’est pas contenté d’imiter la concurrence et surprend avec des parti-pris de conception pour le moins déroutants. Entre ergonomie repensée et compromis inattendus, nos premières prises en main de l’iPhone Duo révèlent plusieurs choix techniques qui bousculent sérieusement l",
-      "image": "https://www.01net.com/app/uploads/2026/10/DSC09961-2-02-2026-10-iPhone-Duo-1344x896.jpg",
+      "title": "Ionity veut rendre l’autoroute électrique moins chère que l’essence, la SNCF refuse bientôt les fatbikes dans ses TGV",
+      "url": "https://www.frandroid.com/actualites-generales/3298121_ionity-veut-rendre-lautoroute-electrique-moins-chere-que-lessence-la-sncf-refuse-bientot-les-fatbikes-dans-ses-tgv",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-24T18:01:00.000Z",
+      "summary": "Des bornes Ionity qui veulent rivaliser avec le plein d'essence sur autoroute, une SNCF qui resserre l'accès de ses trains aux engins électriques et des automobilistes qui vont chercher leur voiture électrique d'occasion jusqu'en Chine : cette semaine, la mobilité électrique s'est surtout jouée sur le prix et les règle",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/03/1772430933300.jpeg?resize=1200,675&key=66341ead",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-duo-les-4-bizarreries-du-premier-smartphone-pliant-d-apple-e1ff83207a.html"
-    },
-    {
-      "title": "Mobilisations en France : 135 interpellations en marge des manifestations du 24 octobre",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261024-mobilisations-en-france-135-interpellations-en-marge-des-manifestations-du-24-octobre",
-      "source": "France 24",
-      "publishedAt": "2026-10-24T15:45:02.000Z",
-      "summary": "À la mi-journée, 135 interpellations ont été recensées en France, selon Laurent Nuñez. À Lyon, des affrontements ont opposé des manifestants aux forces de l'ordre. À Paris, en revanche, le cortège avance dans le calme, sans dégradation ni incivilité signalée. Parti de la porte d'Italie, il évolue en périphérie, tandis ",
-      "image": "https://s.france24.com/media/display/b0466dba-cfb9-11f1-9160-5b4a75578ebb/w:1024/p:16x9/FR-20261024-163104-163516-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisations-en-france-135-interpellations-en-marge-des-manifestations--f5d2b4e4f9.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ionity-veut-rendre-l-autoroute-electrique-moins-chere-que-l-essence-la-s-82c8a5a3bb.html"
     }
   ]
 }
