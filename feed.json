@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-26T19:41:28.053Z",
+  "updatedAt": "2026-10-26T23:20:49.451Z",
   "items": [
+    {
+      "title": "Comment un satellite russe s'est approché de manière \"menaçante\" d'un satellite utilisé par l'Ukraine",
+      "url": "https://www.france24.com/fr/europe/20261026-comment-satellite-russe-s-est-approch%C3%A9-mani%C3%A8re-agressive-satellite-utilis%C3%A9-ukraine-cosmos-2612-iceye-x36",
+      "source": "France 24",
+      "publishedAt": "2026-10-26T20:52:29.000Z",
+      "summary": "Un satellite militaire russe, Cosmos-2612, a effectué une approche contre un satellite commercial Iceye-X36 utilisé par les forces armées ukrainiennes, qui a été considérée comme \"menaçante\" par le département d'État américain. La manœuvre serait une première entre un satellite militaire et commercial, estime Norbert P",
+      "image": "https://s.france24.com/media/display/d520738c-d15e-11f1-aecd-4d317af013fd/w:1024/p:16x9/image1-183.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-un-satellite-russe-s-est-approche-de-maniere-menacante-d-un-sate-4c30c71bbd.html"
+    },
     {
       "title": "iPhone Duo : Apple reconnaît un problème d’écran sur « un petit nombre » d’unités",
       "url": "https://www.frandroid.com/os/ios/3299885_iphone-duo-apple-reconnait-un-probleme-decran-sur-un-petit-nombre-dunites",
@@ -12,14 +22,112 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-duo-apple-reconnait-un-probleme-d-ecran-sur-un-petit-nombre-d-uni-c932c9474f.html"
     },
     {
-      "title": "Pour moins de 13 euros, ce forfait Free fait aussi office de VPN et de bouquet TV",
-      "url": "https://www.frandroid.com/bons-plans/3299705_pour-moins-de-13-euros-ce-forfait-free-fait-aussi-office-de-vpn-et-de-bouquet-tv",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-26T18:25:00.000Z",
-      "summary": "La Série Free propose 110 Go en 5G pour 12,99 euros par mois la première année, sans engagement. Elle inclut en plus une option pour montre connectée, un VPN et plus de 300 chaînes TV.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/683026027.png?resize=1200,675&key=b36d3852",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pour-moins-de-13-euros-ce-forfait-free-fait-aussi-office-de-vpn-et-de-bo-94f03c44fc.html"
+      "title": "France : foule au Vieux-Port de Marseille lors d'une marche antiraciste",
+      "url": "https://fr.euronews.com/video/2026/10/26/france-foule-au-vieux-port-de-marseille-lors-dune-marche-antiraciste",
+      "source": "Euronews",
+      "publishedAt": "2026-10-26T22:21:24.000Z",
+      "summary": "Des centaines de personnes se sont rassemblées lundi soir au Vieux-Port de Marseille pour dénoncer le racisme après une fusillade mortelle près de Paris. La police a évalué la foule à 800 personnes, les organisateurs à plus de 1 000.",
+      "image": "https://images.euronews.com/articles/stories/09/96/82/10/696x392_cmsv2_9875d83c-cdbe-5a94-8773-3e9a78dabbbf-9968210.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-foule-au-vieux-port-de-marseille-lors-d-une-marche-antiraciste-479a61ba91.html"
+    },
+    {
+      "title": "Élections en Israël : Netanyahou ou Eisenkot ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261026-%C3%A9lections-en-isra%C3%ABl-netanyahou-ou-eisenkot",
+      "source": "France 24",
+      "publishedAt": "2026-10-26T22:15:47.000Z",
+      "summary": "A la veille des élections législatives en Israël, on s’interroge sur les deux protagonistes de ce scrutin, l’indéboulonnable Benyamin Netanyahou et l’ancien chef d’état-major, Gadi Eisenkot.",
+      "image": "https://s.france24.com/media/display/2eb982b4-d18a-11f1-a451-4d317af013fd/w:1024/p:16x9/FRAN261026-2136-Live-CS2136.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-israel-netanyahou-ou-eisenkot-5a1efcd0f5.html"
+    },
+    {
+      "title": "Brésil : après la victoire de Lula, la bourse de Sao Paulo dévisse",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261026-br%C3%A9sil-apr%C3%A8s-la-victoire-de-lula-la-bourse-de-sao-paulo-d%C3%A9visse",
+      "source": "France 24",
+      "publishedAt": "2026-10-26T21:56:56.000Z",
+      "summary": "Victoire teintée d'amertume pour le Lula et le Brésil : à peine la réélection de Lula connue, la bourse de Sao Paulo a dévissé, perdant plus de 17 points à l'ouverture. Le réal brésilien a lui aussi plongé et perdu jusqu'à 10% de sa valeur face au dollar, à un plus bas depuis décembre 2025. Le programme économique de l",
+      "image": "https://s.france24.com/media/display/3fc45b04-d187-11f1-a9b3-5b4a75578ebb/w:1024/p:16x9/XX-NW-HDL-LULA-VICTORY-22H-AN-Meiqi-transfer.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-apres-la-victoire-de-lula-la-bourse-de-sao-paulo-devisse-b600f40006.html"
+    },
+    {
+      "title": "Brésil: Flavio Bolsonaro déclare qu'il dirigera l'opposition au gouvernement Lula",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261026-br%C3%A9sil-flavio-bolsonaro-d%C3%A9clare-qu-il-dirigera-l-opposition-au-gouvernement-lula",
+      "source": "RFI",
+      "publishedAt": "2026-10-26T21:43:10.000Z",
+      "summary": "Flavio Bolsonaro a annoncé lundi 26 octobre qu'il dirigerait l'opposition à Luiz Inacio Lula da Silva, au lendemain de sa défaite électorale face au président brésilien réélu.",
+      "image": "https://s.rfi.fr/media/display/a9582364-d184-11f1-b7e2-5b4a75578ebb/w:1024/p:16x9/AP26299070267601.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-flavio-bolsonaro-declare-qu-il-dirigera-l-opposition-au-gouvernem-1775eca07c.html"
+    },
+    {
+      "title": "Lula : victoire sans pouvoir ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261026-lula-victoire-sans-pouvoir",
+      "source": "France 24",
+      "publishedAt": "2026-10-26T21:35:53.000Z",
+      "summary": "Contre toute attente, Lula a été reconduit à la tête du Brésil, après avoir remporté la présidentielle face à son rival d’extrême droite Flavio Bolsonaro. Une victoire historique pour le travailliste mais fragile tant son quatrième mandat (non consécutif) s'annonce difficile, lui devra composer avec un Parlement en maj",
+      "image": "https://s.france24.com/media/display/4e5bc82c-d183-11f1-b60c-4b25c96ec90e/w:1024/p:16x9/FRAN261026-2030-Live-CS2030.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/lula-victoire-sans-pouvoir-72f137d1dd.html"
+    },
+    {
+      "title": "Comment Benjamin Netanyahu s'est-il maintenu au pouvoir si longtemps en Israël ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261026-comment-benjamin-netanyahu-s-est-il-maintenu-au-pouvoir-si-longtemps-en-isra%C3%ABl",
+      "source": "France 24",
+      "publishedAt": "2026-10-26T21:21:32.000Z",
+      "summary": "1999, 2006, 2019, 2023... Combien de fois a-t-on annoncé la fin politique de Benjamin Netanyahu ? Le Premier ministre israélien a traversé des défaites électorales, été lâché par ses alliés, poursuivi en justice, et même accusé de crimes de guerre et de crimes contre l'humanité par la CPI. À chaque crise, beaucoup ont ",
+      "image": "https://s.france24.com/media/display/bff725cc-d13c-11f1-8af1-5b4a75578ebb/w:1024/p:16x9/Minia-NETANYAHU.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-benjamin-netanyahu-s-est-il-maintenu-au-pouvoir-si-longtemps-en--987c566c5b.html"
+    },
+    {
+      "title": "États-Unis: cherchant à débusquer la moindre fraude électorale, Donald Trump promet un million de dollars",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261026-%C3%A9tats-unis-cherchant-%C3%A0-d%C3%A9busquer-la-moindre-fraude-%C3%A9lectorale-donald-trump-promet-un-million-de-dollars",
+      "source": "RFI",
+      "publishedAt": "2026-10-26T20:59:37.000Z",
+      "summary": "Donald Trump a promis lundi de verser 1 million de dollars à toute personne en possession d'informations aboutissant à une condamnation pour fraude électorale, à quelques jours des élections de mi-mandat.",
+      "image": "https://s.rfi.fr/media/display/5937e146-d17d-11f1-a5df-bba4eee3dc72/w:1024/p:16x9/AP26299726980611.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-cherchant-a-debusquer-la-moindre-fraude-electorale-donald-tru-483a7a8ce8.html"
+    },
+    {
+      "title": "Venezuela: l'opposante Machado prête à négocier, la présidente Rodriguez ironise sur son retour en forme de «show»",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261026-venezuela-l-opposante-machado-pr%C3%AAte-%C3%A0-n%C3%A9gocier-la-pr%C3%A9sidente-rodriguez-ironise-sur-son-retour-en-forme-de-show",
+      "source": "RFI",
+      "publishedAt": "2026-10-26T20:54:35.000Z",
+      "summary": "Après son spectaculaire retour d'exil dimanche, l'opposante vénézuélienne et prix Nobel de la paix Maria Corina Machado est prête à rencontrer la présidente par intérim du pays Delcy Rodríguez, qui de son côté a fustigé un retour au pays en forme de « show » inutile.",
+      "image": "https://s.rfi.fr/media/display/8aea5362-d17e-11f1-8b3b-4b25c96ec90e/w:1024/p:16x9/2026-10-26T170434Z-1118182341-RC2PAOAZ8YAS-RTRMADP-3-VENEZUELA-OPPOSITION.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/venezuela-l-opposante-machado-prete-a-negocier-la-presidente-rodriguez-i-bb4f44203b.html"
+    },
+    {
+      "title": "Midterms 2026 : Trump promet 1 million de dollars à quiconque prouve une fraude électorale imminente",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261026-midterms-2026-trump-promet-1-million-dollars-quiconque-prouve-fraude-%C3%A9lectorale-imminente-republicains",
+      "source": "France 24",
+      "publishedAt": "2026-10-26T20:47:17.000Z",
+      "summary": "Alors que son parti a de fortes chances de perdre la majorité à la Chambre des représentants, voire au Sénat, lors des élections de mi-mandat, le président américain a promis lundi de verser 1million de dollars à toute personne en possession d'informations aboutissant à une condamnation pour fraude électorale.",
+      "image": "https://s.france24.com/media/display/682a0446-d17c-11f1-9a6e-5b4a75578ebb/w:1024/p:16x9/2026-10-26T195316Z-112147299-RC27BOAN60PB-RTRMADP-3-USA-TRUMP.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-trump-promet-1-million-de-dollars-a-quiconque-prouve-une-f-699923344b.html"
+    },
+    {
+      "title": "L'Iran dit avoir eu de «très bonnes» discussions avec des responsables saoudiens, turcs et pakistanais",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261026-l-iran-dit-avoir-eu-de-tr%C3%A8s-bonnes-discussions-avec-des-responsables-saoudiens-turcs-et-pakistanais",
+      "source": "RFI",
+      "publishedAt": "2026-10-26T20:30:58.000Z",
+      "summary": "L'Iran a qualifié de « très bonnes » les discussions lundi 26 octobre à Téhéran avec l'Arabie saoudite, le Pakistan et la Turquie, faisant état d'un rejet commun de toute ingérence étrangère dans la région.",
+      "image": "https://s.rfi.fr/media/display/ff617fee-d17a-11f1-954a-bdb9616e85cf/w:1024/p:16x9/AP26299523810382.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-iran-dit-avoir-eu-de-tres-bonnes-discussions-avec-des-responsables-sao-b0706dfff5.html"
+    },
+    {
+      "title": "L'ONU alerte sur le risque de \"nettoyage ethnique\" lié à l'opération israélienne à Hébron",
+      "url": "https://www.france24.com/fr/moyen-orient/20261026-onu-alerte-risque-nettoyage-ethnique-li%C3%A9-op%C3%A9ration-isra%C3%A9lienne-h%C3%A9bron-cisjordanie-occupee-palestine",
+      "source": "France 24",
+      "publishedAt": "2026-10-26T20:02:53.000Z",
+      "summary": "Le haut-commissaire de l'ONU aux droits de l'Homme a émis de graves inquiétudes quant à un éventuel \"nettoyage ethnique\" à Hébron, en Cisjordanie occupée, où Israël a lancé une vaste opération à la suite d'une attaque ayant tué deux soldats. Plus de 3 000 personnes ont été expulsées de leur domicile.",
+      "image": "https://s.france24.com/media/display/e06bddb2-d15e-11f1-8fd3-5b4a75578ebb/w:1024/p:16x9/000-D4AY6Y4.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-onu-alerte-sur-le-risque-de-nettoyage-ethnique-lie-a-l-operation-israe-93ed7ca31b.html"
+    },
+    {
+      "title": "Lula : une victoire mais quel pourvoir ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261026-lula-une-victoire-mais-quel-pourvoir",
+      "source": "France 24",
+      "publishedAt": "2026-10-26T19:30:10.000Z",
+      "summary": "Au Brésil, Lula a largement gagné face à Flavio Bolsonaro, avec 51,8 % des voix contre 48,2 % pour le sénateur. Une surprise, alors que les sondages plaçaient le candidat d’extrême droite légèrement devant le président sortant pour le second tour de la présidentielle.",
+      "image": "https://s.france24.com/media/display/bcf806ce-d151-11f1-91b8-4d317af013fd/w:1024/p:16x9/AP26299049430072.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/lula-une-victoire-mais-quel-pourvoir-c5b34f60ff.html"
     },
     {
       "title": "Mouvement lycéen en France: malgré les changements annoncés pour Parcoursup, la mobilisation se poursuit",
@@ -56,115 +164,6 @@
       "summary": "Parcoursup, manque de places à l’université, état des bâtiments : la colère des lycéens et des étudiants pousse le gouvernement à annoncer de nouvelles mesures. Mais ces réponses seront-elles à la hauteur des attentes des jeunes, alors que la mobilisation se poursuit et que la présidentielle approche ? Olivier Guyottot",
       "image": "https://s.france24.com/media/display/7930c4ba-d162-11f1-83f3-bba4eee3dc72/w:1024/p:16x9/FR-20261026-180754-181613-CS.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/colere-lyceenne-l-heure-des-reponses-b246ff7a24.html"
-    },
-    {
-      "title": "Cisjordanie occupée: l'ONU alerte sur un risque de «nettoyage ethnique» à Hébron par Israël",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261026-cisjordanie-occup%C3%A9e-l-onu-alerte-sur-un-risque-de-nettoyage-ethnique-%C3%A0-h%C3%A9bron-par-isra%C3%ABl",
-      "source": "RFI",
-      "publishedAt": "2026-10-26T18:06:55.000Z",
-      "summary": "Le haut-commissaire de l'ONU aux droits de l'homme a alerté lundi 26 octobre sur le risque de « nettoyage ethnique » à Hébron, en Cisjordanie occupée, où l'armée israélienne a lancé une intervention militaire après la mort de deux soldats vendredi dans une attaque.",
-      "image": "https://s.rfi.fr/media/display/2d068d18-d162-11f1-a8a7-bdb9616e85cf/w:1024/p:16x9/AP26297362966211.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cisjordanie-occupee-l-onu-alerte-sur-un-risque-de-nettoyage-ethnique-a-h-4b688b50a9.html"
-    },
-    {
-      "title": "Sahel : pourquoi l'Algérie envoie-t-elle des troupes au Niger ?",
-      "url": "https://www.france24.com/fr/afrique/20261026-sahel-pourquoi-alg%C3%A9rie-envoie-t-elle-troupes-niger-gazoduc-passe-salvador-islamisme",
-      "source": "France 24",
-      "publishedAt": "2026-10-26T17:46:31.000Z",
-      "summary": "Le Parlement algérien ⁠a approuvé dimanche ​l'envoi de soldats au Niger. Un changement radical de doctrine pour ce pays non interventionniste qui n'a pas envoyé de troupes à l'étranger depuis 1973. Des enjeux économiques, sécuritaires et diplomatiques expliquent en partie ce revirement. Analyse.",
-      "image": "https://s.france24.com/media/display/367ffa26-d155-11f1-80f6-4d317af013fd/w:1024/p:16x9/2026-10-01T000000Z-765540037-MT1ABCPR1020992001-RTRMADP-3-ALGERIA-POLITICS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sahel-pourquoi-l-algerie-envoie-t-elle-des-troupes-au-niger-27647bca24.html"
-    },
-    {
-      "title": "Mali: treize civils tués par une frappe de drone de l'armée, dans la région de Tombouctou",
-      "url": "https://www.rfi.fr/fr/afrique/20261026-mali-treize-civils-tu%C3%A9s-par-une-frappe-de-drone-de-l-arm%C3%A9e-dans-la-r%C3%A9gion-de-tombouctou",
-      "source": "RFI",
-      "publishedAt": "2026-10-26T17:45:31.000Z",
-      "summary": "Au Mali, treize civils, dont six enfants, ont été tués, dans la nuit de dimanche à ce lundi 26 octobre, par une frappe de drone de l'armée malienne, près de Lerneb, dans la région de Tombouctou, selon des informations vérifiées par RFI auprès de nombreuses sources locales. L'état-major n'a pas communiqué sur cette frap",
-      "image": "https://s.rfi.fr/media/display/3516620e-0a7f-11eb-b3da-005056a98db9/w:1024/p:16x9/000_1o29j9_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-treize-civils-tues-par-une-frappe-de-drone-de-l-armee-dans-la-regio-0c4cae0ac1.html"
-    },
-    {
-      "title": "États-Unis et Israël, l’alliance en question",
-      "url": "https://www.rfi.fr/fr/podcasts/grand-reportage/20261026-%C3%A9tats-unis-et-isra%C3%ABl-l-alliance-en-question",
-      "source": "RFI",
-      "publishedAt": "2026-10-26T17:10:49.000Z",
-      "summary": "Les États-Unis soutiennent traditionnellement le gouvernement israélien, mais jusqu’à quand ? L’image d’Israël dans l’opinion publique américaine s’est ternie de manière considérable depuis la guerre à Gaza… Et même si Benyamin Netanyahu pourrait être écarté demain lors des législatives israéliennes, de plus en plus d’",
-      "image": "https://s.rfi.fr/media/display/19326ef0-8b40-11f1-8f53-005056bfb2b6/w:1024/p:16x9/AP25363754005103-Copie.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-et-israel-l-alliance-en-question-c38c231e11.html"
-    },
-    {
-      "title": "France : Emmanuel Macron revient sur les manifestations du 17 octobre",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261026-france-emmanuel-macron-revient-sur-les-manifestations-du-17-octobre",
-      "source": "France 24",
-      "publishedAt": "2026-10-26T17:09:08.000Z",
-      "summary": "Emmanuel Macron s'est déplacé, lundi 26 octobre, à la mairie de Marseille pour constater les dégradations d'il y a neuf jours, et à la préfecture, pour apporter son soutien aux commerçants et aux forces de l'ordre. Très critiqué par l'opposition et dans son camp après les manifestations du 17 octobre, il a reconnu le m",
-      "image": "https://s.france24.com/media/display/fd8d1708-d154-11f1-9f48-bba4eee3dc72/w:1024/p:16x9/Montage-916-00-00-10-14-Still002.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-emmanuel-macron-revient-sur-les-manifestations-du-17-octobre-d3ea755cb7.html"
-    },
-    {
-      "title": "Les lycéens saluent l’annonce de la suppression de Parcoursup à leur sortie de Matignon",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261026-les-lyc%C3%A9ens-saluent-l-annonce-de-la-suppression-de-parcoursup-%C3%A0-leur-sortie-de-matignon",
-      "source": "France 24",
-      "publishedAt": "2026-10-26T17:08:01.000Z",
-      "summary": "\"On s’en félicite\" : reçus à Matignon, les représentants lycéens accueillent favorablement l’annonce de la suppression de Parcoursup et saluent \"des annonces très claires\". Après un mois de contestation, cette décision répond à l’une de leurs revendications sur l’accès à l’enseignement supérieur. Quelles modalités doiv",
-      "image": "https://s.france24.com/media/display/60b1f100-d15f-11f1-992f-4b25c96ec90e/w:1024/p:16x9/FR-20261026-173002-173847-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-lyceens-saluent-l-annonce-de-la-suppression-de-parcoursup-a-leur-sor-f5967811dc.html"
-    },
-    {
-      "title": "Sénégal : le premier ministre accuse le Pastef de \"coincer le pays\"",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261026-s%C3%A9n%C3%A9gal-e-premier-ministre-accuse-le-pastef-de-coincer-le-pays",
-      "source": "France 24",
-      "publishedAt": "2026-10-26T16:44:15.000Z",
-      "summary": "🇸🇳 Au Sénégal, le Premier ministre accuse le Pastef de vouloir \"bloquer le pays\" après le rejet de la loi de finance rectificative. Le parti d’Ousmane Sonko a rapidement riposté dans la foulée à travers un point de presse.",
-      "image": "https://s.france24.com/media/display/71cff96a-d159-11f1-877f-4b25c96ec90e/w:1024/p:16x9/Couv-SENEGAL-PASTEF-Rejet-Loi-finance-rectificative.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-le-premier-ministre-accuse-le-pastef-de-coincer-le-pays-42e5f112af.html"
-    },
-    {
-      "title": "Royaume-Uni : Oxford Street devient piétonne à Londres",
-      "url": "https://fr.euronews.com/video/2026/10/26/royaume-uni-oxford-street-devient-pietonne-a-londres",
-      "source": "Euronews",
-      "publishedAt": "2026-10-26T16:30:23.000Z",
-      "summary": "Les voitures ont définitivement cédé la place aux piétons sur une partie d'Oxford Street, à Londres. Une nouvelle étape dans la transformation des centres-villes européens, où les espaces réservés à la marche se multiplient.",
-      "image": "https://images.euronews.com/articles/stories/09/96/79/47/696x392_cmsv2_57536570-ce86-5703-8aa5-1a458c7f1af5-9967947.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-oxford-street-devient-pietonne-a-londres-b10c2ca085.html"
-    },
-    {
-      "title": "Pourquoi Elon Musk a dépensé près de 500 millions de dollars pour faire perdre les démocrates aux midterms",
-      "url": "https://www.frandroid.com/culture-tech/politique/3298693_pourquoi-elon-musk-redoute-tant-une-victoire-democrate-aux-midterms-aux-etats-unis",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-26T16:15:34.000Z",
-      "summary": "Plus de 442 millions de dollars injectés dans la campagne&nbsp;: à huit jours du scrutin du 3 novembre, Elon Musk est devenu le premier bailleur de fonds des élections de mi-mandat américaines. Au-delà de ses discours contre la «&nbsp;gauche radicale&nbsp;», le patron de SpaceX et de Tesla cherche surtout à éviter que ",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/elon-musk-frandroid-1.jpg?resize=1200,675&key=3e8e871d",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pourquoi-elon-musk-a-depense-pres-de-500-millions-de-dollars-pour-faire--86df4ac200.html"
-    },
-    {
-      "title": "Inde-Chine: comment la désinformation attise les tensions à la frontière",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261026-inde-chine-comment-la-d%C3%A9sinformation-attise-les-tensions-%C3%A0-la-fronti%C3%A8re",
-      "source": "RFI",
-      "publishedAt": "2026-10-26T16:06:04.000Z",
-      "summary": "C’est un point de blocage qui empoisonne les relations entre la Chine et l’Inde. La frontière contestée par les deux voisins dans l’Himalaya reste une importante source de tensions. Selon la police indienne, des affrontements ont éclaté ces derniers jours dans l'État de l'Arunachal Pradesh. Dans ce contexte, des vidéos",
-      "image": "https://s.rfi.fr/media/display/39604be2-d150-11f1-a142-4b25c96ec90e/w:1024/p:16x9/Inde-Chine-fronti%C3%A8re-infox-Une.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/inde-chine-comment-la-desinformation-attise-les-tensions-a-la-frontiere-b3e12a4772.html"
-    },
-    {
-      "title": "Trois policiers jugés pour homicide involontaire près de sept ans après la mort de Cédric Chouviat",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261026-trois-policiers-jug%C3%A9s-pour-homicide-involontaire-pr%C3%A8s-de-sept-ans-apr%C3%A8s-la-mort-de-c%C3%A9dric-chouviat",
-      "source": "France 24",
-      "publishedAt": "2026-10-26T16:02:21.000Z",
-      "summary": "Le procès de trois policiers poursuivis pour homicide involontaire après la mort de Cédric Chouviat s’ouvre ce lundi au tribunal correctionnel de Paris. Ce livreur de 42 ans est décédé en janvier 2020, deux jours après une interpellation au cours de laquelle il avait subi une clé d’étranglement et un plaquage ventral. ",
-      "image": "https://s.france24.com/media/display/66a9122c-d156-11f1-9099-4b25c96ec90e/w:1024/p:16x9/capture-cd3b574a.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trois-policiers-juges-pour-homicide-involontaire-pres-de-sept-ans-apres--8e1c1d6041.html"
-    },
-    {
-      "title": "Il y a de la part de Xi Jinping «une personnification du pouvoir pour être une forme de Mao 2.0»",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261026-il-y-a-de-la-part-de-xi-jinping-une-personnification-du-pouvoir-pour-%C3%AAtre-une-forme-de-mao-2-0",
-      "source": "RFI",
-      "publishedAt": "2026-10-26T16:01:31.000Z",
-      "summary": "Alors que les cadres du Parti communiste ont entamé ce lundi 26 octobre, à Pékin, une importante réunion consacrée à sa gouvernance, Xi Jinping veut renforcer son autorité. L'objectif, c'est d'avoir une équipe capable d’exécuter ses décisions. Le président chinois a supervisé ces dernières années une vaste campagne ant",
-      "image": "https://s.rfi.fr/media/display/52460038-ce68-11f1-93c9-23d55109f116/w:1024/p:16x9/2026-10-22T214736Z-1871492737-RC228OA72XFB-RTRMADP-3-CHINA-POLITICS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/il-y-a-de-la-part-de-xi-jinping-une-personnification-du-pouvoir-pour-etr-81e8508759.html"
     }
   ]
 }
