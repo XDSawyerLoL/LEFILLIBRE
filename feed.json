@@ -1,87 +1,160 @@
 {
-  "updatedAt": "2026-10-28T01:57:59.424Z",
+  "updatedAt": "2026-10-28T07:56:43.343Z",
   "items": [
     {
-      "title": "«GuérillIA» de Christophe Payet: «Il faut faire de l'IA une arme d'émancipation»",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261027-diff-le-29-10-gu%C3%A9rillia-de-christophe-payet-l-ia-n-est-pas-par-essence-technofasciste",
-      "source": "RFI",
-      "publishedAt": "2026-10-27T23:26:56.000Z",
-      "summary": "L'affaire Thélyson Orélien, les vidéos faites par intelligence artificielle (IA) à la gloire de Donald Trump, les inquiétudes sur une technologie prête à dépasser l'humain ; les craintes autour de l’IA sont omniprésentes dans le débat public. Les usages actuels de cette technologie ne sont pourtant pas une fatalité. Po",
-      "image": "https://s.rfi.fr/media/display/7a33263e-d22d-11f1-b812-efcc5769f1db/w:1024/p:16x9/guerilla.jpg",
+      "title": "Votre Pixel ne sonne pas le matin ? Google enquête sur un bug d’alarmes muettes",
+      "url": "https://www.frandroid.com/marques/3301133_votre-pixel-ne-sonne-pas-le-matin-google-enquete-sur-un-bug-dalarmes-muettes",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T07:49:15.000Z",
+      "summary": "Les Pixel traînent des soucis d’alarmes depuis 2021 et ça ne semble pas terminé. Un propriétaire de Pixel a raconté sur Reddit que ses deux alarmes du matin se sont coupées sans émettre le moindre son. Google serait sur le coup.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/pixel-11-pro-alarme.jpg?resize=1200,675&key=9f35d3c0",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerillia-de-christophe-payet-il-faut-faire-de-l-ia-une-arme-d-emancipat-8c4a9ab433.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/votre-pixel-ne-sonne-pas-le-matin-google-enquete-sur-un-bug-d-alarmes-mu-691295a197.html"
     },
     {
-      "title": "Au Brésil, la réélection de Lula pèse sur le prix des matières premières agricoles",
-      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261027-au-br%C3%A9sil-la-r%C3%A9%C3%A9lection-de-lula-p%C3%A8se-sur-le-prix-des-mati%C3%A8res-premi%C3%A8res-agricoles",
-      "source": "RFI",
-      "publishedAt": "2026-10-27T23:40:56.000Z",
-      "summary": "La réélection de Lula da Silva à la présidence du Brésil a eu un effet immédiat sur les marchés des matières premières : les principaux produits agricoles brésiliens – le sucre, le café, mais aussi le soja – ont vu leur prix chuter. Cette baisse s'explique essentiellement par la chute du real, la monnaie nationale, qui",
-      "image": "https://s.rfi.fr/media/display/a58db74e-d24c-11f1-a829-75c7729144f1/w:1024/p:16x9/AP26299153839684.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-bresil-la-reelection-de-lula-pese-sur-le-prix-des-matieres-premieres--7a913b4c01.html"
+      "title": "Firefox pourra bientôt remplir automatiquement vos formulaires et surveiller vos pages Web",
+      "url": "https://www.01net.com/actualites/firefox-pourra-bientot-remplir-automatiquement-vos-formulaires-et-surveiller-vos-pages-web.html",
+      "source": "01net",
+      "publishedAt": "2026-10-28T07:41:57.000Z",
+      "summary": "Le navigateur Web de Mozilla va s’enrichir de nouvelles fonctionnalités d’IA. Firefox pourra bientôt remplir automatiquement les formulaires en ligne en fonction du contexte, et vous alerter dès qu’un changement a été apporté sur une page web.",
+      "image": "https://www.01net.com/app/uploads/2026/02/Firefox-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/firefox-pourra-bientot-remplir-automatiquement-vos-formulaires-et-survei-fc5d2bb59b.html"
     },
     {
-      "title": "Israël : les partisans de l'opposition fêtent leur légère avance",
-      "url": "https://fr.euronews.com/video/2026/10/28/israel-les-partisans-de-lopposition-fetent-leur-legere-avance",
-      "source": "Euronews",
-      "publishedAt": "2026-10-27T23:32:24.000Z",
-      "summary": "À Tel-Aviv, les partisans de Gadi Eisenkot célèbrent les premières estimations électorales, qui placent l'opposition légèrement devant le camp de Benjamin Netanyahu, sans majorité absolue.",
-      "image": "https://images.euronews.com/articles/stories/09/96/97/61/696x392_cmsv2_e73840d7-eb5c-5ffe-b18b-78cf9763162c-9969761.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-les-partisans-de-l-opposition-fetent-leur-legere-avance-e57ae469f5.html"
-    },
-    {
-      "title": "Portugal : mobilisation devant de la parlement à Lisbonne contre la crise du logement",
-      "url": "https://fr.euronews.com/video/2026/10/28/portugal-la-crise-du-logement-a-lisbonne-declenche-une-protestation-devant-le-parlement",
-      "source": "Euronews",
-      "publishedAt": "2026-10-27T23:13:53.000Z",
-      "summary": "Devant le Parlement portugais, à Lisbonne, des milliers de manifestants ont levé des clés, des maisons en carton et des œillets rouges pour réclamer le droit au logement et dénoncer les violences policières présumées.",
-      "image": "https://images.euronews.com/articles/stories/09/96/97/47/696x392_cmsv2_62f55af9-db6e-598b-8abd-b044f9d75d4e-9969747.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/portugal-mobilisation-devant-de-la-parlement-a-lisbonne-contre-la-crise--e3618db3a7.html"
-    },
-    {
-      "title": "Royaume-Uni: 1,5 million d'écoliers contraints d'étudier dans des écoles délabrées",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261027-royaume-uni-1-5-million-d-%C3%A9coliers-contraints-d-%C3%A9tudier-dans-des-%C3%A9coles-d%C3%A9labr%C3%A9es",
-      "source": "RFI",
-      "publishedAt": "2026-10-27T23:04:56.000Z",
-      "summary": "Au Royaume-Uni, le bâti scolaire a beau avoir bénéficié d'une campagne de remise à neuf sous Tony Blair, Premier ministre de 1997 à 2007, beaucoup d'établissements sont en mauvais état et ont bien du mal à obtenir les fonds pour des travaux. Selon une enquête réalisée par le journal The Guardian, 1,5 million d'écoliers",
-      "image": "https://s.rfi.fr/media/display/cc040096-a3f9-11ea-9a75-005056bf18d4/w:1024/p:16x9/_3_health-coronavirus-britain-schools_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-1-5-million-d-ecoliers-contraints-d-etudier-dans-des-ecoles--d8b2dd5998.html"
-    },
-    {
-      "title": "France: mission sauvetage des œuvres d'art de l'Hôtel de ville de Limoges après l'incendie",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261027-france-mission-sauvetage-des-%C5%93uvres-d-art-de-l-h%C3%B4tel-de-ville-de-limoges-apr%C3%A8s-l-incendie",
-      "source": "RFI",
-      "publishedAt": "2026-10-27T23:02:56.000Z",
-      "summary": "Une semaine après l'incendie de l'Hôtel de ville de Limoges, le 17 octobre, en marge des manifestations lycéennes et des gilets jaunes, le Premier ministre est venu au chevet de la mairie ravagée, le 23 octobre. Alors que Sébastien Lecornu a annoncé la reconstruction à l'identique de la mairie, Stéphane Bern, de la Fon",
-      "image": "https://s.rfi.fr/media/display/6c451ee4-d253-11f1-9a48-47de50b3c1e4/w:1024/p:16x9/hotel-de-ville-limoges-2.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-mission-sauvetage-des-uvres-d-art-de-l-hotel-de-ville-de-limoges--b95c8b3184.html"
-    },
-    {
-      "title": "Législatives en Israël : Gadi Eisenkot se dit prêt à former un gouvernement",
-      "url": "https://www.france24.com/fr/moyen-orient/20261027-l%C3%A9gislatives-isra%C3%ABl-participation-record-netanyahu-eisenkot-coude-%C3%A0-coude",
+      "title": "Brésil : comment l'\"armée de Lula\" sur WhatsApp a pu faire basculer la présidentielle",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261028-bresil-arm%C3%A9e-num%C3%A9rique-lula-whatsapp-d%C3%A9cisive-pour-battre-flavio-bolsonaro",
       "source": "France 24",
-      "publishedAt": "2026-10-27T21:53:41.000Z",
-      "summary": "Selon des sondages de sortie des urnes, le Premier ministre sortant Benjamin Netanyahu ​était donné mardi au coude-à-coude avec son rival Gadi Eisenkot à l'issue des premières élections législatives en Israël depuis les attaques du 7 octobre 2023. Gadi Eisenkot s'est dit prêt à former un gouvernement. Le taux de partic",
-      "image": "https://s.france24.com/media/display/e0844dc0-d24e-11f1-bac3-bf69a9ce9852/w:1024/p:16x9/2026-10-27T201655Z-2088081210-RC2WBOANCXWD-RTRMADP-3-ISRAEL-ELECTION.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-israel-gadi-eisenkot-se-dit-pret-a-former-un-gouvernemen-11324ac85d.html"
+      "publishedAt": "2026-10-28T07:26:36.000Z",
+      "summary": "Devancé au premier tour, Lula a remporté dimanche la présidentielle brésilienne face à Flavio Bolsonaro, un renversement inédit depuis le retour du suffrage direct en 1989. Entre les deux tours, une chaîne WhatsApp, \"l'armée de Lula\", est passée de 50 000 à près de 11 millions d'abonnés. Une arme empruntée au camp Bols",
+      "image": "https://s.france24.com/media/display/d28d90c6-d23c-11f1-b4be-75c7729144f1/w:1024/p:16x9/2026-10-24T124709Z-825063632-RC2PZNAK2EW7-RTRMADP-3-BRAZIL-ELECTION-SOCIAL-MEDIA.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-comment-l-armee-de-lula-sur-whatsapp-a-pu-faire-basculer-la-presi-6ff8c7c927.html"
     },
     {
-      "title": "Brésil: Flavio Bolsonaro a fui vers les États-Unis, Washington annonce qu'un visa va lui être accordé",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261027-br%C3%A9sil-flavio-bolsonaro-a-fui-vers-les-%C3%A9tats-unis-washington-annonce-qu-un-visa-va-lui-%C3%AAtre-accord%C3%A9",
+      "title": "Comment Android va mieux sécuriser vos contacts et vous protéger des arnaques",
+      "url": "https://www.frandroid.com/marques/google/3301113_comment-android-va-mieux-securiser-vos-contacts-et-vous-proteger-des-arnaques",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T07:17:01.000Z",
+      "summary": "À partir de la prochaine mise à jour majeure d’Android, l’autorisation d’édition des contacts va être revue de fond en comble pour éviter d’exposer vos données personnelles à n’importe quel logiciel.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/1009_ABL_142_A_more_reliable_way_to_add_and_edit_contacts_on_Android_Strapi_b510ec4fc0_ZXfljU.webp?resize=1200,675&key=1efb9ab1",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-android-va-mieux-securiser-vos-contacts-et-vous-proteger-des-arn-0b8890ad73.html"
+    },
+    {
+      "title": "Ce SUV électrique chinois gagne le bonus écologique grâce à la maison mère de Peugeot",
+      "url": "https://www.01net.com/actualites/ce-suv-electrique-chinois-devient-eligible-au-bonus-ecologique-en-france-grace-a-la-maison-mere-de-peugeot.html",
+      "source": "01net",
+      "publishedAt": "2026-10-28T07:05:27.000Z",
+      "summary": "Grâce à sa production en Espagne par Stellantis, le Leapmotor B10 devient éligible au bonus écologique en France. De quoi faire baisser son prix et renforcer la pression sur les SUV électriques des constructeurs européens.",
+      "image": "https://www.01net.com/app/uploads/2026/10/leapmotor-b10-2-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-suv-electrique-chinois-gagne-le-bonus-ecologique-grace-a-la-maison-me-c3fb1c8d1d.html"
+    },
+    {
+      "title": "Législatives en Serbie: les étudiants demandent la démission de la direction de la télévision publique",
+      "url": "https://www.rfi.fr/fr/europe/20261028-l%C3%A9gislatives-en-serbie-les-%C3%A9tudiants-demandent-la-d%C3%A9mission-de-la-direction-de-la-t%C3%A9l%C3%A9vision-publique",
       "source": "RFI",
-      "publishedAt": "2026-10-27T21:18:48.000Z",
-      "summary": "Le sénateur brésilien Flavio Bolsonaro, battu dimanche 25 octobre lors de l'élection présidentielle par Lula da Silva, a fui le Brésil pour les États-Unis, ont rapporté mardi 27 octobre CNN et le New York Times, citant des responsables américains anonymes. Un haut responsable du département d'État, sous couvert d'anony",
-      "image": "https://s.rfi.fr/media/display/c302b362-d24a-11f1-853f-75c7729144f1/w:1024/p:16x9/BRESIL-ELECTIONS-FLAVIO-BOLSONARO.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-flavio-bolsonaro-a-fui-vers-les-etats-unis-washington-annonce-qu--e05c2833da.html"
+      "publishedAt": "2026-10-28T07:00:43.000Z",
+      "summary": "Ils ne sont pas encore officiellement députés puisque les résultats de l'élection ne sont pas encore officiels, mais les députés serbes de la liste étudiante ont, d'une certaine façon, commencé leur travail. Ils ont adressé, entre autres, une lettre ouverte aux médias de service public, à l'autorité de régulation des m",
+      "image": "https://s.rfi.fr/media/display/182a1d7e-d29d-11f1-a712-47de50b3c1e4/w:1024/p:16x9/AP26299709266037.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-serbie-les-etudiants-demandent-la-demission-de-la-direct-c1a717d34d.html"
     },
     {
-      "title": "Législatives en Israël : l'opposition légèrement en tête, selon les sondages de sortie des urnes",
-      "url": "https://fr.euronews.com/2026/10/27/legislatives-en-israel-lopposition-legerement-en-tete-selon-les-sondages-de-sortie-des-urn",
-      "source": "Euronews",
-      "publishedAt": "2026-10-27T20:28:47.000Z",
-      "summary": "La coalition d'opposition menée par Gadi Eisenkot obtiendrait 53 sièges contre 50 sièges pour la coalition gouvernementale de Benjamin Netanyahu. Les partis arabes obtiendraient eux 17 sièges.",
-      "image": "https://images.euronews.com/articles/stories/09/96/97/17/696x392_cmsv2_d4fd8425-b52c-59d0-8310-ce30ed02d061-9969717.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-israel-l-opposition-legerement-en-tete-selon-les-sondage-70b8e86b35.html"
+      "title": "DIRECT - Législatives en Israël: Netanyahu et Eisenkot au coude-à-coude en vue de former un gouvernement",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261028-direct-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-et-eisenkot-au-coude-%C3%A0-coude-en-vue-de-former-un-gouvernement",
+      "source": "RFI",
+      "publishedAt": "2026-10-28T05:54:22.000Z",
+      "summary": "Pas de gagnant clair, mais deux volontaires pour diriger Israël. Le Premier ministre Benyamin Netanyahu et son rival Gadi Eisenkot, donnés à égalité aux élections législatives mais loin de la majorité, se sont tous deux dits prêts à former un gouvernement, augurant d'intenses tractations. Selon le journal israélien Haa",
+      "image": "https://s.rfi.fr/media/display/6c2e0cfc-d291-11f1-aecd-efcc5769f1db/w:1024/p:16x9/AP26301064637162.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-legislatives-en-israel-netanyahu-et-eisenkot-au-coude-a-coude-en--8b6198a368.html"
+    },
+    {
+      "title": "Mali: quatre militants pro-démocratie présentés à la justice après presque six mois de détention",
+      "url": "https://www.rfi.fr/fr/afrique/20261028-mali-quatre-militants-pro-d%C3%A9mocratie-pr%C3%A9sent%C3%A9s-%C3%A0-la-justice-apr%C3%A8s-presque-six-mois-de-d%C3%A9tention",
+      "source": "RFI",
+      "publishedAt": "2026-10-28T03:38:04.000Z",
+      "summary": "Au Mali, quatre militants pro-démocratie détenus par la sécurité d'Etat depuis près de six mois dans des lieux inconnus et en dehors de tout cadre judiciaire ont réapparu le mardi 20 octobre. Ils ont été présentés au pôle judiciaire spécialisé contre la cybercriminalité et sont désormais emprisonnés à la maison d'arrêt",
+      "image": "https://s.rfi.fr/media/display/531d29c8-41f5-11f1-b4da-005056a90284/w:1024/p:16x9/AP26115387296781.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-quatre-militants-pro-democratie-presentes-a-la-justice-apres-presqu-3b3ddadd4f.html"
+    },
+    {
+      "title": "Attentat raciste en France: vives tensions entre la gauche et l'extrême droite à l'Assemblée nationale",
+      "url": "https://www.rfi.fr/fr/france/20261028-attentat-raciste-en-france-vives-tensions-entre-la-gauche-et-l-extr%C3%AAme-droite-%C3%A0-l-assembl%C3%A9e-nationale",
+      "source": "RFI",
+      "publishedAt": "2026-10-28T03:12:04.000Z",
+      "summary": "La séance de questions au gouvernement a donné lieu, mardi 27 octobre, à de vifs échanges à l'Assemblée nationale, quatre jours après l'attentat raciste de Trappes, dans les Yvelines, qui a coûté la vie à un homme de 26 ans. La gauche dénonce la responsabilité des discours racistes dans les passages à l'acte, tandis qu",
+      "image": "https://s.rfi.fr/media/display/e8d80860-d25b-11f1-bb08-efcc5769f1db/w:1024/p:16x9/000-D4KR293.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/attentat-raciste-en-france-vives-tensions-entre-la-gauche-et-l-extreme-d-7beeefd567.html"
+    },
+    {
+      "title": "GTA 6 : la méthode radicale de Rockstar pour empêcher la presse de faire fuiter le jeu",
+      "url": "https://www.frandroid.com/produits-android/console/3301123_gta-6-la-methode-radicale-de-rockstar-pour-empecher-la-presse-de-faire-fuiter-le-jeu",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T07:37:25.000Z",
+      "summary": "Les copies de GTA 6 envoyées à la presse, trois semaines avant la sortie du 19 novembre, afficheraient en permanence le nom du testeur à l'écran.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/gta-6-trailer.png?resize=1200,675&key=4db8dc92",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gta-6-la-methode-radicale-de-rockstar-pour-empecher-la-presse-de-faire-f-43b3efad17.html"
+    },
+    {
+      "title": "999 €, c’est le bon prix de ce TV Hisense avec une dalle 75″ Mini LED rafraîchie à 144 Hz",
+      "url": "https://www.frandroid.com/bons-plans/3300523_999-e-cest-le-bon-prix-de-ce-tv-hisense-avec-dalle-75-mini-led-rafraichie-a-144-hz",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T07:15:00.000Z",
+      "summary": "Avec sa dalle XXL 4K Mini LED, sa fréquence de rafraîchissement maximale de 144 Hz et ses multiples compatibilités, le TV Hisense 75E8S entend bien satisfaire les cinéphiles comme les gamers exigeants. Et ce modèle est actuellement disponible à 999,99 euros au lieu de 1 499,99 euros chez Carrefour.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/hisense-65e8s.jpg?resize=1200,675&key=20e661c4",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/999-c-est-le-bon-prix-de-ce-tv-hisense-avec-une-dalle-75-mini-led-rafrai-848b333307.html"
+    },
+    {
+      "title": "Cette nouvelle alerte de Chrome repère les sites suspects, mais l’option est désactivée par défaut",
+      "url": "https://www.frandroid.com/marques/3300405_cette-nouvelle-alerte-de-chrome-repere-les-sites-suspects-mais-loption-est-desactivee-par-defaut",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T07:09:33.000Z",
+      "summary": "Google Chrome affiche désormais une alerte sur les sites qui ressemblent à des arnaques, avant même qu'ils soient classés dangereux. Il faut pour cela activer la Protection renforcée.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/Scam_Roundup_BlogHeaders_Option_.width-1200.format-webp.webp?resize=1200,675&key=cc823734",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cette-nouvelle-alerte-de-chrome-repere-les-sites-suspects-mais-l-option--f5f32ced2a.html"
+    },
+    {
+      "title": "GTA 6 : préparez vos SSD, la taille colossale du jeu vient de fuiter sur PS5 et Xbox",
+      "url": "https://www.frandroid.com/produits-android/console/3301079_gta-6-preparez-vos-ssd-la-taille-colossale-du-jeu-vient-de-fuiter-sur-ps5-et-xbox",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T06:57:51.000Z",
+      "summary": "Selon Insider Gaming, GTA 6 demanderait 210 gigaoctets d'espace libre pour s'installer. Le chiffre arrive à trois semaines de la sortie du jeu, prévue le 19 novembre 2026.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/08/gta-6-bande-annonce.png?resize=1200,675&key=e0efaa79",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gta-6-preparez-vos-ssd-la-taille-colossale-du-jeu-vient-de-fuiter-sur-ps-5ff5a01911.html"
+    },
+    {
+      "title": "ChatGPT, Gemini, Meta AI : l’Europe prépare un passe-droit des IA sur vos données",
+      "url": "https://www.01net.com/actualites/chatgpt-gemini-meta-ai-leurope-prepare-un-passe-droit-des-ia-sur-vos-donnees.html",
+      "source": "01net",
+      "publishedAt": "2026-10-28T06:30:23.000Z",
+      "summary": "Les Vingt-Sept veulent inscrire dans le RGPD un feu vert à l'entraînement des IA sur vos données personnelles. Sans consentement, et avec un droit d'opposition raboté au passage.",
+      "image": "https://www.01net.com/app/uploads/2026/10/Canva1920_1280-41-1344x896.jpeg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chatgpt-gemini-meta-ai-l-europe-prepare-un-passe-droit-des-ia-sur-vos-do-b67f6fa813.html"
+    },
+    {
+      "title": "L’ordinateur tactile d’Apple pourrait être le Macbook Pro le plus cher depuis 20 ans",
+      "url": "https://www.frandroid.com/marques/apple/3301059_lordinateur-tactile-dapple-pourrait-etre-le-macbook-pro-le-plus-cher-depuis-20-ans",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-28T06:28:23.000Z",
+      "summary": "Attendu ce 28&nbsp;octobre dans la soirée, le tout nouveau MacBook Pro tactile pourrait bien arriver avec un tarif autour des 3000 € dans sa version de base. De quoi réserver l’appareil à une élite.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/02/apple-macbook-pro-16-m2-max-test-2-scaled.jpg?resize=1200,675&key=3de685cc",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ordinateur-tactile-d-apple-pourrait-etre-le-macbook-pro-le-plus-cher-d-7ccf88a848.html"
+    },
+    {
+      "title": "10 000 commandes en 19 heures : Volkswagen fait un carton en Chine avec sa berline électrique à 10 700 €",
+      "url": "https://www.01net.com/actualites/10-000-commandes-en-19-heures-volkswagen-carton-chine-berline-electrique-10-700-euros.html",
+      "source": "01net",
+      "publishedAt": "2026-10-28T06:00:47.000Z",
+      "summary": "Volkswagen renoue avec le succès grâce à sa nouvelle berline électrique pas chère. La Jetta M6 a en effet enregistré plus de 10 000 commandes fermes en Chine 19 heures seulement après son lancement.",
+      "image": "https://www.01net.com/app/uploads/2026/10/jetta-m6-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/10-000-commandes-en-19-heures-volkswagen-fait-un-carton-en-chine-avec-sa-b59147083c.html"
     }
   ]
 }
