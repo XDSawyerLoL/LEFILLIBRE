@@ -1,68 +1,166 @@
 {
-  "updatedAt": "2026-10-31T02:23:13.115Z",
+  "updatedAt": "2026-10-31T08:36:28.186Z",
   "items": [
     {
-      "title": "La restitution au Sénat du quatrième Baromètre de l'association Français du monde",
-      "url": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20261030-la-restitution-au-s%C3%A9nat-du-quatri%C3%A8me-barom%C3%A8tre-de-l-association-fran%C3%A7ais-du-monde",
-      "source": "RFI",
-      "publishedAt": "2026-10-30T23:59:42.000Z",
-      "summary": "L'association « Français du monde – ADFE » vient de présenter son quatrième Baromètre au Sénat. Retraites, tensions internationales, coût de la vie, accès à l'éducation et difficultés bancaires : derrière les chiffres, une même attente se dessine, celle de droits réellement accessibles et de services publics adaptés au",
-      "image": "https://s.rfi.fr/media/display/10996278-d495-11f1-8912-d18c5759e759/w:1024/p:16x9/adfe.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-restitution-au-senat-du-quatrieme-barometre-de-l-association-francais-4e507a604c.html"
+      "title": "Elon Musk a un conseil pour votre argent. Surprise : il ne fait pas l’unanimité",
+      "url": "https://www.01net.com/actualites/elon-musk-a-un-conseil-pour-votre-argent-surprise-il-ne-fait-pas-lunanimite.html",
+      "source": "01net",
+      "publishedAt": "2026-10-31T08:21:47.000Z",
+      "summary": "Elon Musk estime que les progrès de l’intelligence artificielle rendront bientôt inutile le fait d’épargner pour sa retraite. Une vision loin de convaincre certains experts financiers, qui déconseillent vivement de suivre ce pari pour le moins risqué.",
+      "image": "https://www.01net.com/app/uploads/2026/10/Elon-Musk-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elon-musk-a-un-conseil-pour-votre-argent-surprise-il-ne-fait-pas-l-unani-143ec005fd.html"
     },
     {
-      "title": "À Amsterdam, le musée Van Gogh consacre une grande rétrospective au peintre James Whistler",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/20261030-%C3%A0-amsterdam-le-mus%C3%A9e-van-gogh-consacre-une-grande-r%C3%A9trospective-au-peintre-james-whistler",
-      "source": "RFI",
-      "publishedAt": "2026-10-30T23:57:55.000Z",
-      "summary": "Il a peint sa mère de profil, en gris et noir, et en a fait une icône. Il a traîné en justice le plus grand critique de son temps, et a gagné. Le flamboyant James Whistler a ouvert la voie à l'art moderne. À Amsterdam, le musée Van Gogh lui consacre sa plus grande rétrospective européenne depuis 30 ans. « Whistler. Dan",
-      "image": "https://s.rfi.fr/media/display/deeb7d52-d4b6-11f1-9efb-d18c5759e759/w:1024/p:16x9/whistler.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-amsterdam-le-musee-van-gogh-consacre-une-grande-retrospective-au-peint-02de26ae15.html"
+      "title": "Samsung 65S85H : ce grand TV OLED, parfait pour le jeu en 4K 120 Hz, perd 150 €",
+      "url": "https://www.frandroid.com/bons-plans/3300821_samsung-65s85h-ce-grand-tv-oled-parfaite-pour-le-jeu-en-4k-120-hz-perd-150-e",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-31T08:02:00.000Z",
+      "summary": "Le TV OLED Samsung TQ65S85H est l'un des derniers modèles dévoilés par la marque. Idéal aussi bien pour regarder des films que pour jouer, ce téléviseur est actuellement affiché à 1 649,99 euros au lieu de 1 799,99 euros chez Carrefour.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/samsung-55s85h.jpg?resize=1200,675&key=9b3795df",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/samsung-65s85h-ce-grand-tv-oled-parfait-pour-le-jeu-en-4k-120-hz-perd-15-ff0adcec6f.html"
     },
     {
-      "title": "France: les candidats à l'élection présidentielle 2027 au chevet d'une presse malade",
-      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20261030-france-les-candidats-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle-2027-au-chevet-d-une-presse-malade",
-      "source": "RFI",
-      "publishedAt": "2026-10-30T23:50:04.000Z",
-      "summary": "Quelles sont les attentes de la presse française vis-à-vis des candidats à l'élection présidentielle en 2027 ?",
-      "image": "https://s.rfi.fr/media/display/77f01dd8-d498-11f1-9f25-bf1914cabd52/w:1024/p:16x9/000-D2R27M2.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-les-candidats-a-l-election-presidentielle-2027-au-chevet-d-une-pr-3c02c69961.html"
+      "title": "« C’est assez terrible » : pour Sam Altman, la RAM de votre PC serait mieux dans un data center",
+      "url": "https://www.frandroid.com/marques/3305409_cest-assez-terrible-pour-sam-altman-la-ram-de-votre-pc-serait-mieux-dans-un-data-center",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-31T07:58:40.000Z",
+      "summary": "Sam Altman, CEO d'OpenAI, a jugé «&nbsp;assez terrible&nbsp;» que les particuliers gardent dans leur PC de la mémoire vive qui ne sert, selon lui, que 5&nbsp;% du temps, dans un podcast mis en ligne le 29 octobre 2026. Son entreprise prévoit pourtant d'absorber jusqu'à 900&nbsp;000 plaques de DRAM par mois pour ses pro",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/11/sam-altman-frandroid-altman.jpg?resize=1200,675&key=83af79d8",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/c-est-assez-terrible-pour-sam-altman-la-ram-de-votre-pc-serait-mieux-dan-67fc87abd1.html"
     },
     {
-      "title": "Suède: la baisse de l'immigration et de la natalité entraîne la fermeture des écoles",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261030-su%C3%A8de-la-baisse-de-l-immigration-et-de-la-natalit%C3%A9-entra%C3%AEne-la-fermeture-des-%C3%A9coles",
+      "title": "Présidentielle: Attal et Philippe face au risque de grand effacement au second tour",
+      "url": "https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20261031-pr%C3%A9sidentielle-attal-et-philippe-face-au-risque-de-grand-effacement-au-second-tour",
       "source": "RFI",
-      "publishedAt": "2026-10-30T23:32:00.000Z",
-      "summary": "La Suède fait face à une baisse historique de sa natalité. Son indicateur de fécondité a atteint son plus bas niveau historique, à 1,43 enfant par femme. Mais le royaume connaît un autre bouleversement démographique majeur, avec un net ralentissement de l'immigration. Et les conséquences sont déjà bien visibles. À Malm",
-      "image": "https://s.rfi.fr/media/display/dd277ab4-3aad-11f1-ac30-005056bf30b7/w:1024/p:16x9/AP23252598366634.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/suede-la-baisse-de-l-immigration-et-de-la-natalite-entraine-la-fermeture-67fe58588b.html"
+      "publishedAt": "2026-10-31T07:44:36.000Z",
+      "summary": "Depuis les violences qui se sont déroulées en France en marge des manifestations du 17 octobre dernier, la campagne présidentielle est comme vampirisée par la colère qui gronde et les mouvements sociaux qui ne se calment pas. Ces crises profitent à Marine Le Pen et Jean-Luc Mélenchon. Mais pour les candidats de l'espac",
+      "image": "https://s.rfi.fr/media/display/68a3bfbe-566d-11f1-8ec2-005056bfb2b6/w:1024/p:16x9/Les-anciens-Premiers-ministres-%C3%89douard-Philippe-%C3%A0-gauche-et-Gabriel-Attal-%C3%A0-droite-%C3%A0-Paris-le-7-mai-2024.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-attal-et-philippe-face-au-risque-de-grand-effacement-au-s-a78317c9e4.html"
     },
     {
-      "title": "Halloween et manifestations : interdit de dissimuler son visage ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261030-halloween-et-manifestations-interdit-de-dissimuler-son-visage",
-      "source": "France 24",
-      "publishedAt": "2026-10-30T21:40:13.000Z",
-      "summary": "Le message a provoqué un tollé. Mercredi, la préfecture de police rappelle que dissimuler son visage dans l'espace public est passible d'une amende, même pendant Halloween. En principe, c'est faux. En revanche, qu'en est-il quand la fête d'Halloween investit les manifestations ? Peut-on manifester le visage couvert, co",
-      "image": "https://s.france24.com/media/display/51e0b42a-d4a9-11f1-b058-a575454bc579/w:1024/p:16x9/capture-279ed734.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/halloween-et-manifestations-interdit-de-dissimuler-son-visage-759d18436d.html"
+      "title": "Carte de fidélité E.Leclerc : comment ça marche et comment en profiter au maximum ? [Sponso]",
+      "url": "https://www.frandroid.com/culture-tech/economie/3251431_carte-de-fidelite-e-leclerc-comment-ca-marche-et-comment-en-profiter-au-maximum",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-31T07:27:00.000Z",
+      "summary": "Gratuite et sans engagement, la carte de fidélité E.Leclerc reverse une partie de vos achats en euros bien réels : les Tickets E.Leclerc, utilisables dès le lendemain sur presque toutes vos courses, en magasin ou au Drive.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/carte-leclerc.jpg?resize=1200,675&key=517ce973",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/carte-de-fidelite-e-leclerc-comment-ca-marche-et-comment-en-profiter-au--5ba497d6fb.html"
     },
     {
-      "title": "Législatives en Israël: Isaac Herzog, un président au cœur des tractations",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261030-l%C3%A9gislatives-en-isra%C3%ABl-isaac-herzog-un-pr%C3%A9sident-au-c%C5%93ur-des-tractations",
-      "source": "RFI",
-      "publishedAt": "2026-10-30T21:31:09.000Z",
-      "summary": "Les élections législatives en Israël se sont achevées sans majorité claire. Benyamin Netanyahu et son rival Gadi Eisenkot vont devoir élargir leur bloc pour espérer former un gouvernement. Il reviendra finalement au président israélien, Isaac Herzog, de désigner celui qui sera chargé de constituer une coalition. Une re",
-      "image": "https://s.rfi.fr/media/display/e1680d84-d4a7-11f1-a648-a575454bc579/w:1024/p:16x9/ISRAEL-PRESIDENT-ISAAC-HERZOG.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-israel-isaac-herzog-un-president-au-c-ur-des-tractations-5f71909a4c.html"
+      "title": "La future Peugeot 208 est en chemin : voici ce que l’on sait déjà",
+      "url": "https://www.01net.com/actualites/la-future-peugeot-208-est-en-chemin-voici-ce-que-lon-sait-deja.html",
+      "source": "01net",
+      "publishedAt": "2026-10-31T07:26:15.000Z",
+      "summary": "Peugeot prépare la troisième génération de sa 208, attendue à partir de 2027. Cette nouvelle citadine devrait profiter d'un design inédit, d'une plateforme modernisée et de motorisations électriques, mais aussi thermiques et hybrides.",
+      "image": "https://www.01net.com/app/uploads/2026/05/peugeot-polygon-2-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-future-peugeot-208-est-en-chemin-voici-ce-que-l-on-sait-deja-e65baa0153.html"
     },
     {
-      "title": "Corée du Nord: la Suisse annonce la réouverture de sa représentation diplomatique à Pyongyang",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261030-cor%C3%A9e-du-nord-la-suisse-annonce-la-r%C3%A9ouverture-de-sa-repr%C3%A9sentation-diplomatique-%C3%A0-pyongyang",
+      "title": "EN DIRECT - Mobilisation du 31 octobre: nouvelle journée de manifestations en France, le parcours syndical interdit à Paris",
+      "url": "https://www.rfi.fr/fr/france/20261031-en-direct-mobilisation-du-31-octobre-nouvelle-journ%C3%A9e-de-manifestations-en-france-le-parcours-syndical-interdit-%C3%A0-paris",
       "source": "RFI",
-      "publishedAt": "2026-10-30T21:29:14.000Z",
-      "summary": "Le ministre suisse des Affaires étrangères, Ignazio Cassis, vient d'achever une visite de deux jours en Corée du Nord, où il a annoncé, vendredi 30 octobre, la réouverture d'un bureau de représentation diplomatique à Pyongyang. Une reprise des échanges après plusieurs années de fermeture du pays à la suite de la pandém",
-      "image": "https://s.rfi.fr/media/display/21e5a6aa-d47b-11f1-ae18-1beafce15fea/w:1024/p:16x9/AP26302409540223.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/coree-du-nord-la-suisse-annonce-la-reouverture-de-sa-representation-dipl-74dd1f8007.html"
+      "publishedAt": "2026-10-31T07:12:07.000Z",
+      "summary": "Ce samedi 31 octobre 2026, syndicats, lycéens et Gilets jaunes ont appelé à un Acte III de mobilisation. Des manifestations sont prévues dans toute la France. Le ministère de l'Intérieur, qui évoque une journée « à risque très élevé », a reconduit le dispositif policier du week-end du 24 octobre : 70 000 policiers et g",
+      "image": "https://s.rfi.fr/media/display/865b79d8-d4f9-11f1-ae32-d18c5759e759/w:1024/p:16x9/AP26297563612186.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-mobilisation-du-31-octobre-nouvelle-journee-de-manifestations--b0add797a7.html"
+    },
+    {
+      "title": "Netflix, Disney+, jeux vidéo : qui paiera vraiment la taxe au gigaoctet votée par l’Assemblée ?",
+      "url": "https://www.frandroid.com/culture-tech/3305403_netflix-disney-jeux-video-qui-paiera-vraiment-la-taxe-au-gigaoctet-votee-par-lassemblee",
+      "source": "Frandroid",
+      "publishedAt": "2026-10-31T07:07:13.000Z",
+      "summary": "Les députés ont adopté ce vendredi 30 octobre, par 11 voix contre 10, une taxe de 5,5 centimes par gigaoctet envoyé aux internautes français, payée par les plateformes. La commission des finances avait rejeté le même texte trois semaines plus tôt.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/taxe-argent-pochoir.jpg?resize=1200,675&key=69fae71a",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/netflix-disney-jeux-video-qui-paiera-vraiment-la-taxe-au-gigaoctet-votee-15c4421df4.html"
+    },
+    {
+      "title": "Sahara occidental: non-renouvelé au Conseil de sécurité de l'ONU, le mandat de la Minurso va prendre fin",
+      "url": "https://www.rfi.fr/fr/afrique/20261031-sahara-occidental-non-renouvel%C3%A9-au-conseil-de-s%C3%A9curit%C3%A9-de-l-onu-le-mandat-de-la-minurso-va-prendre-fin",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T06:25:08.000Z",
+      "summary": "La Mission des Nations unies pour l'organisation d'un référendum au Sahara occidental (Minurso) a été ajournée dans la stupeur à l’ONU dans la nuit du vendredi 30 au 31 octobre, enterrant ainsi sa présence vieille de 35 ans dans la région. Alors que son mandat expire ce samedi, deux résolutions successives n'ont pas tr",
+      "image": "https://s.rfi.fr/media/display/29ce926a-d4f2-11f1-969b-d18c5759e759/w:1024/p:16x9/000-8VV7ZW.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sahara-occidental-non-renouvele-au-conseil-de-securite-de-l-onu-le-manda-effff061a2.html"
+    },
+    {
+      "title": "Midterms au Texas: «Le vote latino revêt une importance croissante, mais il est également très complexe»",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261031-midterms-au-texas-le-vote-latino-rev%C3%AAt-une-importance-croissante-mais-il-est-%C3%A9galement-tr%C3%A8s-complexe",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T06:00:24.000Z",
+      "summary": "Au Texas, la peur des opérations de l’ICE et l’incertitude politique pèsent sur les électeurs latinos à l’approche des élections de mi-mandat. Le poids électoral de cette communauté, qui représente près de 40 % de la population du Texas, pourrait toutefois avoir un rôle déterminant dans l'issue de ces élections. Entret",
+      "image": "https://s.rfi.fr/media/display/154c8072-d3a3-11f1-b569-cfde22befba6/w:1024/p:16x9/AP26215679412503.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-au-texas-le-vote-latino-revet-une-importance-croissante-mais-il-4b00532ab9.html"
+    },
+    {
+      "title": "Manifestations en France: nouvelle journée de mobilisation ce samedi, un dispositif policier «exceptionnel» attendu",
+      "url": "https://www.rfi.fr/fr/france/20261031-manifestations-en-france-nouvelle-journ%C3%A9e-de-mobilisation-ce-samedi-dispositif-policier-exceptionnel-attendu",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T05:57:06.000Z",
+      "summary": "Ce samedi 31 octobre marque une nouvelle journée de manifestations partout en France pour l'acte III d'une mobilisation contre la vie chère. Syndicats, lycéens et Gilets jaunes sont attendus dans les cortèges. En ce jour d'Halloween, le ministère de l'Intérieur évoque une journée « à risque très élevé » et a prévu un d",
+      "image": "https://s.rfi.fr/media/display/a592ffcc-d4ec-11f1-b35d-1beafce15fea/w:1024/p:16x9/000-D4WV683.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-nouvelle-journee-de-mobilisation-ce-samedi-un-d-8693c28eb0.html"
+    },
+    {
+      "title": "À Montréal, l'Union européenne et le Canada scellent un «rapprochement inédit»",
+      "url": "https://www.rfi.fr/fr/europe/20261031-%C3%A0-montr%C3%A9al-l-union-europ%C3%A9enne-et-le-canada-scellent-un-rapprochement-in%C3%A9dit",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T05:41:32.000Z",
+      "summary": "Le Canada et l'Union européenne ont scellé vendredi 30 octobre l'alliance la plus étroite jamais conclu entre un pays non européen et les 27. Un « rapprochement inédit », marqué par la volonté du Premier ministre canadien de se défaire de la dépendance des États-Unis et concrétisé avec des partenariats autour de l’inte",
+      "image": "https://s.rfi.fr/media/display/7b41eb6a-d4ed-11f1-8cc5-a575454bc579/w:1024/p:16x9/AP26303485807809.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-montreal-l-union-europeenne-et-le-canada-scellent-un-rapprochement-ine-97347a0c64.html"
+    },
+    {
+      "title": "Deux mois de détention de Moussa Kaka au Niger: «Sa place est devant un micro»",
+      "url": "https://www.rfi.fr/fr/afrique/20261031-deux-mois-de-d%C3%A9tention-de-moussa-kaka-au-niger-sa-place-est-devant-un-micro",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T05:00:24.000Z",
+      "summary": "Le 31 août, Moussa Kaka quittait les locaux de son média à Niamey pour regagner son domicile. Mais il n'y est jamais arrivé. Début octobre, après plusieurs semaines de silence, le ministre nigérien de la Justice avait affirmé à Reporters sans frontières (RSF) que le journaliste, que vous avez entendu raconter l'actuali",
+      "image": "https://s.rfi.fr/media/display/9c13fafc-bd7a-11f1-958f-d367a0468893/w:1024/p:16x9/000-Par2201169.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/deux-mois-de-detention-de-moussa-kaka-au-niger-sa-place-est-devant-un-mi-4f15d23a15.html"
+    },
+    {
+      "title": "Allemagne: Die Linke sous pression avant un congrès décisif pour former une coalition de gauche à Berlin",
+      "url": "https://www.rfi.fr/fr/europe/20261031-allemagne-die-linke-sous-pression-avant-un-congr%C3%A8s-d%C3%A9cisif-pour-former-une-coalition-de-gauche-%C3%A0-berlin",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T04:58:14.000Z",
+      "summary": "Six semaines après les élections berlinoises, marquées par le succès du parti de gauche Die Linke, la formation d'une coalition avec les écologistes et les sociaux-démocrates reste incertaine. Les discussions préliminaires ont débouché sur un accord que Die Linke doit approuver lors d'un congrès, ce samedi 31 octobre. ",
+      "image": "https://s.rfi.fr/media/display/e2a01860-d4b9-11f1-be89-bf1914cabd52/w:1024/p:16x9/AP26280347710051.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/allemagne-die-linke-sous-pression-avant-un-congres-decisif-pour-former-u-f290016e1f.html"
+    },
+    {
+      "title": "Pologne: la suspension du président du tribunal constitutionnel provoque une crise politique",
+      "url": "https://www.rfi.fr/fr/europe/20261031-pologne-la-suspension-du-pr%C3%A9sident-du-tribunal-constitutionnel-provoque-une-crise-politique",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T03:40:26.000Z",
+      "summary": "En Pologne, le bras de fer entre le président de la République, Karol Nawrocki, soutenu par la droite nationaliste, et le Premier ministre centriste Donald Tusk dégénère en crise politique. En cause : la suspension, vendredi 30 octobre, du président du tribunal constitutionnel, une institution centrale notamment pour l",
+      "image": "https://s.rfi.fr/media/display/a27c027c-d4ae-11f1-9046-d18c5759e759/w:1024/p:16x9/000-D4YH4KH.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pologne-la-suspension-du-president-du-tribunal-constitutionnel-provoque--8696509b81.html"
+    },
+    {
+      "title": "Attention à ce message WhatsApp, il permet aux pirates de prendre le contrôle de votre compte",
+      "url": "https://www.01net.com/actualites/attention-a-ce-message-whatsapp-il-permet-aux-pirates-de-prendre-le-controle-de-votre-compte.html",
+      "source": "01net",
+      "publishedAt": "2026-10-31T08:00:22.000Z",
+      "summary": "La gendarmerie nationale alerte sur une arnaque qui vise les utilisateurs de WhatsApp à travers un faux concours de danse. En invitant leurs victimes à voter pour une jeune fille, les pirates cherchent à prendre le contrôle de leur compte. Voici comment ne pas tomber dans ce piège.",
+      "image": "https://www.01net.com/app/uploads/2026/04/WhatsApp-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/attention-a-ce-message-whatsapp-il-permet-aux-pirates-de-prendre-le-cont-bbfdc0ee8f.html"
+    },
+    {
+      "title": "Adieu les écrans géants et les gadgets inutiles ? La Chine durcit le ton face à la démesure automobile",
+      "url": "https://www.01net.com/actualites/adieu-ecrans-geants-gadgets-inutiles-chine-durcit-ton-face-demesure-automobile.html",
+      "source": "01net",
+      "publishedAt": "2026-10-31T07:00:33.000Z",
+      "summary": "La Chine ne pouvait pas rester les bras croisés face à une multiplication incontrôlée des technologies embarquées. Elle compte ainsi faire la chasse aux écrans démesurés, aux sièges zéro gravité, aux feux personnalisables et aux poignées de portes affleurantes.",
+      "image": "https://www.01net.com/app/uploads/2026/10/denza-n8-2-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/adieu-les-ecrans-geants-et-les-gadgets-inutiles-la-chine-durcit-le-ton-f-60de3a0c2e.html"
     }
   ]
 }
