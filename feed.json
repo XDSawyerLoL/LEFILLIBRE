@@ -1,25 +1,68 @@
 {
-  "updatedAt": "2026-10-31T22:04:11.701Z",
+  "updatedAt": "2026-11-01T01:06:12.011Z",
   "items": [
     {
-      "title": "Test Arlo Essential 3 2K PTZ Intérieure : une caméra de sécurité mécanisée et boostée à l’IA",
-      "url": "https://www.frandroid.com/test/3132035_test-arlo-essential-3-2k-ptz-interieure-une-camera-de-securite-mecanisee-et-boostee-a-lia",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-31T19:00:00.000Z",
-      "summary": "Arlo motorise pour la première fois une de ses caméras de surveillance : l’Essential 3 2K PTZ Intérieure pivote, suit les mouvements et embarque les mêmes fonctions d’IA que le reste de la gamme. Nous l’avons testée pendant deux mois.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/06/arlo-essential-pan-tilt-indoor-2.jpg?resize=1200,675&key=f91d033d",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/test-arlo-essential-3-2k-ptz-interieure-une-camera-de-securite-mecanisee-8797c586d3.html"
+      "title": "En Alaska, la mobilisation du vote des Autochtones, enjeu majeur de la campagne",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261031-en-alaska-la-mobilisation-du-vote-des-autochtones-enjeu-majeur-de-la-campagne",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T23:10:24.000Z",
+      "summary": "L’Alaska, 49ᵉ État des États-Unis, est historiquement considéré comme un bastion républicain. Cette année, pour les midterms du 3 novembre, le sénateur sortant Dan Sullivan est mis en difficulté par la démocrate Mary Peltola, qui est issue d’une communauté autochtone. Représentant 25 % de l’électorat en Alaska, les voi",
+      "image": "https://s.rfi.fr/media/display/f0309f1e-d571-11f1-83b8-d18c5759e759/w:1024/p:16x9/AP26304106498350.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-alaska-la-mobilisation-du-vote-des-autochtones-enjeu-majeur-de-la-cam-6346d82609.html"
     },
     {
-      "title": "Mini LED, 144 Hz, 75″ : ce TV 4K XXL signé Samsung profite du Black Friday pour perdre 200 €",
-      "url": "https://www.frandroid.com/bons-plans/3304699_mini-led-144-hz-75-ce-tv-4k-xxl-signe-samsung-profite-du-black-friday-pour-perdre-200-e",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-31T18:15:00.000Z",
-      "summary": "Le TV 4K Samsung TQ75QN82H est un modèle qui pourrait autant intéresser les amateurs de cinéma que les joueurs, avec sa dalle Neo QLED dont la fréquence de rafraîchissement peut atteindre 144 Hz. Avant le Black Friday, Boulanger l'affiche à 1 299 euros au lieu de 1 499 euros.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/samsung-tq75qn82h-black-friday-2026.jpg?resize=1200,675&key=4f3605f5",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mini-led-144-hz-75-ce-tv-4k-xxl-signe-samsung-profite-du-black-friday-po-0191020af1.html"
+      "title": "Au Royaume-Uni, les petites salles indépendantes face à la crise du coût de la vie",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-culture/20261031-au-royaume-uni-les-petites-salles-ind%C3%A9pendantes-face-%C3%A0-la-crise-du-co%C3%BBt-de-la-vie",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T23:09:24.000Z",
+      "summary": "D'après des chiffres publiés mi-octobre par les syndicats britanniques, la facture des ménages s’est alourdie de plus de 16 000 euros depuis 2021, en raison de l'inflation. Et les foyers ne sont pas les seuls à subir de plein fouet les conséquences de cette crise : toute une partie du monde de la culture en pâtit égale",
+      "image": "https://s.rfi.fr/media/display/d027a010-d56b-11f1-a72d-d18c5759e759/w:1024/p:16x9/mantelblatt-pubs-4320627.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-royaume-uni-les-petites-salles-independantes-face-a-la-crise-du-cout--709ba61ab0.html"
+    },
+    {
+      "title": "À Ceuta, l'explosion des discours et des actes racistes contre les Marocains",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261031-%C3%A0-ceuta-l-explosion-des-discours-et-des-actes-racistes-contre-les-marocains",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T23:08:24.000Z",
+      "summary": "Après l'entrée de plus de 70 000 personnes en provenance du Maroc dans l'enclave espagnole d'Afrique du Nord, les 30 et 31 juillet 2026, le racisme explose à Ceuta. Attisée par l’extrême droite, cette violence s’exprime ouvertement et plus spécifiquement envers les Marocains, alors qu’une grande partie de la population",
+      "image": "https://s.rfi.fr/media/display/f5504ffe-c666-11f1-b2ef-53993c5f1f18/w:1024/p:16x9/AP26281592336531.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-ceuta-l-explosion-des-discours-et-des-actes-racistes-contre-les-maroca-3c5d1e15a6.html"
+    },
+    {
+      "title": "Midterms 2026: la Californie, cible privilégiée de Donald Trump qu'il accuse de fraudes électorales",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261031-midterms-2026-la-californie-cible-privil%C3%A9gi%C3%A9e-de-donald-trump-qu-il-accuse-de-fraudes-%C3%A9lectorales",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T22:54:37.000Z",
+      "summary": "À l’approche des élections de mi-mandat, Donald Trump continue de dénoncer des irrégularités et des fraudes dans le décompte des voix un peu partout aux États-Unis. L’une de ses cibles favorites : la Californie, bastion anti-Trump. Il y a deux semaines, le ministère de la Justice a attaqué le Golden State devant les tr",
+      "image": "https://s.rfi.fr/media/display/e27ac0ca-d57b-11f1-a1f1-bf1914cabd52/w:1024/p:16x9/063-2302745475.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-la-californie-cible-privilegiee-de-donald-trump-qu-il-accu-abf130d13c.html"
+    },
+    {
+      "title": "Royaume-Uni: le Premier ministre se dit ouvert à des excuses officielles sur l'esclavage",
+      "url": "https://www.rfi.fr/fr/europe/20261031-royaume-uni-le-premier-ministre-se-dit-ouvert-%C3%A0-des-excuses-officielles-sur-l-esclavage",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T22:47:29.000Z",
+      "summary": "Le Premier ministre britannique Andy Burnham a assuré au quotidien The Guardian qu'il était ouvert à ce que son pays présente des excuses officielles pour son rôle dans la traite transatlantique d'esclaves, mais exclut toute réparation financière aux descendants. Des propos tenus avant un déplacement dans les Caraïbes,",
+      "image": "https://s.rfi.fr/media/display/a25f9d68-d575-11f1-9541-a575454bc579/w:1024/p:16x9/AP26301366795879.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/royaume-uni-le-premier-ministre-se-dit-ouvert-a-des-excuses-officielles--bc1320a4e1.html"
+    },
+    {
+      "title": "La Syrie étudie la possibilité de rejoindre le pacte de défense de La Mecque",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261031-la-syrie-%C3%A9tudie-la-possibilit%C3%A9-de-rejoindre-le-pacte-de-d%C3%A9fense-de-la-mecque",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T22:35:07.000Z",
+      "summary": "La Syrie étudie la possibilité de rejoindre le pacte de défense de La Mecque, signé le 7 août dernier par l'Arabie saoudite, le Pakistan et la Turquie, a annoncé samedi 31 octobre à Bahreïn le ministre syrien des Affaires étrangères, Assaad Hassan al-Chibani. Quel intérêt pour la Syrie de rejoindre un pacte pointé du d",
+      "image": "https://s.rfi.fr/media/display/d4412768-d578-11f1-9657-695cb59fade5/w:1024/p:16x9/000-D4ZD4KJ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-syrie-etudie-la-possibilite-de-rejoindre-le-pacte-de-defense-de-la-me-744497f933.html"
+    },
+    {
+      "title": "Législatives en Israël: des manifestations en faveur d'une alliance entre l'opposition et les partis arabes",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261031-l%C3%A9gislatives-en-isra%C3%ABl-des-manifestations-en-faveur-d-une-alliance-entre-l-opposition-et-les-partis-arabes",
+      "source": "RFI",
+      "publishedAt": "2026-10-31T22:10:09.000Z",
+      "summary": "En Israël, plusieurs places du pays ont vibré, samedi 31 octobre, d’une exigence claire : voir les formations politiques arabes s'asseoir, de plein droit, à la table du futur pouvoir. Porté par le collectif Standing Together, ce sursaut citoyen entend peser de tout son poids sur les tractations en cours et bousculer le",
+      "image": "https://s.rfi.fr/media/display/8fc76874-d571-11f1-b895-bf1914cabd52/w:1024/p:16x9/AP26304669154535.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-israel-des-manifestations-en-faveur-d-une-alliance-entre-11ae33cfeb.html"
     },
     {
       "title": "Pologne: le bras de fer s'intensifie entre le Premier ministre Tusk et le président Navrocki",
@@ -65,99 +108,6 @@
       "summary": "À 11 000 kilomètres de la France métropolitaine, les Réunionnaises et Réunionnais se sont aussi mobilisés ce 31 octobre. Pas de foule dans les rues, mais des barrages filtrants installés aux entrées des chefs-lieux du sud et du nord de l’île pour dénoncer le racisme et la vie chère. Avec un élément venu renforcer la co",
       "image": "https://s.rfi.fr/media/display/b2847188-d560-11f1-92ac-695cb59fade5/w:1024/p:16x9/DSC02367-1.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-la-reunion-une-manifestation-contre-la-vie-chere-le-racisme-et-l-extre-9baf463d7f.html"
-    },
-    {
-      "title": "France: cinq Britanniques interpellés dans le Nord pour des actions anti-migrants",
-      "url": "https://www.rfi.fr/fr/europe/20261031-france-cinq-britanniques-interpell%C3%A9s-dans-le-nord-pour-des-actions-anti-migrants",
-      "source": "RFI",
-      "publishedAt": "2026-10-31T18:53:21.000Z",
-      "summary": "Cinq Britanniques « de la mouvance d'ultradroite » ont été interpellés jeudi 29 octobre près de Dunkerque (Nord), alors qu'ils diffusaient en direct sur un réseau social des images destinées à illustrer des « actions d'intimidation » à l'encontre de migrants, a annoncé ce samedi 31 octobre la préfecture.",
-      "image": "https://s.rfi.fr/media/display/35fa2bee-d55b-11f1-8ed9-d18c5759e759/w:1024/p:16x9/000-C96Q8CR.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-cinq-britanniques-interpelles-dans-le-nord-pour-des-actions-anti--0f912e9ad0.html"
-    },
-    {
-      "title": "Albanie: les heurts entre les manifestants et la police lors d'une nouvelle journée de mobilisation",
-      "url": "https://www.rfi.fr/fr/europe/20261031-albanie-les-heurts-entre-les-manifestants-et-la-police-lors-d-une-nouvelle-journ%C3%A9e-de-mobilisation",
-      "source": "RFI",
-      "publishedAt": "2026-10-31T18:25:51.000Z",
-      "summary": "Les forces de l'ordre albanaises ont fait usage samedi 31 octobre de gaz lacrymogène et de canons à eau pour disperser des groupes de manifestants violents rassemblés près des bureaux du Premier ministre Edi Rama, dont la démission est réclamée depuis des mois.",
-      "image": "https://s.rfi.fr/media/display/120d0024-d558-11f1-bee4-695cb59fade5/w:1024/p:16x9/AP26304576189808.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/albanie-les-heurts-entre-les-manifestants-et-la-police-lors-d-une-nouvel-d4a278373b.html"
-    },
-    {
-      "title": "Rubio assure que Washington n'était pas «directement impliqué» dans la fuite de Flavio Bolsonaro du Brésil",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261031-rubio-assure-que-washington-n-%C3%A9tait-pas-directement-impliqu%C3%A9-dans-la-fuite-de-flavio-bolsonaro-du-br%C3%A9sil",
-      "source": "RFI",
-      "publishedAt": "2026-10-31T18:13:24.000Z",
-      "summary": "Le secrétaire d'État américain Marco Rubio a déclaré samedi 31 octobre que les États-Unis n'étaient pas « directement impliqués » dans la fuite aux États-Unis de l'ex-candidat conservateur à la présidentielle au Brésil, Flavio Bolsonaro.",
-      "image": "https://s.rfi.fr/media/display/7fb4f7c8-d556-11f1-b9a7-a575454bc579/w:1024/p:16x9/AP26304623058059.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rubio-assure-que-washington-n-etait-pas-directement-implique-dans-la-fui-83f08a31ab.html"
-    },
-    {
-      "title": "Jusqu’à 200 dollars par mois en louant son Mac à l’IA : deux mois après, le rêve s’effondre",
-      "url": "https://www.01net.com/actualites/jusqua-200-dollars-par-mois-en-louant-son-mac-a-lia-deux-mois-apres-le-reve-seffondre.html",
-      "source": "01net",
-      "publishedAt": "2026-10-31T17:52:15.000Z",
-      "summary": "Cet été, louer son Mac à l'intelligence artificielle faisait miroiter un joli complément de revenus. L'entreprise derrière le projet prévient aujourd'hui ses participants : les gains sont maigres, et ils ne remonteront pas de sitôt.",
-      "image": "https://www.01net.com/app/uploads/2026/07/Mac-Studio-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jusqu-a-200-dollars-par-mois-en-louant-son-mac-a-l-ia-deux-mois-apres-le-03537aec5f.html"
-    },
-    {
-      "title": "« Ce sont des ignares incompétents » : Xavier Niel réagit vivement à la taxe au gigaoctet",
-      "url": "https://www.frandroid.com/marques/free/3305679_ce-sont-des-ignares-incompetents-xavier-niel-reagit-vivement-a-la-taxe-au-gigaoctet",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-31T17:44:56.000Z",
-      "summary": "«&nbsp;Ce sont des ignares incompétents&nbsp;»&nbsp;: Xavier Niel, fondateur de Free, a répondu ainsi ce samedi 31 octobre sur X à un internaute qui l'interpellait sur la taxe de 5,5 centimes par gigaoctet votée la veille par l'Assemblée. L'amendement est passé par 11 voix contre 10.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2023/03/xavier-niel-free-scaled.jpeg?resize=1200,675&key=41294acd",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-sont-des-ignares-incompetents-xavier-niel-reagit-vivement-a-la-taxe-a-53dccadb28.html"
-    },
-    {
-      "title": "Le Royaume-Uni prêt à présenter des excuses officielles pour son rôle dans l'esclavage",
-      "url": "https://www.france24.com/fr/europe/20261031-andy-burnham-royaume-uni-pr%C3%AAt-pr%C3%A9senter-excuses-pour-son-r%C3%B4le-dans-esclavage-traite-transatlantique",
-      "source": "France 24",
-      "publishedAt": "2026-10-31T16:54:19.000Z",
-      "summary": "Le Royaume-Uni serait prêt à présenter des excuses officielles pour son rôle dans la traite transatlantique des esclaves, a déclaré samedi son Premier ministre, Andy Burnham. Il se rendra la semaine prochaine à Antigua-et-Barbuda, dans les Caraïbes, pour un sommet des chefs de gouvernement des pays du Commonwealth (CHO",
-      "image": "https://s.france24.com/media/display/38e2dd38-d542-11f1-9750-bf1914cabd52/w:1024/p:16x9/2026-10-31T100609Z-128435128-RC2MDOA7K8GW-RTRMADP-3-BRITAIN-SLAVERY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-royaume-uni-pret-a-presenter-des-excuses-officielles-pour-son-role-da-7da7573e29.html"
-    },
-    {
-      "title": "🔴 Acte III en direct : 320 000 manifestants en France selon le ministère de l'Intérieur, des heurts à Paris",
-      "url": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
-      "source": "France 24",
-      "publishedAt": "2026-10-31T16:43:38.000Z",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/acte-iii-en-direct-320-000-manifestants-en-france-selon-le-ministere-de--14b116f7e2.html"
-    },
-    {
-      "title": "Le guide suprême iranien met en garde les États-Unis et Israël contre une reprise de la guerre",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261031-le-guide-supr%C3%AAme-iranien-met-en-garde-les-%C3%A9tats-unis-et-isra%C3%ABl-contre-une-reprise-de-la-guerre",
-      "source": "RFI",
-      "publishedAt": "2026-10-31T17:38:11.000Z",
-      "summary": "Le guide suprême iranien, Mojtaba Khamenei, a rencontré samedi 31 octobre de hauts responsables militaires et leur a ordonné de riposter à toute attaque américaine ou israélienne par une réponse « sans limite géographique », selon un communiqué publié sur son site internet. Trump n'a pas « pris de décision » sur une év",
-      "image": "https://s.rfi.fr/media/display/cec48372-d54e-11f1-9b4f-695cb59fade5/w:1024/p:16x9/000-D3YC8TJ.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-guide-supreme-iranien-met-en-garde-les-etats-unis-et-israel-contre-un-0afdc2d30c.html"
-    },
-    {
-      "title": "J’ai testé le TV Philips 65OLED951 : l’OLED Ambilight qui veut reprendre la tête de la course",
-      "url": "https://www.frandroid.com/marques/philips/3282771_jai-teste-le-tv-philips-65oled951-loled-ambilight-qui-veut-reprendre-la-tete-de-la-course",
-      "source": "Frandroid",
-      "publishedAt": "2026-10-31T17:01:00.000Z",
-      "summary": "Le téléviseur Philips 65OLED951 est le nouveau fleuron OLED de la marque. Il reçoit ce qui se fait de mieux actuellement dans le domaine avec une dalle META 4.0 Tandem plus lumineuse, le Dolby Vision 2 Max, quatre HDMI 2.1 et Titan OS, et il garde l'Ambilight sur quatre côtés. Mais est-il le TV de l’année pour autant&n",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/philips-65oled951-test-intro.jpg?resize=1200,675&key=d01a5f83",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-teste-le-tv-philips-65oled951-l-oled-ambilight-qui-veut-reprendre-l-a83b9026cf.html"
-    },
-    {
-      "title": "Le patron d’OpenAI juge « terrible » que votre PC garde sa propre RAM et préfèrerait la voir dans ses datacenters",
-      "url": "https://www.01net.com/actualites/le-patron-dopenai-juge-terrible-que-votre-pc-garde-sa-propre-ram-et-prefererait-la-voir-dans-ses-datacenters.html",
-      "source": "01net",
-      "publishedAt": "2026-10-31T16:50:53.000Z",
-      "summary": "Pour le patron d'OpenAI, la mémoire vive qui dort dans votre ordinateur serait bien mieux employée ailleurs. La remarque tombe mal : en France, 32 Go de RAM coûtent près de quatre fois leur prix d'il y a un an.",
-      "image": "https://www.01net.com/app/uploads/2026/10/Canva1920_1280-46-1344x896.jpeg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-patron-d-openai-juge-terrible-que-votre-pc-garde-sa-propre-ram-et-pre-d67bb234dc.html"
     }
   ]
 }
