@@ -1,79 +1,169 @@
 {
-  "updatedAt": "2026-11-01T07:29:07.273Z",
+  "updatedAt": "2026-11-01T14:25:53.072Z",
   "items": [
     {
-      "title": "Cette impressionnante limousine Volkswagen à 24 000 € pourrait arriver en Europe",
-      "url": "https://www.01net.com/actualites/facturee-24-000-euros-impressionnante-limousine-volkswagen-pourrait-arriver-europe.html",
-      "source": "01net",
-      "publishedAt": "2026-11-01T07:00:38.000Z",
-      "summary": "Volkswagen commercialise officiellement l’ID. Unyx 09 en Chine avec des prix encore inférieurs à ceux annoncés en précommande. La limousine aux 755 km d’autonomie débute ainsi à 24 000 €. Elle pourrait débarquer en Europe.",
-      "image": "https://www.01net.com/app/uploads/2026/10/volkswagen-id-unyx-09-3-1344x896.jpg",
+      "title": "Cryptomonnaies: qui sont les hackers nord-coréens soupçonnés d'avoir piraté Binance?",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261101-cryptomonnaies-qui-sont-les-hackers-nord-cor%C3%A9ens-soup%C3%A7onn%C3%A9s-d-avoir-pirat%C3%A9-binance",
+      "source": "RFI",
+      "publishedAt": "2026-11-01T13:38:36.000Z",
+      "summary": "C’est le plus gros braquage de cryptomonnaies de l’histoire : 6 milliards de dollars dérobés à Binance, la plus grande plateforme d'échange de crypto-monnaies au monde, le 29 octobre. La Corée du Nord et ses équipes de hackers, qui ont dérobé des milliards de dollars ces dernières années, sont pointés du doigt par le F",
+      "image": "https://s.rfi.fr/media/display/4c79f68c-a0de-11ef-8e78-005056bfb2b6/w:1024/p:16x9/Hacker-photo-illustration.JPG",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cette-impressionnante-limousine-volkswagen-a-24-000-pourrait-arriver-en--4553fd58ee.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cryptomonnaies-qui-sont-les-hackers-nord-coreens-soupconnes-d-avoir-pira-52928824a6.html"
     },
     {
-      "title": "Boulanger s’échauffe avant le début du Black Friday en passant le Samsung Galaxy S25 FE sous les 500 euros",
-      "url": "https://www.frandroid.com/bons-plans/3304225_boulanger-sechauffe-avant-le-debut-du-black-friday-en-passant-le-samsung-galaxy-s25-fe-sous-les-500-euros",
+      "title": "iPhone Duo : on a mesuré ses performances, sa puce A20 Pro déjoue-t-elle le piège des smartphones pliants ?",
+      "url": "https://www.frandroid.com/marques/apple/3304997_iphone-duo-on-a-mesure-ses-performances-sa-puce-a20-pro-dejoue-t-elle-le-piege-des-smartphones-pliants",
       "source": "Frandroid",
-      "publishedAt": "2026-11-01T06:54:00.000Z",
-      "summary": "Le Samsung Galaxy S25 FE est un smartphone polyvalent qui plaira aux photographes en herbe, mais aussi aux joueurs puisque l'Exynos 2400 peut faire tourner la plupart des titres. À l'approche du Black Friday, l'appareil perd 33 % sur son prix.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/copie-de-preblackfriday-frandroid-solo.png?resize=1200,675&key=86c08761",
+      "publishedAt": "2026-11-01T13:00:00.000Z",
+      "summary": "Avec l'iPhone Duo, Apple intègre pour la toute première fois l'un de ses SoC au sein d'un format pliant. Ce n'est jamais une partie de plaisir pour les puces qui perdent généralement en efficacité dans ce format. Nous avons soumis l'A20 Pro à notre banc d'essai pour vérifier si son architecture thermique tient ses prom",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/iphone-duo-3.jpg?resize=1200,675&key=1bb9ab0a",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/boulanger-s-echauffe-avant-le-debut-du-black-friday-en-passant-le-samsun-fc22bf4033.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-duo-on-a-mesure-ses-performances-sa-puce-a20-pro-dejoue-t-elle-le-04427c4262.html"
     },
     {
-      "title": "En Inde, l'opposition manifeste pour demander la démission du chef de la commission électorale",
-      "url": "https://www.france24.com/fr/asie-pacifique/20261101-en-inde-opposition-manifestation-contre-r%C3%A9forme-listes-%C3%A9lectorales",
+      "title": "Francfort : émeutes après une manifestation, vitrines brisées et boutiques pillées",
+      "url": "https://fr.euronews.com/video/2026/11/01/francfort-emeutes-apres-une-manifestation-vitrines-brisees-et-boutiques-pillees",
+      "source": "Euronews",
+      "publishedAt": "2026-11-01T13:37:49.000Z",
+      "summary": "La police est restée déployée dans les rues de Francfort dimanche après des émeutes et des pillages ayant suivi des manifestations de jeunes, qui ont laissé des vitrines brisées, des incendies et plusieurs blessés.",
+      "image": "https://images.euronews.com/articles/stories/09/97/55/29/696x392_cmsv2_28aca6aa-eccb-536b-96f5-496586d14544-9975529.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/francfort-emeutes-apres-une-manifestation-vitrines-brisees-et-boutiques--da50716047.html"
+    },
+    {
+      "title": "En Bulgarie, une élection présidentielle sur fond de tensions en mer Noire et de guerre en Ukraine",
+      "url": "https://www.rfi.fr/fr/europe/20261101-en-bulgarie-une-%C3%A9lection-pr%C3%A9sidentielle-sur-fond-de-tensions-en-mer-noire-et-de-guerre-en-ukraine",
+      "source": "RFI",
+      "publishedAt": "2026-11-01T13:35:33.000Z",
+      "summary": "Les bureaux de votes ont ouvert ce dimanche 1er novembre 2026 en Bulgarie, où près de 6 millions et demi d'électeurs sont appelés à choisir leur prochain président, une semaine après un premier tour marqué par une faible participation et dans un pays où le pouvoir exécutif est surtout entre les mains du gouvernement. M",
+      "image": "https://s.rfi.fr/media/display/f8d08e92-d5f6-11f1-a49d-d18c5759e759/w:1024/p:16x9/AP26305238388217.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-bulgarie-une-election-presidentielle-sur-fond-de-tensions-en-mer-noir-53c7b93c9d.html"
+    },
+    {
+      "title": "«Je ne sais pas comment j'ai survécu»: en Ukraine, le retour tant attendu des résidents d'Olechky",
+      "url": "https://www.rfi.fr/fr/europe/20261101-je-ne-sais-pas-comment-j-ai-surv%C3%A9cu-en-ukraine-le-retour-tant-attendu-des-r%C3%A9sidents-d-olechky",
+      "source": "RFI",
+      "publishedAt": "2026-11-01T13:24:47.000Z",
+      "summary": "En Ukraine, le nom d'Olechky est sur toutes les lèvres depuis des semaines. Samedi 1er novembre, plusieurs bus humanitaires ont acheminé une partie de la population de cette ville occupée depuis 2022 en territoire ukrainien libre, suite à une mission humanitaire conjointe initiée par les commissaires des droits de l'ho",
+      "image": "https://s.rfi.fr/media/display/eaf5eda0-d5e5-11f1-93a5-a575454bc579/w:1024/p:16x9/Oleshky-1-RFI.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/je-ne-sais-pas-comment-j-ai-survecu-en-ukraine-le-retour-tant-attendu-de-6cdffb861b.html"
+    },
+    {
+      "title": "Israël: après les législatives, l'opposition veut passer à l'offensive face au camp gouvernemental",
+      "url": "https://www.rfi.fr/fr/monde/20261101-isra%C3%ABl-apr%C3%A8s-les-l%C3%A9gislatives-l-opposition-veut-passer-%C3%A0-l-offensive-face-au-camp-gouvernemental",
+      "source": "RFI",
+      "publishedAt": "2026-11-01T13:08:04.000Z",
+      "summary": "Au lendemain des élections législatives israéliennes, qui ont privé le Premier ministre Benyamin Netanyahu de sa majorité, l’opposition tente de passer à l’offensive. Gadi Eisenkot, le chef du parti Yashar, entend exploiter sans attendre les 67 sièges anti-Netanyahou à la Knesset pour imposer une commission d'enquête s",
+      "image": "https://s.rfi.fr/media/display/f108e87a-d2a0-11f1-9063-47de50b3c1e4/w:1024/p:16x9/000-D4MA4Z2.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-apres-les-legislatives-l-opposition-veut-passer-a-l-offensive-fac-43a8beffbc.html"
+    },
+    {
+      "title": "Berlin : des centaines de jeunes manifestent pour la journée nationale de protestation GenZ regelt",
+      "url": "https://fr.euronews.com/video/2026/11/01/berlin-des-centaines-de-jeunes-manifestent-pour-la-journee-nationale-de-protestation-genz",
+      "source": "Euronews",
+      "publishedAt": "2026-11-01T12:40:04.000Z",
+      "summary": "Des centaines de jeunes manifestants se sont rassemblés devant la porte de Brandebourg à Berlin, le mouvement \"GenZ regelt!\" appelant à des protestations nationales contre des enjeux politiques et sociaux, en solidarité avec les manifestations étudiantes à travers l'Europe.",
+      "image": "https://images.euronews.com/articles/stories/09/97/53/88/696x392_cmsv2_0192e66f-0a87-5283-ba79-467e58623218-9975388.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/berlin-des-centaines-de-jeunes-manifestent-pour-la-journee-nationale-de--f3bca26cda.html"
+    },
+    {
+      "title": "France: une enquête pour «tentative d'homicide» et 779 interpellations après les mobilisations du 31 octobre",
+      "url": "https://www.rfi.fr/fr/france/20261101-france-une-enqu%C3%AAte-pour-tentative-d-homicide-et-779-interpellations-apr%C3%A8s-les-mobilisations-du-31-octobre",
+      "source": "RFI",
+      "publishedAt": "2026-11-01T12:33:21.000Z",
+      "summary": "Une enquête a été ouverte pour « tentative d'homicide sur personnes dépositaires de l'autorité publique » après le jet de cocktail Molotov sur des gendarmes, à Paris, le samedi 31 octobre, en marge de manifestations contre la vie chère, a indiqué le parquet de Paris sollicité par l'AFP. Si aucun autre incident majeur n",
+      "image": "https://s.rfi.fr/media/display/8ad2b0f8-d5ee-11f1-b578-a575454bc579/w:1024/p:16x9/000-D4ZZ8FG.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-une-enquete-pour-tentative-d-homicide-et-779-interpellations-apre-6423bdaf55.html"
+    },
+    {
+      "title": "Crise politique en Pologne : Bruxelles fait pression sur le président polonais",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-crise-politique-en-pologne-bruxelles-fait-pression-sur-le-pr%C3%A9sident-polonais",
       "source": "France 24",
-      "publishedAt": "2026-11-01T06:57:32.000Z",
-      "summary": "Une grande manifestation réunissant les partis d'opposition, les organisations étudiantes et le mouvement des \"cafards\" se tient à Delhi dimanche, où un dispositif anti-émeute a été mis en place. Ils demandent la démission du chef de la Commission électorale, qui a proposé une révision des listes électorales favorisant",
-      "image": "https://s.france24.com/media/display/18d0de2a-d5b8-11f1-b2b6-a575454bc579/w:1024/p:16x9/2026-11-01T041504Z-1619866819-RC2REOAWHLHS-RTRMADP-3-INDIA-POLITICS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-inde-l-opposition-manifeste-pour-demander-la-demission-du-chef-de-la--38f0e12f95.html"
+      "publishedAt": "2026-11-01T12:26:23.000Z",
+      "summary": "La Commission européenne a pris le parti du Premier ministre polonais Donald Tusk samedi 31 octobre en appelant le président polonais Karol Nawrocki à valider la nomination de juges pour dénouer une profonde crise politique à Varsovie.",
+      "image": "https://s.france24.com/media/display/3fa7cdbe-d5eb-11f1-bcf2-695cb59fade5/w:1024/p:16x9/FR-20261101-110254-110524-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-politique-en-pologne-bruxelles-fait-pression-sur-le-president-polo-736833d502.html"
     },
     {
-      "title": "UE: une nouvelle taxe sur les petits colis étrangers entre en vigueur, la fast fashion chinoise visée",
-      "url": "https://www.rfi.fr/fr/europe/20261101-ue-une-nouvelle-taxe-sur-les-petits-colis-%C3%A9trangers-entre-en-vigueur-la-fast-fashion-chinoise-vis%C3%A9e",
-      "source": "RFI",
-      "publishedAt": "2026-11-01T06:57:09.000Z",
-      "summary": "L'offensive européenne sur les petits colis en provenance de l'extérieur de l'Union européenne se poursuit. Dimanche 1er novembre entrent en vigueur de nouveaux frais pour l'arrivée de ces colis sur le marché européen. Les plateformes chinoises comme Shein et Temu sont clairement visées par ces mesures.",
-      "image": "https://s.rfi.fr/media/display/1bc29950-d5ba-11f1-810c-bf1914cabd52/w:1024/p:16x9/000-83TR7T3.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ue-une-nouvelle-taxe-sur-les-petits-colis-etrangers-entre-en-vigueur-la--52602ef6a0.html"
+      "title": "France : des cortèges contre la vie chère et les conditions d'étude",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-france-des-cort%C3%A8ges-contre-la-vie-ch%C3%A8re-et-les-conditions-d-%C3%A9tude",
+      "source": "France 24",
+      "publishedAt": "2026-11-01T12:24:59.000Z",
+      "summary": "Troisième acte de la colère sociale en France ce samedi 31 octobre. L'augmentation du prix du caddie dans le pays a poussé de nombreux habitants à battre le pavé, tandis que des jeunes manifestaient, quant à eux, contre les conditions d'études dans les lycées, collèges et établissements d'enseignement supérieur.",
+      "image": "https://s.france24.com/media/display/a4e6d1d0-d5ea-11f1-a11f-a575454bc579/w:1024/p:16x9/FR-20261101-110123-110236-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-des-corteges-contre-la-vie-chere-et-les-conditions-d-etude-8089dcc190.html"
     },
     {
-      "title": "Midterms 2026: dans l'Ohio, républicains et démocrates sont au coude à coude",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261101-midterms-2026-dans-l-ohio-r%C3%A9publicains-et-d%C3%A9mocrates-sont-au-coude-%C3%A0-coude",
-      "source": "RFI",
-      "publishedAt": "2026-11-01T06:39:29.000Z",
-      "summary": "À quelques jours des élections de mi-mandat du 3 novembre, l’État de l’Ohio promet des duels serrés, notamment pour le poste de gouverneur. Alors pour optimiser ses chances, le candidat républicain Vivek Ramaswamy s'est lancé dans une tournée en bus à travers l'État où l’accueillent, parfois, des partisans du camp adve",
-      "image": "https://s.rfi.fr/media/display/28ae8f6c-d5be-11f1-949f-1beafce15fea/w:1024/p:16x9/2026-10-31T172456Z-1126022988-RC2HEOA4LCSL-RTRMADP-3-USA-ELECTION-OHIO.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-dans-l-ohio-republicains-et-democrates-sont-au-coude-a-cou-756ada934c.html"
+      "title": "Présidentielle en Bulgarie : un duel serré, catalyseur de divisions sur les relations à la Russie",
+      "url": "https://www.france24.com/fr/europe/20261101-pr%C3%A9sidentielle-en-bulgarie-un-duel-serr%C3%A9-sur-fond-de-tensions-en-mer-noire",
+      "source": "France 24",
+      "publishedAt": "2026-11-01T11:39:55.000Z",
+      "summary": "Les Bulgares sont appelés à élire leur nouveau chef d'État, dimanche, sur fond de guerre en Ukraine et de tensions en mer Noire. La présidentielle, particulièrement disputée, oppose la présidente sortante pro-russe Iliana Iotova à l'ex-Premier ministre par intérim Andrey Gyurov, soutenu par l'opposition pro-occidentale",
+      "image": "https://s.france24.com/media/display/f544bbe4-d5e8-11f1-846b-1beafce15fea/w:1024/p:16x9/c06a5f6ba51f959ef207dced74fc685896e1daf3.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-en-bulgarie-un-duel-serre-catalyseur-de-divisions-sur-les-e6fec1b2c9.html"
     },
     {
-      "title": "États-Unis: Nithya Raman, une socialiste à l'assaut de la mairie de Los Angeles?",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261101-%C3%A9tats-unis-nithya-raman-une-socialiste-%C3%A0-l-assaut-de-la-mairie-de-los-angeles",
-      "source": "RFI",
-      "publishedAt": "2026-11-01T06:05:08.000Z",
-      "summary": "Officiellement adoubée par les Socialistes démocrates d’Amérique, Nithya Raman est en bonne position face à sa concurrente démocrate pour briguer la mairie de la cité des anges. Avec elle, les deux plus grandes villes du pays pourraient avoir un édile progressiste, après la victoire de Zohran Mamdani, à New York.",
-      "image": "https://s.rfi.fr/media/display/a253a880-d158-11f1-b48a-bba4eee3dc72/w:1024/p:16x9/2026-10-19T195803Z-936227280-RC2J6OASP316-RTRMADP-3-USA-ELECTION-CALIFORNIA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-nithya-raman-une-socialiste-a-l-assaut-de-la-mairie-de-los-an-4857be9dc3.html"
+      "title": "Midterms aux États-Unis : les démocrates en force ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-midterms-aux-%C3%A9tats-unis-les-d%C3%A9mocrates-en-force",
+      "source": "France 24",
+      "publishedAt": "2026-11-01T11:12:11.000Z",
+      "summary": "Les démocrates espèrent, lors de ces \"midterms\", ravir aux républicains le contrôle de la Chambre des représentants, voire aussi du Sénat, les deux composantes du Parlement fédéral américain, le Congrès.",
+      "image": "https://s.france24.com/media/display/3ce6580c-d5d7-11f1-8e3a-a575454bc579/w:1024/p:16x9/FR-20261101-100940-101136-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-aux-etats-unis-les-democrates-en-force-76c106ba71.html"
     },
     {
-      "title": "États-Unis: au Texas, la vie en suspens des migrants menacés par l'ICE",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261101-%C3%A9tats-unis-au-texas-la-vie-en-suspens-des-migrants-menac%C3%A9s-par-l-ice",
-      "source": "RFI",
-      "publishedAt": "2026-11-01T05:34:58.000Z",
-      "summary": "Le Texas concentre un quart des arrestations de la police de la migration américaine, l’ICE. Alors que la question migratoire est au cœur de la campagne de ces élections de mi-mandat, qui auront lieu le 3 novembre, les personnes en situation illégale et les demandeurs d’asile vivent dans la crainte des raides et des ar",
-      "image": "https://s.rfi.fr/media/display/5fa6429e-a1f7-11f1-b647-005056bfb2b6/w:1024/p:16x9/AP26073045221789.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-au-texas-la-vie-en-suspens-des-migrants-menaces-par-l-ice-e88c8281a6.html"
+      "title": "États-Unis : vers de nouvelles frappes en Iran ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-%C3%A9tats-unis-vers-de-nouvelles-frappes-en-iran",
+      "source": "France 24",
+      "publishedAt": "2026-11-01T11:08:59.000Z",
+      "summary": "En pleine fête d'Halloween, le président américain Donald Trump a évoqué la possibilité de nouvelles frappes en Iran.",
+      "image": "https://s.france24.com/media/display/e3f4cd8c-d5d6-11f1-b532-bf1914cabd52/w:1024/p:16x9/FR-20261101-100800-100916-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-vers-de-nouvelles-frappes-en-iran-08f38b09f9.html"
     },
     {
-      "title": "Inde: une importante journée de mobilisation pour «sauver la démocratie» attendue à New Delhi",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261101-inde-une-importante-journ%C3%A9e-de-mobilisation-pour-sauver-la-d%C3%A9mocratie-attendue-%C3%A0-new-delhi",
-      "source": "RFI",
-      "publishedAt": "2026-11-01T05:09:20.000Z",
-      "summary": "En Inde, un immense bras de fer politique se prépare. L'opposition appelle au rassemblement d’un million de personnes ce dimanche 1er novembre 2026 dans la capitale New Delhi. Une mobilisation intitulée « Sauver la démocratie ». Les partis d'opposition réclament le départ du chef de la commission électorale, Gyanesh Ku",
-      "image": "https://s.rfi.fr/media/display/dd33a436-d5af-11f1-8b23-695cb59fade5/w:1024/p:16x9/2026-10-31T162517Z-494868458-RC2CEOA064ZQ-RTRMADP-3-INDIA-POLITICS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/inde-une-importante-journee-de-mobilisation-pour-sauver-la-democratie-at-ad0283d969.html"
+      "title": "En Allemagne, des manifestations de la Gen Z s'inspirant du mouvement français",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-en-allemagne-des-manifestations-de-la-gen-z-s-inspirant-du-mouvement-fran%C3%A7ais",
+      "source": "France 24",
+      "publishedAt": "2026-11-01T11:07:23.000Z",
+      "summary": "Des dizaines de milliers de jeunes sont descendus samedi dans la rue en Allemagne pour réclamer davantage de moyens pour l'éducation, s'inspirant du mouvement français, mais des affrontements ont dégénéré en émeute et pillages à Francfort. À l'appel d'un collectif baptisé \"GenZ regelt\" (\"la Génération Z s'en charge\", e",
+      "image": "https://s.france24.com/media/display/9f33b834-d5d6-11f1-be17-a575454bc579/w:1024/p:16x9/FR-20261101-100543-100718-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-allemagne-des-manifestations-de-la-gen-z-s-inspirant-du-mouvement-fra-15c16d90eb.html"
+    },
+    {
+      "title": "Manifestations en France : les réseaux sociaux dans le viseur du gouvernement",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-manifestations-en-france-les-r%C3%A9seaux-sociaux-dans-le-viseur-du-gouvernement",
+      "source": "France 24",
+      "publishedAt": "2026-11-01T11:02:51.000Z",
+      "summary": "Le Premier ministre Sébastien Lecornu aurait demandé aux plateformes de réseaux sociaux d'examiner très rapidement les signalements de contenus effectués par les autorités.",
+      "image": "https://s.france24.com/media/display/69d8cee0-d5d6-11f1-aea8-d18c5759e759/w:1024/p:16x9/FR-20261101-100330-100521-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-les-reseaux-sociaux-dans-le-viseur-du-gouvernem-e88f3e0785.html"
+    },
+    {
+      "title": "Acte III des manifestations : entre 320 000 et 500 000 manifestants",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-acte-iii-des-manifestations-entre-320-000-et-500-000-manifestants",
+      "source": "France 24",
+      "publishedAt": "2026-11-01T10:55:40.000Z",
+      "summary": "Les cortèges de l'acte III de la colère sociale, qui ont réuni entre 320 000 et 500 000 personnes, se sont généralement déroulés dans le calme, mais des affrontements ont éclaté dans plusieurs grandes villes françaises en fin d'après-midi, dont Paris.",
+      "image": "https://s.france24.com/media/display/3f09e90c-d5d5-11f1-b028-bf1914cabd52/w:1024/p:16x9/FR-20261101-100123-100313-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/acte-iii-des-manifestations-entre-320-000-et-500-000-manifestants-d074a53a3c.html"
+    },
+    {
+      "title": "Mobilisation sociale en France : les réseaux sociaux dans le viseur des autorités",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261101-mobilisation-sociale-en-france-les-r%C3%A9seaux-sociaux-dans-le-viseur-des-autorit%C3%A9s",
+      "source": "France 24",
+      "publishedAt": "2026-11-01T10:53:58.000Z",
+      "summary": "L'entourage du ministre de l'Intérieur s'inquiète de l'utilisation sur les réseaux sociaux des termes \"révolution\" et \"insurrection\". Le tout au moment de la fête d'Halloween.",
+      "image": "https://s.france24.com/media/display/d0db2c22-d578-11f1-b8a4-695cb59fade5/w:1024/p:16x9/FR-20261031-143224-143408-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisation-sociale-en-france-les-reseaux-sociaux-dans-le-viseur-des-au-cfe539e29d.html"
+    },
+    {
+      "title": "ONU exige une enquête sur la mort d'un employé détenu par les Houthis au Yémen",
+      "url": "https://fr.euronews.com/2026/11/01/onu-exige-une-enquete-sur-la-mort-dun-employe-detenu-par-les-houthis-au-yemen",
+      "source": "Euronews",
+      "publishedAt": "2026-11-01T10:38:01.000Z",
+      "summary": "Le Premier ministre yéménite Shaya al-Zindani a déclaré que plus de 70 membres du personnel de l'ONU et des dizaines de travailleurs humanitaires restaient détenus par les Houthis.",
+      "image": "https://images.euronews.com/articles/stories/09/94/92/85/696x392_cmsv2_9facbc41-e1c2-53e7-8465-c40a5374e8c2-9949285.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/onu-exige-une-enquete-sur-la-mort-d-un-employe-detenu-par-les-houthis-au-d01e479a68.html"
     }
   ]
 }
