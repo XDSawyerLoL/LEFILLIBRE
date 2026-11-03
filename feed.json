@@ -1,171 +1,161 @@
 {
-  "updatedAt": "2026-11-02T19:13:33.787Z",
+  "updatedAt": "2026-11-03T01:35:25.321Z",
   "items": [
     {
-      "title": "On a testé l’Ultenic MX50 : un aspirateur robot au nettoyage complet malgré une navigation à tâtons",
-      "url": "https://www.frandroid.com/test/3252687_on-a-teste-lultenic-mx50-le-nettoyage-sans-la-navigation",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-02T19:00:00.000Z",
-      "summary": "Ultenic, marque spécialisée dans le nettoyage de la maison, se distingue de la concurrence par des prix contenus. Nous avons testé pendant un mois l'Ultenic MX50, modèle le plus cher du constructeur. Est-ce que la marque rattrape son retard face aux poids lourds du marché ? Réponse dans ce test.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/ultenic-mx50-image-a-la-une.jpg?resize=1200,675&key=14dacac9",
+      "title": "Piratage de Binance : accusée, la Corée du Nord dénonce une \"grave provocation politique\"",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261102-piratage-binance-coree-du-nord-qualifie-accusations-fbi-grave-provocation-politique",
+      "source": "France 24",
+      "publishedAt": "2026-11-02T23:12:23.000Z",
+      "summary": "Accusée par le FBI d'être à l'origine de la cyberattaque de la plateforme de cryptomonnaies Binance la semaine dernière, la Corée du Nord a fustigé mardi une \"grave provocation politique\" et une \"rhétorique absurde n'apportant rien de nouveau\".",
+      "image": "https://s.france24.com/media/display/ad59bf0a-21fc-11ec-b52b-005056a90284/w:1024/p:16x9/300921-kim-sister-m.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/on-a-teste-l-ultenic-mx50-un-aspirateur-robot-au-nettoyage-complet-malgr-1e340c4b8c.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/piratage-de-binance-accusee-la-coree-du-nord-denonce-une-grave-provocati-252567f6a2.html"
     },
     {
-      "title": "ChatGPT subit des perturbations : ce que l’on sait de la panne en cours",
-      "url": "https://www.frandroid.com/marques/3307763_chatgpt-subit-des-perturbations-ce-que-lon-sait-de-la-panne-en-cours",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-02T18:22:13.000Z",
-      "summary": "ChatGPT connaît des perturbations chez une partie de ses utilisateurs ce lundi 2 novembre 2026. Un site indien accuse une panne du réseau de Cloudflare, sans aucune confirmation officielle pour l'instant.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/chatgpt.jpeg?resize=1200,675&key=cefaf15b",
+      "title": "Piratage de Binance: la Corée du Nord qualifie les accusations du FBI de «grave provocation politique»",
+      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261102-piratage-de-binance-la-cor%C3%A9e-du-nord-qualifie-les-accusations-du-fbi-de-grave-provocation-politique",
+      "source": "RFI",
+      "publishedAt": "2026-11-02T22:44:57.000Z",
+      "summary": "La Corée du Nord a dénoncé mardi les accusations du FBI selon lesquelles Pyongyang serait à l'origine du piratage record de 6,3 milliards de dollars contre la plateforme d'échanges de cryptomonnaies Binance, la sœur du dirigeant Kim Jong-un les qualifiant de « grave provocation politique ».",
+      "image": "https://s.rfi.fr/media/display/3b5ae236-d43e-11f1-9b1a-d18c5759e759/w:1024/p:16x9/2026-10-27T145741Z-1217147951-RC27JX99ILQC-RTRMADP-3-CRYPTOCURRENCY-BINANCE-RUSSIA.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chatgpt-subit-des-perturbations-ce-que-l-on-sait-de-la-panne-en-cours-273107e69f.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/piratage-de-binance-la-coree-du-nord-qualifie-les-accusations-du-fbi-de--90642a6969.html"
     },
     {
-      "title": "La préfecture de police interdit la manifestation prévue par l'Interfac mardi au cœur de Paris",
-      "url": "https://www.france24.com/fr/france/20261102-pr%C3%A9fecture-interdit-manifestation-pr%C3%A9vue-interfac-mardi-coeur-paris",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T18:30:33.000Z",
-      "summary": "La préfecture de police a rendu lundi un arrêté interdisant la manifestation prévue mardi par l'Interfac Île-de-France dans le centre de Paris. Le collectif a rejetté l'itinéraire alternatif proposé en périphérie de la capitale et prévoit de déposer un recours devant le tribunal administratif.",
-      "image": "https://s.france24.com/media/display/95250f9c-d5f8-11f1-8720-1beafce15fea/w:1024/p:16x9/2026-10-31T212107Z-912682874-RC2FEOA84990-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-prefecture-de-police-interdit-la-manifestation-prevue-par-l-interfac--7dddc431e0.html"
-    },
-    {
-      "title": "Serbie: arrestation du patron d'une banque présumé proche du pouvoir sortant",
-      "url": "https://www.rfi.fr/fr/europe/20261102-serbie-arrestation-du-patron-d-une-banque-pr%C3%A9sum%C3%A9-proche-du-pouvoir-sortant",
+      "title": "Midterms: le coût du bœuf aux Etats-Unis influe sur tous les maillons de la chaîne de consommation",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261102-midterms-le-co%C3%BBt-du-b%C5%93uf-aux-etats-unis-influe-sur-tous-les-maillons-de-la-cha%C3%AEne-de-consommation",
       "source": "RFI",
-      "publishedAt": "2026-11-02T17:19:38.000Z",
-      "summary": "Après le chef de la police criminelle dimanche 1ᵉʳ novembre, les arrestations continuent en Serbie après la chute du président autoritaire Aleksandar Vucic. Ce mardi, Davor Macura, propriétaire d'une banque, de 15 entreprises, de 135 hectares de terrains à bâtir à Belgrade, qui avait constitué l'intégralité de sa fortu",
-      "image": "https://s.rfi.fr/media/display/7f026f36-d6e1-11f1-800f-1beafce15fea/w:1024/p:16x9/AP26306602852820.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/serbie-arrestation-du-patron-d-une-banque-presume-proche-du-pouvoir-sort-88c1142ab1.html"
+      "publishedAt": "2026-11-02T23:11:24.000Z",
+      "summary": "Les États-Unis votent aujourd'hui pour les élections de mi-mandat. Des élections décisives pour la suite du mandat de Donald Trump. Parmi les États qui pourraient contribuer à faire basculer la majorité au Congrès : l'Ohio. C'est ici, dans la petite ville de Medina, que RFI a choisi de s'installer pour suivre les derni",
+      "image": "https://s.rfi.fr/media/display/852f2ff0-d706-11f1-98cc-695cb59fade5/w:1024/p:16x9/WhatsApp-Image-2026-10-31-at-18-27-14.jpeg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-le-cout-du-b-uf-aux-etats-unis-influe-sur-tous-les-maillons-de--9007cf6159.html"
     },
     {
-      "title": "J-1 avant les midterms : sept États suffiraient à faire basculer le Sénat",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-j-1-avant-les-midterms-sept-%C3%A9tats-suffiraient-%C3%A0-faire-basculer-le-s%C3%A9nat",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:46:10.000Z",
-      "summary": "Les élections de mi-mandat ont lieu mardi 3 novembre aux États-Unis. Au-delà du pouvoir d'achat, les citoyens américains sont également préoccupés par des enjeux quotidiens tels que les conflits internationaux, le droit à l'avortement ou encore le rôle de la police locale dans la dénonciation des immigrés clandestins. ",
-      "image": "https://s.france24.com/media/display/58890666-d6d8-11f1-801b-a575454bc579/w:1024/p:16x9/FR-20261102-160517-160901-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-1-avant-les-midterms-sept-etats-suffiraient-a-faire-basculer-le-senat-407067448a.html"
-    },
-    {
-      "title": "Midterms : la jeunesse du Michigan convaincue par le démocrate Abdul El-Sayed",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-la-jeunesse-du-michigan-convaincue-par-le-d%C3%A9mocrate-abdul-el-sayed",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:45:01.000Z",
-      "summary": "Le siège du Michigan au Sénat est crucial pour les démocrates à un jour, qui espèrent reprendre le contrôle de la chambre haute du Congrès lors des midterms qui ont lieu mardi 3 novembre 2026. Le candidat progressiste Abdul El-Sayed suscite un véritable engouement, notamment chez les jeunes électeurs. Cet enthousiasme ",
-      "image": "https://s.france24.com/media/display/f2a0bfaa-d6d8-11f1-adf3-695cb59fade5/w:1024/p:16x9/FR-20261102-160922-161137-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-la-jeunesse-du-michigan-convaincue-par-le-democrate-abdul-el-sa-57d1b9bdd5.html"
-    },
-    {
-      "title": "La course au Sénat relancée par un revirement surprise dans le Michigan",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-la-course-au-s%C3%A9nat-relanc%C3%A9e-par-un-revirement-surprise-dans-le-michigan",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:43:02.000Z",
-      "summary": "À un jour des midterms qui ont lieu mardi 3 novembre aux États-Unis, le Michigan vit le ralliement inattendu d'une élue démocrate au candidat républicain bousculant la fin de la campagne.Haley Stevens a publiquement apporté son soutien à Mike Rogers, au détriment d’Abdul El-Sayed, le candidat de son parti. Un renversem",
-      "image": "https://s.france24.com/media/display/7f348c24-d6db-11f1-aabd-695cb59fade5/w:1024/p:16x9/Vignette-michigan-midterms.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-course-au-senat-relancee-par-un-revirement-surprise-dans-le-michigan-2ce72b6bd3.html"
-    },
-    {
-      "title": "Gazoducs souterrains et tunnels : en Ukraine, une nouvelle guerre à l'abri des drones",
-      "url": "https://www.france24.com/fr/europe/20261102-gazoducs-souterrains-et-tunnels-en-ukraine-une-nouvelle-guerre-%C3%A0-l-abri-des-drones",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:42:59.000Z",
-      "summary": "Les Ukrainiens ont récemment annoncé le succès de leur opération \"Veles\", qui consistait à envoyer des troupes dans un gazoduc désaffecté dans la région de Koupiansk. Une manière pour Kiev d’affronter son adversaire sur un nouveau front à l'abri des drones, celui du monde souterrain. Il a été ouvert par la Russie il y ",
-      "image": "https://s.france24.com/media/display/4d3ed6c0-d6db-11f1-8e9a-a575454bc579/w:1024/p:16x9/pipeline-ukr.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gazoducs-souterrains-et-tunnels-en-ukraine-une-nouvelle-guerre-a-l-abri--79bdfa6411.html"
-    },
-    {
-      "title": "Midterms : la vague démocrate se précise aux États-Unis",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-la-vague-d%C3%A9mocrate-se-pr%C3%A9cise-aux-%C3%A9tats-unis",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:39:41.000Z",
-      "summary": "Les républicains sont en posture précaire à moins d'une semaine des midterms qui se dérouleront mardi 3 novembre aux États-Unis. Ces élections s'avéreront décisives pour la suite du mandat de Donald Trump, l'heure étant à l'optimisme résolu chez les démocrates. Les précisions de Fred Hoffman, porte-parole des \"Democrat",
-      "image": "https://s.france24.com/media/display/bd243c86-d6d7-11f1-a844-d18c5759e759/w:1024/p:16x9/FR-20261029-223001-224335-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-la-vague-democrate-se-precise-aux-etats-unis-8b9c978f42.html"
-    },
-    {
-      "title": "Bourse Ghislaine Dupont et Claude Verlon: les Malgaches Nadia Razafimahatratry et Yves Ramarosandratana lauréats 2026",
-      "url": "https://www.rfi.fr/fr/afrique/20261102-bourse-ghislaine-dupont-et-claude-verlon-les-malgaches-nadia-razafimahatratry-et-yves-ramarosandratana-laur%C3%A9ats-2026",
+      "title": "El Niño en Somalie: «J’ai peur des inondations à venir» avec l'arrivée de la saison des pluies[2/3]",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261102-el-ni%C3%B1o-en-somalie-j-ai-peur-des-inondations-%C3%A0-venir-avec-l-arriv%C3%A9e-de-la-saison-des-pluies-2-3",
       "source": "RFI",
-      "publishedAt": "2026-11-02T16:38:33.000Z",
-      "summary": "Nadia Razafimahatratry, 34 ans, journaliste à la Direction régionale de la communication et de la culture dans la région Itasy, et Yves Ramarosandratana, 32 ans, technicien à Radio FAFI, sont les deux lauréats malgaches de la Bourse Ghislaine Dupont et Claude Verlon décernée chaque années par RFI depuis 2014, en hommag",
-      "image": "https://s.rfi.fr/media/display/dad2228a-d6e0-11f1-912d-d18c5759e759/w:1024/p:16x9/Bourse-RFI-2026.jpg",
+      "publishedAt": "2026-11-02T23:10:24.000Z",
+      "summary": "En Somalie, la saison des pluies Deyr d’octobre à décembre a déjà commencé. Elle est particulièrement redoutée cette année, à cause du phénomène climatique El Niño. D’après le Centre de prédiction du climat de l’IGAD, le cumul des précipitations pourrait dépasser les 400 mm. L’Agence somalienne de gestion des catastrop",
+      "image": "https://s.rfi.fr/media/display/010f6eac-d700-11f1-af8d-d18c5759e759/w:1024/p:16x9/AP23326467784841.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/el-nino-en-somalie-j-ai-peur-des-inondations-a-venir-avec-l-arrivee-de-l-3913e7c32d.html"
+    },
+    {
+      "title": "«Visionnaires» sort de l'oubli nombre de sculptrices avec Prune Nourry au Petit Palais",
+      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-culture/20261102-visionnaires-sort-de-l-oubli-nombre-de-sculptrices-avec-prune-nourry-au-petit-palais",
+      "source": "RFI",
+      "publishedAt": "2026-11-02T23:09:24.000Z",
+      "summary": "Des femmes muses et modèles ? Pas seulement ! Les femmes ont été aussi des artistes à part entière, mais leur travail a été souvent gommé. Prune Nourry est partie sur les traces des sculptrices dans l'histoire de l'art. Elle a créé des œuvres pour leur rendre hommage. Bustes, têtes avec le plâtre comme matériau princip",
+      "image": "https://s.rfi.fr/media/display/955a350a-d6ca-11f1-b76e-695cb59fade5/w:1024/p:16x9/Prune-Nourry.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/visionnaires-sort-de-l-oubli-nombre-de-sculptrices-avec-prune-nourry-au--23616df14d.html"
+    },
+    {
+      "title": "La gestion financière de Johannesburg, enjeu des élections municipales",
+      "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261102-la-gestion-financi%C3%A8re-de-johannesburg-enjeu-des-%C3%A9lections-municipales",
+      "source": "RFI",
+      "publishedAt": "2026-11-02T23:05:24.000Z",
+      "summary": "L’Afrique du Sud renouvelle ses conseillers municipaux lors d’élections locales qui se tiennent ce mercredi 4 novembre. Et le sort de Johannesburg sera suivi de près car la ville a connu toute une série de coalitions instables ces dernières années, avec une dizaine de changements de maires en moins de 10 ans. Désormais",
+      "image": "https://s.rfi.fr/media/display/f8f0b22c-e79b-11ee-901c-005056a90284/w:1024/p:16x9/AP24080456783323.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-gestion-financiere-de-johannesburg-enjeu-des-elections-municipales-9e05a7d61a.html"
+    },
+    {
+      "title": "France: une pétition qui réclame la suppression de CNews récolte plus de 600 000 signatures",
+      "url": "https://www.rfi.fr/fr/culture/20261102-france-une-p%C3%A9tition-qui-r%C3%A9clame-la-suppression-de-cnews-r%C3%A9colte-plus-de-600-000-signatures",
+      "source": "RFI",
+      "publishedAt": "2026-11-02T23:03:36.000Z",
+      "summary": "Une pétition sur le site de l'Assemblée nationale pour « supprimer CNews de l'audiovisuel français » a dépassé lundi 2 novembre les 600 000 signatures, ouvrant la voie à un possible débat dans l'hémicycle sur la chaîne de la galaxie Bolloré, accusée de favoriser l'extrême droite.",
+      "image": "https://s.rfi.fr/media/display/eaabaf10-4879-11f0-b1b0-005056bf30b7/w:1024/p:16x9/Cette-illustration-prise-le-26-mars-2019-montre-le-logo-de-la-cha%C3%AEne-d-information-fran%C3%A7aise-CNEWS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-une-petition-qui-reclame-la-suppression-de-cnews-recolte-plus-de--fd848e97bd.html"
+    },
+    {
+      "title": "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\"",
+      "url": "https://www.france24.com/fr/moyen-orient/20261102-moyen-orient-donald-trump-accord-avec-l-iran-pourrait-arriver-detroit-d-ormuz-petrole",
+      "source": "France 24",
+      "publishedAt": "2026-11-02T22:56:40.000Z",
+      "summary": "Après avoir affirmé être prêt à donner un \"coup de massue\" à l'Iran ce weekend, le président américain Donald Trump a changé de ton lundi, assurant qu'un accord avec Téhéran \"pourrait arriver\".",
+      "image": "https://s.france24.com/media/display/4efcfe3a-d710-11f1-8d01-a575454bc579/w:1024/p:16x9/AP26306798200871.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-change-de-ton-et-assure-qu-un-accord-avec-l-iran-pourrait-a-f85aaec81a.html"
+    },
+    {
+      "title": "Le Soudan accuse l’Éthiopie d’autoriser des frappes de drones à partir de son sol",
+      "url": "https://www.rfi.fr/fr/afrique/20261102-le-soudan-accuse-l-%C3%A9thiopie-d-autoriser-des-frappes-de-drones-%C3%A0-partir-de-son-sol",
+      "source": "RFI",
+      "publishedAt": "2026-11-02T22:42:20.000Z",
+      "summary": "Le Soudan annonce avoir saisi le Conseil de sécurité de l'ONU et l'Union africaine, accusant l'Éthiopie d'autoriser des frappes de drones depuis son territoire. Les autorités soudanaises accusent régulièrement l'Éthiopie de soutenir les paramilitaires des Forces de soutien rapide (FSR) qu'elles combattent depuis plus d",
+      "image": "https://s.rfi.fr/media/display/369bd004-2a6f-11f0-a4be-005056bfb2b6/w:1024/p:16x9/000_44LG2WD.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-soudan-accuse-l-ethiopie-d-autoriser-des-frappes-de-drones-a-partir-d-f6339a1f33.html"
+    },
+    {
+      "title": "L'économie américaine au coeur des préoccupations pour les Midterms",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261102-l-%C3%A9conomie-am%C3%A9ricaine-au-coeur-des-pr%C3%A9occupations-pour-les-midterms",
+      "source": "France 24",
+      "publishedAt": "2026-11-02T22:07:40.000Z",
+      "summary": "A l'aube de son deuxième mandat, Donald Trump avait promis à la population le retour du \"golden age\", l'âge d'or des Etats-Unis et se faisait le héraut du pouvoir d'achat. Deux ans plus tard, le bilan n'est pas aussi glorieux qu'annoncé. La guerre en Iran et le blocage du détroit d'Ormuz ont fait exploser le prix du ca",
+      "image": "https://s.france24.com/media/display/c72dc806-d708-11f1-9d29-695cb59fade5/w:1024/p:16x9/XX-NW-OOV-ECO-DROITS-DE-DOUANE-US-ILLUSTR-MANENT-Laure-transfer.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-economie-americaine-au-coeur-des-preoccupations-pour-les-midterms-b0cc8ee859.html"
+    },
+    {
+      "title": "Israël: le bloc d'opposition se réunit, Netanyahu revendique de mener le prochain gouvernement",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261102-isra%C3%ABl-le-bloc-d-opposition-se-r%C3%A9unit-netanyahu-revendique-de-mener-le-prochain-gouvernement",
+      "source": "RFI",
+      "publishedAt": "2026-11-02T21:57:43.000Z",
+      "summary": "Le bloc d'opposition israélien se réunira mardi 3 novembre pour tenter de former une majorité à l'issue des législatives sous la direction du centriste Gadi Eisenkot, le Premier ministre sortant, Benyamin Netanyahu, appelant pour sa part à une large coalition dont il a revendiqué de prendre la tête.",
+      "image": "https://s.rfi.fr/media/display/54bf4b92-d707-11f1-a1f1-d18c5759e759/w:1024/p:16x9/combo-gadi-eisenkot-benyamin-netanyahu-oct26.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-le-bloc-d-opposition-se-reunit-netanyahu-revendique-de-mener-le-p-9a2c688a65.html"
+    },
+    {
+      "title": "En Ukraine, des frappes russes pendant une distribution d'aide humanitaire font 26 morts",
+      "url": "https://www.france24.com/fr/europe/20261102-en-ukraine-des-frappes-russes-pendant-une-distribution-d-aide-humanitaire-font-26-morts",
+      "source": "France 24",
+      "publishedAt": "2026-11-02T21:07:54.000Z",
+      "summary": "La Russie a mené plusieurs frappes lundi contre une école où était distribuée de l'aide humanitaire à Komyshuvakha, dans la région de Zaporijjia, dans le sud-est de l'Ukraine. Le bilan est de 26 morts au moins. Ces bombardements ont anéanti \"tout espoir de progrès vers la paix\", a déclaré le président ukrainien Volodym",
+      "image": "https://s.france24.com/media/display/77d61602-d701-11f1-8594-d18c5759e759/w:1024/p:16x9/c83c0482d49f8575fc0b65f32d551aa79b4d413b.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-ukraine-des-frappes-russes-pendant-une-distribution-d-aide-humanitair-49f6bc32e4.html"
+    },
+    {
+      "title": "Midterms : comment Donald Trump pave le récit d'un vote volé en cas de défaite",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261102-midterms-comment-donald-trump-pave-le-r%C3%A9cit-d-un-vote-vol%C3%A9-en-cas-de-d%C3%A9faite",
+      "source": "France 24",
+      "publishedAt": "2026-11-02T21:02:03.000Z",
+      "summary": "Il pourrait perdre le contrôle du Congrès américain lors des élections de mi-mandat. Depuis plusieurs semaines, Donald Trump multiplie les accusations de fraudes électorales, la plupart du temps sans fondement. Info ou Intox avec Jules Boiteau.",
+      "image": "https://s.france24.com/media/display/8e0059cc-d6fe-11f1-9ec6-d18c5759e759/w:1024/p:16x9/capture-bac7e172.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-comment-donald-trump-pave-le-recit-d-un-vote-vole-en-cas-de-def-fe9b8f8dae.html"
+    },
+    {
+      "title": "Pays-Bas: 2 millions d'euros offerts pour capturer un baron de la drogue possiblement caché en Sierra Leone",
+      "url": "https://www.rfi.fr/fr/afrique/20261102-pays-bas-2-millions-d-euros-offerts-pour-capturer-un-baron-de-la-drogue-possiblement-cach%C3%A9-en-sierra-leone",
+      "source": "RFI",
+      "publishedAt": "2026-11-02T20:47:28.000Z",
+      "summary": "C'est l'une des personnes les plus recherchées par Europol, l'agence de police européenne. Les Pays-Bas offrent une récompense de 2 millions d'euros pour toute information conduisant à l'arrestation de Jos Leijdekkers. Ce baron de la drogue multicondamné se trouverait aujourd'hui en Sierra Leone.",
+      "image": "https://s.rfi.fr/media/display/1e7fd5d0-1dd5-11ef-8eab-005056a97e36/w:1024/p:16x9/GettyImages-1500341355.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pays-bas-2-millions-d-euros-offerts-pour-capturer-un-baron-de-la-drogue--c213f2a1bf.html"
+    },
+    {
+      "title": "Mauritanie: boulangeries fermées pour hausse injustifiée du prix de la baguette",
+      "url": "https://www.rfi.fr/fr/afrique/20261102-mauritanie-boulangeries-ferm%C3%A9es-pour-hausse-injustifi%C3%A9e-du-prix-de-la-baguette",
+      "source": "RFI",
+      "publishedAt": "2026-11-02T20:38:24.000Z",
+      "summary": "En Mauritanie, le ministère du Commerce a ordonné la fermeture de dix-neuf boulangeries pour non-respect du prix du pain, une mesure prise à l'issue d'une opération de contrôle menée dans les boulangeries des trois wilayas de Nouakchott. Le ministère rappelle à la Fédération des boulangers l'obligation de respecter les",
+      "image": "https://s.rfi.fr/media/display/d90d875e-d6fa-11f1-85d5-d18c5759e759/w:1024/p:16x9/000-33B33NK.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mauritanie-boulangeries-fermees-pour-hausse-injustifiee-du-prix-de-la-ba-38c507db55.html"
+    },
+    {
+      "title": "Midterms 2026 : un vote anti-Trump ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261102-midterms-2026-un-vote-anti-trump",
+      "source": "France 24",
+      "publishedAt": "2026-11-02T19:40:24.000Z",
+      "summary": "Direction les Etats-Unis à la veille des élections de mi-mandat. La Chambre des représentants et un tiers du Sénat vont être renouvelés. Afin de faire basculer la chambre basse, les démocrates doivent conserver l'intégralité de leurs sièges et remporter 4 sièges supplémentaires. Dans les sondages, ils sont pour le mome",
+      "image": "https://s.france24.com/media/display/c085514e-d6f0-11f1-8735-1beafce15fea/w:1024/p:16x9/2026-11-02T150455Z-57526818-RC29FOA6T5LS-RTRMADP-3-USA-TRUMP-ELECTION.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-un-vote-anti-trump-028377f1d1.html"
+    },
+    {
+      "title": "Ce que l'on sait du piratage des réfrigérateurs de supermarchés en Europe",
+      "url": "https://www.france24.com/fr/europe/20261102-ce-que-sait-piratage-r%C3%A9frig%C3%A9rateurs-supermarch%C3%A9s-europe",
+      "source": "France 24",
+      "publishedAt": "2026-11-02T20:10:09.000Z",
+      "summary": "Après la France, plusieurs dizaines de supermarchés européens ont été victimes, lundi, d'une cyberattaque visant leurs installations frigorifiques. En cause, des équipements parfois anciens, qui ne bénéficient plus de mises à jour de sécurité, mais aussi un manque d'anticipation. Les pirates ont pu exploiter des faille",
+      "image": "https://s.france24.com/media/display/05ef4c26-d6e7-11f1-8541-bf1914cabd52/w:1024/p:16x9/AP26306457417754.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bourse-ghislaine-dupont-et-claude-verlon-les-malgaches-nadia-razafimahat-fa6d631a4e.html"
-    },
-    {
-      "title": "Midterms : une vague bleue va-t-elle gagner les États-Unis lors de ces élections ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-une-vague-bleue-va-t-elle-gagner-les-%C3%A9tats-unis-lors-de-ces-%C3%A9lections",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:37:56.000Z",
-      "summary": "Des agents fédéraux autour des bureaux de vote, une loi d'exception, ou encore la confiscation des bulletins : à quelques jours des élections de mi-mandat aux États-Unis, les autorités locales se préparent à toute tentative d'ingérence du gouvernement Trump dans le scrutin de mardi 3 novembre. Les précisions de Matthie",
-      "image": "https://s.france24.com/media/display/573401ce-d6d5-11f1-836f-d18c5759e759/w:1024/p:16x9/FR-20261028-223002-224315-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-une-vague-bleue-va-t-elle-gagner-les-etats-unis-lors-de-ces-ele-05729a3f1c.html"
-    },
-    {
-      "title": "Midterms : l'ex-président Barack Obama s'invite dans les élections",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-midterms-l-ex-pr%C3%A9sident-barack-obama-s-invite-dans-les-%C3%A9lections",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:34:14.000Z",
-      "summary": "L'ex-président américain Barack Obama a fait son retour samedi 24 octobre en campagne avec un meeting dans l'Ohio pour soutenir les candidats démocrates aux élections de mi-mandat le 3 novembre, livrant par la même occasion une critique virulente de Donald Trump. Les précisions de Matthieu Mabin, correspondant France 2",
-      "image": "https://s.france24.com/media/display/0fad72e6-d6d4-11f1-8348-1beafce15fea/w:1024/p:16x9/FR-20261026-223003-224316-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-l-ex-president-barack-obama-s-invite-dans-les-elections-a386101c89.html"
-    },
-    {
-      "title": "Mobilisations en France : \"Nous les Français\", une autre histoire de la France",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-mobilisations-en-france-nous-les-fran%C3%A7ais-une-autre-histoire-de-la-france",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:29:16.000Z",
-      "summary": "En France, des manifestations qui s'enchaînent, des jeunes en colère, un extrême aux portes du pouvoir : c'est le constat en cette fin de règne de la Macronie. À pile six mois du second tour de la Présidentielle, l'auteur Gérald Andrieu avait, avant les mobilisations, cherché à décrypter les Français actuels et à décor",
-      "image": "https://s.france24.com/media/display/a9df3188-d6cf-11f1-b8cb-bf1914cabd52/w:1024/p:16x9/FR-20261102-150336-152003-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisations-en-france-nous-les-francais-une-autre-histoire-de-la-franc-fa4b9d047f.html"
-    },
-    {
-      "title": "Ukraine: une attaque de drone russe fait deux blessés à Kherson au lendemain de la fin de la trêve",
-      "url": "https://www.rfi.fr/fr/europe/20261102-ukraine-une-attaque-de-drone-russe-fait-deux-bless%C3%A9s-%C3%A0-kherson-au-lendemain-de-la-fin-de-la-tr%C3%AAve",
-      "source": "RFI",
-      "publishedAt": "2026-11-02T16:12:02.000Z",
-      "summary": "Les autorités ukrainiennes ont fait état ce lundi 2 novembre d'une reprise des attaques russes dans la région méridionale de Kherson. La trêve aura tenu 6 jours et permis l'évacuation des civils à Oleshki.",
-      "image": "https://s.rfi.fr/media/display/2d3c3714-d5d2-11f1-a919-1beafce15fea/w:1024/p:16x9/AP26305305799484.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-une-attaque-de-drone-russe-fait-deux-blesses-a-kherson-au-lendem-82bdd48731.html"
-    },
-    {
-      "title": "Midterms 2026 : la Géorgie en première ligne de la mobilisation citoyenne contre les data centers",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261102-midterms-2026-g%C3%A9orgie-premi%C3%A8re-ligne-mobilisation-citoyenne-contre-data-centers",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T16:11:18.000Z",
-      "summary": "Aux États-Unis, l'IA s'est imposée comme un enjeu majeur des élections de mi-mandat du 3 novembre. Alors que les data centers indispensables à son fonctionnement se multiplient, ils suscitent de plus en plus de défiance, ralliant des opposants de tous bords unis par les mêmes inquiétudes écologiques et économiques. La ",
-      "image": "https://s.france24.com/media/display/7792b7ee-d491-11f1-b147-d18c5759e759/w:1024/p:16x9/main-93.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-la-georgie-en-premiere-ligne-de-la-mobilisation-citoyenne--7ac7307824.html"
-    },
-    {
-      "title": "Colère sociale en France: la mobilisation lycéenne se poursuit, le gouvernement sous pression",
-      "url": "https://www.rfi.fr/fr/france/20261102-col%C3%A8re-sociale-en-france-la-mobilisation-lyc%C3%A9enne-se-poursuit-le-gouvernement-sous-pression",
-      "source": "RFI",
-      "publishedAt": "2026-11-02T16:05:24.000Z",
-      "summary": "Ce lundi 2 novembre, les lycéens et les étudiants ont fait leur rentrée scolaire en France. Une rentrée marquée par la poursuite du mouvement dans plusieurs régions. Le gouvernement craint que le mouvement perdure et c'est une semaine à haut risque qui s'annonce pour l'exécutif.",
-      "image": "https://s.rfi.fr/media/display/21c9ae56-d6d2-11f1-afea-bf1914cabd52/w:1024/p:16x9/000-D64N373.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/colere-sociale-en-france-la-mobilisation-lyceenne-se-poursuit-le-gouvern-d3b4fce43d.html"
-    },
-    {
-      "title": "\"Dubaï Papers\" : le procès pour fraude fiscale internationale s'ouvre à Paris",
-      "url": "https://www.france24.com/fr/france/20261102-duba%C3%AF-papers-proc%C3%A8s-pour-fraude-fiscale-internationale-ouvre-paris",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T15:36:15.000Z",
-      "summary": "Un procès visant 13 personnes et trois sociétés dans l'affaire des \"Dubaï Papers\" s'est ouvert lundi à Paris. Le vaste système d'évasion fiscale aurait permis de dissimuler plus de 200 millions d'euros pour le compte de 322 contribuables français.",
-      "image": "https://s.france24.com/media/display/b0982448-d6d0-11f1-b267-695cb59fade5/w:1024/p:16x9/AP26297573853649.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dubai-papers-le-proces-pour-fraude-fiscale-internationale-s-ouvre-a-pari-8dcb3af1c5.html"
-    },
-    {
-      "title": "Manifestations en France : les jeunes restent mobilisés malgrés les annonces du gouvernement",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261102-manifestations-en-france-les-jeunes-restent-mobilis%C3%A9s-malgr%C3%A9s-les-annonces-du-gouvernement",
-      "source": "France 24",
-      "publishedAt": "2026-11-02T15:31:24.000Z",
-      "summary": "En France, les rentrées lycéennes et étudiantes se sont faites dans le calme ce lundi 2 novembre. En parallèle, une partie de la jeunesse reste mobilisée afin de faire entendre leurs revendications par le gouvernement, qui avait fait des propositions aux syndicats vendredi 23 octobre. Le mouvement pourrait se durcir à ",
-      "image": "https://s.france24.com/media/display/4a00d7a0-d6cd-11f1-996f-1beafce15fea/w:1024/p:16x9/FR-20261102-150146-150336-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-les-jeunes-restent-mobilises-malgres-les-annonc-f93aa39ace.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-que-l-on-sait-du-piratage-des-refrigerateurs-de-supermarches-en-europ-1de8d607dd.html"
     }
   ]
 }
