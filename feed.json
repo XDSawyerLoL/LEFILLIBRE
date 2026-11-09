@@ -1,77 +1,179 @@
 {
-  "updatedAt": "2026-11-09T02:49:58.872Z",
+  "updatedAt": "2026-11-09T10:40:09.835Z",
   "items": [
     {
-      "title": "France: règles douloureuses après les manifestations, les gaz lacrymogènes en question",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261108-france-r%C3%A8gles-douloureuses-apr%C3%A8s-les-manifestations-les-gaz-lacrymog%C3%A8nes-en-question",
+      "title": "« La batterie apporte un gain réel » : l’heure du bilan pour les trois testeurs de la batterie Zendure [Sponso]",
+      "url": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3308345_la-batterie-apporte-un-gain-reel-lheure-du-bilan-pour-les-trois-testeurs-de-la-batterie-zendure",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T10:30:55.000Z",
+      "summary": "Après plusieurs semaines d'utilisation quotidienne et un passage à l'heure d'automne, nos trois lecteurs rendent leur verdict définitif sur la batterie de stockage Zendure SolarFlow 2400 AC+. Entre fiabilité matérielle sans faille, bilan financier transparent et nouvelles ambitions solaires pour leurs foyers, découvrez",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/zendure-solarflow-2400-ac-keyv2.jpg?resize=1200,675&key=046b9fa0",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-batterie-apporte-un-gain-reel-l-heure-du-bilan-pour-les-trois-testeur-409ee2271f.html"
+    },
+    {
+      "title": "Black Friday : baisse de prix pour la Nintendo Switch 2 en pack avec le nouveau The Legend of Zelda Ocarina of Time",
+      "url": "https://www.frandroid.com/bons-plans/3313127_black-friday-baisse-de-prix-pour-la-nintendo-switch-2-en-pack-avec-le-nouveau-the-legend-of-zelda-ocarina-of-time",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T10:06:25.000Z",
+      "summary": "The Legend of Zelda : Ocarina of Time Remake vient de sortir sur Switch 2 et chez Joybuy, vous avez un lot avec la console de Nintendo pour 469,99 euros au lieu de 489,98 euros. On trouve aussi la version européenne de la console (c'est-à-dire avec une batterie plus facilement remplaçable) en pack avec le jeu à 499,99 ",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/nintendo-switch-2-the-legend-of-zelda-ocarina-of-time-pre-black-friday-2026.jpg?resize=1200,675&key=f0b1300f",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/black-friday-baisse-de-prix-pour-la-nintendo-switch-2-en-pack-avec-le-no-cd5661da31.html"
+    },
+    {
+      "title": "Vélos électriques : ce document obligatoire qui va tout changer à partir de 2027",
+      "url": "https://www.frandroid.com/survoltes/3315481_velos-electriques-ce-document-obligatoire-qui-va-tout-changer-a-partir-de-2027",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T09:40:46.000Z",
+      "summary": "À partir du 18 février 2027, toute nouvelle batterie de vélo électrique vendue dans l'Union européenne devra être accompagnée d'un passeport numérique, consultable avec un QR code. La règle s'applique aussi aux trottinettes et aux voitures électriques.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/06/bosch-powertube-360-batterie-amovible-velo-electrique.jpg?resize=1200,675&key=cb087d93",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/velos-electriques-ce-document-obligatoire-qui-va-tout-changer-a-partir-d-3c7642dce0.html"
+    },
+    {
+      "title": "Présidentielle en France: RSF dévoile dix propositions pour défendre le droit à l’information",
+      "url": "https://www.rfi.fr/fr/france/20261109-pr%C3%A9sidentielle-en-france-rsf-d%C3%A9voile-dix-propositions-pour-d%C3%A9fendre-le-droit-%C3%A0-l-information",
       "source": "RFI",
-      "publishedAt": "2026-11-08T23:16:12.000Z",
-      "summary": "La France s'enfonce dans un automne très social avec la poursuite des manifestations contre la vie chère et en soutien à la contestation lycéenne. Des mobilisations qui se terminent régulièrement dans un nuage de gaz lacrymogènes, utilisés par les forces de l'ordre pour disperser les manifestants. Mais depuis plusieurs",
-      "image": "https://s.rfi.fr/media/display/9c578086-dbae-11f1-81a6-1beafce15fea/w:1024/p:16x9/Une-personne-passe-devant-la-Colonne-Louis-XVI-pour-%C3%A9chapper-aux-gaz-lacrymog%C3%A8nes-lors-d-une-manifestation-en-faveur-du-pouvoir-d-achat-de-la-protection-des-services-publics-et-de-la-justice-fiscale-et-sociale-%C3%A0-Nan.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-regles-douloureuses-apres-les-manifestations-les-gaz-lacrymogenes-bf2cb9ca7f.html"
+      "publishedAt": "2026-11-09T09:34:27.000Z",
+      "summary": "Six mois avant l'élection présidentielle en France, Reporters sans frontières (RSF) interpelle les candidats avec dix propositions pour défendre le droit à l’information. Alors que l’indépendance des rédactions est sous pression, que l’audiovisuel public est menacé et que les plateformes comme l’intelligence artificiel",
+      "image": "https://s.rfi.fr/media/display/5409bb9a-4e5c-11f0-9bf3-005056a97e36/w:1024/p:16x9/000-14B485.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-en-france-rsf-devoile-dix-propositions-pour-defendre-le-d-2e44dbd650.html"
     },
     {
-      "title": "Midterms 2026: à Atlanta, la joie des électeurs afro-américains après la victoire de Keisha Lance Bottoms",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261108-midterms-2026-%C3%A0-atlanta-la-joie-des-%C3%A9lecteurs-afro-am%C3%A9ricains-apr%C3%A8s-la-victoire-de-keisha-lance-bottoms",
+      "title": "« Rétablissons la vérité » : la lettre de Laure Darcos à Mistral comportent plusieurs affirmations fausses",
+      "url": "https://www.frandroid.com/culture-tech/politique/3315379_retablissons-la-verite-la-lettre-de-laure-darcos-a-mistral-comportent-plusieurs-affirmations-fausses",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T09:34:20.000Z",
+      "summary": "À dix jours de l'examen à l'Assemblée nationale de sa proposition de loi sur l'IA et le droit d'auteur, la sénatrice Laure Darcos réplique au patron de Mistral par une lettre ouverte. Si l'objectif de rémunérer les créateurs est légitime, plusieurs affirmations clés de son courrier sont factuellement fausses ou largeme",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-53.png?resize=1200,675&key=d6dd0549",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/retablissons-la-verite-la-lettre-de-laure-darcos-a-mistral-comportent-pl-98f6377344.html"
+    },
+    {
+      "title": "Pologne: l'auteur de la fusillade à Cracovie est mort, annonce la police",
+      "url": "https://www.rfi.fr/fr/europe/20261109-pologne-l-auteur-de-la-fusillade-%C3%A0-cracovie-est-mort-annonce-la-police",
       "source": "RFI",
-      "publishedAt": "2026-11-08T23:06:34.000Z",
-      "summary": "Aux États-Unis, mardi 3 novembre, les Américains ont voté pour les élections de mi-mandat, avec pour résultat une immense victoire des démocrates, qui prennent le contrôle du Congrès. Ils ont aussi remporté des postes de gouverneur qui étaient en jeu. Et l'élection de certains candidats a marqué l'histoire du pays : Gi",
-      "image": "https://s.rfi.fr/media/display/d63d7570-dbaa-11f1-9094-a575454bc579/w:1024/p:16x9/Des-militants-apr%C3%A8s-le-discours-de-la-d%C3%A9mocrate-Keisha-Lance-Bottoms-devenue-la-premi%C3%A8re-femme-noire-%C3%A0-occuper-le-poste-de-gouverneur-aux-%C3%89tats-Unis-lors-de-la-soir%C3%A9e-%C3%A9lectorale-organis%C3%A9e-%C3%A0-l-h%C3%B4tel-Marriott-Marquis.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-a-atlanta-la-joie-des-electeurs-afro-americains-apres-la-v-6e722b5745.html"
+      "publishedAt": "2026-11-09T09:13:06.000Z",
+      "summary": "Il ne répondra jamais de ses actes : l'auteur de la tuerie qui a fait six morts et 15 blessés samedi 7 novembre à Cracovie, un Polonais de 24 ans grièvement blessé par des policiers, est mort ce lundi 9 novembre.",
+      "image": "https://s.rfi.fr/media/display/a51ea9e8-db76-11f1-90b4-bf1914cabd52/w:1024/p:16x9/AP26312287757514.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pologne-l-auteur-de-la-fusillade-a-cracovie-est-mort-annonce-la-police-161cb3a5c1.html"
     },
     {
-      "title": "Pays-Bas : une marée rouge envahit Amsterdam en soutien à Gaza",
-      "url": "https://fr.euronews.com/video/2026/11/08/amsterdam-une-foule-nombreuse-pour-gaza-reclame-des-sanctions-contre-israel",
-      "source": "Euronews",
-      "publishedAt": "2026-11-08T22:20:25.000Z",
-      "summary": "Des dizaines de milliers de personnes ont défilé dimanche 8 novembre dans les rues d'Amsterdam pour réclamer un durcissement de la politique du gouvernement néerlandais envers Israël face à la situation dans la bande de Gaza.",
-      "image": "https://images.euronews.com/articles/stories/09/98/48/03/696x392_cmsv2_9a69df69-3eec-5b67-b82d-8af349f9de5b-9984803.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pays-bas-une-maree-rouge-envahit-amsterdam-en-soutien-a-gaza-b3fe79ca9d.html"
+      "title": "« Une partie » de l’argent récupérée : le Crédit Mutuel Arkéa limite la casse après la cyberattaque",
+      "url": "https://www.01net.com/actualites/une-partie-de-largent-recuperee-le-credit-mutuel-arkea-limite-la-casse-apres-la-cyberattaque.html",
+      "source": "01net",
+      "publishedAt": "2026-11-09T07:52:17.000Z",
+      "summary": "Le Crédit Mutuel Arkéa a récupéré une partie du butin des pirates. Quelques jours après la cyberattaque massive qui a touché ses systèmes, la banque bretonne indique avoir pu mettre la main sur une partie de l'argent, limitant ainsi la casse.",
+      "image": "https://www.01net.com/app/uploads/2024/06/billet-banque-argent-1360x907.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/une-partie-de-l-argent-recuperee-le-credit-mutuel-arkea-limite-la-casse--edad736bb0.html"
     },
     {
-      "title": "États-Unis: Donald Trump veut Dana White, «féroce» patron de l'UFC, comme porte-parole de la Maison Blanche",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261108-%C3%A9tats-unis-donald-trump-veut-dana-white-f%C3%A9roce-patron-de-l-ufc-comme-porte-parole-de-la-maison-blanche",
+      "title": "Ukraine: plus de 600 000 habitants sans électricité après l'intensification des frappes russes",
+      "url": "https://www.rfi.fr/fr/europe/20261109-ukraine-plus-de-600-000-habitants-sans-%C3%A9lectricit%C3%A9-apr%C3%A8s-l-intensification-des-frappes-russes",
       "source": "RFI",
-      "publishedAt": "2026-11-08T21:44:45.000Z",
-      "summary": "Toujours à la recherche d'un porte-parole pour la Maison-Blanche, Donald Trump a proposé le poste à Dana White, son ami et président de l'Ultimate Fighting Championship (UFC), organisation majeure d'arts martiaux mixtes. Le président des États-Unis a dit vouloir un « combattant féroce et guerrier » pour faire face aux ",
-      "image": "https://s.rfi.fr/media/display/9e7b9d96-dbba-11f1-9f2f-d18c5759e759/w:1024/p:16x9/ETATS-UNIS-DONALD-TRUMP-DANA-WHITE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-donald-trump-veut-dana-white-feroce-patron-de-l-ufc-comme-por-6cd139d684.html"
+      "publishedAt": "2026-11-09T07:45:12.000Z",
+      "summary": "Le président ukrainien, Volodymyr Zelensky, a accusé ce week-end Moscou d’intensifier ses frappes en Ukraine afin d’affaiblir Kiev avant les négociations qui ont lieu à Abou Dhabi les 10 et 11 novembre. Ce lundi 9 novembre, plus de 600 000 Ukrainiens se réveillent sans électricité dans l'est du pays. En réalité, c'est ",
+      "image": "https://s.rfi.fr/media/display/b1f8357a-dc0d-11f1-89ec-695cb59fade5/w:1024/p:16x9/AP26311445825483.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-plus-de-600-000-habitants-sans-electricite-apres-l-intensificati-0aa77373fa.html"
     },
     {
-      "title": "Dialogue nationale en RD Congo : comment sortir de l'impasse ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261108-dialogue-nationale-en-rd-congo-comment-sortir-de-l-impasse",
-      "source": "France 24",
-      "publishedAt": "2026-11-08T21:37:48.000Z",
-      "summary": "Alors que la guerre se poursuit dans l'Est, cinq grandes figures de l'opposition, réunies au sein de la coalition C64, veulent rencontrer Félix Tshisekedi et Joseph Kabila pour préparer un dialogue national. Mais le pouvoir menace de poursuites ceux qui rencontreraient l'ancien président à Goma. Peut-on encore réunir l",
-      "image": "https://s.france24.com/media/display/1d2fef02-dbbb-11f1-876c-bf1914cabd52/w:1024/p:16x9/NW285664-O-01-20261108-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dialogue-nationale-en-rd-congo-comment-sortir-de-l-impasse-3eaf0f8247.html"
+      "title": "États-Unis: dans une interview, Donald Trump reconnaît une politique d’immigration «trop sévère»",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261109-%C3%A9tats-unis-dans-une-interview-donald-trump-reconna%C3%AEt-une-politique-d-immigration-trop-s%C3%A9v%C3%A8re",
+      "source": "RFI",
+      "publishedAt": "2026-11-09T06:23:57.000Z",
+      "summary": "Donald Trump a donné dimanche 8 novembre sa première interview posée depuis la série de défaites cuisantes aux élections de mi-mandat. Sur la chaîne CBS, il a défendu sa gestion de l’économie et de la guerre en Iran. Il a tout de même reconnu une « mauvaise communication » sur les questions économiques et surtout admis",
+      "image": "https://s.rfi.fr/media/display/7e25b39e-dc03-11f1-930a-1beafce15fea/w:1024/p:16x9/AP26313093851055.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-dans-une-interview-donald-trump-reconnait-une-politique-d-imm-369debad4f.html"
     },
     {
-      "title": "RDC : dialogue impossible entre Tshisekedi, Kabila et l'opposition ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition",
-      "source": "France 24",
-      "publishedAt": "2026-11-08T21:30:57.000Z",
-      "summary": "En République démocratique du Congo, la crise politique s'intensifie sur fond de guerre dans l'Est. La coalition d'opposition C64 souhaite rencontrer le président Félix Tshisekedi et son prédécesseur Joseph Kabila pour préparer un dialogue national. Mais Kinshasa menace de poursuites les opposants qui iraient rencontre",
-      "image": "https://s.france24.com/media/display/c5b7da0a-dbba-11f1-9ad4-695cb59fade5/w:1024/p:16x9/FR-20261108-214131-215019-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rdc-dialogue-impossible-entre-tshisekedi-kabila-et-l-opposition-fcd29b6306.html"
+      "title": "Mali: «À un moment, j’ai arrêté de compter les décès», témoigne El Bachir Thiam, ancien détenu de la Sécurité d’État",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20261109-mali-%C3%A0-un-moment-j-ai-arr%C3%AAt%C3%A9-de-compter-les-d%C3%A9c%C3%A8s-t%C3%A9moigne-el-bachir-thiam-ancien-d%C3%A9tenu-de-la-s%C3%A9curit%C3%A9-d-%C3%A9tat",
+      "source": "RFI",
+      "publishedAt": "2026-11-09T05:44:45.000Z",
+      "summary": "Au Mali, cela fait un peu plus d’un an qu’El Bachir Thiam est sorti des geôles de la Sécurité d’État du Mali. Membre du parti Yelema - aujourd’hui dissous, comme toutes les organisations politiques du pays -, il avait été enlevé le 8 mai 2025 à Kati, par des agents encagoulés des services de renseignements maliens, pui",
+      "image": "https://s.rfi.fr/media/display/9325cac2-dbfe-11f1-aadd-d18c5759e759/w:1024/p:16x9/Tof-El-Bachir-Thiam.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-a-un-moment-j-ai-arrete-de-compter-les-deces-temoigne-el-bachir-thi-84762ea24b.html"
     },
     {
-      "title": "Patronat et syndicats reçus lundi à Matignon : la colère va-t-elle retomber ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261108-patronat-et-syndicats-re%C3%A7us-lundi-%C3%A0-matignon-la-col%C3%A8re-va-t-elle-retomber",
-      "source": "France 24",
-      "publishedAt": "2026-11-08T21:18:42.000Z",
-      "summary": "Au menu de Présidentielle 2027: la conférence sociale organisée à Matignon, la démonstration de force de Jean-Luc Mélenchon et la cacophonie de la droite et du centre. Avec nos invités : Dorian Dreuil, expert associé à l'Observatoire de la vie politique de la Fondation Jean-Jaurès et Anthony Berthelier, journaliste pol",
-      "image": "https://s.france24.com/media/display/f29c8008-dbb9-11f1-b2c7-a575454bc579/w:1024/p:16x9/Francais-2026-11-08T20-13-07-122Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/patronat-et-syndicats-recus-lundi-a-matignon-la-colere-va-t-elle-retombe-59e809c310.html"
+      "title": "«La COP31 ne se déroule pas dans une bulle»: les États réunis à Antalya pour le climat",
+      "url": "https://www.rfi.fr/fr/environnement/20261109-la-cop31-ne-se-d%C3%A9roule-pas-dans-une-bulle-les-%C3%A9tats-r%C3%A9unis-%C3%A0-antalya-pour-le-climat",
+      "source": "RFI",
+      "publishedAt": "2026-11-09T05:00:50.000Z",
+      "summary": "Ce sont 196 États qui participent jusqu'au 20 novembre, dans le sud de la Turquie, à la 31e Conférence des Nations unies sur le climat. Un objectif mondial d’électrification sera la priorité de la co-présidence australo-turque de cette COP - un fonctionnement hybride inédit. Mais cette ambition ne peut être décorrélée ",
+      "image": "https://s.rfi.fr/media/display/0611f33a-dac9-11f1-9df6-bf1914cabd52/w:1024/p:16x9/2026-11-07T153540Z-1069403343-RC22JOAU6KO5-RTRMADP-3-CLIMATE-COP31-TURKEY.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-cop31-ne-se-deroule-pas-dans-une-bulle-les-etats-reunis-a-antalya-pou-34665a2915.html"
     },
     {
-      "title": "CNews : la pétition appelant à la fermeture de la chaîne dépasse le million de signatures",
-      "url": "https://www.france24.com/fr/france/20261108-cnews-la-p%C3%A9tition-appelant-%C3%A0-la-fermeture-de-la-cha%C3%AEne-d%C3%A9passe-le-million-de-signatures",
-      "source": "France 24",
-      "publishedAt": "2026-11-08T21:12:01.000Z",
-      "summary": "Lancée pour réclamer la suppression de CNews de l'audiovisuel français, une pétition a dépassé dimanche le million de signatures. Mardi, les députés doivent se prononcer sur la suite à donner à cette initiative : classement sans suite ou examen de la demande.",
-      "image": "https://s.france24.com/media/display/0962cd70-dbb9-11f1-9cc7-bf1914cabd52/w:1024/p:16x9/601591981e1f1e5811c18ea8d6b78282ce5ae178.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cnews-la-petition-appelant-a-la-fermeture-de-la-chaine-depasse-le-millio-0af0aeba37.html"
+      "title": "Frigos piratés : le FBI alerte sur des « systèmes ciblés dans le monde entier »",
+      "url": "https://www.01net.com/actualites/frigos-pirates-le-fbi-alerte-sur-des-systemes-cibles-dans-le-monde-entier.html",
+      "source": "01net",
+      "publishedAt": "2026-11-09T10:00:38.000Z",
+      "summary": "Le FBI et l’agence américaine de cybersécurité tirent la sonnette d’alarme. Dans une alerte commune publiée début novembre, ils mettent en garde contre des pirates qui s’en prennent aux frigos connectés des supermarchés, des entrepôts et du secteur de la santé, « dans le monde entier ». La menace est visiblement parven",
+      "image": "https://www.01net.com/app/uploads/2026/11/frigos-pirates-alerte-fbi-1-1344x756.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/frigos-pirates-le-fbi-alerte-sur-des-systemes-cibles-dans-le-monde-entie-1c1ad1a71f.html"
+    },
+    {
+      "title": "BYD s’attaque frontalement à Rolls-Royce : voici l’Altior, une limousine délirante à 280 000 €",
+      "url": "https://www.frandroid.com/marques/yangwang/3315397_byd-sattaque-frontalement-a-rolls-royce-voici-laltior-une-limousine-delirante-a-280-000-e",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T09:54:56.000Z",
+      "summary": "Yangwang, la marque de luxe de BYD, a dévoilé le 7 novembre 2026 à Abu Dhabi l'Altior, une limousine électrique de 5,60 mètres à quatre moteurs, en précommande en Chine à 2,08 millions de yuans (environ 280 000 euros).",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/yangwang-altior-lifestyle-image-2.jpg?resize=1200,675&key=10b0f928",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/byd-s-attaque-frontalement-a-rolls-royce-voici-l-altior-une-limousine-de-830a34a5a6.html"
+    },
+    {
+      "title": "Votre carte graphique AMD Radeon use peut-être votre SSD sans que vous le sachiez",
+      "url": "https://www.frandroid.com/marques/amd/3315565_votre-carte-graphique-amd-radeon-use-peut-etre-votre-ssd-sans-que-vous-le-sachiez",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T09:53:49.000Z",
+      "summary": "AMD reconnaît un bug de ses pilotes graphiques Radeon sous Windows : ils écrivent sans arrêt sur le SSD, même quand le PC est au repos. Le pilote chipset de la marque avait déjà eu le même défaut par le passé.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/02/2098835-amd-radeon-rx-7900-gre-t.jpg?resize=1200,675&key=4101738b",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/votre-carte-graphique-amd-radeon-use-peut-etre-votre-ssd-sans-que-vous-l-42c7f64f56.html"
+    },
+    {
+      "title": "GTA 6 : « Expédiée », les précommandes en France arrivent, une semaine avant la sortie",
+      "url": "https://www.frandroid.com/produits-android/console/3315513_gta-6-expediee-les-precommandes-en-france-arrivent-une-semaine-avant-la-sortie",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T09:52:43.000Z",
+      "summary": "Le lancement de GTA 6 attendu le 19 novembre approche à grand pas. Les précommandes de la version physiques arriveront chez les joueurs avant la sortie.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/gta-6-26-jason-and-lucia-190n-5s-vv5je.jpg?resize=1200,675&key=ffecf91b",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gta-6-expediee-les-precommandes-en-france-arrivent-une-semaine-avant-la--7df4595071.html"
+    },
+    {
+      "title": "Nouveau PlayStation Portal : Sony change son nom et lui ajoute du stockage interne",
+      "url": "https://www.frandroid.com/marques/3315597_nouveau-playstation-portal-sony-change-son-nom-et-lui-ajoute-du-stockage-interne",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T09:50:03.000Z",
+      "summary": "Sony lance version révisée du PlayStation Portal, rebaptisée PlayStation Portal Player, qui sortira le 10 décembre au Japon et en Corée du Sud. Sa seule nouveauté matérielle est un stockage interne, et Sony ne dit pas encore à quoi il servira.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/07238ccb0acaf98b87129693d06bc86f41a59787.webp?resize=1200,675&key=db5b4dea",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouveau-playstation-portal-sony-change-son-nom-et-lui-ajoute-du-stockage-8fed7986f6.html"
+    },
+    {
+      "title": "Noté 9/10, le TV Sony Bravia 7 II Mini LED True RGB de 75″ rivalise avec l’OLED et perd 500 € pour le pré Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3315287_note-9-10-le-tv-sony-bravia-7-ii-mini-led-true-rgb-de-75-rivalise-avec-loled-et-perd-500-e-pour-le-pre-black-friday",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T09:40:50.000Z",
+      "summary": "Le Sony Bravia 7 II, TV Mini LED True RGB lancé en 2026, a de sérieux arguments pour le cinéma. En 75 pouces, il passe à 1 799 euros au lieu de 2 299 euros chez Boulanger pour le pré-Black Friday.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/sony-bravia-7-ii-75-pouces-pre-black-friday-2026.jpg?resize=1200,675&key=fb1d0d1c",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/note-9-10-le-tv-sony-bravia-7-ii-mini-led-true-rgb-de-75-rivalise-avec-l-dfc6c73451.html"
+    },
+    {
+      "title": "Free Mobile disparaît le 1er décembre : ce que ça signifie pour les abonnés",
+      "url": "https://www.frandroid.com/marques/free/3315333_free-mobile-disparait-le-1er-decembre-ce-que-ca-signifie-pour-les-abonnes",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-09T09:40:00.000Z",
+      "summary": "Free Mobile va fusionner avec Free à compter du 1er décembre 2026. L'opération n'impliquera aucun changement tarifaire et se fera de manière automatique... comprenez sans intervention de l'abonné. On vous explique.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/05/pxl-20240523-130631196portraitoriginal2-scaled.jpg?resize=1200,675&key=dc138f5c",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/free-mobile-disparait-le-1er-decembre-ce-que-ca-signifie-pour-les-abonne-9e34822498.html"
     }
   ]
 }
