@@ -1,171 +1,170 @@
 {
-  "updatedAt": "2026-11-10T11:45:51.785Z",
+  "updatedAt": "2026-11-10T19:05:30.291Z",
   "items": [
     {
-      "title": "GTA 6 débloqué sur Xbox : tout le monde peut le télécharger, même sans l’acheter",
-      "url": "https://www.frandroid.com/marques/microsoft/3317143_gta-6-debloque-sur-xbox-tout-le-monde-peut-le-telecharger-meme-sans-lacheter",
+      "title": "Claude Sheets et Whiteboards : comment Anthropic attaque Microsoft Office sur son propre terrain",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3318265_claude-sheets-et-whiteboards-comment-anthropic-attaque-microsoft-office-sur-son-propre-terrain",
       "source": "Frandroid",
-      "publishedAt": "2026-11-10T11:41:00.000Z",
-      "summary": "L'application mobile Xbox permet de lancer dès maintenant le téléchargement des 210 Go de GTA 6 sur une Xbox Series X ou S, sans avoir payé le jeu. De quoi être prêt le 19 novembre, même avec une connexion lente ou une boîte pas encore livrée.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/xbox-gta-vi-frandroid.jpeg?resize=1200,675&key=2228bdeb",
+      "publishedAt": "2026-11-10T18:11:54.000Z",
+      "summary": "Après le traitement de texte et les présentations, Claude s'enrichit d'un tableur et d'un tableau blanc collaboratif. Anthropic ne se contente plus de louer ses moteurs d'IA à Microsoft pour doper Word et Excel&nbsp;: la start-up veut désormais que vos journées de travail commencent directement chez elle.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-80.png?resize=1200,675&key=94243e21",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gta-6-debloque-sur-xbox-tout-le-monde-peut-le-telecharger-meme-sans-l-ac-4ea27b7d61.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/claude-sheets-et-whiteboards-comment-anthropic-attaque-microsoft-office--cbc3c741d4.html"
     },
     {
-      "title": "Orange annonce une app gratuite tout-en-un qui permet de discuter avec ChatGPT, Claude ou Gemini",
-      "url": "https://www.01net.com/actualites/orange-annonce-une-app-gratuite-tout-en-un-qui-permet-de-discuter-avec-chatgpt-claude-ou-gemini.html",
-      "source": "01net",
-      "publishedAt": "2026-11-10T11:28:16.000Z",
-      "summary": "À partir du 19 novembre, Orange remplacera ses applications « Orange et moi » et « MySosh » par deux nouvelles applications. L’opérateur lance également Orange IAs et sa version premium, deux services qui permettent d’accéder à plusieurs grands modèles d’intelligence artificielle depuis un même espace.",
-      "image": "https://www.01net.com/app/uploads/2026/01/orange-logo-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/orange-annonce-une-app-gratuite-tout-en-un-qui-permet-de-discuter-avec-c-c17b393d11.html"
-    },
-    {
-      "title": "Afrique du Sud : l'ANC subit le pire score de son histoire électoral depuis plus de 30 ans",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-afrique-du-sud-l-anc-subit-le-pire-score-de-son-histoire-%C3%A9lectoral-depuis-plus-de-30-ans",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T11:29:50.000Z",
-      "summary": "Le Congrès national africain (ANC), parti dominant la politique sud-africaine depuis la fin de l'apartheid, a obtenu 30,76 % des voix aux élections municipales dimanche 8 novembre. Ces résultats montrent le recul spectaculaire de l'ANC, le parti de Nelson Mandela, figure de la lutte contre le régime raciste d'apartheid",
-      "image": "https://s.france24.com/media/display/26fbb406-dcf8-11f1-9969-3f371022a770/w:1024/p:16x9/FR-20261109-214253-214433-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-l-anc-subit-le-pire-score-de-son-histoire-electoral-depui-7d977b1f9a.html"
-    },
-    {
-      "title": "«Ueno Bank»: retour sur le scandale qui a provoqué la chute éclair du président paraguayen",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261110-ueno-bank-retour-sur-le-scandale-qui-a-provoqu%C3%A9-la-chute-%C3%A9clair-du-pr%C3%A9sident-paraguayen",
-      "source": "RFI",
-      "publishedAt": "2026-11-10T11:07:18.000Z",
-      "summary": "En 48 heures, tout s'est effondré sous ses pieds. Début novembre, la Banque centrale du Paraguay annonçait la prise de contrôle d'une banque liée au chef de l'État, et deux jours plus tard, ce dernier était déjà destitué puis remplacé par son vice-président. Désormais en détention provisoire, Santiago Peña risque gros.",
-      "image": "https://s.rfi.fr/media/display/47f1a226-dc6f-11f1-a7ee-d18c5759e759/w:1024/p:16x9/000-D6GJ2G6.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ueno-bank-retour-sur-le-scandale-qui-a-provoque-la-chute-eclair-du-presi-3603d11490.html"
-    },
-    {
-      "title": "Crise bancaire au Paraguay : près de la moitié de la population privée de son argent",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-crise-bancaire-au-paraguay-pr%C3%A8s-de-la-moiti%C3%A9-de-la-population-priv%C3%A9e-de-son-argent",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T10:59:03.000Z",
-      "summary": "Le nouveau président du Paraguay, Pedro Alliana, a demandé lundi 9 novembre à tous les ministres et hauts fonctionnaires du pays de démissionner, dans le cadre d'un vaste remaniement après la chute de son prédécesseur Santiago Peña. Le pays à annoncer avoir lancé des démarches avec les États-Unis, le Luxembourg et l'Ar",
-      "image": "https://s.france24.com/media/display/cdb0cf80-daf9-11f1-9509-a575454bc579/w:1024/p:16x9/2026-11-07T153653Z-181768230-RC23JOAS4CY2-RTRMADP-3-PARAGUAY-POLITICS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-bancaire-au-paraguay-pres-de-la-moitie-de-la-population-privee-de--823136bfe7.html"
-    },
-    {
-      "title": "Israël: Eisenkot pour tourner la page Netanyahu ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20261110-isra%C3%ABl-eisenkot-pour-tourner-la-page-netanyahu",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T10:58:08.000Z",
-      "summary": "Le président israélien Isaac Herzog confie à Gadi Eisenkot le soin de trouver une majorité à la Knesset. Une tentative qui annonce la fin de 19 ans de pouvoir pour Benyamin Netanyahu ?",
-      "image": "https://s.france24.com/media/display/da1961ea-dcf4-11f1-b50e-3f371022a770/w:1024/p:16x9/capture-a705de73.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-eisenkot-pour-tourner-la-page-netanyahu-8c82414015.html"
-    },
-    {
-      "title": "Trump assure que la guerre avec l’Iran touche à sa fin, selon Téhéran aucun pourparler n'est en cours",
-      "url": "https://fr.euronews.com/2026/11/10/trump-assure-que-la-guerre-avec-liran-touche-a-sa-fin-selon-teheran-aucun-pourparler-nest-",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T10:53:36.000Z",
-      "summary": "Après sa rencontre avec le Premier ministre du Qatar, Trump estime de nouvelles frappes \"peu probables\" mais dit que les États-Unis sont \"prêts à tirer\". Téhéran demande à Washington de cesser de \"fabriquer de fausses nouvelles sur des pourparlers imaginaires\".",
-      "image": "https://images.euronews.com/articles/stories/09/98/63/71/696x392_cmsv2_163016b6-c89b-5578-b1b4-e4803a941412-9986371.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-assure-que-la-guerre-avec-l-iran-touche-a-sa-fin-selon-teheran-auc-57e4da138b.html"
-    },
-    {
-      "title": "États-Unis : une procédure de destitution lancée contre le ministre de la Défense",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-%C3%A9tats-unis-une-proc%C3%A9dure-de-destitution-lanc%C3%A9e-contre-le-ministre-de-la-d%C3%A9fense",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T10:39:44.000Z",
-      "summary": "Une procédure de destitution du ministre américain de la Défense, Pete Hegseth, a été initiée lundi 9 novembre au Congrès par un député républicain, qui dénonce notamment la guerre en Iran et la manière dont ce ministre de Donald Trump l'a menée. Le député Thomas Massie, critique fréquent du président républicain, a dé",
-      "image": "https://s.france24.com/media/display/52a6cec0-dcf2-11f1-b362-5f54d898a954/w:1024/p:16x9/2026-11-06T012421Z-163758692-RC20IOALR7O5-RTRMADP-3-USA-TRUMP-HEGSETH.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-une-procedure-de-destitution-lancee-contre-le-ministre-de-la--96e690e94d.html"
-    },
-    {
-      "title": "Mobilisations en France : le Smic à 1 502 € net, \"des miettes\" selon la CGT",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-le-smic-%C3%A0-1-502-%E2%82%AC-net-des-miettes-selon-la-cgt",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T10:27:00.000Z",
-      "summary": "La revalorisation du Smic de 1,6 % au 1er décembre sera \"la deuxième hausse la plus importante en 20 ans\", a affirmé lundi le Premier ministre Sébastien Lecornu, défendant un \"coup de pouce\" qui \"n'est pas que symbolique\", pour tenter de calmer la colère sociale. La secrétaire général de la CGT a fustigé cette décision",
-      "image": "https://s.france24.com/media/display/a14c225a-dce8-11f1-af3a-3f371022a770/w:1024/p:16x9/FR-20261109-200429-201201-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisations-en-france-le-smic-a-1-502-net-des-miettes-selon-la-cgt-a16c131980.html"
-    },
-    {
-      "title": "Claude Fable 5.2 a généré FPS en 3D complet en 8h à partir d’une seule requête",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3317075_claude-fable-5-2-a-genere-fps-en-3d-complet-en-8h-a-partir-dune-seule-requete",
+      "title": "Bouygues Telecom en panne ? Les signalements grimpent ce soir",
+      "url": "https://www.frandroid.com/marques/bouygues-telecom/3318253_bouygues-telecom-en-panne-les-signalements-grimpent-ce-soir",
       "source": "Frandroid",
-      "publishedAt": "2026-11-10T10:16:14.000Z",
-      "summary": "Felix Rieseberg, responsable technique chez Anthropic, a publié ce lundi 9 novembre Saltline, un jeu de tir à la première personne jouable dans le navigateur, que Claude Fable 5.2 a généré en huit heures à partir d'une seule requête. Le modèle était sorti le jour même.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/claude-saltline.jpg?resize=1200,675&key=f50d8f7b",
+      "publishedAt": "2026-11-10T17:53:34.000Z",
+      "summary": "Les signalements visant Bouygues Telecom grimpent ce mardi soir sur Downdetector. L'opérateur n'a encore rien confirmé, mais certains abonnés ont visiblement du mal à appeler ou à se connecter.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/bouygues-telecom-panne.jpg?resize=1200,675&key=2eeb4b49",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/claude-fable-5-2-a-genere-fps-en-3d-complet-en-8h-a-partir-d-une-seule-r-2d51120e17.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bouygues-telecom-en-panne-les-signalements-grimpent-ce-soir-e805f48e15.html"
     },
     {
-      "title": "Nouvelle plainte des époux Macron contre l’influenceuse Candace Owens",
-      "url": "https://fr.euronews.com/2026/11/10/nouvelle-plainte-des-epoux-macron-contre-linfluenceuse-candace-owens",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T10:07:21.000Z",
-      "summary": "La plainte dénonce les « immenses dommages » subis par les époux Macron et évoque une « campagne d’humiliation internationale ». Le couple présidentiel accuse l’influenceuse d’avoir diffusé la fausse information selon laquelle Brigitte Macron était un homme.",
-      "image": "https://images.euronews.com/articles/stories/09/98/67/53/696x392_cmsv2_9bcf94df-65a3-5185-bee0-5c789bcc081e-9986753.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-plainte-des-epoux-macron-contre-l-influenceuse-candace-owens-1b1140a901.html"
-    },
-    {
-      "title": "Emmanuel Macron fait signer un engagement international aux rois de l’IA",
-      "url": "https://www.01net.com/actualites/emmanuel-macron-fait-signer-un-engagement-international-aux-rois-de-lia.html",
-      "source": "01net",
-      "publishedAt": "2026-11-10T10:00:20.000Z",
-      "summary": "Emmanuel Macron a réuni plusieurs grands patrons de l’IA et des représentants internationaux pour signer une charte visant à mieux encadrer les risques liés aux modèles de pointe. Le président de la République envisage également d’interdire certains outils d’intelligence artificielle aux plus jeunes.",
-      "image": "https://www.01net.com/app/uploads/2026/11/Emmanuel-Macron-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/emmanuel-macron-fait-signer-un-engagement-international-aux-rois-de-l-ia-e73eb9d969.html"
-    },
-    {
-      "title": "Israël: nouvellement élu à la Knesset, Hassan Nassasra veut faire entendre la voix des Palestiniens",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261110-isra%C3%ABl-elu-knesset-hassan-nassasra-faire-entendre-la-voix-des-palestiniens-liste-unifiee",
+      "title": "JOJ Dakar 2026: les mille et un combats de la taekwondoïste afghane Fatemeh Jami",
+      "url": "https://www.rfi.fr/fr/sports/20261110-joj-dakar-2026-les-mille-et-un-combats-de-la-taekwondo%C3%AFste-afghane-fatemeh-jami",
       "source": "RFI",
-      "publishedAt": "2026-11-10T09:01:36.000Z",
-      "summary": "Les parlementaires israéliens nouvellement élus font ce mardi leur rentrée à la Knesset. Ils sont 120 et beaucoup sont de nouveaux élus notamment dans les partis qui représentent les Palestiniens d’Israël soit 20 % de la population. Hassan Nassasra était dixième sur la Liste unifiée, un parti arabe. Adjoint au maire de",
-      "image": "https://s.rfi.fr/media/display/c949eb04-dcd7-11f1-a1f2-3f371022a770/w:1024/p:16x9/hassan-4.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-nouvellement-elu-a-la-knesset-hassan-nassasra-veut-faire-entendre-612d307774.html"
+      "publishedAt": "2026-11-10T18:50:02.000Z",
+      "summary": "Éliminée en quart de finale du tournoi de taekwondo des Jeux olympiques de la jeunesse, Fatemeh Jami a quitté l’aire de combat en larmes. Mais pour la jeune Afghane, née dans une famille de réfugiés en Iran, porter le drapeau de son pays et participer aux JOJ est déjà une victoire.",
+      "image": "https://s.rfi.fr/media/display/cd465402-dd33-11f1-8513-f71d22e7fea9/w:1024/p:16x9/PRW-8701.jpeg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/joj-dakar-2026-les-mille-et-un-combats-de-la-taekwondoiste-afghane-fatem-65389d8f71.html"
     },
     {
-      "title": "À la Une: pléthore de candidats à l’élection présidentielle en France…",
-      "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261110-%C3%A0-la-une-pl%C3%A9thore-de-candidats-%C3%A9lection-pr%C3%A9sidentielle-france",
+      "title": "JOJ Dakar 2026 : les jeux de société africains sont aussi de la partie",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-joj-dakar-2026-les-jeux-de-soci%C3%A9t%C3%A9-africains-sont-aussi-de-la-partie",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T18:29:01.000Z",
+      "summary": "Aux JOJ Dakar 2026, les jeux de société africains sont aussi de la partie. On s'y détend, et ils mettent en avant la culture du continent pendant les premiers Jeux olympiques organisés en Afrique.",
+      "image": "https://s.france24.com/media/display/1fca2ff6-dd33-11f1-a88b-5f54d898a954/w:1024/p:16x9/JOJ-Jeux-africains-00-00-24-10-Still005.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/joj-dakar-2026-les-jeux-de-societe-africains-sont-aussi-de-la-partie-f446892c65.html"
+    },
+    {
+      "title": "Israël: Eisenkot veut une commission d'enquête sur les défaillances sécuritaires liées au 7-Octobre",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261110-isra%C3%ABl-eisenkot-veut-une-commission-d-enqu%C3%AAte-sur-les-d%C3%A9faillances-s%C3%A9curitaires-li%C3%A9es-au-7-octobre",
       "source": "RFI",
-      "publishedAt": "2026-11-10T08:31:03.000Z",
-      "image": "https://s.rfi.fr/media/display/b9f61404-381b-11f1-8066-005056a97e36/w:1024/p:16x9/000-A7RE3ZQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-la-une-plethore-de-candidats-a-l-election-presidentielle-en-france-0c023616be.html"
+      "publishedAt": "2026-11-10T18:22:05.000Z",
+      "summary": "Le parti de Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a annoncé mardi 10 juillet avoir déposé un projet de loi pour créer une commission d'enquête sur les défaillances sécuritaires ayant permis l'attaque du Hamas du 7 octobre 2023.",
+      "image": "https://s.rfi.fr/media/display/9f5b9572-dd31-11f1-93e4-3f371022a770/w:1024/p:16x9/AP26312566035248.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-eisenkot-veut-une-commission-d-enquete-sur-les-defaillances-secur-9b99aa687d.html"
     },
     {
-      "title": "Pérou : une statue géante du pape Léon XIV dévoilée à Callao",
-      "url": "https://fr.euronews.com/video/2026/11/10/perou-une-statue-geante-du-pape-leon-xiv-devoilee-a-callao",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T07:46:29.000Z",
-      "summary": "Une immense statue du pape Léon XIV a été dévoilée à Callao, au Pérou, avant sa prochaine visite. Le monument rend hommage au souverain pontife, qui a longtemps vécu dans le pays comme missionnaire puis évêque.",
-      "image": "https://images.euronews.com/articles/stories/09/98/66/39/696x392_cmsv2_c2b57aa7-cbbb-58e5-8864-8dbd3fc6ccf5-9986639.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/perou-une-statue-geante-du-pape-leon-xiv-devoilee-a-callao-45b2a06ce1.html"
-    },
-    {
-      "title": "Infox sur Brigitte Macron : nouvelle manœuvre judiciaire du couple présidentiel contre Candace Owens",
-      "url": "https://www.france24.com/fr/france/20261110-infox-brigitte-macron-nouvelle-man%C5%93uvre-judiciaire-couple-pr%C3%A9sidentiel-contre-candace-owens-influenceuse-transgenre",
+      "title": "Présidentielle 2027 : quand le sport veut s'inviter dans l'élection",
+      "url": "https://www.france24.com/fr/sports/20261110-sport-2027-presidentielle-castera-%C3%A9lection",
       "source": "France 24",
-      "publishedAt": "2026-11-10T07:46:00.000Z",
-      "summary": "Après un premier revers procédural aux États-Unis, les époux Macron ont relancé les poursuites contre l'influenceuse américaine Candace Owens, dont les vidéos consacrées à la Première dame ont contribué à donner une audience internationale à la théorie complotiste selon laquelle Brigitte Macron aurait effectué une tran",
-      "image": "https://s.france24.com/media/display/17aee8ee-dcd8-11f1-8485-695cb59fade5/w:1024/p:16x9/AP26281341335922.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/infox-sur-brigitte-macron-nouvelle-man-uvre-judiciaire-du-couple-preside-8f25b241e0.html"
+      "publishedAt": "2026-11-10T17:53:47.000Z",
+      "summary": "Sous l'impulsion des comités olympiques et paralympiques français, le milieu du sport veut s'imposer dans le débat pour la présidentielle de 2027. Le collectif \"Sport 2027\" dévoile ses cinq propositions que tout candidat pourra reprendre, et donne rendez-vous aux prétendants à l'Élysée le 1er février 2027 pour un débat",
+      "image": "https://s.france24.com/media/display/8f2998fa-dd1f-11f1-ba17-695cb59fade5/w:1024/p:16x9/000-D6ZD4VT.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-quand-le-sport-veut-s-inviter-dans-l-election-f25d4494cc.html"
     },
     {
-      "title": "États-Unis : un élu républicain lance une procédure de destitution contre le ministre de la Défense Hegseth",
-      "url": "https://fr.euronews.com/2026/11/10/le-ministre-americain-de-la-defense-face-a-une-procedure-de-destitution",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T07:43:59.000Z",
-      "summary": "Le représentant républicain du Kentucky Thomas Massie a déposé huit articles de mise en accusation contre le secrétaire à la Défense des États-Unis Pete Hegseth, notamment pour son rôle dans la guerre en Iran.",
-      "image": "https://images.euronews.com/articles/stories/09/98/63/86/696x392_cmsv2_ec884b53-877a-5837-b8bc-b54cacbcae89-9986386.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-un-elu-republicain-lance-une-procedure-de-destitution-contre--29c24ac573.html"
-    },
-    {
-      "title": "Frigos victimes de cyberattaques : la France \"ne s'interdit rien\" dans la riposte contre l'Iran",
-      "url": "https://www.france24.com/fr/france/20261110-cyberattaque-contre-des-frigos-la-france-dit-ne-s-interdit-rien-dans-la-riposte-contre-l-iran",
+      "title": "Qui est Vladimir Medinski, l'historien nationaliste à la tête de la délégation russe à Abu Dhabi ?",
+      "url": "https://www.france24.com/fr/europe/20261110-qui-vladimir-medinski-historien-nationaliste-t%C3%AAte-d%C3%A9l%C3%A9gation-russe-abu-dhabi",
       "source": "France 24",
-      "publishedAt": "2026-11-10T07:32:02.000Z",
-      "summary": "⁠L'ambassadeur d'Iran en France, dont le pays est soupçonné d'être à l'origine des ⁠cyberattaques de grande ampleur ayant visé les réfrigérateurs de plusieurs supermarchés, a été convoqué mardi matin, a indiqué le ministère français des Affaires étrangères. Jean-Noël Barrot a déclaré mardi que Paris \"ne s'interdit rien",
-      "image": "https://s.france24.com/media/display/d17bf19a-dcd8-11f1-8872-3f371022a770/w:1024/p:16x9/59e9ec860999a36645a3744ea75b80269a890b7f.jpg",
+      "publishedAt": "2026-11-10T17:33:23.000Z",
+      "summary": "La délégation russe participant mardi aux nouveaux pourparlers de paix entre Kiev et Moscou, organisés à Abu Dhabi sous l'égide des États-Unis, est une nouvelle fois dirigée par Vladimir Medinski, historien ultraconservateur et conseiller présidentiel, qui a réécrit les manuels d'histoire russes afin de justifier l'inv",
+      "image": "https://s.france24.com/media/display/991caffe-dd16-11f1-ad9b-f71d22e7fea9/w:1024/p:16x9/000-D72P2CQ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qui-est-vladimir-medinski-l-historien-nationaliste-a-la-tete-de-la-deleg-729072895c.html"
+    },
+    {
+      "title": "L’Europe a tranché : refuser le Linky n’est pas un droit, la facture des réfractaires flambe",
+      "url": "https://www.frandroid.com/survoltes/energie/3317903_leurope-a-tranche-refuser-le-linky-nest-pas-un-droit-la-facture-des-refractaires-flambe",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-10T17:28:05.000Z",
+      "summary": "Certains consommateurs restent fermes sur leur position&nbsp;: non au compteur Linky. Mais peuvent-ils réellement s'y opposer ? La Cour de justice de l'Union européenne vient de clarifier les règles applicables et confirme que le maintien d'un ancien compteur ne constitue pas un droit absolu.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/demenagement-contrat-elec-linky-edf-geo.jpeg?resize=1200,675&key=fa3d63ae",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/frigos-victimes-de-cyberattaques-la-france-ne-s-interdit-rien-dans-la-ri-2b4675f2f4.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-europe-a-tranche-refuser-le-linky-n-est-pas-un-droit-la-facture-des-re-3c4640072d.html"
+    },
+    {
+      "title": "Crise du logement en Italie : les manifestants plantent des tentes à Rome",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-crise-du-logement-en-italie-les-manifestants-plantent-des-tentes-%C3%A0-rome",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T16:48:28.000Z",
+      "summary": "En Europe, la crise du logement sévit, y compris en Italie. À Rome, des dizaines de citoyens se sont mobilisés sur la grande place d'Espagne. Entre la hausse des loyers, les expulsions massives des locataires et la multiplication des locations touristiques, les manifestants exigent que le gouvernement mette en place de",
+      "image": "https://s.france24.com/media/display/1f335daa-dd20-11f1-8de3-3f371022a770/w:1024/p:16x9/FR-20261110-162314-162435-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-du-logement-en-italie-les-manifestants-plantent-des-tentes-a-rome-ca33f7b10c.html"
+    },
+    {
+      "title": "Guerre en Iran : le président Trump vante \"un élan positif\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-guerre-en-iran-le-pr%C3%A9sident-trump-vante-un-%C3%A9lan-positif",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T16:38:26.000Z",
+      "summary": "L'Iran campe mardi 10 novembre sur sa ligne en affirmant qu'il \"est temps de se soumettre aux conditions\" iraniennes, au lendemain de déclarations de Donald Trump saluant \"un élan positif\" dans les négociations pour mettre fin à plus de huit mois de guerre. Au commencement de cette guerre, lancée le 28 février via une ",
+      "image": "https://s.france24.com/media/display/b5f06d48-dd1e-11f1-9fbf-f71d22e7fea9/w:1024/p:16x9/FR-20261110-151405-151627-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-iran-le-president-trump-vante-un-elan-positif-05011c0f8f.html"
+    },
+    {
+      "title": "États-Unis: la Cour suprême autorise des travaux liés au mur frontalier avec le Mexique dans un parc naturel",
+      "url": "https://www.rfi.fr/fr/environnement/20261110-%C3%A9tats-unis-la-cour-supr%C3%AAme-autorise-des-travaux-li%C3%A9s-au-mur-frontalier-avec-le-mexique-dans-un-parc-naturel",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T16:36:40.000Z",
+      "summary": "Aux États-Unis, la Cour suprême a autorisé lundi 9 novembre la reprise des travaux de construction de barrières métalliques, routes de patrouille et systèmes de surveillance dans le parc national Big Bend au Texas. Cela fait partie du projet de Donald Trump de construire un mur contre l'immigration illégale à la fronti",
+      "image": "https://s.rfi.fr/media/display/d316ba04-dd18-11f1-8084-3f371022a770/w:1024/p:16x9/iStock-2291206413.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-la-cour-supreme-autorise-des-travaux-lies-au-mur-frontalier-a-99d9315ec2.html"
+    },
+    {
+      "title": "Mobilisations en France : une partie du monde éducatif maintient la mobilisation",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-une-partie-du-monde-%C3%A9ducatif-maintient-la-mobilisation",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T16:32:24.000Z",
+      "summary": "Les organisations de jeunesse et les enseignants étaient de nouveau mobilisés mardi, via des blocages de lycées et des manifestations, à l'origine de quelques tensions ou incidents par endroits, bien que le mouvement se déroule dans le calme en grande majorité. Le ministère de l'Éducation a rapporté que 1,3 % des 3 700",
+      "image": "https://s.france24.com/media/display/44122d64-dd1f-11f1-895d-f71d22e7fea9/w:1024/p:16x9/FR-20261110-162040-162253-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisations-en-france-une-partie-du-monde-educatif-maintient-la-mobili-63a239dfae.html"
+    },
+    {
+      "title": "G7 à Paris : comment l'Europe peut peser dans les pourparlers sur la guerre en Ukraine ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-g7-%C3%A0-paris-comment-l-europe-peut-peser-dans-les-pourparlers-sur-la-guerre-en-ukraine",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T16:25:50.000Z",
+      "summary": "Alors que la guerre en Ukraine dure depuis presque cinq ans, les disucssions à Paris entre les ministres du G7 est l'occasion d'aborder le dossier. Alors, comment l'Europe peut influencer sur ce conflit ? Les explications de Karim Yahiaoui, journaliste à France 24 et Pascal Confavreux, porte-parole du Ministère de l'Eu",
+      "image": "https://s.france24.com/media/display/bbd33330-dd1e-11f1-ba68-695cb59fade5/w:1024/p:16x9/FR-20261110-133820-134524-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/g7-a-paris-comment-l-europe-peut-peser-dans-les-pourparlers-sur-la-guerr-9099be545c.html"
+    },
+    {
+      "title": "Guerre en Ukraine : un dossier prioritaire au G7 des ministres à Paris",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-guerre-en-ukraine-un-dossier-prioritaire-au-g7-des-ministres-%C3%A0-paris",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T16:18:38.000Z",
+      "summary": "L'un des dossiers important de la réunion du G7 ce mardi 10 novembre à Paris est la guerre en Ukraine. Après plus de quatre ans et demi de conflits, des pourparlers se feront en parallèle des discussions engagées a Abu Dhabi.",
+      "image": "https://s.france24.com/media/display/55f9f72e-dd1e-11f1-b303-3f371022a770/w:1024/p:16x9/FR-20261110-133616-133819-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-un-dossier-prioritaire-au-g7-des-ministres-a-paris-bbef6a3d2c.html"
+    },
+    {
+      "title": "Harry et Meghan au Parlement européen pour protéger les enfants en ligne",
+      "url": "https://fr.euronews.com/video/2026/11/10/harry-et-meghan-au-parlement-europeen-pour-un-evenement-sur-la-securite-des-enfants-en-lig",
+      "source": "Euronews",
+      "publishedAt": "2026-11-10T15:38:49.000Z",
+      "summary": "Le prince Harry et Meghan se sont rendus au Parlement européen à Bruxelles pour évoquer les dangers des réseaux sociaux pour les enfants. Une apparition qui intervient quelques jours après l'arrestation du père de Meghan.",
+      "image": "https://images.euronews.com/articles/stories/09/98/72/72/696x392_cmsv2_d80b6939-2e6e-58c3-b320-2a0fce210d9f-9987272.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/harry-et-meghan-au-parlement-europeen-pour-proteger-les-enfants-en-ligne-c6b444445e.html"
+    },
+    {
+      "title": "Pétition pour \"supprimer CNews de l'audiovisuel français\" : les députés ne donnent pas suite",
+      "url": "https://www.france24.com/fr/france/20261110-p%C3%A9tition-pour-supprimer-cnews-audiovisuel-fran%C3%A7ais-d%C3%A9put%C3%A9s-donnent-pas-suite",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T15:06:52.000Z",
+      "summary": "La pétition pour \"supprimer CNews de l'audiovisuel français\" avait recueilli plus d’un million de signataires, autorisant sont débat à l'Assemblée nationale. Mardi, la commission des affaires culturelles et de l’éducation a cependant classé sans suite cette démarche par 28 votes contre 25.",
+      "image": "https://s.france24.com/media/display/5414cbc4-dd18-11f1-9de2-695cb59fade5/w:1024/p:16x9/000-D6ZY3WE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/petition-pour-supprimer-cnews-de-l-audiovisuel-francais-les-deputes-ne-d-3cb82c2a5c.html"
+    },
+    {
+      "title": "Pétition contre CNews: les députés français décident de ne pas y donner suite",
+      "url": "https://www.rfi.fr/fr/france/20261110-p%C3%A9tition-contre-cnews-les-d%C3%A9put%C3%A9s-fran%C3%A7ais-d%C3%A9cident-de-ne-pas-y-donner-suite",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T14:54:26.000Z",
+      "summary": "Signée par plus d'un million de personnes, la pétition qui demandait la fermeture de la chaîne de télévision CNews était examinée à l'Assemblée nationale ce 10 novembre 2026. Les députés ont décidé de la classer au motif qu'ils n'ont pas le pouvoir de fermer une chaîne, contrairement à l'Arcom, le régulateur de l'audio",
+      "image": "https://s.rfi.fr/media/display/29388594-dc32-11f1-ac49-695cb59fade5/w:1024/p:16x9/000-D6EK9T4.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/petition-contre-cnews-les-deputes-francais-decident-de-ne-pas-y-donner-s-93ec775a5d.html"
+    },
+    {
+      "title": "Israël: les nouveaux députés de la Knesset prêtent serment, Gadi Eisenkot cherche une majorité",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261110-isra%C3%ABl-nouveaux-d%C3%A9put%C3%A9s-de-la-knesset-pr%C3%AAtent-serment-gadi-eisenkot-cherche-une-majorit%C3%A9",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T13:53:18.000Z",
+      "summary": "Le Parlement israélien issu des récentes élections prend ses fonctions ce 10 novembre. Gadi Eisenkot dit vouloir former un gouvernement « le plus vite possible » mais la formation d'une coalition s'annonce difficile tant les lignes rouges des uns et des autres semblent irréconciliables.",
+      "image": "https://s.rfi.fr/media/display/75492274-dd07-11f1-ad09-f71d22e7fea9/w:1024/p:16x9/AP26314454316731.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-les-nouveaux-deputes-de-la-knesset-pretent-serment-gadi-eisenkot--22f9fe8708.html"
     }
   ]
 }
