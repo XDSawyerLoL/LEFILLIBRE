@@ -1,174 +1,78 @@
 {
-  "updatedAt": "2026-11-09T21:04:42.714Z",
+  "updatedAt": "2026-11-10T03:31:27.914Z",
   "items": [
     {
-      "title": "Nouveau Claude Fable 5.2 : Anthropic baisse de 20 % le prix de son IA la plus puissante et promet beaucoup moins de refus",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3316643_nouveau-claude-fable-5-2-anthropic-baisse-de-20-le-prix-de-son-ia-la-plus-puissante-et-promet-beaucoup-moins-de-refus",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-09T19:16:12.000Z",
-      "summary": "Anthropic baisse de 20&nbsp;% le prix de Claude Fable 5.2, son modèle le plus puissant ouvert à tous, et promet des progrès nets en code, en sciences et en robotique. Pour la plupart des utilisateurs, le changement le plus palpable sera ailleurs&nbsp;: moins de refus injustifiés.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/c52a1383-6145-4404-9fb4-d502005ab260-0.jpg?resize=1200,675&key=612333b5",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouveau-claude-fable-5-2-anthropic-baisse-de-20-le-prix-de-son-ia-la-plu-c41fe97563.html"
-    },
-    {
-      "title": "Qui est Alice Huang, la maîtresse du PDG de Nvidia, soupçonnée d'espionnage?",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261109-qui-est-alice-huang-la-ma%C3%AEtresse-du-pdg-de-nvidia-soup%C3%A7onn%C3%A9e-d-espionnage",
-      "source": "RFI",
-      "publishedAt": "2026-11-09T19:11:54.000Z",
-      "summary": "Une liaison extra-conjugale est au cœur d'un scandale d'espionnage qui fait dévisser la valeur boursière d'un géant des nouvelles technologies. Après avoir reconnu son adultère dans un mail interne, Jensen Huang, patron de l'entreprise Nvidia, fait l'objet d'une enquête interne. Selon le New York Times et le Wall Stree",
-      "image": "https://s.rfi.fr/media/display/2e53e2dc-dc71-11f1-8636-a575454bc579/w:1024/p:16x9/NVIDIA-CHINE-ALICE-HUANG-JENSEN-HUANG.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qui-est-alice-huang-la-maitresse-du-pdg-de-nvidia-soupconnee-d-espionnag-9e9a654fd6.html"
-    },
-    {
-      "title": "Le ministre américain de la Défense Pete Hegseth visé par une procédure de destitution",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261109-%C3%A9tats-unis-ministre-d%C3%A9fense-pete-hegseth-vis%C3%A9-proc%C3%A9dure-destitution",
+      "title": "L'Australie va imposer des garde-fous aux entreprises de l'IA opérant sur son sol",
+      "url": "https://www.france24.com/fr/asie-pacifique/20261110-australie-va-imposer-garde-fous-entreprises-ia",
       "source": "France 24",
-      "publishedAt": "2026-11-09T20:28:53.000Z",
-      "summary": "Un député républicain a lancé lundi une procédure de mise en accusation du controversé ministre américain de la Défense, Pete Hegseth, fragilisé par la percée démocrate aux midterms. Elle devrait être soumise à un vote dans la semaine à la Chambre des représentants.",
-      "image": "https://s.france24.com/media/display/3193d7d8-c644-11f1-b677-3774aeac812a/w:1024/p:16x9/AP26279700094442.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-ministre-americain-de-la-defense-pete-hegseth-vise-par-une-procedure--964218fcb3.html"
+      "publishedAt": "2026-11-10T03:24:03.000Z",
+      "summary": "L'Australie va créer une nouvelle autorité de régulation de l'IA, a annoncé son Premier ministre mardi. Les entreprises du secteur opérant sur le sol australien seront soumises à de nouvelles mesures de protection, notamment l'obligation de signaler les risques liés à l'IA et l'évaluation indépendante des modèles de po",
+      "image": "https://s.france24.com/media/display/f3c73fa8-dcb4-11f1-b1b3-1beafce15fea/w:1024/p:16x9/AP26267014342871.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-australie-va-imposer-des-garde-fous-aux-entreprises-de-l-ia-operant-su-8c71436c12.html"
     },
     {
-      "title": "Le pape Léon XIV presse Javier Milei de protéger les Argentins les plus vulnérables",
-      "url": "https://fr.euronews.com/2026/11/09/le-pape-leon-xiv-presse-javier-milei-de-proteger-les-argentins-les-plus-vulnerables",
+      "title": "France : nouvelle journée d'action à l'appel des étudiants, lycéens et enseignants",
+      "url": "https://www.france24.com/fr/france/20261109-france-nouvelle-journ%C3%A9e-d-action-%C3%A0-l-appel-des-%C3%A9tudiants-lyc%C3%A9ens-et-enseignants",
+      "source": "France 24",
+      "publishedAt": "2026-11-09T23:52:02.000Z",
+      "summary": "Près de deux mois après le début du mouvement lycéen et étudiant, une intersyndicale appelle mardi à une journée de grève et de manifestations dans la plupart des grandes villes de France, après une réunion à Matignon sur Parcoursup qui a tourné court.",
+      "image": "https://s.france24.com/media/display/8f2536c0-dc98-11f1-9e4e-a575454bc579/w:1024/p:16x9/8756bf85b43d0e1d82c6ef81d643d15b734fe709.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-nouvelle-journee-d-action-a-l-appel-des-etudiants-lyceens-et-ense-79033cd0cf.html"
+    },
+    {
+      "title": "En Espagne, la chute des prix de l'huile d'olive fait réagir le gouvernement",
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261109-en-espagne-la-chute-des-prix-de-l-huile-d-olive-fait-r%C3%A9agir-le-gouvernement",
+      "source": "RFI",
+      "publishedAt": "2026-11-09T23:23:41.000Z",
+      "summary": "En réponse à l'abondance de la récolte, les autorités espagnoles ont demandé le stockage de 12% de la production d'huile d'olive jusqu'à l'automne 2027, soit 188 000 tonnes. Une mesure annoncée par décret, qui vise à éviter l'effondrement des prix.",
+      "image": "https://s.rfi.fr/media/display/ffa3cc26-dc7b-11f1-ad3c-d18c5759e759/w:1024/p:16x9/La-photo-montre-des-olives-fra%C3%AEchement-r%C3%A9colt%C3%A9es-dans-une-oliveraie-d-Antequera-le-14-novembre-2023.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-espagne-la-chute-des-prix-de-l-huile-d-olive-fait-reagir-le-gouvernem-c9f0213fb5.html"
+    },
+    {
+      "title": "Afrique du Sud : la déroute de l'ANC, parti de Nelson Mandela, aux municipales",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261109-afrique-du-sud-la-d%C3%A9route-de-l-anc-parti-de-nelson-mandela-aux-municipales",
+      "source": "France 24",
+      "publishedAt": "2026-11-09T22:20:53.000Z",
+      "summary": "Le Congrès national africain (ANC), parti dominant la politique sud-africaine depuis la fin de l'apartheid, a obtenu 30,76 % des voix aux élections municipales, le pire score de son histoire, selon les résultats définitifs annoncés dimanche par la commission électorale. Aucun parti n'ayant remporté la majorité absolue ",
+      "image": "https://s.france24.com/media/display/8c3f209e-dc82-11f1-aee4-a575454bc579/w:1024/p:16x9/FRAN261109-2141-Live-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-la-deroute-de-l-anc-parti-de-nelson-mandela-aux-municipal-d87745969b.html"
+    },
+    {
+      "title": "Cameroun: Paul Biya fixe les élections législatives et municipales au 7 février 2027",
+      "url": "https://www.rfi.fr/fr/afrique/20261109-cameroun-paul-biya-fixe-les-l%C3%A9gislatives-et-municipales-au-7-f%C3%A9vrier-2027-apr%C3%A8s-plus-de-deux-ans-de-report",
+      "source": "RFI",
+      "publishedAt": "2026-11-09T22:12:48.000Z",
+      "summary": "Au Cameroun, les élections législatives et municipales se tiendront le 7 février 2027. Le président Paul Biya a convoqué le corps électoral par un décret rendu public lundi 9 novembre, après plus de deux ans de prorogation des mandats. Il n'y aura donc pas de nouveau report de ces scrutins, destinés à élire les députés",
+      "image": "https://s.rfi.fr/media/display/95598da6-dc85-11f1-893e-1beafce15fea/w:1024/p:16x9/000-A7X96NT.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cameroun-paul-biya-fixe-les-elections-legislatives-et-municipales-au-7-f-7edd538221.html"
+    },
+    {
+      "title": "Sahara occidental: l'épineux dossier de la Minurso à nouveau en discussion à l'ONU",
+      "url": "https://www.rfi.fr/fr/afrique/20261109-sahara-occidental-l-%C3%A9pineux-dossier-de-la-minurso-%C3%A0-nouveau-en-discussion-%C3%A0-l-onu",
+      "source": "RFI",
+      "publishedAt": "2026-11-09T22:08:43.000Z",
+      "summary": "Le dossier de la mission des Nations unies au Sahara occidental (Minurso) sera discuté à l'Assemblée générale mardi 10 novembre, près de dix jours après le véto russe au Conseil de sécurité, qui a précipité la fin de la Minurso. La Russie devra notamment expliquer pourquoi elle s'est opposée au projet de résolution ren",
+      "image": "https://s.rfi.fr/media/display/496ff4dc-d69c-11f1-b9d2-695cb59fade5/w:1024/p:16x9/000-8VV7ZZ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sahara-occidental-l-epineux-dossier-de-la-minurso-a-nouveau-en-discussio-068b99bba1.html"
+    },
+    {
+      "title": "Hausse du SMIC : l'exécutif se félicite, les syndicats râlent, le patronat se désole",
+      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261109-hausse-du-smic-l-ex%C3%A9cutif-se-f%C3%A9licite-les-syndicats-r%C3%A2lent-le-patronat-se-d%C3%A9sole",
+      "source": "France 24",
+      "publishedAt": "2026-11-09T22:03:45.000Z",
+      "summary": "Le gouvernement annonce une revalorisation du SMIC de 1,6%, soit 24€ mensuels, qui porte le salaire minimum à 1501,90€ dès le 1er décembre. Les syndicats estiment que c'est trop peu (la CFDT réclamait 100€ supplémentaires par mois et la CGT, 150€), estimant qu'il s'agit d'un simple rattrapage du pouvoir d'achat perdu c",
+      "image": "https://s.france24.com/media/display/ad99ec78-dc88-11f1-b1f4-a575454bc579/w:1024/p:16x9/XX-NW-HDL-MATIGNON-CONFERENCE-SOCIALE-18H-BERG-Valentin-transfer.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/hausse-du-smic-l-executif-se-felicite-les-syndicats-ralent-le-patronat-s-ea12641167.html"
+    },
+    {
+      "title": "Pologne : Tusk et Nawrocki unis pour rendre hommage aux six victimes de la fusillade de Cracovie",
+      "url": "https://fr.euronews.com/video/2026/11/09/pologne-tusk-et-nawrocki-unis-pour-rendre-hommage-aux-six-victimes-de-la-fusillade-de-crac",
       "source": "Euronews",
-      "publishedAt": "2026-11-09T19:02:37.000Z",
-      "summary": "Le pontife a visité le Cottolengo Don Orione, une institution qui s’occupe de plus de 400 personnes, touchée par les coupes budgétaires du gouvernement de Javier Milei. Il a aussi demandé que le progrès d’un pays se mesure à l’attention portée aux plus vulnérables.",
-      "image": "https://images.euronews.com/articles/stories/09/98/57/21/696x392_cmsv2_5888bd1d-6dfb-54c9-b3d5-2f77f6319843-9985721.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-pape-leon-xiv-presse-javier-milei-de-proteger-les-argentins-les-plus--6f89e0b51a.html"
-    },
-    {
-      "title": "Gabon : le Bloc des Cinq dénonce le blocage de la réforme des partis politques",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-gabon-le-bloc-des-cinq-d%C3%A9nonce-le-blocage-de-la-r%C3%A9forme-des-partis-politques",
-      "source": "France 24",
-      "publishedAt": "2026-11-09T18:47:51.000Z",
-      "summary": "🇬🇦 Au Gabon, le blocage du processus de réforme des partis politiques suscite de vives tensions. Cinq mois après l’échéance du 27 juin, le ministère de l’Intérieur n’a toujours pas rendu ses conclusions sur la conformité des 104 partis politiques concernés. Face à cette situation, le Bloc des Cinq, qui regroupe cinq ",
-      "image": "https://s.france24.com/media/display/7653f310-dc5d-11f1-b609-a575454bc579/w:1024/p:16x9/GABON-00-00-00-00-Still001.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gabon-le-bloc-des-cinq-denonce-le-blocage-de-la-reforme-des-partis-polit-5d50f342b4.html"
-    },
-    {
-      "title": "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot ?",
-      "url": "https://www.france24.com/fr/moyen-orient/20261109-israel-avigdor-liberman-principal-obstacle-gouvernement-eisenkot-netanyahu",
-      "source": "France 24",
-      "publishedAt": "2026-11-09T18:25:37.000Z",
-      "summary": "Avec seulement sept députés, Avigdor Liberman tente à nouveau de s'imposer comme le faiseur de roi de la politique israélienne. Le chef d'Israël Beitenou, un parti ultranationaliste membre de la coalition d'opposition, refuse toute inclusion des 19 députés issus des partis arabes dans la formation du prochain gouvernem",
-      "image": "https://s.france24.com/media/display/625cfd66-dc5d-11f1-b095-a575454bc579/w:1024/p:16x9/000-D3684XX.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-avec-ses-sept-deputes-avigdor-liberman-principal-obstacle-a-un-go-e8e72e129f.html"
-    },
-    {
-      "title": "Des smartphones plus chers en France ? Ce qui cloche encore et toujours avec la taxe Copie privée",
-      "url": "https://www.frandroid.com/culture-tech/economie/3315679_des-smartphones-plus-chers-en-france-ce-qui-cloche-encore-et-toujours-avec-la-taxe-copie-privee",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-09T18:09:12.000Z",
-      "summary": "Les ayants droit veulent augmenter la redevance Copie privée sur les smartphones et la faire payer pour la première fois aux ordinateurs, dès le 1er janvier 2027. La commission chargée d'en fixer le montant examine leur proposition ce vendredi 13 novembre, mais ce débat révèle surtout tout ce qui ne tourne plus rond da",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/taxe-copie-privee-smartphone.jpg?resize=1200,675&key=863597e0",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-smartphones-plus-chers-en-france-ce-qui-cloche-encore-et-toujours-av-0052e79032.html"
-    },
-    {
-      "title": "Présidentielle en France: Raphaël Glucksmann présente son projet de «révolution écologique»",
-      "url": "https://www.rfi.fr/fr/france/20261109-pr%C3%A9sidentielle-en-france-rapha%C3%ABl-glucksmann-pr%C3%A9sente-son-projet-de-r%C3%A9volution-%C3%A9cologique",
-      "source": "RFI",
-      "publishedAt": "2026-11-09T17:59:50.000Z",
-      "summary": "Raphaël Glucksmann veut faire de l'écologie l'un des piliers de son projet pour la présidentielle de 2027 en France. Le candidat de Place publique a présenté, lundi 9 novembre, son programme des 100 premiers jours pour sortir des énergies fossiles. Il entend porter une véritable « révolution écologique », avec un objec",
-      "image": "https://s.rfi.fr/media/display/188ac9b0-dc5e-11f1-9fb5-d18c5759e759/w:1024/p:16x9/000-D6K38CW.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-en-france-raphael-glucksmann-presente-son-projet-de-revol-df5a8e889f.html"
-    },
-    {
-      "title": "Anthropic utiliserait du gaz naturel pour alimenter Claude…et ça risque de faire débat",
-      "url": "https://www.01net.com/actualites/anthropic-utiliserait-du-gaz-naturel-pour-alimenter-claude-et-ca-risque-de-faire-debat.html",
-      "source": "01net",
-      "publishedAt": "2026-11-09T17:32:49.000Z",
-      "summary": "Anthropic aurait conclu un accord de 3,4 milliards de dollars pour équiper ses centres de données de générateurs fonctionnant au gaz naturel. Une stratégie qui lui permettrait de gagner du temps, mais qui pourrait se heurter à des obstacles politiques et soulever de nouvelles préoccupations écologiques.",
-      "image": "https://www.01net.com/app/uploads/2026/08/Anthropic-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/anthropic-utiliserait-du-gaz-naturel-pour-alimenter-claude-et-ca-risque--b43e977465.html"
-    },
-    {
-      "title": "Chypre: les dirigeants rivaux ont convenu d'ouvrir deux nouveaux points de passage entre nord et sud",
-      "url": "https://www.rfi.fr/fr/europe/20261109-chypre-les-dirigeants-rivaux-ont-convenu-d-ouvrir-deux-nouveaux-points-de-passage-entre-nord-et-sud",
-      "source": "RFI",
-      "publishedAt": "2026-11-09T17:12:46.000Z",
-      "summary": "Ce lundi 9 novembre, les dirigeants des deux parties de Chypre sont convenus lundi d'ouvrir deux nouveaux points de passage le long de la ligne verte qui divise l'île, dans le cadre des efforts en cours pour relancer les négociations de réunification, a annoncé l'ONU.",
-      "image": "https://s.rfi.fr/media/display/c001f36c-4287-11ef-b612-005056a97e36/w:1024/p:16x9/AP24192488446546.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chypre-les-dirigeants-rivaux-ont-convenu-d-ouvrir-deux-nouveaux-points-d-6e90769f27.html"
-    },
-    {
-      "title": "Cyberattaques contre les supermarchés : la France pense avoir démasqué les coupables",
-      "url": "https://www.01net.com/actualites/cyberattaques-contre-supermarches-france-demasque-coupables.html",
-      "source": "01net",
-      "publishedAt": "2026-11-09T17:01:35.000Z",
-      "summary": "La justice française soupçonne des hackers iraniens d'avoir piraté les frigos de centaines de supermarchés. Le parquet de Paris a même ouvert une information judiciaire contre plusieurs individus, considérés comme des cybercriminels mandatés par Téhéran. Quelques jours plus tôt, des pirates prorusses avaient pourtant r",
-      "image": "https://www.01net.com/app/uploads/2026/11/cyberattaque-frigos-supermarches-iran-1344x756.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cyberattaques-contre-les-supermarches-la-france-pense-avoir-demasque-les-b6c47e4e30.html"
-    },
-    {
-      "title": "De Guy Drut à Teddy Riner : quand les légendes françaises du sport se lancent en politique",
-      "url": "https://www.france24.com/fr/france/20261109-guy-drut-teddy-riner-legendes-fran%C3%A7aises-sport-politique",
-      "source": "France 24",
-      "publishedAt": "2026-11-09T16:31:32.000Z",
-      "summary": "Teddy Riner a provoqué la surprise lundi en annonçant se présenter à l'élection présidentielle de 2027. Il n'est cependant pas le premier sportif de haut niveau à se lancer dans le grand bain de la politique. Avant lui, plus d'un sont devenus maires, parlementaires ou ministres.",
-      "image": "https://s.france24.com/media/display/4be6a43c-dc59-11f1-a693-1beafce15fea/w:1024/p:16x9/main-sportifs-politique.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/de-guy-drut-a-teddy-riner-quand-les-legendes-francaises-du-sport-se-lanc-eae5726132.html"
-    },
-    {
-      "title": "L'augmentation du Smic de «20 euros» est «presque une provocation», juge le député LFI Hadrien Clouet",
-      "url": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-politique/20261109-l-augmentation-du-smic-de-20-euros-est-presque-une-provocation-juge-le-d%C3%A9put%C3%A9-lfi-hadrien-clouet",
-      "source": "RFI",
-      "publishedAt": "2026-11-09T15:46:44.000Z",
-      "summary": "Le député Hadrien Clouet, vice-président du groupe LFI à l’Assemblée nationale et membre de la Commission des affaires sociales, n’a pas de mots assez durs pour dénoncer « la faiblesse » du coup de pouce au Smic, annoncé par le gouvernement : +1,6 %, le portant à 1 502 euros. « Une réponse lamentable, en dessous de tou",
-      "image": "https://s.rfi.fr/media/display/17fef0cc-6214-11f0-a9da-005056bfb2b6/w:1024/p:16x9/Hadrien-Clouet.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-augmentation-du-smic-de-20-euros-est-presque-une-provocation-juge-le-d-724166dfcc.html"
-    },
-    {
-      "title": "Afrique du Sud : 30,76 % pour l'ANC, pire score de son histoire",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261109-afrique-du-sud-30-76-pour-l-anc-pire-score-de-son-histoire",
-      "source": "France 24",
-      "publishedAt": "2026-11-09T15:44:30.000Z",
-      "summary": "Le Congrès national africain (ANC), parti dominant la politique sud-africaine depuis la fin de l'apartheid, a obtenu 30,76 % des voix aux élections municipales, le pire score de son histoire, selon les résultats définitifs annoncés dimanche par la commission électorale.",
-      "image": "https://s.france24.com/media/display/a386fa84-dc4f-11f1-932f-d18c5759e759/w:1024/p:16x9/FR-20261109-153021-153313-CS-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-30-76-pour-l-anc-pire-score-de-son-histoire-431baf187d.html"
-    },
-    {
-      "title": "Législatives en Espagne : la droite en tête dans les sondages à trois semaines du scrutin",
-      "url": "https://www.france24.com/fr/europe/20261109-l%C3%A9gislatives-espagne-droite-en-t%C3%AAte-sondages-trois-semaines-scrutin",
-      "source": "France 24",
-      "publishedAt": "2026-11-09T15:39:16.000Z",
-      "summary": "Selon les derniers sondages, le Parti ⁠populaire (PP) devance largement la formation du Premier ministre socialiste Pedro Sanchez à l'approche des élections législatives anticipées ​du 29 novembre. Les études montrent en revanche que le PP aurait besoin du soutien du parti d'extrême droite Vox pour ‌obtenir une majorit",
-      "image": "https://s.france24.com/media/display/153b7c44-dc51-11f1-802b-1beafce15fea/w:1024/p:16x9/AP26309609950350.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-espagne-la-droite-en-tete-dans-les-sondages-a-trois-sema-6147626074.html"
-    },
-    {
-      "title": "L'aide militaire américaine à Israël remise en question?",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261109-l-aide-militaire-am%C3%A9ricaine-%C3%A0-isra%C3%ABl-remise-en-question",
-      "source": "RFI",
-      "publishedAt": "2026-11-09T15:18:20.000Z",
-      "summary": "La surprise fut totale le 3 novembre, jour des élections de mi-mandat aux États-Unis. À l'ouverture des bureaux de vote, Donald Trump annonçait la fin de l'aide militaire américaine directe à Israël. Si la menace d'un arrêt immédiat ne semble pas réaliste, des négociations sont effectivement en cours pour un nouveau pa",
-      "image": "https://s.rfi.fr/media/display/59f4e9b6-dc50-11f1-8bad-1beafce15fea/w:1024/p:16x9/ISRAEL-ETATS-UNIS-BENYAMIN-NETANYAHU-DONALD-TRUMP.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-aide-militaire-americaine-a-israel-remise-en-question-11d3bf6a3a.html"
-    },
-    {
-      "title": "Scandale Nvidia : quand le renseignement chinois passe par le \"sexpionage\"",
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261109-scandale-nvidia-quand-renseignement-chinois-passe-sexpionage",
-      "source": "France 24",
-      "publishedAt": "2026-11-09T17:37:17.000Z",
-      "summary": "La révélation d’une liaison entre Jensen Huang, dirigeant de Nvidia, et une ressortissante chinoise soupçonnée de travailler pour les services de renseignement de Pékin a fait l’effet d’une bombe aux États-Unis. Elle rappelle aussi que le \"sexpionage\" est un procédé que Pékin maîtrise et utilise pour peser dans sa guer",
-      "image": "https://s.france24.com/media/display/978c9508-dc5a-11f1-a14e-695cb59fade5/w:1024/p:16x9/nvidia-china-spy.png",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/scandale-nvidia-quand-le-renseignement-chinois-passe-par-le-sexpionage-02cc9754c5.html"
-    },
-    {
-      "title": "Comment de fausses vidéos sont utilisées pour décrédibiliser les inondations à Gaza",
-      "url": "https://www.france24.com/fr/moyen-orient/20261109-comment-de-fausses-vid%C3%A9os-sont-utilis%C3%A9es-pour-d%C3%A9cr%C3%A9dibiliser-les-inondations-%C3%A0-gaza",
-      "source": "France 24",
-      "publishedAt": "2026-11-09T17:30:52.000Z",
-      "summary": "Les 6 et 7 novembre, des inondations ont touché des camps de réfugiés dans la bande de Gaza. De nombreuses vidéos, partagées sur les réseaux sociaux montrent la détresse des habitants. Cependant, de fausses vidéos, générées par l’intelligence artificielle, viennent semer le doute et sont instrumentalisées par des compt",
-      "image": "https://s.france24.com/media/display/21120812-dc60-11f1-b1d9-bf1914cabd52/w:1024/p:16x9/neutre-bis.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/comment-de-fausses-videos-sont-utilisees-pour-decredibiliser-les-inondat-df0ce1a493.html"
+      "publishedAt": "2026-11-09T21:35:20.000Z",
+      "summary": "Malgré leurs profondes divergences politiques, Donald Tusk et Karol Nawrocki se sont recueillis ensemble à Cracovie. Le Premier ministre et le président polonais ont déposé des bougies en hommage aux six victimes de la fusillade.",
+      "image": "https://images.euronews.com/articles/stories/09/98/63/31/696x392_cmsv2_3f380230-fc03-5819-b9e1-af4b889318e7-9986331.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pologne-tusk-et-nawrocki-unis-pour-rendre-hommage-aux-six-victimes-de-la-0b23ad64cf.html"
     }
   ]
 }
