@@ -1,170 +1,169 @@
 {
-  "updatedAt": "2026-11-11T14:11:51.081Z",
+  "updatedAt": "2026-11-11T21:24:25.952Z",
   "items": [
     {
-      "title": "Le nouveau rover lunaire de la NASA n’aura pas besoin du Soleil : il roulera au nucléaire",
-      "url": "https://www.01net.com/actualites/le-nouveau-rover-lunaire-de-la-nasa-naura-pas-besoin-du-soleil-il-roulera-au-nucleaire.html",
-      "source": "01net",
-      "publishedAt": "2026-11-11T14:03:26.000Z",
-      "summary": "La NASA vient de confirmer PROMISE, un rover nucléaire assemblé à partir de pièces martiennes, direction le pôle Sud lunaire fin 2028. Un choix d'énergie qui répond à l'échec d'un prédécesseur resté dépendant du Soleil.",
-      "image": "https://www.01net.com/app/uploads/2026/11/Canva-1920x1280-27-1344x896.jpg",
+      "title": "Nvidia : espionnage ou affaire d'État ?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261111-nvidia-espionnage-ou-affaire-d-%C3%A9tat",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T20:45:33.000Z",
+      "summary": "C'est une affaire d’espionnage qui défraie la chronique aux États-Unis et sur les réseaux sociaux en Chine. Jensen Huang, le patron de Nvidia, est sur la sellette après la révélation de sa liaison avec Alice Huang, soupçonnée d’être une espionne qui travaille pour Pékin. Nvidia est le leader mondial des microprocesseur",
+      "image": "https://s.france24.com/media/display/978c9508-dc5a-11f1-a14e-695cb59fade5/w:1024/p:16x9/nvidia-china-spy.png",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-nouveau-rover-lunaire-de-la-nasa-n-aura-pas-besoin-du-soleil-il-roule-1edca638e2.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nvidia-espionnage-ou-affaire-d-etat-cc74cefe4e.html"
     },
     {
-      "title": "11 500 € et garantie 600 000 km : pourquoi la nouvelle berline électrique de Volkswagen cache un double piège",
-      "url": "https://www.01net.com/actualites/11-500-euros-garantie-600-000-km-pourquoi-nouvelle-berline-electrique-volkswagen-cache-double-piege.html",
-      "source": "01net",
-      "publishedAt": "2026-11-11T13:26:16.000Z",
-      "summary": "Volkswagen dévoile une version inédite de sa Jetta électrique. La berline voit son prix légèrement augmenter à 11 500 € mais propose en parallèle une garantie XXL allant jusqu’à 600 000 km. Sauf que dans les faits, deux détails bloquants pourraient tout gâcher.",
-      "image": "https://www.01net.com/app/uploads/2026/11/jetta-m6-2-1344x896.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/11-500-et-garantie-600-000-km-pourquoi-la-nouvelle-berline-electrique-de-fe3930b3ab.html"
-    },
-    {
-      "title": "\"Dix fois plus douloureux\" : l’impact suspecté des gaz lacrymogènes sur les règles",
-      "url": "https://www.france24.com/fr/france/20261111-dix-fois-plus-douloureux-l-impact-suspect%C3%A9-des-gaz-lacrymog%C3%A8nes-sur-les-r%C3%A8gles",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T14:05:17.000Z",
-      "summary": "Alors que la police française a largement recours aux gaz lacrymogènes lors des manifestations en France, des milliers de témoignages de femmes faisant état de troubles menstruels (règles très douloureuses, saignements plus abondants) remettent encore en cause l’idée selon laquelle cet agent chimique irritant n’aurait ",
-      "image": "https://s.france24.com/media/display/a664e012-da11-11f1-ab05-695cb59fade5/w:1024/p:16x9/000-D3LF967.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dix-fois-plus-douloureux-l-impact-suspecte-des-gaz-lacrymogenes-sur-les--eec0dc945f.html"
-    },
-    {
-      "title": "Guerre en Ukraine: Kiev annonce la capture d'un prisonnier de guerre indonésien",
-      "url": "https://www.rfi.fr/fr/europe/20261111-guerre-ukraine-kiev-annonce-la-capture-d-un-prisonnier-de-guerre-indon%C3%A9sien",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T13:56:29.000Z",
-      "summary": "L’armée ukrainienne a annoncé la capture dans la région de Zaporijjia, de son premier prisonnier de guerre indonésien. L’homme originaire de l’île de Java, affirme avoir été piégé par une fausse promesse d’emploi avant d’être recruté pour combattre côté russe sur le front ukrainien. Un phénomène en expansion, selon la ",
-      "image": "https://s.rfi.fr/media/display/82792048-ddd4-11f1-b501-695cb59fade5/w:1024/p:16x9/AP26258542812632.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-kiev-annonce-la-capture-d-un-prisonnier-de-guerre-indo-2165ca83ad.html"
-    },
-    {
-      "title": "Des écoles évacuées dans toute l'Italie après des alertes à la bombe",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-des-%C3%A9coles-%C3%A9vacu%C3%A9es-dans-toute-l-italie-apr%C3%A8s-des-alertes-%C3%A0-la-bombe",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T13:49:22.000Z",
-      "summary": "Des centaines d'écoles ont été évacuées dans toute l'Italie mercredi à la suite d'une série de fausses alertes à la bombe, selon les médias locaux – la Première ministre italienne Giorgia Meloni précisant qu'à ce stade, aucun \"danger concret\" n'avait été identifié. La cheffe du gouvernement a annoncé avoir convoqué une",
-      "image": "https://s.france24.com/media/display/72a122f0-ddd5-11f1-839c-695cb59fade5/w:1024/p:16x9/FR-20261111-141052-141235-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-ecoles-evacuees-dans-toute-l-italie-apres-des-alertes-a-la-bombe-5ef90cb0e5.html"
-    },
-    {
-      "title": "REPLAY. Emmanuel Macron s'exprime à l'occasion des commémorations de l'Armistice du 11-Novembre",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-replay-emmanuel-macron-s-exprime-%C3%A0-l-occasion-de-l-armistice-du-11-novembre",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T13:45:16.000Z",
-      "summary": "Le président français s'est exprimé ce mercredi à l'occasion des commémorations de l'Armistice du 11 novembre 1918.",
-      "image": "https://s.france24.com/media/display/8ddf9566-ddd4-11f1-a864-3f371022a770/w:1024/p:16x9/FR-20261111-133146-134545-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/replay-emmanuel-macron-s-exprime-a-l-occasion-des-commemorations-de-l-ar-c8bb4ae0ab.html"
-    },
-    {
-      "title": "Israël: Mansour Abbas, un allié potentiel sous conditions pour le «bloc du changement»",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261111-isra%C3%ABl-mansour-abbas-alli%C3%A9-potentiel-sous-conditions-bloc-du-changement",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T13:13:44.000Z",
-      "summary": "En Israël, la nouvelle Knesset a prêté serment mardi 10 novembre et déjà, les grandes manœuvres politiques s’intensifient pour tenter de former une coalition. Au cœur des tractations : le parti islamiste Ra’am de Mansour Abbas. Pour intégrer un éventuel gouvernement de changement, va-t-il franchir un cap historique en ",
-      "image": "https://s.rfi.fr/media/display/ee8c9b44-ddce-11f1-ad8f-29048b396e03/w:1024/p:16x9/AP26314425793122.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-mansour-abbas-un-allie-potentiel-sous-conditions-pour-le-bloc-du--73c3608f02.html"
-    },
-    {
-      "title": "En Chine, les écoles se vident à une vitesse vertigineuse",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261111-en-chine-les-%C3%A9coles-se-vident-%C3%A0-une-vitesse-vertigineuse",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T12:46:06.000Z",
-      "summary": "Entre 2021 et 2025, les maternelles, les écoles primaires et les collèges ont perdu près de 17 millions d'élèves, conséquence directe de la chute de la natalité. Cette dégringolade oblige le gouvernement à revoir son système éducatif. Et les autorités tentent désormais de s'adapter à une crise démographique qui touche ",
-      "image": "https://s.rfi.fr/media/display/fdac9510-ddb6-11f1-a2da-3f371022a770/w:1024/p:16x9/AP26295269921687.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-chine-les-ecoles-se-vident-a-une-vitesse-vertigineuse-ed332331fe.html"
-    },
-    {
-      "title": "Haïti : L’armée salvadorienne frappe le QG d’un des principaux gangs du pays",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-ha%C3%AFti-l-arm%C3%A9e-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pays",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T12:25:07.000Z",
-      "summary": "Des militaires salvadoriens déployés en Haïti ont détruit le \"quartier général\" de l'un des principaux gangs du pays, a annoncé le président du Salvador Nayib Bukele sur X. Une opération saluée par le Premier ministre haïtien et le président de la République dominicaine voisine.",
-      "image": "https://s.france24.com/media/display/c6f97ce6-ddc9-11f1-af32-f71d22e7fea9/w:1024/p:16x9/Haiti-Bukele-10.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/haiti-l-armee-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pa-923f879018.html"
-    },
-    {
-      "title": "Commémorations du 11-Novembre, exercice de la Coalition des volontaires en Pologne",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-comment-l-europe-pr%C3%A9pare-sa-soci%C3%A9t%C3%A9-%C3%A0-la-guerre",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T12:03:29.000Z",
-      "summary": "Le président français Emmanuel Macron préside ce mercredi – pour la dernière fois en tant que chef de l'État –, les commémorations du 11 novembre 1918. Parallèlement, et jusqu'au 22 novembre, se tient un exercice grandeur nature de la force internationale de la Coalition des volontaires en Pologne. Le point avec Antoin",
-      "image": "https://s.france24.com/media/display/0fa119de-ddc7-11f1-9721-5f54d898a954/w:1024/p:16x9/FR-20261111-120435-121147-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/commemorations-du-11-novembre-exercice-de-la-coalition-des-volontaires-e-de802cdea4.html"
-    },
-    {
-      "title": "Manifestants à la Knesset dénoncent les députés arabes et réclament de nouvelles élections",
-      "url": "https://fr.euronews.com/video/2026/11/11/manifestants-a-la-knesset-denoncent-les-deputes-arabes-et-reclament-de-nouvelles-elections",
+      "title": "Elon Musk commande 60 millions d'euros de cellules solaires à l'entreprise allemande Singulus",
+      "url": "https://fr.euronews.com/2026/11/11/elon-musk-commande-60-millions-deuros-de-cellules-solaires-a-lentreprise-allemande-singulu",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T11:56:23.000Z",
-      "summary": "Des manifestants se sont rassemblés devant le Parlement israélien à Jérusalem pour réclamer de nouvelles élections et dénoncer la présence et le rôle des députés arabes à la Knesset.",
-      "image": "https://images.euronews.com/articles/stories/09/98/83/94/696x392_cmsv2_5fbdc996-7d02-5240-ab62-b300d58d2bf8-9988394.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestants-a-la-knesset-denoncent-les-deputes-arabes-et-reclament-de-n-985f6b50fa.html"
-    },
-    {
-      "title": "Faut-il nationaliser le géant pétrolier TotalEnergies?",
-      "url": "https://www.rfi.fr/fr/podcasts/questions-d-environnement/20261111-faut-il-nationaliser-le-g%C3%A9ant-p%C3%A9trolier-totalenergies",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T11:48:17.000Z",
-      "summary": "Face à la flambée des cours du brut, le groupe pétrolier français enregistre des bénéfices records. Certaines voix en France réclament son rachat par l'État pour faire baisser les prix de l'essence et réorienter les activités de TotalEnergies en faveur du climat.",
-      "image": "https://s.rfi.fr/media/display/0cd35882-868a-11f1-bf23-005056a97e36/w:1024/p:16x9/000-B3773ZB.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/faut-il-nationaliser-le-geant-petrolier-totalenergies-cbad676409.html"
-    },
-    {
-      "title": "La France célèbre le 108e anniversaire de l'Armistice du 11 novembre 1918",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-la-france-c%C3%A9l%C3%A8bre-le-108e-anniversaire-de-l-armistice-du-11-novembre-1918",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T11:17:53.000Z",
-      "summary": "Une circulaire parue début juillet instaure une cérémonie annuelle \"d'hommage à tous les 'Morts pour la France'\" pour les élèves du CM1 à la terminale autour du 11-Novembre, à laquelle des élus ou des militaires pourraient participer. Dans la Loire, les collégiens se sont préparés à cet hommage. Reportage.",
-      "image": "https://s.france24.com/media/display/9b30def0-ddc0-11f1-b737-3f371022a770/w:1024/p:16x9/FR-20261111-120231-120327-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-france-celebre-le-108e-anniversaire-de-l-armistice-du-11-novembre-191-7c51c3c7be.html"
-    },
-    {
-      "title": "11-Novembre : ravivage de la flamme sur la tombe du soldat inconnu par Emmanuel Macron",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-11-novembre-ravivage-de-la-flamme-sur-la-tombe-du-soldat-inconnu-par-emmanuel-macron",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T10:51:12.000Z",
-      "summary": "Le président français Emmanuel Macron a procédé ce mercredi au ravivage de la flamme sur la tombe du soldat inconnu à l'occasion du 108e anniversaire de l’Armistice du 11 novembre 1918.",
-      "image": "https://s.france24.com/media/display/938cd0c2-ddbc-11f1-b050-f71d22e7fea9/w:1024/p:16x9/FR-20261111-113055-113311-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/11-novembre-ravivage-de-la-flamme-sur-la-tombe-du-soldat-inconnu-par-emm-84f8c46a59.html"
-    },
-    {
-      "title": "En Pologne, la «guerre constitutionnelle» va-t-elle dégénérer ?",
-      "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261111-en-pologne-la-guerre-constitutionnelle-va-t-elle-d%C3%A9g%C3%A9n%C3%A9rer",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T10:26:08.000Z",
-      "summary": "La traditionnelle Marche de l’indépendance, qui célèbre la renaissance de la Pologne souveraine en 1918, va se tenir sous haute surveillance. Des dizaines de milliers de manifestants sont attendus à Varsovie ce 11 novembre, parmi lesquels militants nationalistes, conservateurs et groupes d’extrême droite. Dans un pays ",
-      "image": "https://s.rfi.fr/media/display/8d84b108-ddb3-11f1-bf66-695cb59fade5/w:1024/p:16x9/000-D72V3ZV.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-pologne-la-guerre-constitutionnelle-va-t-elle-degenerer-fd7093a105.html"
-    },
-    {
-      "title": "Les radars militaires peuvent désactiver une partie de votre réseau Wi-Fi et vous ne pouvez rien faire",
-      "url": "https://www.01net.com/actualites/les-radars-militaires-peuvent-desactiver-une-partie-de-votre-reseau-wi-fi-et-vous-ne-pouvez-rien-faire.html",
-      "source": "01net",
-      "publishedAt": "2026-11-11T10:00:07.000Z",
-      "summary": "Saviez-vous que les radars militaires avaient le pouvoir de désactiver automatiquement le canal 5 GHz du réseau Wi-Fi chez vous ? C'est possible, et c'est même une obligation légale.",
-      "image": "https://www.01net.com/app/uploads/2026/11/radar-militaire-1344x756.jpg",
+      "publishedAt": "2026-11-11T20:10:24.000Z",
+      "summary": "SpaceX a signé un contrat de 60 millions d'euros avec l'entreprise allemande Singulus Technologies pour la fourniture de cellules solaires, faisant bondir le cours de son action.",
+      "image": "https://images.euronews.com/articles/stories/09/98/89/58/696x392_cmsv2_f02b6449-d90f-5871-88fb-5acff3609175-9988958.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-radars-militaires-peuvent-desactiver-une-partie-de-votre-reseau-wi-f-46166e244b.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elon-musk-commande-60-millions-d-euros-de-cellules-solaires-a-l-entrepri-af9846ef7a.html"
     },
     {
-      "title": "COP31: le sommet des chefs d’État s'ouvre, le président brésilien Lula en vedette, Emmanuel Macron absent",
-      "url": "https://www.rfi.fr/fr/environnement/20261111-cop31-sommet-chefs-d-%C3%A9tat-pr%C3%A9sident-br%C3%A9silien-lula-vedette-emmanuel-macron-absent",
+      "title": "Expulsion de Xenia Fedorova: la Russie interdit d'entrée deux députés et deux journalistes français",
+      "url": "https://www.rfi.fr/fr/europe/20261111-expulsion-de-xenia-fedorova-la-russie-interdit-d-entr%C3%A9e-deux-d%C3%A9put%C3%A9s-et-deux-journalistes-fran%C3%A7ais",
       "source": "RFI",
-      "publishedAt": "2026-11-11T09:52:20.000Z",
-      "summary": "C’est devenu un rendez vous obligatoire à la COP, un sommet des chefs d’État et de gouvernement est organisé en marge des négociations. Chacun s’exprimera à la tribune ces mercredi 11 novembre et jeudi 12, avant des rencontres bilatérales. Mais alors que le multilatéralisme et la coopération internationale sont en cris",
-      "image": "https://s.rfi.fr/media/display/2065366a-ddb3-11f1-aa17-5f54d898a954/w:1024/p:16x9/000-D74Y9VF.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cop31-le-sommet-des-chefs-d-etat-s-ouvre-le-president-bresilien-lula-en--813ec7dc61.html"
+      "publishedAt": "2026-11-11T20:34:22.000Z",
+      "summary": "Les autorités russes ont annoncé mercredi 11 novembre avoir déclaré persona non grata les députés français Sacha Houlié et Arthur Delaporte, ainsi que les journalistes Ariane Chemin et Paul Gogo, une mesure prise en réponse à l'expulsion de la chroniqueuse pro-Kremlin Xenia Fedorova.",
+      "image": "https://s.rfi.fr/media/display/18b53788-5b79-11f1-81de-005056bfb2b6/w:1024/p:16x9/AP18015482621817.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/expulsion-de-xenia-fedorova-la-russie-interdit-d-entree-deux-deputes-et--f963895322.html"
     },
     {
-      "title": "Donald Trump se félicite de l'échec d'une procédure de destitution contre Pete Hegseth",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-donald-trump-se-f%C3%A9licite-de-l-%C3%A9chec-d-une-proc%C3%A9dure-de-destitution-contre-pete-hegseth",
+      "title": "Indonésie: derrière la démission du vice-président Gibran, une alliance politique qui se dissout",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261111-indon%C3%A9sie-derri%C3%A8re-la-d%C3%A9mission-du-vice-pr%C3%A9sident-gibran-une-alliance-politique-qui-se-dissout",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T20:27:32.000Z",
+      "summary": "Selon plusieurs agences de presse, le vice-président indonésien Gibran Rakabuming Raka a démissionné, alors que le gouvernement est secoué par une succession de crises politiques et sociales. Il a signifié son départ au président Prabowo Subianto, un mois après que la Cour suprême a invalidé son diplôme d'études second",
+      "image": "https://s.rfi.fr/media/display/1a2601d6-ddf8-11f1-8d52-3f371022a770/w:1024/p:16x9/AP26314377641809.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/indonesie-derriere-la-demission-du-vice-president-gibran-une-alliance-po-50c73caa40.html"
+    },
+    {
+      "title": "Face à la Russie, les États-Unis veulent renforcer leur influence dans l'océan Indien",
+      "url": "https://www.rfi.fr/fr/afrique/20261111-face-%C3%A0-la-russie-les-%C3%A9tats-unis-veulent-renforcer-leur-influence-dans-l-oc%C3%A9an-indien",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T17:53:13.000Z",
+      "summary": "Le déplacement d'un haut responsable du commandement militaire américain pour l’Afrique (Africom) au Mozambique et à Madagascar, entre le 3 et le 7 novembre, illustre la volonté de Washington de rester un partenaire influent dans l'océan Indien. Car cette région stratégique attise aussi les convoitises de la Russie.",
+      "image": "https://s.rfi.fr/media/display/b97f34de-ddf6-11f1-94e0-5f54d898a954/w:1024/p:16x9/AP26300672658974.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/face-a-la-russie-les-etats-unis-veulent-renforcer-leur-influence-dans-l--4a52a9ddc0.html"
+    },
+    {
+      "title": "Foot: Sepp Blatter, ancien président de la Fifa, attaque avec virulence Gianni Infantino",
+      "url": "https://www.rfi.fr/fr/sports/20261111-fifa-sepp-blatter-ancien-pr%C3%A9sident-de-la-fifa-attaque-avec-virulence-gianni-infantino",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T17:42:55.000Z",
+      "summary": "L'ancien président de la Fifa Sepp Blatter a frontalement attaqué son successeur Gianni Infantino, le qualifiant de « dictateur » sans « aucune limite » et suggérant de l'envoyer « en psychiatrie », dans un entretien paru mercredi 11 novembre dans le magazine allemand Der Spiegel.",
+      "image": "https://s.rfi.fr/media/display/e79eebfe-ec2e-11ea-8adf-005056a964fe/w:1024/p:16x9/337e478f8aed643ef440651d4b719a49fb7c44d6.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/foot-sepp-blatter-ancien-president-de-la-fifa-attaque-avec-virulence-gia-3298a5f698.html"
+    },
+    {
+      "title": "Accords d’Abraham: une coopération militaire massive et assumée entre Israël et certains de ses alliés arabes",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261111-accords-d-abraham-une-coop%C3%A9ration-militaire-massive-et-assum%C3%A9e-entre-isra%C3%ABl-et-certains-de-ses-alli%C3%A9s-arabes",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T17:13:22.000Z",
+      "summary": "Le Maroc et les Émirats arabes unis sont deux des pays signataires des « Accords d’Abraham » de normalisation avec l’État hébreu, depuis 2020. Les dirigeants émiriens et marocains assument une coopération militaire étroite avec Israël, en dépit des critiques internationales qui visent ce pays en raison de ses guerres m",
+      "image": "https://s.rfi.fr/media/display/3b4976f6-ddf1-11f1-8bd6-3f371022a770/w:1024/p:16x9/AP26281723412461.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/accords-d-abraham-une-cooperation-militaire-massive-et-assumee-entre-isr-13043e14f2.html"
+    },
+    {
+      "title": "L'Iran menace de représailles en cas d'attaques américaines depuis des bases européennes",
+      "url": "https://www.france24.com/fr/europe/20261111-iran-menace-r%C3%A9pr%C3%A9sailles-cas-attaques-am%C3%A9ricaines-depuis-bases-europe",
       "source": "France 24",
-      "publishedAt": "2026-11-11T09:34:49.000Z",
-      "summary": "Le président américain Donald Trump s'est réjoui mardi de l'échec d'une procédure de destitution lancée au Congrès américain à l'encontre de son ministre de la Défense, Pete Hegseth, qu'il a salué de \"grand patriote\". Analyse de Bruno Daroux, chroniqueur international à France 24.",
-      "image": "https://s.france24.com/media/display/0821febc-ddae-11f1-82d6-5f54d898a954/w:1024/p:16x9/FR-20261111-091249-091804-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-se-felicite-de-l-echec-d-une-procedure-de-destitution-contr-33b32751b2.html"
+      "publishedAt": "2026-11-11T16:48:16.000Z",
+      "summary": "Téhéran a menacé mercredi de frapper toute base militaire d'où décolleraient des avions de combat américains cherchant à bombarder l'Iran, \"même située dans un pays européen ou dans une autre région éloignée\".",
+      "image": "https://s.france24.com/media/display/f8c593d6-ddec-11f1-8f0b-3f371022a770/w:1024/p:16x9/AP26234800648076.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-iran-menace-de-represailles-en-cas-d-attaques-americaines-depuis-des-b-122f23ef3e.html"
+    },
+    {
+      "title": "Éliminatoires CAN 2026: Cédric Bakambu vers le record de buts avec la RDC?",
+      "url": "https://www.rfi.fr/fr/afrique-foot/20261111-%C3%A9liminatoires-can-2026-c%C3%A9dric-bakambu-vers-le-record-de-buts-avec-la-rdc",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T16:27:16.000Z",
+      "summary": "De retour en sélection, Cédric Bakambu abordera cette trêve internationale sans club, mais avec l’espoir de battre le record de buts de la RDC détenu par Dieumerci Mbokani.",
+      "image": "https://s.rfi.fr/media/display/2405a4ea-5f90-11f1-b297-005056bf30b7/w:1024/p:16x9/GettyImages-2278935539.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/eliminatoires-can-2026-cedric-bakambu-vers-le-record-de-buts-avec-la-rdc-5809b1be65.html"
+    },
+    {
+      "title": "Affaire Fedorova : Moscou déclare persona non grata deux journalistes et deux députés français",
+      "url": "https://www.france24.com/fr/europe/20261111-affaire-fedorova-moscou-d%C3%A9clare-deux-journalistes-et-deux-d%C3%A9put%C3%A9s-fran%C3%A7ais-persona-non-grata",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T16:23:01.000Z",
+      "summary": "Le Monde et Ouest-France ont dénoncé mercredi \"une entrave à la liberté d'informer\", après l'annonce par la Russie d'interdire l'accès à son territoire aux journalistes Ariane Chemin et Paul Gogo. Deux députés, également visés par la mesure, évoquent une \"tentative d'intimidation\". Il leur est reproché d'avoir appelé à",
+      "image": "https://s.france24.com/media/display/a54e885e-ddea-11f1-bd94-f71d22e7fea9/w:1024/p:16x9/AP20092631208706.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/affaire-fedorova-moscou-declare-persona-non-grata-deux-journalistes-et-d-cd92b781a4.html"
+    },
+    {
+      "title": "Haïti: les militaires salvadoriens frappent le quartier général d'un chef de gang",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-ha%C3%AFti-les-militaires-salvadoriens-frappent-le-quartier-g%C3%A9n%C3%A9ral-d-un-chef-de-gang",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T16:21:19.000Z",
+      "summary": "Déployés en Haïti pour participer à la lutte contre les gangs, les militaires salvadoriens ont mené leur première opération d'envergure. Selon le président du Salvador, Nayib Bukele, ils ont détruit le quartier général de Wilson Joseph, chef du gang 400 Mawozo, dans la banlieue de Port-au-Prince. Cette intervention, la",
+      "image": "https://s.rfi.fr/media/display/cef4cb20-dde8-11f1-ad8b-f71d22e7fea9/w:1024/p:16x9/2026-11-04T011752Z-764681103-RC2PGOA9BG35-RTRMADP-3-HAITI-VIOLENCE-EL-SALVADOR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/haiti-les-militaires-salvadoriens-frappent-le-quartier-general-d-un-chef-21c29d56df.html"
+    },
+    {
+      "title": "Haïti: comment un internaute a guidé l’armée salvadorienne dans ses frappes visant un gang",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-ha%C3%AFti-comment-un-internaute-a-guid%C3%A9-l-arm%C3%A9e-salvadorienne-dans-ses-frappes-visant-un-gang",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T15:59:07.000Z",
+      "summary": "Déployée en Haïti depuis plusieurs semaines suite à la disparition de quatre de ses soldats, l’armée salvadorienne a affirmé mardi 10 novembre avoir détruit le quartier général des « 400 Mawozo », l’un des principaux gangs haïtiens. Le président du Salvador, Nayib Bukele, a diffusé sur ses réseaux sociaux les images de",
+      "image": "https://s.rfi.fr/media/display/8bb9d870-dde1-11f1-9cb4-f71d22e7fea9/w:1024/p:16x9/Ha%C3%AFti-Salvador-frappe-Osint.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/haiti-comment-un-internaute-a-guide-l-armee-salvadorienne-dans-ses-frapp-191fa1ea10.html"
+    },
+    {
+      "title": "«Il faut demander aux populations»: Mélenchon défend sa position sur l'Ukraine et balaie toute ambiguïté",
+      "url": "https://www.rfi.fr/fr/france/20261111-il-faut-demander-aux-populations-m%C3%A9lenchon-d%C3%A9fend-sa-position-sur-l-ukraine",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T15:54:07.000Z",
+      "summary": "Samedi 7 novembre, au Bourget, devant 20 000 personnes, Jean-Luc Mélenchon tenait son meeting de lancement de campagne, au lendemain de la publication de son programme présidentiel. Le leader de La France insoumise a défendu le droit des habitants du Donbass à choisir entre l'Ukraine et la Russie, en cas d'accord entre",
+      "image": "https://s.rfi.fr/media/display/28b90688-dc1f-11f1-84be-bf1914cabd52/w:1024/p:16x9/M%C3%A9lenchon-7-November-2026.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/il-faut-demander-aux-populations-melenchon-defend-sa-position-sur-l-ukra-5181272d85.html"
+    },
+    {
+      "title": "Christophe Gleizes : \"500 jours de trop !\"",
+      "url": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261111-christophe-gleizes-500-jours-de-trop",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T15:53:35.000Z",
+      "summary": "Cela fait 500 jours que Christophe Gleizes est privé de liberté. Le journaliste français est emprisonné pour apologie du terrorisme. Pour son comité de soutien, le jeune homme est l’otage d’une crise diplomatique entre Paris et Alger. Ce mercredi, l’ONG Reporters sans frontières et la mairie de Paris organisent un matc",
+      "image": "https://s.france24.com/media/display/95443114-dde7-11f1-8747-695cb59fade5/w:1024/p:16x9/capture-1d478b60.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/christophe-gleizes-500-jours-de-trop-cc6443068a.html"
+    },
+    {
+      "title": "Les émissaires américains rencontreront Vladimir Poutine puis Volodymyr Zelensky jeudi",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-les-%C3%A9missaires-am%C3%A9ricains-rencontreront-vladimir-poutine-puis-volodymyr-zelensky-jeudi",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T15:52:53.000Z",
+      "summary": "Les émissaires américains Jared Kushner et Steve Witkoff doivent rencontrer jeudi, à Moscou, le président russe Vladimir Poutine, puis le même jour, à Dublin, son homologue ukrainien Volodymyr Zelensky, après les discussions ukraino-russes qui se sont achevées mercredi à Abou Dhabi. Le point avec Antoine Mariotti, chro",
+      "image": "https://s.france24.com/media/display/193d79fe-dde7-11f1-9c89-f71d22e7fea9/w:1024/p:16x9/FR-20261111-160316-160752-CS-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-emissaires-americains-rencontreront-vladimir-poutine-puis-volodymyr--dbbf4320b5.html"
+    },
+    {
+      "title": "Un président qui marche parmi les morts : en Colombie, des images qui font grincer des dents",
+      "url": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261111-colombie-president-marche-parmi-morts-images-font-grincer-des-dents",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T15:52:32.000Z",
+      "summary": "Depuis son investiture en août, le président colombien d'extrême droite Abelardo de la Espriella s'affiche régulièrement au milieu de sacs mortuaires contenant les cadavres de membres présumés de groupes armés. Une pratique qui suscite des critiques.",
+      "image": "https://s.france24.com/media/display/321a7d28-dde7-11f1-b2af-f71d22e7fea9/w:1024/p:16x9/Vignette-horizontale.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-president-qui-marche-parmi-les-morts-en-colombie-des-images-qui-font--387031f747.html"
+    },
+    {
+      "title": "Des milliers d'écoles en Italie visées par des alertes à la bombe",
+      "url": "https://www.rfi.fr/fr/europe/20261111-des-%C3%A9coles-en-italie-%C3%A9vacu%C3%A9es-apr%C3%A8s-des-alertes-%C3%A0-la-bombe",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T15:45:42.000Z",
+      "summary": "Des milliers d'écoles dans toute l'Italie ont reçu mercredi 11 novembre par mail de fausses alertes à la bombe, ayant conduit à l'évacuation de certaines d'entre elles. La Première ministre italienne précisant qu'à ce stade, aucun « danger concret » n'avait été identifié. Au même moment, le Royaume-Uni et l'Irlande son",
+      "image": "https://s.rfi.fr/media/display/30304f90-dddf-11f1-bff2-695cb59fade5/w:1024/p:16x9/AP26315435773165.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-milliers-d-ecoles-en-italie-visees-par-des-alertes-a-la-bombe-9e94cbc7eb.html"
+    },
+    {
+      "title": "Guerre en Ukraine : fin des pourparlers d'Abou Dhabi",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-fin-des-pourparlers-d-abou-dhabi",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T15:43:24.000Z",
+      "summary": "Les émissaires américains Jared Kushner et Steve Witkoff doivent rencontrer jeudi, à Moscou, le président russe Vladimir Poutine, puis le même jour, à Dublin, son homologue ukrainien Volodymyr Zelensky, après les discussions ukraino-russes qui se sont achevées mercredi à Abou Dhabi. Lors de ces deux jours de discussion",
+      "image": "https://s.france24.com/media/display/3c32379e-dde5-11f1-aa77-695cb59fade5/w:1024/p:16x9/FR-20261111-160123-160309-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-fin-des-pourparlers-d-abou-dhabi-268a689de1.html"
     }
   ]
 }
