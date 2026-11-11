@@ -1,108 +1,170 @@
 {
-  "updatedAt": "2026-11-11T06:05:33.828Z",
+  "updatedAt": "2026-11-11T14:11:51.081Z",
   "items": [
     {
-      "title": "Fin du décodeur SFR ? L’app SFR TV arrive sur Apple TV",
-      "url": "https://www.frandroid.com/marques/sfr/3318329_fin-du-decodeur-sfr-lapp-sfr-tv-arrive-sur-apple-tv",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-11T05:52:00.000Z",
-      "summary": "SFR lance enfin son application TV sur l'Apple TV. Les abonnés SFR et RED peuvent rendre leur décodeur, à condition de payer une option mensuelle et d'avoir le boîtier d'Apple sous la télé.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-86.png?resize=1200,675&key=1aa61935",
+      "title": "Le nouveau rover lunaire de la NASA n’aura pas besoin du Soleil : il roulera au nucléaire",
+      "url": "https://www.01net.com/actualites/le-nouveau-rover-lunaire-de-la-nasa-naura-pas-besoin-du-soleil-il-roulera-au-nucleaire.html",
+      "source": "01net",
+      "publishedAt": "2026-11-11T14:03:26.000Z",
+      "summary": "La NASA vient de confirmer PROMISE, un rover nucléaire assemblé à partir de pièces martiennes, direction le pôle Sud lunaire fin 2028. Un choix d'énergie qui répond à l'échec d'un prédécesseur resté dépendant du Soleil.",
+      "image": "https://www.01net.com/app/uploads/2026/11/Canva-1920x1280-27-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fin-du-decodeur-sfr-l-app-sfr-tv-arrive-sur-apple-tv-5984e7f937.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-nouveau-rover-lunaire-de-la-nasa-n-aura-pas-besoin-du-soleil-il-roule-1edca638e2.html"
     },
     {
-      "title": "En Egypte, \"l'intensification des atteintes à la liberté de la presse\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261111-en-egypte-l-intensification-des-atteintes-%C3%A0-la-libert%C3%A9-de-la-presse",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T05:30:34.000Z",
-      "summary": "A la Une de la presse, ce mercredi 11 novembre, la première grève générale, aujourd’hui, en Espagne, depuis 14 ans. L’échec, en France, de la pétition pour la fermeture de la chaîne CNews. La liberté de la presse plus malmenée que jamais en Egypte. De nouvelles révélations sur l’affaire Nvidia. Et deux enquêtes sur des",
-      "image": "https://s.france24.com/media/display/797ab2e4-dd8f-11f1-87b0-695cb59fade5/w:1024/p:16x9/10-LE-MONDE-MADA-MASR.png",
+      "title": "11 500 € et garantie 600 000 km : pourquoi la nouvelle berline électrique de Volkswagen cache un double piège",
+      "url": "https://www.01net.com/actualites/11-500-euros-garantie-600-000-km-pourquoi-nouvelle-berline-electrique-volkswagen-cache-double-piege.html",
+      "source": "01net",
+      "publishedAt": "2026-11-11T13:26:16.000Z",
+      "summary": "Volkswagen dévoile une version inédite de sa Jetta électrique. La berline voit son prix légèrement augmenter à 11 500 € mais propose en parallèle une garantie XXL allant jusqu’à 600 000 km. Sauf que dans les faits, deux détails bloquants pourraient tout gâcher.",
+      "image": "https://www.01net.com/app/uploads/2026/11/jetta-m6-2-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-egypte-l-intensification-des-atteintes-a-la-liberte-de-la-presse-d096fb601c.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/11-500-et-garantie-600-000-km-pourquoi-la-nouvelle-berline-electrique-de-fe3930b3ab.html"
     },
     {
-      "title": "Algérie: Kamel Daoud condamné à 5 ans de prison dans l'affaire liée à son roman «Houris»",
-      "url": "https://www.rfi.fr/fr/afrique/20261111-alg%C3%A9rie-kamel-daoud-condamn%C3%A9-%C3%A0-5-ans-de-prison-dans-l-affaire-li%C3%A9e-%C3%A0-son-roman-houris",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T04:12:48.000Z",
-      "summary": "Cinq ans de prison pour Kamel Daoud. Mardi, le tribunal d'Oran a condamné l'écrivain franco-algérien pour atteinte à la vie privée et divulgation du secret professionnel, notamment celui de son épouse psychiatre, elle aussi condamnée par le même tribunal. C'est justement l'une de ses patientes qui avait porté plainte e",
-      "image": "https://s.rfi.fr/media/display/ed2b8ab4-2b3f-11f0-a78e-005056bf30b7/w:1024/p:16x9/000_36Q78T6.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/algerie-kamel-daoud-condamne-a-5-ans-de-prison-dans-l-affaire-liee-a-son-21c6027e50.html"
-    },
-    {
-      "title": "France: le RN en passe d'obtenir un prêt bancaire pour financer la campagne présidentielle de Marine Le Pen",
-      "url": "https://www.rfi.fr/fr/france/20261111-france-le-rn-en-passe-d-obtenir-un-pr%C3%AAt-bancaire-pour-financer-la-campagne-pr%C3%A9sidentielle-de-marine-le-pen",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T04:12:22.000Z",
-      "summary": "Le Rassemblement national a annoncé ce mardi 10 novembre être tout proche d'obtenir le prêt bancaire qu'il recherche pour financer la campagne de Marine Le Pen. La formation d'extrême droite devrait cependant se tourner une fois de plus vers deux banques étrangères.",
-      "image": "https://s.rfi.fr/media/display/d029dfc2-dd5b-11f1-858b-5f54d898a954/w:1024/p:16x9/000-D6J78XR.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-le-rn-en-passe-d-obtenir-un-pret-bancaire-pour-financer-la-campag-eec8364df4.html"
-    },
-    {
-      "title": "Guinée: plus de 1200 orpailleurs illégaux passent devant les tribunaux de Basse-Guinée",
-      "url": "https://www.rfi.fr/fr/afrique/20261111-guin%C3%A9e-plus-de-1200-orpailleurs-ill%C3%A9gaux-passent-devant-les-tribunaux-de-basse-guin%C3%A9e",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T04:11:25.000Z",
-      "summary": "Sur les 1412 orpailleurs interpellés en Haute-Guinée ces derniers jours, 1 263 exactement sont répartis entre différents tribunaux de Conakry et de la Basse-Guinée. Selon le gouvernement, ils ont été arrêtés car ils sont « récalcitrants ». Parmi eux figurent non seulement des Guinéens, mais aussi des Burkinabè, des Mal",
-      "image": "https://s.rfi.fr/media/display/a6da80c0-dd12-11f1-b233-f71d22e7fea9/w:1024/p:16x9/IMG-2229-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guinee-plus-de-1200-orpailleurs-illegaux-passent-devant-les-tribunaux-de-5dc2371ef1.html"
-    },
-    {
-      "title": "«Nous gaspillons plus que notre propre poids»: comment l’ONU compte diviser par deux les déchets alimentaires avant 2030",
-      "url": "https://www.rfi.fr/fr/environnement/20261111-nous-gaspillons-plus-que-notre-propre-poids-comment-l-onu-compte-diviser-par-deux-les-d%C3%A9chets-alimentaires-avant-2030",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T04:06:03.000Z",
-      "summary": "L’initiative Food Waste Breakthrough, lancée par le Programme des Nations unies pour l’environnement (PNUE) à la COP30 l’an dernier, vise à baisser les émissions mondiales mais aussi à faire des économies. À la COP31 qui vient de s'ouvrir en Turquie, ce 11 novembre est consacrée à la lutte contre le gaspillage. Respons",
-      "image": "https://s.rfi.fr/media/display/2dbf352a-8b8c-11ef-bde4-005056a97e36/w:1024/p:16x9/GettyImages-1463546392.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nous-gaspillons-plus-que-notre-propre-poids-comment-l-onu-compte-diviser-54a37be734.html"
-    },
-    {
-      "title": "Présidentielle au Brésil : Meta écope d'une amende pour traitement inégal entre Lula et Bolsonaro",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-presidentielle-bresil-meta-ecope-amende-traitement-inegal-lula-bolsonaro",
+      "title": "\"Dix fois plus douloureux\" : l’impact suspecté des gaz lacrymogènes sur les règles",
+      "url": "https://www.france24.com/fr/france/20261111-dix-fois-plus-douloureux-l-impact-suspect%C3%A9-des-gaz-lacrymog%C3%A8nes-sur-les-r%C3%A8gles",
       "source": "France 24",
-      "publishedAt": "2026-11-11T02:40:41.000Z",
-      "summary": "Le Tribunal supérieur électoral du Brésil a infligé mardi à Meta une amende de 7,5 millions de réais (environ 1,2 million d’euros) pour n'avoir pas respecté l'égalité de traitement entre les candidats à la présidentielle Lula et Flavio Bolsonaro.",
-      "image": "https://s.france24.com/media/display/fc2552f4-cd9e-11f1-a37c-19980254bb31/w:1024/p:16x9/AFP-20261014-D39K34J-v1-HighRes-IrelandEuAiSummit.jpg",
+      "publishedAt": "2026-11-11T14:05:17.000Z",
+      "summary": "Alors que la police française a largement recours aux gaz lacrymogènes lors des manifestations en France, des milliers de témoignages de femmes faisant état de troubles menstruels (règles très douloureuses, saignements plus abondants) remettent encore en cause l’idée selon laquelle cet agent chimique irritant n’aurait ",
+      "image": "https://s.france24.com/media/display/a664e012-da11-11f1-ab05-695cb59fade5/w:1024/p:16x9/000-D3LF967.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dix-fois-plus-douloureux-l-impact-suspecte-des-gaz-lacrymogenes-sur-les--eec0dc945f.html"
+    },
+    {
+      "title": "Guerre en Ukraine: Kiev annonce la capture d'un prisonnier de guerre indonésien",
+      "url": "https://www.rfi.fr/fr/europe/20261111-guerre-ukraine-kiev-annonce-la-capture-d-un-prisonnier-de-guerre-indon%C3%A9sien",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T13:56:29.000Z",
+      "summary": "L’armée ukrainienne a annoncé la capture dans la région de Zaporijjia, de son premier prisonnier de guerre indonésien. L’homme originaire de l’île de Java, affirme avoir été piégé par une fausse promesse d’emploi avant d’être recruté pour combattre côté russe sur le front ukrainien. Un phénomène en expansion, selon la ",
+      "image": "https://s.rfi.fr/media/display/82792048-ddd4-11f1-b501-695cb59fade5/w:1024/p:16x9/AP26258542812632.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-kiev-annonce-la-capture-d-un-prisonnier-de-guerre-indo-2165ca83ad.html"
+    },
+    {
+      "title": "Des écoles évacuées dans toute l'Italie après des alertes à la bombe",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-des-%C3%A9coles-%C3%A9vacu%C3%A9es-dans-toute-l-italie-apr%C3%A8s-des-alertes-%C3%A0-la-bombe",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T13:49:22.000Z",
+      "summary": "Des centaines d'écoles ont été évacuées dans toute l'Italie mercredi à la suite d'une série de fausses alertes à la bombe, selon les médias locaux – la Première ministre italienne Giorgia Meloni précisant qu'à ce stade, aucun \"danger concret\" n'avait été identifié. La cheffe du gouvernement a annoncé avoir convoqué une",
+      "image": "https://s.france24.com/media/display/72a122f0-ddd5-11f1-839c-695cb59fade5/w:1024/p:16x9/FR-20261111-141052-141235-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-ecoles-evacuees-dans-toute-l-italie-apres-des-alertes-a-la-bombe-5ef90cb0e5.html"
+    },
+    {
+      "title": "REPLAY. Emmanuel Macron s'exprime à l'occasion des commémorations de l'Armistice du 11-Novembre",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-replay-emmanuel-macron-s-exprime-%C3%A0-l-occasion-de-l-armistice-du-11-novembre",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T13:45:16.000Z",
+      "summary": "Le président français s'est exprimé ce mercredi à l'occasion des commémorations de l'Armistice du 11 novembre 1918.",
+      "image": "https://s.france24.com/media/display/8ddf9566-ddd4-11f1-a864-3f371022a770/w:1024/p:16x9/FR-20261111-133146-134545-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/replay-emmanuel-macron-s-exprime-a-l-occasion-des-commemorations-de-l-ar-c8bb4ae0ab.html"
+    },
+    {
+      "title": "Israël: Mansour Abbas, un allié potentiel sous conditions pour le «bloc du changement»",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261111-isra%C3%ABl-mansour-abbas-alli%C3%A9-potentiel-sous-conditions-bloc-du-changement",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T13:13:44.000Z",
+      "summary": "En Israël, la nouvelle Knesset a prêté serment mardi 10 novembre et déjà, les grandes manœuvres politiques s’intensifient pour tenter de former une coalition. Au cœur des tractations : le parti islamiste Ra’am de Mansour Abbas. Pour intégrer un éventuel gouvernement de changement, va-t-il franchir un cap historique en ",
+      "image": "https://s.rfi.fr/media/display/ee8c9b44-ddce-11f1-ad8f-29048b396e03/w:1024/p:16x9/AP26314425793122.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-mansour-abbas-un-allie-potentiel-sous-conditions-pour-le-bloc-du--73c3608f02.html"
+    },
+    {
+      "title": "En Chine, les écoles se vident à une vitesse vertigineuse",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261111-en-chine-les-%C3%A9coles-se-vident-%C3%A0-une-vitesse-vertigineuse",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T12:46:06.000Z",
+      "summary": "Entre 2021 et 2025, les maternelles, les écoles primaires et les collèges ont perdu près de 17 millions d'élèves, conséquence directe de la chute de la natalité. Cette dégringolade oblige le gouvernement à revoir son système éducatif. Et les autorités tentent désormais de s'adapter à une crise démographique qui touche ",
+      "image": "https://s.rfi.fr/media/display/fdac9510-ddb6-11f1-a2da-3f371022a770/w:1024/p:16x9/AP26295269921687.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-chine-les-ecoles-se-vident-a-une-vitesse-vertigineuse-ed332331fe.html"
+    },
+    {
+      "title": "Haïti : L’armée salvadorienne frappe le QG d’un des principaux gangs du pays",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-ha%C3%AFti-l-arm%C3%A9e-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pays",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T12:25:07.000Z",
+      "summary": "Des militaires salvadoriens déployés en Haïti ont détruit le \"quartier général\" de l'un des principaux gangs du pays, a annoncé le président du Salvador Nayib Bukele sur X. Une opération saluée par le Premier ministre haïtien et le président de la République dominicaine voisine.",
+      "image": "https://s.france24.com/media/display/c6f97ce6-ddc9-11f1-af32-f71d22e7fea9/w:1024/p:16x9/Haiti-Bukele-10.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/haiti-l-armee-salvadorienne-frappe-le-qg-d-un-des-principaux-gangs-du-pa-923f879018.html"
+    },
+    {
+      "title": "Commémorations du 11-Novembre, exercice de la Coalition des volontaires en Pologne",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-comment-l-europe-pr%C3%A9pare-sa-soci%C3%A9t%C3%A9-%C3%A0-la-guerre",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T12:03:29.000Z",
+      "summary": "Le président français Emmanuel Macron préside ce mercredi – pour la dernière fois en tant que chef de l'État –, les commémorations du 11 novembre 1918. Parallèlement, et jusqu'au 22 novembre, se tient un exercice grandeur nature de la force internationale de la Coalition des volontaires en Pologne. Le point avec Antoin",
+      "image": "https://s.france24.com/media/display/0fa119de-ddc7-11f1-9721-5f54d898a954/w:1024/p:16x9/FR-20261111-120435-121147-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/commemorations-du-11-novembre-exercice-de-la-coalition-des-volontaires-e-de802cdea4.html"
+    },
+    {
+      "title": "Manifestants à la Knesset dénoncent les députés arabes et réclament de nouvelles élections",
+      "url": "https://fr.euronews.com/video/2026/11/11/manifestants-a-la-knesset-denoncent-les-deputes-arabes-et-reclament-de-nouvelles-elections",
+      "source": "Euronews",
+      "publishedAt": "2026-11-11T11:56:23.000Z",
+      "summary": "Des manifestants se sont rassemblés devant le Parlement israélien à Jérusalem pour réclamer de nouvelles élections et dénoncer la présence et le rôle des députés arabes à la Knesset.",
+      "image": "https://images.euronews.com/articles/stories/09/98/83/94/696x392_cmsv2_5fbdc996-7d02-5240-ab62-b300d58d2bf8-9988394.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestants-a-la-knesset-denoncent-les-deputes-arabes-et-reclament-de-n-985f6b50fa.html"
+    },
+    {
+      "title": "Faut-il nationaliser le géant pétrolier TotalEnergies?",
+      "url": "https://www.rfi.fr/fr/podcasts/questions-d-environnement/20261111-faut-il-nationaliser-le-g%C3%A9ant-p%C3%A9trolier-totalenergies",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T11:48:17.000Z",
+      "summary": "Face à la flambée des cours du brut, le groupe pétrolier français enregistre des bénéfices records. Certaines voix en France réclament son rachat par l'État pour faire baisser les prix de l'essence et réorienter les activités de TotalEnergies en faveur du climat.",
+      "image": "https://s.rfi.fr/media/display/0cd35882-868a-11f1-bf23-005056a97e36/w:1024/p:16x9/000-B3773ZB.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/faut-il-nationaliser-le-geant-petrolier-totalenergies-cbad676409.html"
+    },
+    {
+      "title": "La France célèbre le 108e anniversaire de l'Armistice du 11 novembre 1918",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-la-france-c%C3%A9l%C3%A8bre-le-108e-anniversaire-de-l-armistice-du-11-novembre-1918",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T11:17:53.000Z",
+      "summary": "Une circulaire parue début juillet instaure une cérémonie annuelle \"d'hommage à tous les 'Morts pour la France'\" pour les élèves du CM1 à la terminale autour du 11-Novembre, à laquelle des élus ou des militaires pourraient participer. Dans la Loire, les collégiens se sont préparés à cet hommage. Reportage.",
+      "image": "https://s.france24.com/media/display/9b30def0-ddc0-11f1-b737-3f371022a770/w:1024/p:16x9/FR-20261111-120231-120327-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-france-celebre-le-108e-anniversaire-de-l-armistice-du-11-novembre-191-7c51c3c7be.html"
+    },
+    {
+      "title": "11-Novembre : ravivage de la flamme sur la tombe du soldat inconnu par Emmanuel Macron",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-11-novembre-ravivage-de-la-flamme-sur-la-tombe-du-soldat-inconnu-par-emmanuel-macron",
+      "source": "France 24",
+      "publishedAt": "2026-11-11T10:51:12.000Z",
+      "summary": "Le président français Emmanuel Macron a procédé ce mercredi au ravivage de la flamme sur la tombe du soldat inconnu à l'occasion du 108e anniversaire de l’Armistice du 11 novembre 1918.",
+      "image": "https://s.france24.com/media/display/938cd0c2-ddbc-11f1-b050-f71d22e7fea9/w:1024/p:16x9/FR-20261111-113055-113311-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/11-novembre-ravivage-de-la-flamme-sur-la-tombe-du-soldat-inconnu-par-emm-84f8c46a59.html"
+    },
+    {
+      "title": "En Pologne, la «guerre constitutionnelle» va-t-elle dégénérer ?",
+      "url": "https://www.rfi.fr/fr/podcasts/la-fabrique-du-monde/20261111-en-pologne-la-guerre-constitutionnelle-va-t-elle-d%C3%A9g%C3%A9n%C3%A9rer",
+      "source": "RFI",
+      "publishedAt": "2026-11-11T10:26:08.000Z",
+      "summary": "La traditionnelle Marche de l’indépendance, qui célèbre la renaissance de la Pologne souveraine en 1918, va se tenir sous haute surveillance. Des dizaines de milliers de manifestants sont attendus à Varsovie ce 11 novembre, parmi lesquels militants nationalistes, conservateurs et groupes d’extrême droite. Dans un pays ",
+      "image": "https://s.rfi.fr/media/display/8d84b108-ddb3-11f1-bf66-695cb59fade5/w:1024/p:16x9/000-D72V3ZV.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-pologne-la-guerre-constitutionnelle-va-t-elle-degenerer-fd7093a105.html"
+    },
+    {
+      "title": "Les radars militaires peuvent désactiver une partie de votre réseau Wi-Fi et vous ne pouvez rien faire",
+      "url": "https://www.01net.com/actualites/les-radars-militaires-peuvent-desactiver-une-partie-de-votre-reseau-wi-fi-et-vous-ne-pouvez-rien-faire.html",
+      "source": "01net",
+      "publishedAt": "2026-11-11T10:00:07.000Z",
+      "summary": "Saviez-vous que les radars militaires avaient le pouvoir de désactiver automatiquement le canal 5 GHz du réseau Wi-Fi chez vous ? C'est possible, et c'est même une obligation légale.",
+      "image": "https://www.01net.com/app/uploads/2026/11/radar-militaire-1344x756.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-bresil-meta-ecope-d-une-amende-pour-traitement-inegal--423bf2123d.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-radars-militaires-peuvent-desactiver-une-partie-de-votre-reseau-wi-f-46166e244b.html"
     },
     {
-      "title": "En direct : poursuite des pourparlers entre l'Ukraine et la Russie à Abu Dhabi",
-      "url": "https://www.france24.com/fr/europe/20261111-en-direct-poursuite-pourparlers-ukraine-russie-abu-dhabi-zelensky-poutine-kushner",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T02:32:05.000Z",
-      "summary": "Le président ukrainien Volodymyr Zelensky s'est dit \"satisfait\" du changement d'approche de Washington dans les pourparlers avec Moscou qui doivent se poursuivre mercredi à Abu Dhabi, insistant toutefois sur la nécessité de garanties de sécurité pour son pays. Suivez notre direct.",
-      "image": "https://s.france24.com/media/display/467b32a0-dd77-11f1-9a39-5f54d898a954/w:1024/p:16x9/AP26314365694784.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-poursuite-des-pourparlers-entre-l-ukraine-et-la-russie-a-abu-d-d48565e726.html"
-    },
-    {
-      "title": "Brésil: amende contre Meta pour traitement inégal entre Lula et Bolsonaro lors de la présidentielle",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-br%C3%A9sil-amende-contre-meta-pour-traitement-in%C3%A9gal-entre-lula-et-bolsonaro-lors-de-la-pr%C3%A9sidentielle",
+      "title": "COP31: le sommet des chefs d’État s'ouvre, le président brésilien Lula en vedette, Emmanuel Macron absent",
+      "url": "https://www.rfi.fr/fr/environnement/20261111-cop31-sommet-chefs-d-%C3%A9tat-pr%C3%A9sident-br%C3%A9silien-lula-vedette-emmanuel-macron-absent",
       "source": "RFI",
-      "publishedAt": "2026-11-11T01:39:10.000Z",
-      "summary": "La justice brésilienne a infligé mardi 10 novembre 2026 une amende au géant des technologies Meta pour non-respect de l'égalité de traitement sur ses plateformes entre le président Lula et son rival Flávio Bolsonaro durant la présidentielle.",
-      "image": "https://s.rfi.fr/media/display/d357a744-b734-11f1-88d3-833f01c30b8b/w:1024/p:16x9/AP26238582456488.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bresil-amende-contre-meta-pour-traitement-inegal-entre-lula-et-bolsonaro-3324d3d442.html"
+      "publishedAt": "2026-11-11T09:52:20.000Z",
+      "summary": "C’est devenu un rendez vous obligatoire à la COP, un sommet des chefs d’État et de gouvernement est organisé en marge des négociations. Chacun s’exprimera à la tribune ces mercredi 11 novembre et jeudi 12, avant des rencontres bilatérales. Mais alors que le multilatéralisme et la coopération internationale sont en cris",
+      "image": "https://s.rfi.fr/media/display/2065366a-ddb3-11f1-aa17-5f54d898a954/w:1024/p:16x9/000-D74Y9VF.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cop31-le-sommet-des-chefs-d-etat-s-ouvre-le-president-bresilien-lula-en--813ec7dc61.html"
     },
     {
-      "title": "En Haïti, le président du Salvador Nayib Bukele mène l'offensive contre les gangs",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-haiti-president-salvador-nayib-bukele-offensive-contre-gangs-400-mawozo",
+      "title": "Donald Trump se félicite de l'échec d'une procédure de destitution contre Pete Hegseth",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261111-donald-trump-se-f%C3%A9licite-de-l-%C3%A9chec-d-une-proc%C3%A9dure-de-destitution-contre-pete-hegseth",
       "source": "France 24",
-      "publishedAt": "2026-11-11T01:31:59.000Z",
-      "summary": "Le président du Salvador Nayib Bukele affirme que ses soldats ont détruit le \"quartier général\" de l'un des principaux gangs en Haïti, 400 Mawozo. Plus de 2 000 militaires salvadoriens ont été déployés dans le pays en proie aux violences depuis la fin du mois d'octobre.",
-      "image": "https://s.france24.com/media/display/f6b96226-dd6e-11f1-8550-f71d22e7fea9/w:1024/p:16x9/AP26304751949491.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-haiti-le-president-du-salvador-nayib-bukele-mene-l-offensive-contre-l-e9c439353b.html"
-    },
-    {
-      "title": "Congrès américain : la procédure de destitution contre Pete Hegseth tuée dans l'œuf",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-congres-americain-procedure-de-destitution-contre-pete-hegseth-tuee-dans-l-%C5%93uf",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T01:01:43.000Z",
-      "summary": "Les députés américains, majoritaires au Congrès jusqu'au mois de janvier, ont voté mardi pour renvoyer en commission la procédure de destitution à l'encontre du ministre de la Défense Pete Hegseth, ce qui permet de renvoyer sine die tout vote contre lui. Donald Trump s'est réjoui d'une \"victoire totale\".",
-      "image": "https://s.france24.com/media/display/bd5111cc-dd6a-11f1-8d5c-3f371022a770/w:1024/p:16x9/AP26314474865597.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/congres-americain-la-procedure-de-destitution-contre-pete-hegseth-tuee-d-772f69a703.html"
+      "publishedAt": "2026-11-11T09:34:49.000Z",
+      "summary": "Le président américain Donald Trump s'est réjoui mardi de l'échec d'une procédure de destitution lancée au Congrès américain à l'encontre de son ministre de la Défense, Pete Hegseth, qu'il a salué de \"grand patriote\". Analyse de Bruno Daroux, chroniqueur international à France 24.",
+      "image": "https://s.france24.com/media/display/0821febc-ddae-11f1-82d6-5f54d898a954/w:1024/p:16x9/FR-20261111-091249-091804-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-se-felicite-de-l-echec-d-une-procedure-de-destitution-contr-33b32751b2.html"
     }
   ]
 }
