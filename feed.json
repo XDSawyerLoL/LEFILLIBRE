@@ -1,25 +1,142 @@
 {
-  "updatedAt": "2026-11-10T19:05:30.291Z",
+  "updatedAt": "2026-11-11T00:00:29.170Z",
   "items": [
     {
-      "title": "Claude Sheets et Whiteboards : comment Anthropic attaque Microsoft Office sur son propre terrain",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3318265_claude-sheets-et-whiteboards-comment-anthropic-attaque-microsoft-office-sur-son-propre-terrain",
+      "title": "Qui est Joon Kim, l’ancien procureur choisi par Nvidia pour enquêter sur Jensen Huang",
+      "url": "https://www.frandroid.com/marques/nvidia/3318305_qui-est-joon-kim-lancien-procureur-choisi-par-nvidia-pour-enqueter-sur-jensen-huang",
       "source": "Frandroid",
-      "publishedAt": "2026-11-10T18:11:54.000Z",
-      "summary": "Après le traitement de texte et les présentations, Claude s'enrichit d'un tableur et d'un tableau blanc collaboratif. Anthropic ne se contente plus de louer ses moteurs d'IA à Microsoft pour doper Word et Excel&nbsp;: la start-up veut désormais que vos journées de travail commencent directement chez elle.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-80.png?resize=1200,675&key=94243e21",
+      "publishedAt": "2026-11-10T21:20:20.000Z",
+      "summary": "Nvidia confie l'enquête interne sur son propre patron à Joon H. Kim, un ancien procureur fédéral de Manhattan réputé pour sa fermeté. Un profil poids lourd choisi pour rassurer Washington et Wall Street, à une semaine de résultats trimestriels sous haute tension.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/montage-portraits-16x10-1.jpg?resize=1200,675&key=a213638b",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/claude-sheets-et-whiteboards-comment-anthropic-attaque-microsoft-office--cbc3c741d4.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qui-est-joon-kim-l-ancien-procureur-choisi-par-nvidia-pour-enqueter-sur--d76eb9600b.html"
     },
     {
-      "title": "Bouygues Telecom en panne ? Les signalements grimpent ce soir",
-      "url": "https://www.frandroid.com/marques/bouygues-telecom/3318253_bouygues-telecom-en-panne-les-signalements-grimpent-ce-soir",
+      "title": "Internet par satellite sans prise : le Starlink Mini 2 tient 4,5 heures sur batterie",
+      "url": "https://www.frandroid.com/telecom/3318291_internet-par-satellite-sans-prise-le-starlink-mini-2-tient-45-heures-sur-batterie",
       "source": "Frandroid",
-      "publishedAt": "2026-11-10T17:53:34.000Z",
-      "summary": "Les signalements visant Bouygues Telecom grimpent ce mardi soir sur Downdetector. L'opérateur n'a encore rien confirmé, mais certains abonnés ont visiblement du mal à appeler ou à se connecter.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/bouygues-telecom-panne.jpg?resize=1200,675&key=2eeb4b49",
+      "publishedAt": "2026-11-10T20:52:24.000Z",
+      "summary": "SpaceX greffe enfin une batterie amovible à son antenne satellite portable, de quoi capter Internet quelques heures sans la moindre prise.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-83.png?resize=1200,675&key=28026116",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bouygues-telecom-en-panne-les-signalements-grimpent-ce-soir-e805f48e15.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/internet-par-satellite-sans-prise-le-starlink-mini-2-tient-4-5-heures-su-d64dde9807.html"
+    },
+    {
+      "title": "Le Bénin investit dans son marché de gros pour améliorer la chaîne logistique",
+      "url": "https://www.rfi.fr/fr/podcasts/afrique-%C3%A9conomie/20261110-le-b%C3%A9nin-investit-dans-son-march%C3%A9-de-gros-pour-am%C3%A9liorer-la-cha%C3%AEne-logistique",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T23:06:50.000Z",
+      "summary": "À Akassato, au nord de Cotonou, un marché de gros de près de 160 hectares se prépare à accueillir produits alimentaires, entrepôts et installations frigorifiques. Son ouverture, prévue début 2027, doit faciliter les échanges au Bénin et dans la région.",
+      "image": "https://s.rfi.fr/media/display/468324c2-2bd3-11ef-a72c-005056bfb2b6/w:1024/p:16x9/IMG-20240616-WA0012.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-benin-investit-dans-son-marche-de-gros-pour-ameliorer-la-chaine-logis-815f84f4a9.html"
+    },
+    {
+      "title": "Des ateliers pour apprendre les codes professionnels aux jeunes de l'Aide sociale à l'enfance",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-france/20261110-des-ateliers-pour-apprendre-les-codes-professionnels-aux-jeunes-de-l-aide-sociale-%C3%A0-l-enfance",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T23:05:50.000Z",
+      "summary": "En France, si les chiffres du chômage restent relativement stables, ils ont augmenté de presque 2 points pour se situer à 21 % chez les moins de 25 ans. Or, pour trouver un emploi, il existe en France des codes professionnels, qui sont généralement appris auprès des parents ou lors de stages. Pour les enfants issus de ",
+      "image": "https://s.rfi.fr/media/display/0e12ad1c-dd45-11f1-9d1c-5f54d898a954/w:1024/p:16x9/resume-genius-IESB4iFVuzA-unsplash.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-ateliers-pour-apprendre-les-codes-professionnels-aux-jeunes-de-l-aid-06998b347f.html"
+    },
+    {
+      "title": "Indonésie: la jeunesse à nouveau dans la rue pour protester contre la politique du gouvernement",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261110-indon%C3%A9sie-la-jeunesse-%C3%A0-nouveau-dans-la-rue-pour-protester-contre-la-politique-du-gouvernement",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T22:55:38.000Z",
+      "summary": "Des groupes d'étudiants ont organisé à nouveau des manifestations ce mardi 10 novembre, jour de « la commémoration des héros », pour protester contre les politiques gouvernementales et exprimer leurs inquiétudes concernant la corruption, les dommages environnementaux avec les feux en cours à Sumatra, à Bornéo ou encore",
+      "image": "https://s.rfi.fr/media/display/3039de16-dd58-11f1-823f-695cb59fade5/w:1024/p:16x9/AP26314377494538.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/indonesie-la-jeunesse-a-nouveau-dans-la-rue-pour-protester-contre-la-pol-eefb8c95d5.html"
+    },
+    {
+      "title": "Le Royaume-Uni arrête un militaire américain soupçonné d'espionnage au profit de la Russie",
+      "url": "https://www.france24.com/fr/europe/20261110-royaume-uni-arrete-militaire-americain-soup%C3%A7onne-espionnage-russie",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T22:46:05.000Z",
+      "summary": "La police antiterroriste britannique a annoncé mardi l'arrestation d'un militaire américain de 41 ans soupçonné d'espionnage au profit de la Russie, après une enquête en \"collaboration étroite\" avec les autorités américaines.",
+      "image": "https://s.france24.com/media/display/3007de5c-dd58-11f1-96d8-f71d22e7fea9/w:1024/p:16x9/AP26312349679429.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-royaume-uni-arrete-un-militaire-americain-soupconne-d-espionnage-au-p-f6caf0d8de.html"
+    },
+    {
+      "title": "Le très conservateur Jim Jordan élu chef de la minorité républicaine à la Chambre des représentants",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261110-etats-unis-congres-americain-jim-jordan-conservateur-elu-chef-minorite-republicaine-chambre-des-representants",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T22:24:15.000Z",
+      "summary": "Jim Jordan, un trumpiste considéré comme l'un des élus les plus conservateurs de la Chambre des représentants, a été élu mardi chef de la minorité républicaine. Au Sénat, où les républicains ont aussi perdu la majorité aux élections de mi-mandat, leur actuel chef John Thune a été réélu.",
+      "image": "https://s.france24.com/media/display/06f33884-dd55-11f1-8edc-29048b396e03/w:1024/p:16x9/AP26314801252851.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-tres-conservateur-jim-jordan-elu-chef-de-la-minorite-republicaine-a-l-d6831414a9.html"
+    },
+    {
+      "title": "États-Unis: le secrétaire à la Défense Pete Hegseth persiste et signe en faveur de la guerre en Iran",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261110-%C3%A9tats-unis-le-secr%C3%A9taire-%C3%A0-la-d%C3%A9fense-pete-hegseth-persiste-et-signe-en-faveur-de-la-guerre-en-iran",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T22:16:13.000Z",
+      "summary": "Les députés américains ont balayé ce 10 novembre la procédure de destitution à l'encontre du secrétaire américain à la Défense Pete Hegseth. Dans le collimateur des démocrates, Pete Hegseth devait répondre devant le Congrès pour son rôle dans le déclenchement de la guerre en Iran.",
+      "image": "https://s.rfi.fr/media/display/f996e746-dd52-11f1-9d16-f71d22e7fea9/w:1024/p:16x9/AP26314475398890.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-le-secretaire-a-la-defense-pete-hegseth-persiste-et-signe-en--e4b97c24bf.html"
+    },
+    {
+      "title": "Pourparlers Ukraine-Russie : Washington plaide pour un \"nouveau\" cadre de sécurité avec l'Europe",
+      "url": "https://www.france24.com/fr/europe/20261110-pourparlers-ukraine-russie-washington-plaide-nouveau-cadre-s%C3%A9curit%C3%A9-europe",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T21:57:11.000Z",
+      "summary": "Les pourparlers sous médiation américaine entamés mardi entre Kiev et Moscou à Abu Dhabi ont été \"constructifs\", selon le président ukrainien Volodymyr Zelensky. Washington a, en outre, évoqué la possibilité de travailler à un \"nouveau\" cadre de sécurité incluant l'Europe. France 24 fait le point sur cette première jou",
+      "image": "https://s.france24.com/media/display/121a87b4-dd03-11f1-aa06-5f54d898a954/w:1024/p:16x9/capture-46a35800.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pourparlers-ukraine-russie-washington-plaide-pour-un-nouveau-cadre-de-se-7cdf396407.html"
+    },
+    {
+      "title": "France: sans surprise, Éric Zemmour annonce sa candidature à l'élection présidentielle",
+      "url": "https://www.rfi.fr/fr/france/20261110-france-sans-surprise-%C3%A9ric-zemmour-annonce-sa-candidature-%C3%A0-l-%C3%A9lection-pr%C3%A9sidentielle",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T21:44:54.000Z",
+      "summary": "Après 2022, le président de Reconquête ! retente sa chance. Éric Zemmour a annoncé, ce mardi 10 novembre, qu'il rentrait officiellement dans la course à l'Élysée. Il préparait le terrain depuis quelques mois, c’est désormais officiel.",
+      "image": "https://s.rfi.fr/media/display/fdf94748-dd4d-11f1-a751-29048b396e03/w:1024/p:16x9/000-C87E2BL.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-sans-surprise-eric-zemmour-annonce-sa-candidature-a-l-election-pr-efbd4c690a.html"
+    },
+    {
+      "title": "Paraguay: Alliana promet de récupérer les fonds de pension déposés chez Ueno Bank",
+      "url": "https://fr.euronews.com/2026/11/10/paraguay-alliana-promet-de-recuperer-les-fonds-de-pension-deposes-chez-ueno-bank",
+      "source": "Euronews",
+      "publishedAt": "2026-11-10T21:00:19.000Z",
+      "summary": "Le nouveau président du Paraguay, Pedro Alliana, promet de récupérer les fonds de pension affectés par l'intervention de Ueno Bank. La crise, qui a entraîné la destitution de Santiago Peña, a laissé jusqu'à 7 000 chômeurs au Paraguay et dans d'autres pays.",
+      "image": "https://images.euronews.com/articles/stories/09/98/76/21/696x392_cmsv2_49fe208c-f8bf-53ff-a11d-91e5ea3558ef-9987621.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/paraguay-alliana-promet-de-recuperer-les-fonds-de-pension-deposes-chez-u-9aa2be9ded.html"
+    },
+    {
+      "title": "Un militaire américain arrêté au Royaume-Uni, soupçonné d'espionnage au profit de la Russie",
+      "url": "https://www.rfi.fr/fr/europe/20261110-un-militaire-am%C3%A9ricain-arr%C3%AAt%C3%A9-au-royaume-uni-soup%C3%A7onn%C3%A9-d-espionnage-au-profit-de-la-russie",
+      "source": "RFI",
+      "publishedAt": "2026-11-10T20:49:06.000Z",
+      "summary": "Un militaire américain de 41 ans, soupçonné d'espionnage au profit de la Russie, a été arrêté mardi 10 novembre dans le sud-ouest de l'Angleterre par la police antiterroriste britannique, a annoncé la police londonienne.",
+      "image": "https://s.rfi.fr/media/display/4b332cd4-dd46-11f1-96c8-f71d22e7fea9/w:1024/p:16x9/iStock-2233353232.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-militaire-americain-arrete-au-royaume-uni-soupconne-d-espionnage-au-p-9f35da94a9.html"
+    },
+    {
+      "title": "Nouvelle journée de mobilisation dans l'éducation, une élue agressée",
+      "url": "https://www.france24.com/fr/france/20261110-nouvelle-journ%C3%A9e-mobilisation-dans-%C3%A9ducation-%C3%A9lue-agress%C3%A9e",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T20:35:52.000Z",
+      "summary": "Les organisations de jeunesse et les enseignants ont à nouveau manifesté mardi lors d'une journée de mobilisation marquée par l'agression d'une élue de Chelles, visée par un jet de bouteille d'essence devant un lycée francilien. Emmanuel Macron a appelé à punir les auteurs \"avec la plus grande fermeté\"",
+      "image": "https://s.france24.com/media/display/40aa3732-dd44-11f1-bb4a-695cb59fade5/w:1024/p:16x9/2026-11-10T160817Z-1397439590-RC21LOAQ7ENX-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-journee-de-mobilisation-dans-l-education-une-elue-agressee-0a4fb1ef0c.html"
+    },
+    {
+      "title": "Éric Zemmour confirme sa candidature à la présidentielle pour \"enrayer le déclin\"",
+      "url": "https://www.france24.com/fr/france/20261110-%C3%A9ric-zemmour-confirme-candidature-pr%C3%A9sidentielle-enrayer-d%C3%A9clin",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T20:15:17.000Z",
+      "summary": "Invité sur TF1, le président du parti d'extrême droite Reconquête!, Éric Zemmour, a officiellement confirmé mardi sa candidature à l'élection présidentielle du printemps 2027 pour \"enrayer\" le \"déclin\" et \"conserver une France française\".",
+      "image": "https://s.france24.com/media/display/60ba3c06-dd40-11f1-8771-3f371022a770/w:1024/p:16x9/AP21339640501013.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/eric-zemmour-confirme-sa-candidature-a-la-presidentielle-pour-enrayer-le-4b5bbaa767.html"
+    },
+    {
+      "title": "COP31: Un sommet des leaders boudé, quelles conséquences?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261110-cop31-un-sommet-des-leaders-boud%C3%A9-quelles-cons%C3%A9quences",
+      "source": "France 24",
+      "publishedAt": "2026-11-10T19:14:29.000Z",
+      "summary": "De nombreux chefs d'Etat et de gouvernement ne feront pas le déplacement à Antalya pour la COP31. Le Sommet des leaders se tient en comité restreint ces mercredi et jeudi. Quelles conséquences pour la diplomatie climatique alors que le Monde est sur le point de dépasser 1,5°C de réchauffement climatique?",
+      "image": "https://s.france24.com/media/display/4ce8d3e2-dd39-11f1-a75a-3f371022a770/w:1024/p:16x9/capture-46230856.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cop31-un-sommet-des-leaders-boude-quelles-consequences-2c5e4bbc99.html"
     },
     {
       "title": "JOJ Dakar 2026: les mille et un combats de la taekwondoïste afghane Fatemeh Jami",
@@ -47,124 +164,6 @@
       "summary": "Le parti de Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a annoncé mardi 10 juillet avoir déposé un projet de loi pour créer une commission d'enquête sur les défaillances sécuritaires ayant permis l'attaque du Hamas du 7 octobre 2023.",
       "image": "https://s.rfi.fr/media/display/9f5b9572-dd31-11f1-93e4-3f371022a770/w:1024/p:16x9/AP26312566035248.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-eisenkot-veut-une-commission-d-enquete-sur-les-defaillances-secur-9b99aa687d.html"
-    },
-    {
-      "title": "Présidentielle 2027 : quand le sport veut s'inviter dans l'élection",
-      "url": "https://www.france24.com/fr/sports/20261110-sport-2027-presidentielle-castera-%C3%A9lection",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T17:53:47.000Z",
-      "summary": "Sous l'impulsion des comités olympiques et paralympiques français, le milieu du sport veut s'imposer dans le débat pour la présidentielle de 2027. Le collectif \"Sport 2027\" dévoile ses cinq propositions que tout candidat pourra reprendre, et donne rendez-vous aux prétendants à l'Élysée le 1er février 2027 pour un débat",
-      "image": "https://s.france24.com/media/display/8f2998fa-dd1f-11f1-ba17-695cb59fade5/w:1024/p:16x9/000-D6ZD4VT.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-quand-le-sport-veut-s-inviter-dans-l-election-f25d4494cc.html"
-    },
-    {
-      "title": "Qui est Vladimir Medinski, l'historien nationaliste à la tête de la délégation russe à Abu Dhabi ?",
-      "url": "https://www.france24.com/fr/europe/20261110-qui-vladimir-medinski-historien-nationaliste-t%C3%AAte-d%C3%A9l%C3%A9gation-russe-abu-dhabi",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T17:33:23.000Z",
-      "summary": "La délégation russe participant mardi aux nouveaux pourparlers de paix entre Kiev et Moscou, organisés à Abu Dhabi sous l'égide des États-Unis, est une nouvelle fois dirigée par Vladimir Medinski, historien ultraconservateur et conseiller présidentiel, qui a réécrit les manuels d'histoire russes afin de justifier l'inv",
-      "image": "https://s.france24.com/media/display/991caffe-dd16-11f1-ad9b-f71d22e7fea9/w:1024/p:16x9/000-D72P2CQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/qui-est-vladimir-medinski-l-historien-nationaliste-a-la-tete-de-la-deleg-729072895c.html"
-    },
-    {
-      "title": "L’Europe a tranché : refuser le Linky n’est pas un droit, la facture des réfractaires flambe",
-      "url": "https://www.frandroid.com/survoltes/energie/3317903_leurope-a-tranche-refuser-le-linky-nest-pas-un-droit-la-facture-des-refractaires-flambe",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-10T17:28:05.000Z",
-      "summary": "Certains consommateurs restent fermes sur leur position&nbsp;: non au compteur Linky. Mais peuvent-ils réellement s'y opposer ? La Cour de justice de l'Union européenne vient de clarifier les règles applicables et confirme que le maintien d'un ancien compteur ne constitue pas un droit absolu.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/demenagement-contrat-elec-linky-edf-geo.jpeg?resize=1200,675&key=fa3d63ae",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-europe-a-tranche-refuser-le-linky-n-est-pas-un-droit-la-facture-des-re-3c4640072d.html"
-    },
-    {
-      "title": "Crise du logement en Italie : les manifestants plantent des tentes à Rome",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-crise-du-logement-en-italie-les-manifestants-plantent-des-tentes-%C3%A0-rome",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T16:48:28.000Z",
-      "summary": "En Europe, la crise du logement sévit, y compris en Italie. À Rome, des dizaines de citoyens se sont mobilisés sur la grande place d'Espagne. Entre la hausse des loyers, les expulsions massives des locataires et la multiplication des locations touristiques, les manifestants exigent que le gouvernement mette en place de",
-      "image": "https://s.france24.com/media/display/1f335daa-dd20-11f1-8de3-3f371022a770/w:1024/p:16x9/FR-20261110-162314-162435-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/crise-du-logement-en-italie-les-manifestants-plantent-des-tentes-a-rome-ca33f7b10c.html"
-    },
-    {
-      "title": "Guerre en Iran : le président Trump vante \"un élan positif\"",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-guerre-en-iran-le-pr%C3%A9sident-trump-vante-un-%C3%A9lan-positif",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T16:38:26.000Z",
-      "summary": "L'Iran campe mardi 10 novembre sur sa ligne en affirmant qu'il \"est temps de se soumettre aux conditions\" iraniennes, au lendemain de déclarations de Donald Trump saluant \"un élan positif\" dans les négociations pour mettre fin à plus de huit mois de guerre. Au commencement de cette guerre, lancée le 28 février via une ",
-      "image": "https://s.france24.com/media/display/b5f06d48-dd1e-11f1-9fbf-f71d22e7fea9/w:1024/p:16x9/FR-20261110-151405-151627-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-iran-le-president-trump-vante-un-elan-positif-05011c0f8f.html"
-    },
-    {
-      "title": "États-Unis: la Cour suprême autorise des travaux liés au mur frontalier avec le Mexique dans un parc naturel",
-      "url": "https://www.rfi.fr/fr/environnement/20261110-%C3%A9tats-unis-la-cour-supr%C3%AAme-autorise-des-travaux-li%C3%A9s-au-mur-frontalier-avec-le-mexique-dans-un-parc-naturel",
-      "source": "RFI",
-      "publishedAt": "2026-11-10T16:36:40.000Z",
-      "summary": "Aux États-Unis, la Cour suprême a autorisé lundi 9 novembre la reprise des travaux de construction de barrières métalliques, routes de patrouille et systèmes de surveillance dans le parc national Big Bend au Texas. Cela fait partie du projet de Donald Trump de construire un mur contre l'immigration illégale à la fronti",
-      "image": "https://s.rfi.fr/media/display/d316ba04-dd18-11f1-8084-3f371022a770/w:1024/p:16x9/iStock-2291206413.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-la-cour-supreme-autorise-des-travaux-lies-au-mur-frontalier-a-99d9315ec2.html"
-    },
-    {
-      "title": "Mobilisations en France : une partie du monde éducatif maintient la mobilisation",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-mobilisations-en-france-une-partie-du-monde-%C3%A9ducatif-maintient-la-mobilisation",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T16:32:24.000Z",
-      "summary": "Les organisations de jeunesse et les enseignants étaient de nouveau mobilisés mardi, via des blocages de lycées et des manifestations, à l'origine de quelques tensions ou incidents par endroits, bien que le mouvement se déroule dans le calme en grande majorité. Le ministère de l'Éducation a rapporté que 1,3 % des 3 700",
-      "image": "https://s.france24.com/media/display/44122d64-dd1f-11f1-895d-f71d22e7fea9/w:1024/p:16x9/FR-20261110-162040-162253-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisations-en-france-une-partie-du-monde-educatif-maintient-la-mobili-63a239dfae.html"
-    },
-    {
-      "title": "G7 à Paris : comment l'Europe peut peser dans les pourparlers sur la guerre en Ukraine ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-g7-%C3%A0-paris-comment-l-europe-peut-peser-dans-les-pourparlers-sur-la-guerre-en-ukraine",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T16:25:50.000Z",
-      "summary": "Alors que la guerre en Ukraine dure depuis presque cinq ans, les disucssions à Paris entre les ministres du G7 est l'occasion d'aborder le dossier. Alors, comment l'Europe peut influencer sur ce conflit ? Les explications de Karim Yahiaoui, journaliste à France 24 et Pascal Confavreux, porte-parole du Ministère de l'Eu",
-      "image": "https://s.france24.com/media/display/bbd33330-dd1e-11f1-ba68-695cb59fade5/w:1024/p:16x9/FR-20261110-133820-134524-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/g7-a-paris-comment-l-europe-peut-peser-dans-les-pourparlers-sur-la-guerr-9099be545c.html"
-    },
-    {
-      "title": "Guerre en Ukraine : un dossier prioritaire au G7 des ministres à Paris",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261110-guerre-en-ukraine-un-dossier-prioritaire-au-g7-des-ministres-%C3%A0-paris",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T16:18:38.000Z",
-      "summary": "L'un des dossiers important de la réunion du G7 ce mardi 10 novembre à Paris est la guerre en Ukraine. Après plus de quatre ans et demi de conflits, des pourparlers se feront en parallèle des discussions engagées a Abu Dhabi.",
-      "image": "https://s.france24.com/media/display/55f9f72e-dd1e-11f1-b303-3f371022a770/w:1024/p:16x9/FR-20261110-133616-133819-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-un-dossier-prioritaire-au-g7-des-ministres-a-paris-bbef6a3d2c.html"
-    },
-    {
-      "title": "Harry et Meghan au Parlement européen pour protéger les enfants en ligne",
-      "url": "https://fr.euronews.com/video/2026/11/10/harry-et-meghan-au-parlement-europeen-pour-un-evenement-sur-la-securite-des-enfants-en-lig",
-      "source": "Euronews",
-      "publishedAt": "2026-11-10T15:38:49.000Z",
-      "summary": "Le prince Harry et Meghan se sont rendus au Parlement européen à Bruxelles pour évoquer les dangers des réseaux sociaux pour les enfants. Une apparition qui intervient quelques jours après l'arrestation du père de Meghan.",
-      "image": "https://images.euronews.com/articles/stories/09/98/72/72/696x392_cmsv2_d80b6939-2e6e-58c3-b320-2a0fce210d9f-9987272.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/harry-et-meghan-au-parlement-europeen-pour-proteger-les-enfants-en-ligne-c6b444445e.html"
-    },
-    {
-      "title": "Pétition pour \"supprimer CNews de l'audiovisuel français\" : les députés ne donnent pas suite",
-      "url": "https://www.france24.com/fr/france/20261110-p%C3%A9tition-pour-supprimer-cnews-audiovisuel-fran%C3%A7ais-d%C3%A9put%C3%A9s-donnent-pas-suite",
-      "source": "France 24",
-      "publishedAt": "2026-11-10T15:06:52.000Z",
-      "summary": "La pétition pour \"supprimer CNews de l'audiovisuel français\" avait recueilli plus d’un million de signataires, autorisant sont débat à l'Assemblée nationale. Mardi, la commission des affaires culturelles et de l’éducation a cependant classé sans suite cette démarche par 28 votes contre 25.",
-      "image": "https://s.france24.com/media/display/5414cbc4-dd18-11f1-9de2-695cb59fade5/w:1024/p:16x9/000-D6ZY3WE.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/petition-pour-supprimer-cnews-de-l-audiovisuel-francais-les-deputes-ne-d-3cb82c2a5c.html"
-    },
-    {
-      "title": "Pétition contre CNews: les députés français décident de ne pas y donner suite",
-      "url": "https://www.rfi.fr/fr/france/20261110-p%C3%A9tition-contre-cnews-les-d%C3%A9put%C3%A9s-fran%C3%A7ais-d%C3%A9cident-de-ne-pas-y-donner-suite",
-      "source": "RFI",
-      "publishedAt": "2026-11-10T14:54:26.000Z",
-      "summary": "Signée par plus d'un million de personnes, la pétition qui demandait la fermeture de la chaîne de télévision CNews était examinée à l'Assemblée nationale ce 10 novembre 2026. Les députés ont décidé de la classer au motif qu'ils n'ont pas le pouvoir de fermer une chaîne, contrairement à l'Arcom, le régulateur de l'audio",
-      "image": "https://s.rfi.fr/media/display/29388594-dc32-11f1-ac49-695cb59fade5/w:1024/p:16x9/000-D6EK9T4.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/petition-contre-cnews-les-deputes-francais-decident-de-ne-pas-y-donner-s-93ec775a5d.html"
-    },
-    {
-      "title": "Israël: les nouveaux députés de la Knesset prêtent serment, Gadi Eisenkot cherche une majorité",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261110-isra%C3%ABl-nouveaux-d%C3%A9put%C3%A9s-de-la-knesset-pr%C3%AAtent-serment-gadi-eisenkot-cherche-une-majorit%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-11-10T13:53:18.000Z",
-      "summary": "Le Parlement israélien issu des récentes élections prend ses fonctions ce 10 novembre. Gadi Eisenkot dit vouloir former un gouvernement « le plus vite possible » mais la formation d'une coalition s'annonce difficile tant les lignes rouges des uns et des autres semblent irréconciliables.",
-      "image": "https://s.rfi.fr/media/display/75492274-dd07-11f1-ad09-f71d22e7fea9/w:1024/p:16x9/AP26314454316731.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-les-nouveaux-deputes-de-la-knesset-pretent-serment-gadi-eisenkot--22f9fe8708.html"
     }
   ]
 }
