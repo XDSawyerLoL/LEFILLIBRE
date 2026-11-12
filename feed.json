@@ -1,148 +1,173 @@
 {
-  "updatedAt": "2026-11-12T02:20:44.356Z",
+  "updatedAt": "2026-11-12T09:59:38.393Z",
   "items": [
     {
-      "title": "Nvidia : espionnage ou affaire d'État ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261111-nvidia-espionnage-ou-affaire-d-%C3%A9tat",
+      "title": "Le 11-Novembre en Pologne : jour d'indépendance et démonstration de force pour l'extrême droite",
+      "url": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261112-le-11-novembre-en-pologne-jour-d-ind%C3%A9pendance-et-d%C3%A9monstration-de-force-pour-l-extr%C3%AAme-droite",
       "source": "France 24",
-      "publishedAt": "2026-11-11T20:45:33.000Z",
-      "summary": "C'est une affaire d’espionnage qui défraie la chronique aux États-Unis et sur les réseaux sociaux en Chine. Jensen Huang, le patron de Nvidia, est sur la sellette après la révélation de sa liaison avec Alice Huang, soupçonnée d’être une espionne qui travaille pour Pékin. Nvidia est le leader mondial des microprocesseur",
-      "image": "https://s.france24.com/media/display/978c9508-dc5a-11f1-a14e-695cb59fade5/w:1024/p:16x9/nvidia-china-spy.png",
+      "publishedAt": "2026-11-12T09:28:39.000Z",
+      "summary": "À la une de la presse, ce jeudi 12 novembre, les fausses alertes à la bombe dans les journaux italiens, le jour de l'indépendance polonaise qui sert de démonstration de force à l'extrême droite, et l'interdiction désormais d'insulter l'IA.",
+      "image": "https://s.france24.com/media/display/1f09ba28-de69-11f1-8ccb-695cb59fade5/w:1024/p:16x9/FRAN261112-0715-Live-CS0715.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nvidia-espionnage-ou-affaire-d-etat-cc74cefe4e.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-11-novembre-en-pologne-jour-d-independance-et-demonstration-de-force--b700ffeaf4.html"
     },
     {
-      "title": "Le Paraguay rembourse une partie de leurs avoirs à tous les épargnants de Ueno Bank",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-paraguay-rembourse-une-partie-de-leurs-avoirs-epargnants-ueno-bank",
-      "source": "France 24",
-      "publishedAt": "2026-11-12T02:09:07.000Z",
-      "summary": "La Banque centrale du Paraguay a annoncé mercredi avoir partiellement remboursé la totalité des clients de Ueno Bank bénéficiant d'une garantie de l'État, après la faillite de cette dernière qui a provoqué la destitution du président Santiago Peña.",
-      "image": "https://s.france24.com/media/display/fe9ccf8c-de3b-11f1-9318-5f54d898a954/w:1024/p:16x9/AP26313615647131.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-paraguay-rembourse-une-partie-de-leurs-avoirs-a-tous-les-epargnants-d-3d410fbb59.html"
+      "title": "Ce nouvel éclairage vélo magnétique se clipse et se retire sans outil en une seconde",
+      "url": "https://www.frandroid.com/survoltes/velo-electrique/3319861_ce-nouvel-eclairage-velo-magnetique-se-clipse-et-se-retire-sans-outil-en-une-seconde",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-12T09:25:56.000Z",
+      "summary": "Fidlock a publié ce jeudi 12 novembre un nouveau communiqué sur le Pinclip Battery Light, un kit de feux avant et arrière pour vélo qui se fixe via un système magnétique, vendu 79,99 euros en Europe. C'est le premier éclairage de la marque allemande, connue jusqu'ici pour ses porte-gourdes et ses sacoches magnétiques.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/fidlock2.jpg?resize=1200,675&key=f35847d1",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-nouvel-eclairage-velo-magnetique-se-clipse-et-se-retire-sans-outil-en-ec96c6563f.html"
     },
     {
-      "title": "États-Unis: le démocrate Scott Colom devient le premier sénateur noir du Mississippi depuis 150 ans",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-%C3%A9tats-unis-le-d%C3%A9mocrate-scott-colom-devient-le-premier-s%C3%A9nateur-noir-du-mississippi-depuis-150-ans",
+      "title": "Colombie: huit militaires inculpés pour «crimes de guerre» par la Juridiction spéciale pour la paix",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-colombie-jep-militaires-inculp%C3%A9s-crimes-de-guerre-par-la-juridiction-sp%C3%A9ciale-paix",
       "source": "RFI",
-      "publishedAt": "2026-11-12T00:14:07.000Z",
-      "summary": "Le démocrate Scott Colom a remporté un siège au Sénat américain dans le Mississippi, selon les projections de l'agence américaine AP. Il devient ainsi le premier sénateur noir à être élu en près de 150 ans dans cet État du Sud.",
-      "image": "https://s.rfi.fr/media/display/4bf6b938-de2c-11f1-97a3-29048b396e03/w:1024/p:16x9/2026-11-04T061009Z-400192983-RC2NGOAD05HX-RTRMADP-3-USA-ELECTION-MISSISSIPPI.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-le-democrate-scott-colom-devient-le-premier-senateur-noir-du--254b0ea270.html"
+      "publishedAt": "2026-11-12T09:46:44.000Z",
+      "summary": "La justice colombienne a inculpé mercredi huit anciens militaires des services de renseignement pour « crimes de guerre, crimes contre l'humanité et génocide » commis à l'encontre des membres du parti de gauche de l'Union patriotique entre 1985 et 1993.",
+      "image": "https://s.rfi.fr/media/display/c6180836-de70-11f1-a3f8-5f54d898a954/w:1024/p:16x9/000-74P29FJ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/colombie-huit-militaires-inculpes-pour-crimes-de-guerre-par-la-juridicti-c0a90eafb1.html"
     },
     {
-      "title": "🔴 États-Unis : après une victoire au Mississippi, les démocrates renforcent leur majorité au Sénat",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261111-etats-unis-victoire-mississippi-democrates-renforcent-majorite-senat-scott-colom",
-      "source": "France 24",
-      "publishedAt": "2026-11-11T23:39:43.000Z",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-apres-une-victoire-au-mississippi-les-democrates-renforcent-l-d720dc7845.html"
+      "title": "« Ce serait un honneur » : Elon Musk se dit prêt à recruter Jensen Huang si Nvidia le vire",
+      "url": "https://www.frandroid.com/marques/3319887_ce-serait-un-honneur-elon-musk-se-dit-pret-a-recruter-jensen-huang-si-nvidia-le-vire",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-12T09:19:50.000Z",
+      "summary": "Elon Musk a répondu «&nbsp;Ce serait un honneur&nbsp;» à un internaute qui lui demandait d'embaucher Jensen Huang, dans la nuit du 11 au 12 novembre 2026, pendant que le conseil d'administration de Nvidia se réunissait pour décider s'il évinçait son patron.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/elon-musk-jensen-huang-ceo.jpg?resize=1200,675&key=3ed1b308",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-serait-un-honneur-elon-musk-se-dit-pret-a-recruter-jensen-huang-si-nv-0d4a96584b.html"
     },
     {
-      "title": "La Birmanie veut attirer les investissements étatsuniens vers ses gisements de terres rares",
-      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-mati%C3%A8res-premi%C3%A8res/20261111-la-birmanie-veut-attirer-les-investissements-%C3%A9tatsuniens-vers-ses-gisements-de-terres-rares",
+      "title": "Le fret aérien résiste à toutes les turbulences",
+      "url": "https://www.rfi.fr/fr/podcasts/aujourd-hui-l-%C3%A9conomie/20261112-fret-aerien-croissance-transport-marchandises-avion",
       "source": "RFI",
-      "publishedAt": "2026-11-11T23:09:50.000Z",
-      "summary": "Le gouvernement birman, dirigé par les militaires, exhorte les États-Unis à intensifier leurs efforts de rapprochement et à accélérer leurs investissements dans les mines de terres rares de ce pays ravagé par la guerre. La Birmanie est devenue l'un des principaux fournisseurs mondiaux de terres rares lourdes, ces miner",
-      "image": "https://s.rfi.fr/media/display/cd915a40-de11-11f1-a2f2-29048b396e03/w:1024/p:16x9/AP26117283322191.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-birmanie-veut-attirer-les-investissements-etatsuniens-vers-ses-giseme-4ea8f53313.html"
+      "publishedAt": "2026-11-12T09:12:04.000Z",
+      "summary": "Le fret aérien affiche une santé particulièrement solide malgré les tensions géopolitiques et l'envolée du prix du kérosène. Selon les derniers chiffres de l'Association internationale du transport aérien (IATA), la demande mondiale a progressé de 7,7 % sur un an en septembre 2026. Une croissance portée notamment par l",
+      "image": "https://s.rfi.fr/media/display/03cc4ad2-ab48-11eb-b8df-005056bf87d6/w:1024/p:16x9/000_9969MR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-fret-aerien-resiste-a-toutes-les-turbulences-4f59d541d4.html"
     },
     {
-      "title": "En Côte d’Ivoire, la mosquée de Bouna renoue avec sa splendeur",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261111-en-c%C3%B4te-d-ivoire-la-mosqu%C3%A9e-de-bouna-renoue-avec-sa-splendeur",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T23:08:50.000Z",
-      "summary": "L’Afrique de l’Ouest compte des dizaines de mosquées de style soudanais : Djenné au Mali, Bobo-Dioulasso au Burkina Faso, Larabanga au Ghana. Identifiables par leur construction en terre et leur architecture particulière, certaines sont classées au patrimoine mondial de l’Unesco, d’autres non. Ces dernières, moins prot",
-      "image": "https://s.rfi.fr/media/display/9fbc8f2c-de16-11f1-b9ba-29048b396e03/w:1024/p:16x9/IMG-1852-1.jpeg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-cote-d-ivoire-la-mosquee-de-bouna-renoue-avec-sa-splendeur-287700c485.html"
-    },
-    {
-      "title": "En République tchèque, des manifestations pour défendre la liberté des médias publics",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261111-en-r%C3%A9publique-tch%C3%A8que-des-manifestations-pour-d%C3%A9fendre-la-libert%C3%A9-des-m%C3%A9dias-publics",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T23:03:50.000Z",
-      "summary": "Le gouvernement tchèque s’est engagé dans un bras de fer très controversé pour tenter de réformer l’audiovisuel public et son financement. La coalition du Premier ministre Andrej Babis a fait de la suppression de la redevance audiovisuelle une priorité, sans pour autant avoir déterminé précisément de quelle manière la ",
-      "image": "https://s.rfi.fr/media/display/fb8fcc94-ddf1-11f1-9cdf-5f54d898a954/w:1024/p:16x9/AP26307531008974.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-republique-tcheque-des-manifestations-pour-defendre-la-liberte-des-me-44404b77c9.html"
-    },
-    {
-      "title": "Barcelone : des violences éclatent après les cortèges de la grève",
-      "url": "https://fr.euronews.com/video/2026/11/11/barcelone-violents-heurts-apres-la-marche-pacifique-de-la-greve-generale",
+      "title": "Pérou : le pape Léon XIV retrouve son pays d'adoption à Lima",
+      "url": "https://fr.euronews.com/video/2026/11/12/perou-le-pape-leo-xiv-revient-dans-sa-patrie-adoptive-pour-clore-sa-tournee-sud-americaine",
       "source": "Euronews",
-      "publishedAt": "2026-11-11T22:55:32.000Z",
-      "summary": "Des barricades en feu et des affrontements avec la police ont éclaté à Barcelone après une manifestation contre la vie chère. Les violences ont été provoquées par des groupes masqués, après la dispersion du cortège pacifique.",
-      "image": "https://images.euronews.com/articles/stories/09/98/90/33/696x392_cmsv2_2c46f7b4-9916-5bf2-ab5f-e959853c0f46-9989033.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/barcelone-des-violences-eclatent-apres-les-corteges-de-la-greve-964c040552.html"
+      "publishedAt": "2026-11-12T09:09:19.000Z",
+      "summary": "Le pape Léon XIV a été accueilli par une foule immense à Lima, au Pérou, où il a vécu plus de vingt ans. Reçu par la présidente Keiko Fujimori, il a décrit son retour comme celui d'un homme retrouvant sa patrie.",
+      "image": "https://images.euronews.com/articles/stories/09/98/94/28/696x392_cmsv2_8c5b11d4-e668-5fe0-b35f-6fa5ff96f944-9989428.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/perou-le-pape-leon-xiv-retrouve-son-pays-d-adoption-a-lima-6f3ae329de.html"
     },
     {
-      "title": "Le Paraguay restitue une partie de leurs avoirs à tous les clients de Ueno Bank",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261111-le-paraguay-restitue-une-partie-de-leurs-avoirs-%C3%A0-tous-les-clients-de-ueno-bank",
+      "title": "Trafic de migrants entre l'Afrique et l'Europe: 262 arrestations et 41 réseaux identifiés, annonce Interpol",
+      "url": "https://www.rfi.fr/fr/afrique/20261112-trafic-migrants-entre-afrique-europe-interpol-enquete-arrestations-r%C3%A9seaux",
       "source": "RFI",
-      "publishedAt": "2026-11-11T22:54:16.000Z",
-      "summary": "La Banque centrale du Paraguay (BCP) a annoncé mercredi 11 novembre avoir restitué au moins une partie de leurs avoirs à la totalité des épargnants de Ueno Bank, même si la plus grande partie des fonds déposés reste en attente de récupération.",
-      "image": "https://s.rfi.fr/media/display/64e26aba-de26-11f1-bffe-29048b396e03/w:1024/p:16x9/000-D76X7G9.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-paraguay-restitue-une-partie-de-leurs-avoirs-a-tous-les-clients-de-ue-ce9db5f8ba.html"
+      "publishedAt": "2026-11-12T09:04:06.000Z",
+      "summary": "Plus de 260 personnes ont été arrêtées et 41 réseaux criminels de passeurs de migrants entre l'Afrique et l'Europe ont été repérés dans une opération de quatre jours impliquant les polices de seize pays, a annoncé Interpol le 10 novembre 2026.",
+      "image": "https://s.rfi.fr/media/display/6116b98e-100d-11ea-9659-005056bf7c53/w:1024/p:16x9/000_par3243194_0.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trafic-de-migrants-entre-l-afrique-et-l-europe-262-arrestations-et-41-re-be9874ec42.html"
     },
     {
-      "title": "Pologne: la Marche de l’indépendance a pris un tournant plus politique que jamais",
-      "url": "https://www.rfi.fr/fr/europe/20261111-pologne-la-marche-de-l-ind%C3%A9pendance-a-pris-un-tournant-plus-politique-que-jamais",
+      "title": "Fitbit Air : vous pouvez enfin suivre votre tension dans Google Health, mais à la main",
+      "url": "https://www.frandroid.com/marques/google/3319637_fitbit-air-vous-pouvez-enfin-suivre-votre-tension-dans-google-health-mais-a-la-main",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-12T08:46:03.000Z",
+      "summary": "Les propriétaires du Fitbit Air peuvent désormais enregistrer leurs relevés de tension artérielle dans l'application Google Health, d'après des utilisateurs cités ce mercredi 11 novembre par Android Police. Le bracelet ne mesure toujours pas la tension lui-même.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/05/photo-2.jpg?resize=1200,675&key=b572cd4f",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fitbit-air-vous-pouvez-enfin-suivre-votre-tension-dans-google-health-mai-a9b3ab69ee.html"
+    },
+    {
+      "title": "Sahara occidental: l’appel des indépendantistes du Polisario à la mobilisation générale «est un tournant»",
+      "url": "https://www.rfi.fr/fr/afrique/20261112-sahara-occidental-l-appel-des-ind%C3%A9pendantistes-du-polisario-%C3%A0-la-mobilisation-g%C3%A9n%C3%A9rale-est-un-tournant",
       "source": "RFI",
-      "publishedAt": "2026-11-11T22:51:55.000Z",
-      "summary": "« Dieu, honneur, patrie » : 250 000 personnes, selon la police, le double, selon les organisateurs, ont participé mercredi 11 novembre à Varsovie à une marche « patriotique » et nationaliste à l'occasion de la fête de l'indépendance polonaise.",
-      "image": "https://s.rfi.fr/media/display/ddf200ba-de20-11f1-8ac7-5f54d898a954/w:1024/p:16x9/5a22ab59-aaf8-4567-afd1-9096e7dd7d60.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pologne-la-marche-de-l-independance-a-pris-un-tournant-plus-politique-qu-7c36c74ae6.html"
+      "publishedAt": "2026-11-12T08:33:27.000Z",
+      "summary": "La mission de maintien de la paix de l'ONU au Sahara occidental (Minurso) s'apprête à quitter ce territoire contesté, après le non-renouvellement de son mandat par le Conseil de sécurité, plus de trois décennies après sa création. Les indépendantistes du Front Polisario appellent, eux, tous les Sahraouis à se tenir prê",
+      "image": "https://s.rfi.fr/media/display/46c8daa8-13c1-11f1-b696-005056bf30b7/w:1024/p:16x9/AP21058698319891.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sahara-occidental-l-appel-des-independantistes-du-polisario-a-la-mobilis-73c5164e80.html"
     },
     {
-      "title": "Espagne : 120 000 manifestants bravent la pluie pour leur pouvoir d'achat",
-      "url": "https://fr.euronews.com/video/2026/11/11/espagne-120-000-sous-la-pluie-pour-un-logement-abordable-et-de-meilleurs-salaires",
-      "source": "Euronews",
-      "publishedAt": "2026-11-11T22:37:55.000Z",
-      "summary": "Quelque 120 000 personnes ont manifesté sous une pluie battante à Madrid lors d'une grève générale contre la vie chère et la crise du logement. Une mobilisation nationale à quelques semaines des élections législatives anticipées.",
-      "image": "https://images.euronews.com/articles/stories/09/98/90/20/696x392_cmsv2_5a20112a-17f3-59d6-bd53-0c618aa3ab6b-9989020.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-120-000-manifestants-bravent-la-pluie-pour-leur-pouvoir-d-achat-a835433d80.html"
-    },
-    {
-      "title": "Liban: plus d'un million de personnes en état d'insécurité alimentaire aiguë, alerte l'ONU",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261111-liban-plus-d-un-million-de-personnes-en-%C3%A9tat-d-ins%C3%A9curit%C3%A9-alimentaire-aigu%C3%AB-alerte-l-onu",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T22:20:40.000Z",
-      "summary": "Des agences des Nations unies ont indiqué mercredi 11 novembre que plus d'un million de personnes sont confrontées à une insécurité alimentaire aiguë au Liban. Les organisations onusiennes ont mis en garde contre une détérioration de la situation dans les prochains mois et ont appelé à une « action urgente » pour y rem",
-      "image": "https://s.rfi.fr/media/display/3f022c26-de18-11f1-88dc-5f54d898a954/w:1024/p:16x9/AP26275533724588.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/liban-plus-d-un-million-de-personnes-en-etat-d-insecurite-alimentaire-ai-8f38ad0de6.html"
-    },
-    {
-      "title": "Yémen: frappes contre Aden, capitale provisoire du gouvernement soutenu par l'Arabie saoudite",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261111-y%C3%A9men-frappes-de-drones-et-de-missiles-contre-aden-capitale-provisoire-du-gouvernement-y%C3%A9m%C3%A9nite",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T21:54:43.000Z",
-      "summary": "Des frappes de missiles et de drones ont visé mercredi 11 novembre Aden, où siège le gouvernement yéménite internationalement reconnu, visant notamment un camp de la coalition militaire dirigée par Riyad, selon des sources policières.",
-      "image": "https://s.rfi.fr/media/display/27f3d224-10c4-11ea-b4cf-005056bf7c53/w:1024/p:16x9/2019-08-20t093955z_393609307_rc16bba2f480_rtrmadp_3_yemen-security-sanaa_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yemen-frappes-contre-aden-capitale-provisoire-du-gouvernement-soutenu-pa-ce5f54f894.html"
-    },
-    {
-      "title": "Cisjordanie occupée : un responsable des colons israélien refoulé à son arrivée en France",
-      "url": "https://www.france24.com/fr/france/20261111-responsable-colons-isra%C3%A9liens-cisjordanie-occup%C3%A9e-refoul%C3%A9-son-arriv%C3%A9e-france",
+      "title": "Nvidia : les États-Unis inventent des histoires pour imposer un \"blocus technologique\", selon Pékin",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261112-nvidia-%C3%A9tats-unis-inventent-histoires-pour-imposer-blocus-technologique-selon-chine",
       "source": "France 24",
-      "publishedAt": "2026-11-11T21:12:37.000Z",
-      "summary": "Yossi Dagan, qui dirige une structure représentant les colonies juives en Samarie, au nord de la Cisjordanie occupée, s'est vu refuser l'entrée sur le territoire français à cause de son \"rôle actif dans la mise en uvre de la politique de colonisation de la Cisjordanie\", selon le ministère français des Affaires étrangèr",
-      "image": "https://s.france24.com/media/display/00bc1290-de10-11f1-ab90-3f371022a770/w:1024/p:16x9/000-A8BM2T9.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cisjordanie-occupee-un-responsable-des-colons-israelien-refoule-a-son-ar-e0bc9cd1d9.html"
+      "publishedAt": "2026-11-12T08:15:20.000Z",
+      "summary": "⁠La Chine a exhorté les États-Unis jeudi à \"cesser de fabriquer des récits d’espionnage\" comme le scandale touchant le patron de Nvidia, \"et de s’en servir comme prétexte pour imposer un blocus technologique\", a déclaré le porte-parole du ministère des Affaires étrangères.",
+      "image": "https://s.france24.com/media/display/06ebee50-de70-11f1-9d44-29048b396e03/w:1024/p:16x9/000-D76L3LZ.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nvidia-les-etats-unis-inventent-des-histoires-pour-imposer-un-blocus-tec-fe43af2f8e.html"
     },
     {
-      "title": "Expulsion de Xenia Fedorova: la Russie interdit d'entrée deux députés et deux journalistes français",
-      "url": "https://www.rfi.fr/fr/europe/20261111-expulsion-de-xenia-fedorova-la-russie-interdit-d-entr%C3%A9e-deux-d%C3%A9put%C3%A9s-et-deux-journalistes-fran%C3%A7ais",
-      "source": "RFI",
-      "publishedAt": "2026-11-11T20:34:22.000Z",
-      "summary": "Les autorités russes ont annoncé mercredi 11 novembre avoir déclaré persona non grata les députés français Sacha Houlié et Arthur Delaporte, ainsi que les journalistes Ariane Chemin et Paul Gogo, une mesure prise en réponse à l'expulsion de la chroniqueuse pro-Kremlin Xenia Fedorova.",
-      "image": "https://s.rfi.fr/media/display/18b53788-5b79-11f1-81de-005056bfb2b6/w:1024/p:16x9/AP18015482621817.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/expulsion-de-xenia-fedorova-la-russie-interdit-d-entree-deux-deputes-et--f963895322.html"
+      "title": "Nvidia s’apprêterait à licencier son PDG Jensen Huang suite à une nouvelle révélation",
+      "url": "https://www.01net.com/actualites/nvidia-licencier-patron-jensen-huang-nouvelle-revelation.html",
+      "source": "01net",
+      "publishedAt": "2026-11-12T07:57:59.000Z",
+      "summary": "Le conseil d'administration de Nvidia s'apprêterait à limoger son dirigeant, Jensen Huang. Cela fait suite à la révélation d'une seconde liaison extra-conjugale présumée, qui ne serait pas en lien avec l'affaire de la relation avec une femme qui serait une espionne chinoise.",
+      "image": "https://www.01net.com/app/uploads/2026/01/Jensen-Huang-nvidia-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nvidia-s-appreterait-a-licencier-son-pdg-jensen-huang-suite-a-une-nouvel-cb43fbe88a.html"
     },
     {
-      "title": "Indonésie: derrière la démission du vice-président Gibran, une alliance politique qui se dissout",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261111-indon%C3%A9sie-derri%C3%A8re-la-d%C3%A9mission-du-vice-pr%C3%A9sident-gibran-une-alliance-politique-qui-se-dissout",
+      "title": "À Bogotá, des tournois de boxe amateur dans les parcs pour des prix en cash contestés par la police",
+      "url": "https://fr.euronews.com/video/2026/11/12/a-bogota-des-tournois-de-boxe-amateur-dans-les-parcs-pour-des-prix-en-cash-contestes-par-l",
+      "source": "Euronews",
+      "publishedAt": "2026-11-12T07:57:48.000Z",
+      "summary": "Des hommes et des femmes amateurs disputent des combats de boxe improvisés à Bogotá, en Colombie, pour des prix en espèces, tandis que la police vérifie les autorisations de l'événement.",
+      "image": "https://images.euronews.com/articles/stories/09/98/78/94/696x392_cmsv2_5c46ec26-1675-5b5b-8fcb-c2eaa80b2e88-9987894.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-bogota-des-tournois-de-boxe-amateur-dans-les-parcs-pour-des-prix-en-ca-fac494e9b6.html"
+    },
+    {
+      "title": "Indonésie: le vice-président démissionne après un scandale lié à ses diplômes",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261112-indon%C3%A9sie-vice-pr%C3%A9sident-d%C3%A9missionne-scandale-li%C3%A9-%C3%A0-ses-dipl%C3%B4mes-crise-politique",
       "source": "RFI",
-      "publishedAt": "2026-11-11T20:27:32.000Z",
-      "summary": "Selon plusieurs agences de presse, le vice-président indonésien Gibran Rakabuming Raka a démissionné, alors que le gouvernement est secoué par une succession de crises politiques et sociales. Il a signifié son départ au président Prabowo Subianto, un mois après que la Cour suprême a invalidé son diplôme d'études second",
-      "image": "https://s.rfi.fr/media/display/1a2601d6-ddf8-11f1-8d52-3f371022a770/w:1024/p:16x9/AP26314377641809.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/indonesie-derriere-la-demission-du-vice-president-gibran-une-alliance-po-50c73caa40.html"
+      "publishedAt": "2026-11-12T07:28:32.000Z",
+      "summary": "Le vice-président indonésien, fils de l'ex-chef de l'État Joko Widodo, a démissionné ce jeudi 12 novembre après un scandale lié à son diplôme d'études secondaires, a annoncé le président du Parlement, accentuant la pression sur un gouvernement confronté à un mécontentement généralisé.",
+      "image": "https://s.rfi.fr/media/display/4b50d3a2-de62-11f1-b822-3f371022a770/w:1024/p:16x9/AP26316185916299.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/indonesie-le-vice-president-demissionne-apres-un-scandale-lie-a-ses-dipl-18a63fdf58.html"
+    },
+    {
+      "title": "Guerre en Ukraine: la Russie cherche à redessiner l'architecture de paix européenne",
+      "url": "https://www.rfi.fr/fr/europe/20261112-guerre-ukraine-la-russie-cherche-%C3%A0-redessiner-l-architecture-de-paix-europ%C3%A9enne",
+      "source": "RFI",
+      "publishedAt": "2026-11-12T06:54:00.000Z",
+      "summary": "Après une séquence de discussions tripartites à Abou Dhabi entre représentants russes et ukrainiens sous médiation des États-Unis, les émissaires américains sont attendus à Moscou ce matin. Ils doivent y rencontrer Vladimir Poutine et évoquer avec lui, entre autres, la question épineuse de la place des Européens dans l",
+      "image": "https://s.rfi.fr/media/display/1621e85e-de5a-11f1-8451-695cb59fade5/w:1024/p:16x9/AP26314354614659.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-la-russie-cherche-a-redessiner-l-architecture-de-paix--2ea4110a2d.html"
+    },
+    {
+      "title": "Cameroun: le calendrier électoral se précise",
+      "url": "https://www.rfi.fr/fr/afrique/20261112-cameroun-le-calendrier-%C3%A9lectoral-se-pr%C3%A9cise",
+      "source": "RFI",
+      "publishedAt": "2026-11-12T06:40:24.000Z",
+      "summary": "Les élections municipales et législatives se tiendront le 7 février 2027 au Cameroun. L'annonce a été faite mardi 10 novembre. D'ici là, les états majors des partis politiques vont être mis sous pression pour se conformer aux exigences du calendrier électoral avec, en premier lieu, la constitution des dossiers de candi",
+      "image": "https://s.rfi.fr/media/display/9d246266-b1d5-11f1-b26a-3ff9dda05487/w:1024/p:16x9/000-67X322F.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cameroun-le-calendrier-electoral-se-precise-540415beb8.html"
+    },
+    {
+      "title": "Guerre en Ukraine: sous les bombes russes, les habitants d'Izioum s'accrochent à leur ville",
+      "url": "https://www.rfi.fr/fr/europe/20261112-guerre-en-ukraine-sous-les-bombes-russes-les-habitants-d-izioum-s-accrochent-%C3%A0-leur-ville",
+      "source": "RFI",
+      "publishedAt": "2026-11-12T06:27:17.000Z",
+      "summary": "Avant l'invasion à grande échelle de l'Ukraine, la ville d'Izioum, dans la région de Kharkiv, comptait plus de 44 000 habitants. Malgré huit mois d'occupation russe brutale et meurtrière jusqu'en septembre 2022, près de 28 000 personnes résident toujours dans cette dernière ville avant l'entrée dans la région voisine d",
+      "image": "https://s.rfi.fr/media/display/4bf9093a-e2fd-11ef-9806-005056bf30b7/w:1024/p:16x9/AP25035468482581.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-sous-les-bombes-russes-les-habitants-d-izioum-s-accroc-7ebcbd180b.html"
+    },
+    {
+      "title": "\"Personne ne peut contraindre les États\" : les limites des COP climat",
+      "url": "https://www.france24.com/fr/plan%C3%A8te/20261112-personne-peut-contraindre-%C3%A9tats-cop-climat-face-r%C3%A9alit%C3%A9-g%C3%A9opolitique",
+      "source": "France 24",
+      "publishedAt": "2026-11-12T06:15:04.000Z",
+      "summary": "Retrait des États-Unis, présence des lobbies des énergies fossiles, difficultés à atteindre le consensus... Alors que la COP 31 se déroule à Antalya, en Turquie, les critiques se multiplient. Dans un contexte d'urgence climatique, ces grandes messes onusiennes peuvent-elles encore tenir la promesse de maintenir le réch",
+      "image": "https://s.france24.com/media/display/e263a2f6-ddef-11f1-b819-695cb59fade5/w:1024/p:16x9/AP26315346814223.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/personne-ne-peut-contraindre-les-etats-les-limites-des-cop-climat-80c6ee559d.html"
+    },
+    {
+      "title": "En visite dans «sa patrie» au Pérou, Léon XIV appelle à surmonter les divisions du passé",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261112-en-visite-dans-sa-patrie-au-p%C3%A9rou-l%C3%A9on-xiv-appelle-%C3%A0-surmonter-les-divisions-du-pass%C3%A9",
+      "source": "RFI",
+      "publishedAt": "2026-11-12T04:08:15.000Z",
+      "summary": "Accueilli avec ferveur mercredi 11 novembre 2026 au Pérou, sa « patrie », où il a vécu près de vingt ans, le pape Léon XIV a appelé les Péruviens à aborder les épisodes douloureux du passé avec « justice et sensibilité ».",
+      "image": "https://s.rfi.fr/media/display/a02f4b9c-de5d-11f1-ac3d-3f371022a770/w:1024/p:16x9/2026-11-12T023713Z-1293862957-RC20MOAYCA7X-RTRMADP-3-POPE-LATAM-PERU.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-visite-dans-sa-patrie-au-perou-leon-xiv-appelle-a-surmonter-les-divis-74eea83378.html"
     }
   ]
 }
