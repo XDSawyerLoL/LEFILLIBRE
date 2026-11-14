@@ -1,70 +1,172 @@
 {
-  "updatedAt": "2026-11-14T04:12:21.815Z",
+  "updatedAt": "2026-11-14T11:27:05.359Z",
   "items": [
     {
-      "title": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espace aérien",
-      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261114-etats-unis-suspension-des-vols-reouverture-espace-aerien-faa",
-      "source": "France 24",
-      "publishedAt": "2026-11-14T02:42:17.000Z",
-      "summary": "Des milliers de vols ont été annulés vendredi après-midi aux États-Unis après la fermeture de l'espace aérien au niveau national. Les vols ont de nouveau été autorisés dans la soirée, mais le retour à la normale sera progressif. Écartant la piste d'une cyberattaque, le ministre des Transports a pointé vers la responsab",
-      "image": "https://s.france24.com/media/display/5694e280-dfd4-11f1-9e3b-5f54d898a954/w:1024/p:16x9/AP26196667132088.jpg",
+      "title": "Yann Le Cun ne croit pas à la fin du travail, mais en France l’IA freine déjà l’embauche des jeunes",
+      "url": "https://www.01net.com/actualites/yann-le-cun-ne-croit-pas-a-la-fin-du-travail-mais-en-france-lia-freine-deja-lembauche-des-jeunes.html",
+      "source": "01net",
+      "publishedAt": "2026-11-14T11:09:34.000Z",
+      "summary": "Le travail ne va pas disparaître avec l'IA : le chercheur français balaie les prophéties de chômage de masse venues de la Silicon Valley. Les données françaises racontent une histoire plus nuancée, où les jeunes paient l'addition les premiers.",
+      "image": "https://www.01net.com/app/uploads/2025/11/yann-lecun-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-plusieurs-heures-de-suspension-des-vols-les-etats-unis-rouvrent-le-7483c7d96a.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/yann-le-cun-ne-croit-pas-a-la-fin-du-travail-mais-en-france-l-ia-freine--426eb2944a.html"
     },
     {
-      "title": "Panne mondiale chez Microsoft : l'Europe sous dépendance ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261113-panne-mondiale-chez-microsoft-l-europe-sous-d%C3%A9pendance",
-      "source": "France 24",
-      "publishedAt": "2026-11-13T22:56:50.000Z",
-      "summary": "La panne de Microsoft illustre une nouvelle fois la vulnérabilité européenne. Comment mettre fin à la dépendance? On en parle avec Martin Hullin de la Fondation Bertelsmann.",
-      "image": "https://s.france24.com/media/display/1f1cda5c-dfb0-11f1-ab73-29048b396e03/w:1024/p:16x9/FR-20261113-213009-214026-CS.jpg",
+      "title": "Affaire Jensen Huang : tout ce qu’on sait sur le scandale Nvidia",
+      "url": "https://www.frandroid.com/marques/nvidia/3320401_affaire-jensen-huang-tout-ce-quon-sait-sur-le-scandale-nvidia",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-14T11:00:00.000Z",
+      "summary": "On tente de résumer l'incroyable affaire Jensen Huang. L'ex-patron de Nvidia a eu une liaison avec une femme soupçonnée d'être une espionne pour la Chine. Ces révélations chamboulent l'industrie de l'IA, enveniment les relations entre Pékin et Washington et questionnent l'avenir de Nvidia.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/jensen-huang-alice-huang.jpg?resize=1200,675&key=3cec9667",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/panne-mondiale-chez-microsoft-l-europe-sous-dependance-1d08d37b00.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/affaire-jensen-huang-tout-ce-qu-on-sait-sur-le-scandale-nvidia-f49ec23712.html"
     },
     {
-      "title": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine",
-      "url": "https://www.france24.com/fr/asie-pacifique/20261114-donald-trump-xi-jinping-vladimir-poutine-vont-se-rencontrer-jeudi-chine",
+      "title": "Washington a proposé que Kiev cède le Donbass en échange d'une adhésion à l'Otan, affirme Zelensky",
+      "url": "https://www.france24.com/fr/europe/20261114-washington-propos%C3%A9-kiev-c%C3%A8de-donbass-%C3%A9change-adh%C3%A9sion-otan-affirme-zelensky",
       "source": "France 24",
-      "publishedAt": "2026-11-14T02:15:28.000Z",
-      "summary": "Les présidents américain, chinois et russe vont se rencontrer jeudi à Shenzhen, en Chine, en marge du sommet de l'Apec. Les sujets du nucléaire et de l'Iran devraient être abordés, mais probablement pas l'Ukraine.",
-      "image": "https://s.france24.com/media/display/d6e9de44-dfd0-11f1-a098-5f54d898a954/w:1024/p:16x9/AP26267449248594.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-xi-jinping-et-vladimir-poutine-vont-se-rencontrer-jeudi-en--d314cb8a50.html"
+      "publishedAt": "2026-11-14T10:53:58.000Z",
+      "summary": "De retour à Kiev après les pourparlers de paix à Abu Dhabi puis à Dublin, Volodymyr Zelensky a rapporté samedi que les négociateurs américains avaient soulevé la question d'une éventuelle cession de la région du Donbass à la Russie contre l'adhésion de l'Ukraine à l'Otan. Le président se dit ouvert à l'organisation d'u",
+      "image": "https://s.france24.com/media/display/70cfdcca-e012-11f1-8f8f-5f54d898a954/w:1024/p:16x9/AP26316802067115.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/washington-a-propose-que-kiev-cede-le-donbass-en-echange-d-une-adhesion--b2b9833f9c.html"
     },
     {
-      "title": "Ukraine: à Lozova, des déplacés traumatisés par l'évacuation de la région de Donetsk",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261113-ukraine-%C3%A0-lozova-des-d%C3%A9plac%C3%A9s-traumatis%C3%A9s-par-l-%C3%A9vacuation-de-la-r%C3%A9gion-de-donetsk",
-      "source": "RFI",
-      "publishedAt": "2026-11-13T23:07:17.000Z",
-      "summary": "Dans l'est de l'Ukraine, l'évacuation des civils s'accélère face à l'intensification des combats dans la région de Donetsk. Selon les chiffres partagés par les autorités ukrainiennes, pendant les dix premiers jours de novembre, plus de 6 300 habitants ont quitté la région, dont 4 500 dans la seule communauté de Kramato",
-      "image": "https://s.rfi.fr/media/display/4c8900c2-df9e-11f1-9fb1-3f371022a770/w:1024/p:16x9/20261109-Centre-de-Transit-de-Lozova-RFI.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-a-lozova-des-deplaces-traumatises-par-l-evacuation-de-la-region--328f9848c9.html"
+      "title": "Manifestations : qui sont les \"street medics\" qui soignent les blessés ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-manifestations-qui-sont-les-street-medics-qui-soignent-les-bless%C3%A9s",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T10:18:23.000Z",
+      "summary": "Casques sur la tête et croix rouges visibles, les \"street medics\" sont régulièrement présents dans les manifestations pour porter assistance aux personnes blessées. Océane, étudiante en lettres à Limoges et \"street medic\", explique leur rôle : \"on ne veut pas entraver l'action des forces de l'ordre, on veut juste aider",
+      "image": "https://s.france24.com/media/display/80dd4fe4-e012-11f1-8647-f71d22e7fea9/w:1024/p:16x9/FR-20261114-081219-082221-CS-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-qui-sont-les-street-medics-qui-soignent-les-blesses-6bdec137bb.html"
     },
     {
-      "title": "Sécheresse dans le Tigré: grâce à l'irrigation, des agriculteurs sauvent leurs cultures [2/2]",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261113-s%C3%A9cheresse-dans-le-tigr%C3%A9-gr%C3%A2ce-%C3%A0-l-irrigation-des-agriculteurs-sauvent-leurs-cultures-2-2",
+      "title": "À l'approche de la présidentielle, crise dans les médias français",
+      "url": "https://www.rfi.fr/fr/podcasts/menaces-sur-l-information/20261114-%C3%A0-l-approche-de-la-pr%C3%A9sidentielle-crise-dans-les-m%C3%A9dias-fran%C3%A7ais",
       "source": "RFI",
-      "publishedAt": "2026-11-13T23:05:18.000Z",
-      "summary": "La région du Tigré, au nord de l’Éthiopie, fait face à un épisode de sécheresse inédit depuis les années 1980. Pour de très nombreux agriculteurs, cette année, la récolte est quasi nulle. Si plus de 90 % des terres cultivées en Éthiopie dépendent des précipitations, une minorité est parvenue à cultiver ses champs grâce",
-      "image": "https://s.rfi.fr/media/display/c99b3966-df78-11f1-8d2f-5f54d898a954/w:1024/p:16x9/Semha-champ-irrig%C3%A9.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/secheresse-dans-le-tigre-grace-a-l-irrigation-des-agriculteurs-sauvent-l-1942f57ace.html"
+      "publishedAt": "2026-11-14T10:18:05.000Z",
+      "summary": "Plus de un million de signataires pour la pétition visant à interdire la chaîne de télévision CNews, une tribune signée par plus de 100 personnalités pour dénoncer la responsabilité des médias dans la montée de l'extrême-droite, des invités politiques hostiles à leurs interlocuteurs ou des journalistes attaqués en mani",
+      "image": "https://s.rfi.fr/media/display/3c7f873a-e013-11f1-9575-f71d22e7fea9/w:1024/p:16x9/000-34LU69H.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-l-approche-de-la-presidentielle-crise-dans-les-medias-francais-685c5ada3d.html"
     },
     {
-      "title": "Présidentielle 2027: pour son premier déplacement de campagne, Teddy Riner met l'accent sur la santé",
-      "url": "https://www.rfi.fr/fr/france/20261113-pr%C3%A9sidentielle-2027-pour-son-premier-d%C3%A9placement-de-campagne-teddy-riner-met-l-accent-sur-la-sant%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-11-13T23:02:53.000Z",
-      "summary": "Première visite de campagne pour l’ancien champion et nouveau candidat à l’élection présidentielle Teddy Riner. Dans un hôpital à Saint-Denis, près de Paris, où il entend faire de la santé une priorité de sa campagne. Très attendu par les médias, Teddy Riner s’est montré très discret.",
-      "image": "https://s.rfi.fr/media/display/375e4994-dfb4-11f1-b4b7-5f54d898a954/w:1024/p:16x9/000-D7DQ2P9.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-pour-son-premier-deplacement-de-campagne-teddy-riner-1fc9a36b3f.html"
+      "title": "Trump rencontrera Xi et Poutine en Chine la semaine prochaine, selon la Maison Blanche",
+      "url": "https://fr.euronews.com/2026/11/14/trump-rencontrera-xi-et-poutine-en-chine-la-semaine-prochaine-selon-la-maison-blanche",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T10:15:11.000Z",
+      "summary": "Le président américain doit quitter Washington lundi pour les Philippines, où il doit participer à une réunion de l'Association des nations de l'Asie du Sud-Est (ASEAN) avant de se rendre à Shenzhen, en Chine.",
+      "image": "https://images.euronews.com/articles/stories/09/99/24/69/696x392_cmsv2_17157d35-4ed0-5ea2-a716-e05b7b20efd8-9992469.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-rencontrera-xi-et-poutine-en-chine-la-semaine-prochaine-selon-la-m-ea1c2b4a70.html"
     },
     {
-      "title": "Présidentielle 2027: la candidate RN Marine Le Pen chahutée au salon Made in France",
-      "url": "https://www.rfi.fr/fr/france/20261113-pr%C3%A9sidentielle-2027-la-candidate-rn-marine-le-pen-chahut%C3%A9e-au-salon-made-in-france",
+      "title": "Au Tchad, la sécheresse fait craindre des poches de famine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-au-tchad-la-s%C3%A9cheresse-fait-craindre-des-poches-de-famine",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T10:13:09.000Z",
+      "summary": "Le Tchad traverse une sécheresse qui pourrait être la pire depuis plus de quarante ans. Organismes nationaux d'observation, ONG et habitants des régions les plus touchées alertent sur les conséquences du déficit de pluies en 2026, qui pourrait provoquer des poches de famine dans plusieurs zones du pays. Reportage d'Har",
+      "image": "https://s.france24.com/media/display/1e672280-e013-11f1-b01c-f71d22e7fea9/w:1024/p:16x9/FR-20261114-101059-101308-CS-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-tchad-la-secheresse-fait-craindre-des-poches-de-famine-1e409ade37.html"
+    },
+    {
+      "title": "La police française se dirige-t-elle vers une grève nationale ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-police-fran%C3%A7aise-se-dirige-t-elle-vers-une-gr%C3%A8ve-nationale",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T10:10:25.000Z",
+      "summary": "Les représentants des forces de l'ordre réclament une revalorisation de 35 % de la prime de risque. Une revendication qui intervient dans un contexte de fortes tensions autour des conditions de travail, de la rémunération et du maintien de l'ordre. Faute d'avancée jugée suffisante, la contestation pourrait-elle débouch",
+      "image": "https://s.france24.com/media/display/c6408e62-e011-11f1-9e18-5f54d898a954/w:1024/p:16x9/FR-20261114-100548-100656-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-police-francaise-se-dirige-t-elle-vers-une-greve-nationale-e3290d5975.html"
+    },
+    {
+      "title": "Face aux alertes de survols de drones, la Lituanie veut renforcer sa défense anti-aérienne",
+      "url": "https://www.rfi.fr/fr/europe/20261114-face-aux-alertes-de-survols-de-drones-la-lituanie-veut-renforcer-sa-d%C3%A9fense-anti-a%C3%A9rienne",
       "source": "RFI",
-      "publishedAt": "2026-11-13T22:24:44.000Z",
-      "summary": "Le salon du Made in France était le théâtre de la campagne présidentielle ce vendredi 13 novembre à Paris. De nombreux candidats s’y sont rendus, dont Marine Le Pen, venue quelques minutes après son principal adversaire, Jean-Luc Mélenchon. La visite de la favorite des sondages a été chahutée.",
-      "image": "https://s.rfi.fr/media/display/7a82a85e-dfab-11f1-a836-3f371022a770/w:1024/p:16x9/000-D7DZ9HV.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-la-candidate-rn-marine-le-pen-chahutee-au-salon-made-ccc15e9ed2.html"
+      "publishedAt": "2026-11-14T10:08:31.000Z",
+      "summary": "En début de semaine, dans la nuit du mardi 10 au mercredi 11 novembre, la Lituanie a connu de nouvelles alertes aux drones et est restée éveillée une bonne partie de la nuit. Trois drones ont été repérés à proximité et un quatrième a traversé les trois pays baltes. Une situation qui montre la nécessité de développer en",
+      "image": "https://s.rfi.fr/media/display/edc2b4ea-512f-11f1-bf7e-005056a97e36/w:1024/p:16x9/2026-05-15T125345Z-841432382-RC2L9LAIJGU9-RTRMADP-3-UKRAINE-CRISIS-NATO-DRILLS-DRONES.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/face-aux-alertes-de-survols-de-drones-la-lituanie-veut-renforcer-sa-defe-0cb789b0cd.html"
+    },
+    {
+      "title": "La mégafusée Starship réussit partiellement son quinzième vol d'essai",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-la-m%C3%A9gafus%C3%A9e-starship-r%C3%A9ussit-partiellement-son-quinzi%C3%A8me-vol-d-essai",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T10:08:12.000Z",
+      "summary": "SpaceX a lancé le quinzième vol d'essai de sa mégafusée Starship avec des objectifs particulièrement ambitieux. L'entreprise a renoncé à récupérer le premier étage, mais espérait réussir la récupération du second. Pour Frédéric Castel, journaliste spécialisé dans l'espace, le bilan est celui d'un \"succès partiel\".",
+      "image": "https://s.france24.com/media/display/54c6eac0-e010-11f1-ad33-695cb59fade5/w:1024/p:16x9/FR-20261114-091120-091411-CS.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-megafusee-starship-reussit-partiellement-son-quinzieme-vol-d-essai-30de772d0f.html"
+    },
+    {
+      "title": "Manifestations en France : pouvoir d'achat, climat et \"permis de tuer\" au cœur de l'acte V",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-manifestations-en-france-pouvoir-d-achat-climat-et-permis-de-tuer-au-c%C5%93ur-de-l-acte-v",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T10:04:07.000Z",
+      "summary": "Nouvelle journée de mobilisation contre la vie chère ce samedi en France : une cinquantaine de cortèges sont attendus à travers le pays, à l'appel d'organisations de jeunesse et de \"gilets jaunes\". Le mouvement agrège plusieurs revendications, du pouvoir d'achat au climat, en passant par l'opposition à une proposition ",
+      "image": "https://s.france24.com/media/display/835a4140-e00e-11f1-9ba9-5f54d898a954/w:1024/p:16x9/FR-20261114-081046-081218-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-france-pouvoir-d-achat-climat-et-permis-de-tuer-au-c-u-c95a2ecd15.html"
+    },
+    {
+      "title": "Après son exclusion, la Russie réclame l'annulation ou le report du Mondial junior de hockey au Canada",
+      "url": "https://fr.euronews.com/2026/11/14/apres-son-exclusion-la-russie-reclame-lannulation-ou-le-report-du-mondial-junior-de-hockey",
+      "source": "Euronews",
+      "publishedAt": "2026-11-14T09:44:11.000Z",
+      "summary": "Les autorités canadiennes ont déclaré plus tôt que les joueurs russes ne seraient pas autorisés à participer au mondial qui débutera en Alberta en décembre. L'Estonie, la Finlande et la Norvège comptent interdire l'entrée des sportifs russes jusqu'à la fin de la guerre en Ukraine.",
+      "image": "https://images.euronews.com/articles/stories/09/99/12/03/696x392_cmsv2_6bb812ab-e185-532e-acd5-feeb209e9fca-9991203.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-son-exclusion-la-russie-reclame-l-annulation-ou-le-report-du-mondi-d362c0a885.html"
+    },
+    {
+      "title": "Mobilisation en France: un «acte V» du mouvement social ce samedi avec des revendications variées",
+      "url": "https://www.rfi.fr/fr/france/20261114-mobilisation-en-france-un-acte-v-du-mouvement-social-ce-samedi-avec-des-revendications-vari%C3%A9es",
+      "source": "RFI",
+      "publishedAt": "2026-11-14T08:32:56.000Z",
+      "summary": "Protection des enfants et adolescents, opposition au « permis de tuer », salaires, moyens pour l'enseignement : différentes manifestations vont se tenir samedi 14 novembre en France et converger dans un seul cortège à Paris, pour l'« acte V » du mouvement contre la vie chère. Parti de la colère des lycéens français, ce",
+      "image": "https://s.rfi.fr/media/display/22fe4c8a-e002-11f1-9b6e-3f371022a770/w:1024/p:16x9/2026-11-10T160818Z-7703711-RC21LOAI1F7C-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mobilisation-en-france-un-acte-v-du-mouvement-social-ce-samedi-avec-des--21f5e83971.html"
+    },
+    {
+      "title": "Présidentielle au Cap-Vert : derrière la stabilité politique, des défis sociaux à relever",
+      "url": "https://www.france24.com/fr/afrique/20261114-pr%C3%A9sidentielle-au-cap-vert-derri%C3%A8re-la-stabilit%C3%A9-politique-des-d%C3%A9fis-sociaux-%C3%A0-relever",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T07:41:48.000Z",
+      "summary": "Les électeurs du Cap-Vert sont appelés aux urnes, dimanche, pour élire leur président. Considéré comme un îlot de stabilité, cet archipel d'Afrique de l'Ouest connaît une croissance dynamique mais peine à endiguer l'exode de sa jeunesse.",
+      "image": "https://s.france24.com/media/display/f637f540-df6e-11f1-a9ff-5f54d898a954/w:1024/p:16x9/000-D4Z73HK.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-cap-vert-derriere-la-stabilite-politique-des-defis-soc-e35a86c8af.html"
+    },
+    {
+      "title": "Le chef de la junte birmane exclu du sommet de l'Asean: «Une bonne nouvelle», selon Zin Mar Aung, ministre du NUG",
+      "url": "https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-international/20261114-le-chef-de-la-junte-birmane-exclu-du-sommet-de-l-asean-une-bonne-nouvelle-selon-zin-mar-aung-ministre-du-nug",
+      "source": "RFI",
+      "publishedAt": "2026-11-14T07:32:42.000Z",
+      "summary": "À partir de ce dimanche, les dirigeants de l’Asean, l’association des nations d’Asie du Sud-Est, se retrouvent à Manille. Et un grand absent dans la région : la Birmanie, en guerre civile et toujours dirigée par une junte militaire depuis le coup d’État de 2021. Des élections largement qualifiées de frauduleuses en déb",
+      "image": "https://s.rfi.fr/media/display/a81d8f58-dff7-11f1-9f8f-695cb59fade5/w:1024/p:16x9/Zin-Mar-Aung-2025.png",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-chef-de-la-junte-birmane-exclu-du-sommet-de-l-asean-une-bonne-nouvell-d7109c9978.html"
+    },
+    {
+      "title": "Manifestations du 14 novembre en direct : des revendications variées pour l'acte V du mouvement social",
+      "url": "https://www.france24.com/fr/france/20261114-manifestations-du-14-novembre-en-direct-des-revendications-diverses-en-amont-de-l-acte-v",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T06:55:23.000Z",
+      "summary": "La mobilisation de la jeunesse et des Gilets jaunes se poursuit samedi 14 novembre, où des revendications diverses s'exprimeront après plusieurs semaines de mouvement et de mesures répressives : protection des enfants et des adolescents, opposition au \"permis de tuer\", augmentation des moyens pour l'Éducation nationale",
+      "image": "https://s.france24.com/media/display/0bd7ebca-dff7-11f1-ae57-29048b396e03/w:1024/p:16x9/000-D6TJ4YN.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-du-14-novembre-en-direct-des-revendications-variees-pour--2124da7c16.html"
+    },
+    {
+      "title": "Le gouvernement Trump sera-t-il éclaboussé par les conséquences de l'affaire Nvidia?",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261114-le-gouvernement-trump-sera-t-il-%C3%A9clabouss%C3%A9-par-les-cons%C3%A9quences-de-l-affaire-nvidia",
+      "source": "RFI",
+      "publishedAt": "2026-11-14T06:21:35.000Z",
+      "summary": "Nouveaux rebondissements dans le scandale Nvidia. La révélation de sa liaison avec Alice Huang, une femme d'affaires travaillant pour le compte de l'espionnage chinois, avait déjà provoqué la démission de Jensen Huang, le patron et fondateur américain de l'entreprise de puces électroniques. Désormais, la presse américa",
+      "image": "https://s.rfi.fr/media/display/86e5afec-dc4f-11f1-8e61-1beafce15fea/w:1024/p:16x9/AP26281674389128.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-gouvernement-trump-sera-t-il-eclabousse-par-les-consequences-de-l-aff-389e6c9919.html"
+    },
+    {
+      "title": "LiveWire au bord de la faillite : pourquoi la moto électrique s’effondre à 3 % du marché",
+      "url": "https://www.frandroid.com/survoltes/moto/3319225_livewire-au-bord-de-la-faillite-pourquoi-la-moto-electrique-seffondre-a-3-du-marche",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-14T10:33:08.000Z",
+      "summary": "LiveWire, la marque électrique de Harley-Davidson, dit désormais publiquement qu’elle n’est pas certaine de tenir un an de plus. Dans le même temps, la voiture électrique dépasse l’essence en Europe et le scooter électrique s’installe en Asie. La moto électrique, elle, plafonne autour de 3 % des ventes de sa catégorie.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/01/zero-motorcycles-rolls-out-dsr-x-black-forest-edition-in-france-4.jpg?resize=1200,675&key=dda2b30e",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/livewire-au-bord-de-la-faillite-pourquoi-la-moto-electrique-s-effondre-a-7c4c865bb5.html"
     }
   ]
 }
