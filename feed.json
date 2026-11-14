@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-13T23:51:55.689Z",
+  "updatedAt": "2026-11-14T04:12:21.815Z",
   "items": [
+    {
+      "title": "Après plusieurs heures de suspension des vols, les États-Unis rouvrent leur espace aérien",
+      "url": "https://www.france24.com/fr/%C3%A9co-tech/20261114-etats-unis-suspension-des-vols-reouverture-espace-aerien-faa",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T02:42:17.000Z",
+      "summary": "Des milliers de vols ont été annulés vendredi après-midi aux États-Unis après la fermeture de l'espace aérien au niveau national. Les vols ont de nouveau été autorisés dans la soirée, mais le retour à la normale sera progressif. Écartant la piste d'une cyberattaque, le ministre des Transports a pointé vers la responsab",
+      "image": "https://s.france24.com/media/display/5694e280-dfd4-11f1-9e3b-5f54d898a954/w:1024/p:16x9/AP26196667132088.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-plusieurs-heures-de-suspension-des-vols-les-etats-unis-rouvrent-le-7483c7d96a.html"
+    },
     {
       "title": "Panne mondiale chez Microsoft : l'Europe sous dépendance ?",
       "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261113-panne-mondiale-chez-microsoft-l-europe-sous-d%C3%A9pendance",
@@ -12,14 +22,13 @@
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/panne-mondiale-chez-microsoft-l-europe-sous-dependance-1d08d37b00.html"
     },
     {
-      "title": "AMD Siren Halo : une excellente nouvelle pour les PC portables gamers, mais un piège face à Apple et au RTX Spark de Nvidia",
-      "url": "https://www.frandroid.com/marques/amd/3323221_amd-siren-halo-une-excellente-nouvelle-pour-les-pc-portables-gamers-mais-un-piege-face-a-apple-et-au-rtx-spark-de-nvidia",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-13T21:52:00.000Z",
-      "summary": "Le prochain processeur très haut de gamme d'AMD pour PC portable pourrait intégrer sa propre mémoire vidéo GDDR7 dédiée. Une excellente nouvelle pour jouer sans carte graphique séparée, mais un potentiel retour en arrière pour faire tourner d'immenses modèles d'IA en local.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/image-110.png?resize=1200,675&key=e82f64a8",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/amd-siren-halo-une-excellente-nouvelle-pour-les-pc-portables-gamers-mais-1a19d3ad25.html"
+      "title": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine",
+      "url": "https://www.france24.com/fr/asie-pacifique/20261114-donald-trump-xi-jinping-vladimir-poutine-vont-se-rencontrer-jeudi-chine",
+      "source": "France 24",
+      "publishedAt": "2026-11-14T02:15:28.000Z",
+      "summary": "Les présidents américain, chinois et russe vont se rencontrer jeudi à Shenzhen, en Chine, en marge du sommet de l'Apec. Les sujets du nucléaire et de l'Iran devraient être abordés, mais probablement pas l'Ukraine.",
+      "image": "https://s.france24.com/media/display/d6e9de44-dfd0-11f1-a098-5f54d898a954/w:1024/p:16x9/AP26267449248594.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/donald-trump-xi-jinping-et-vladimir-poutine-vont-se-rencontrer-jeudi-en--d314cb8a50.html"
     },
     {
       "title": "Ukraine: à Lozova, des déplacés traumatisés par l'évacuation de la région de Donetsk",
@@ -56,109 +65,6 @@
       "summary": "Le salon du Made in France était le théâtre de la campagne présidentielle ce vendredi 13 novembre à Paris. De nombreux candidats s’y sont rendus, dont Marine Le Pen, venue quelques minutes après son principal adversaire, Jean-Luc Mélenchon. La visite de la favorite des sondages a été chahutée.",
       "image": "https://s.rfi.fr/media/display/7a82a85e-dfab-11f1-a836-3f371022a770/w:1024/p:16x9/000-D7DZ9HV.jpg",
       "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-la-candidate-rn-marine-le-pen-chahutee-au-salon-made-ccc15e9ed2.html"
-    },
-    {
-      "title": "\"Rasez cette maison\" : comment les internautes ont guidé un raid anti-gang de Bukele en Haïti",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261113-rasez-cette-maison-comment-les-internautes-ont-guid%C3%A9-un-raid-anti-gang-de-bukele-en-ha%C3%AFti",
-      "source": "France 24",
-      "publishedAt": "2026-11-13T21:48:03.000Z",
-      "summary": "Le président salvadorien Nayib Bukele a annoncé la destruction du quartier général des \"400 Mawozo\", l’un des principaux gangs haïtiens. L'opération militaire semble avoir été déclenchée à la suite d'un échange sur X, et aidé par les talents de géolocalisation d'un expert de l'OSINT. Dans la foulée, une image virale a ",
-      "image": "https://s.france24.com/media/display/dfb624c4-dfa8-11f1-a439-f71d22e7fea9/w:1024/p:16x9/Francais-2026-11-13T21-15-56-233Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rasez-cette-maison-comment-les-internautes-ont-guide-un-raid-anti-gang-d-2cefd2cfda.html"
-    },
-    {
-      "title": "Pourparlers sur l'Ukraine: un groupe de cinq pays se positionne pour représenter l'Europe",
-      "url": "https://www.rfi.fr/fr/europe/20261113-pourparlers-sur-l-ukraine-un-groupe-de-cinq-pays-se-positionne-pour-repr%C3%A9senter-l-europe",
-      "source": "RFI",
-      "publishedAt": "2026-11-13T21:27:22.000Z",
-      "summary": "Les Européens se préparent à participer aux prochains pourparlers sur l'Ukraine et c'est un groupe de cinq pays – Allemagne, France, Italie, Pologne et Royaume-Uni – qui s'est positionné en réponse à la demande des États-Unis que les Européens se joignent à de nouvelles discussions entre Russes et Ukrainiens, sous médi",
-      "image": "https://s.rfi.fr/media/display/b2dd6f16-de9a-11f1-a95a-695cb59fade5/w:1024/p:16x9/AP26316437266542.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pourparlers-sur-l-ukraine-un-groupe-de-cinq-pays-se-positionne-pour-repr-3b7503b3bb.html"
-    },
-    {
-      "title": "Niger: plus de 30 civils tués dans une attaque près de Téra, dans la région de Tillabéri",
-      "url": "https://www.rfi.fr/fr/afrique/20261113-niger-plus-de-30-civils-tu%C3%A9s-dans-une-attaque-pr%C3%A8s-de-t%C3%A9ra-dans-la-r%C3%A9gion-de-tillab%C3%A9ri",
-      "source": "RFI",
-      "publishedAt": "2026-11-13T21:08:56.000Z",
-      "summary": "Au Niger, une attaque a eu lieu jeudi 12 novembre dans la région de Tillabéri, dans l'ouest du pays, épicentre des violences terroristes. Elle s'est produite près de la localité de Téra, proche du Burkina Faso et du Mali. Pas de communication ni de bilan officiels à ce stade. Des sources locales jointes par l'Agence Fr",
-      "image": "https://s.rfi.fr/media/display/a2b4a598-1931-11ec-8a16-005056a97e36/w:1024/p:16x9/Tillaberi%20carte.png",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/niger-plus-de-30-civils-tues-dans-une-attaque-pres-de-tera-dans-la-regio-b55eb373d8.html"
-    },
-    {
-      "title": "Scandale bancaire au Paraguay: l'ex-président Peña poursuivi pour «association de malfaiteurs»",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261113-scandale-bancaire-au-paraguay-l-ex-pr%C3%A9sident-pe%C3%B1a-poursuivi-pour-association-de-malfaiteurs",
-      "source": "RFI",
-      "publishedAt": "2026-11-13T21:02:49.000Z",
-      "summary": "Le parquet du Paraguay a élargi vendredi 13 novembre les poursuites contre l'ancien président Santiago Peña à « association de malfaiteurs », l'identifiant comme « chef de la structure » qui a « subordonné le système financier » aux intérêts de la banque Ueno, au cœur d'une crise bancaire puis politique majeure. Des fo",
-      "image": "https://s.rfi.fr/media/display/4d5a9bc0-dfa1-11f1-9d70-29048b396e03/w:1024/p:16x9/000-D7ED2FD.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/scandale-bancaire-au-paraguay-l-ex-president-pena-poursuivi-pour-associa-5b8735d1b2.html"
-    },
-    {
-      "title": "Jacques Nesi :\" les soldats salvadoriens sotn accueillis comme le Messie en Haïti\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20261113-jacques-nesi-les-soldats-salvadoriens-sotn-accueillis-comme-le-messie-en-ha%C3%AFti",
-      "source": "France 24",
-      "publishedAt": "2026-11-13T20:13:27.000Z",
-      "summary": "Depuis fin octobre, quelques 2000 soldats salvadoriens sont déployés en Haïti, en accord avec l'exécutif haïtien. Ces militaires ont été initialement envoyés pour retrouver quatre soldats salvadoriens membres de la force onusienne, portés disparus après une attaque de gangs. Mais la durée et l'ampleur de l'opération me",
-      "image": "https://s.france24.com/media/display/5d25db2c-df9d-11f1-b07b-3f371022a770/w:1024/p:16x9/Francais-2026-11-13T19-07-18-406Z.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jacques-nesi-les-soldats-salvadoriens-sotn-accueillis-comme-le-messie-en-72b6d12767.html"
-    },
-    {
-      "title": "Projet de loi résilience : comment la France veut rattraper son retard en cybersécurité",
-      "url": "https://www.france24.com/fr/france/20261113-projet-de-loi-r%C3%A9silience-comment-la-france-veut-rattraper-son-retard-en-cybers%C3%A9curit%C3%A9",
-      "source": "France 24",
-      "publishedAt": "2026-11-13T18:36:52.000Z",
-      "summary": "Alors que les cyberattaques se multiplient en France, l’Assemblée s'apprête à adopter, mardi, la loi résilience sur le renforcement de la cybersécurité. Retardé depuis deux ans, le texte multiplie par dix le nombre d’entités régulées et impose des sanctions financières en cas de manquement aux obligations de prévention",
-      "image": "https://s.france24.com/media/display/62826604-df83-11f1-87a2-3f371022a770/w:1024/p:16x9/000-32TG8TQ.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/projet-de-loi-resilience-comment-la-france-veut-rattraper-son-retard-en--7753e55f7d.html"
-    },
-    {
-      "title": "L’Allemagne approuve une réforme musclant ses services de renseignement face à la menace russe",
-      "url": "https://www.rfi.fr/fr/europe/20261113-l-allemagne-approuve-une-r%C3%A9forme-musclant-ses-services-de-renseignement-face-%C3%A0-la-menace-russe",
-      "source": "RFI",
-      "publishedAt": "2026-11-13T18:13:57.000Z",
-      "summary": "Le parlement allemand a adopté vendredi 13 novembre une vaste refonte des services de renseignement du pays, accordant de nouveaux pouvoirs de surveillance et une autorisation de riposter à des opérations de services hostiles. Le projet de loi permet également des opérations clandestines telles que des actes de sabotag",
-      "image": "https://s.rfi.fr/media/display/25c35e8c-df8b-11f1-b977-695cb59fade5/w:1024/p:16x9/AP26280291981961.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-allemagne-approuve-une-reforme-musclant-ses-services-de-renseignement--fcfe34a797.html"
-    },
-    {
-      "title": "Onze ans du 13-Novembre: les rescapés des attentats déplorent l'absence «d'unité nationale»",
-      "url": "https://www.rfi.fr/fr/france/20261113-onze-ans-du-13-novembre-les-victimes-des-attentats-d%C3%A9plorent-l-absence-d-unit%C3%A9-nationale",
-      "source": "RFI",
-      "publishedAt": "2026-11-13T18:06:24.000Z",
-      "summary": "Onze ans après le 13 novembre 2015, un « hommage citoyen » à « toutes les victimes du terrorisme », dont celles de l'attentat raciste des Yvelines, est organisé ce vendredi 13 novembre par l'association Life for Paris, dont le président déplore l'absence « d'unité nationale » depuis ces attentats.",
-      "image": "https://s.rfi.fr/media/display/100b6eb4-df80-11f1-9e3f-29048b396e03/w:1024/p:16x9/000-D7D66VL.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/onze-ans-du-13-novembre-les-rescapes-des-attentats-deplorent-l-absence-d-37c28c61b2.html"
-    },
-    {
-      "title": "Affaire Nvidia, guerre en Ukraine, tractations en Israël et sort de Christophe Gleizes",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261113-affaire-nvidia-guerre-en-ukraine-tractations-en-isra%C3%ABl-et-sort-de-christophe-gleizes",
-      "source": "France 24",
-      "publishedAt": "2026-11-13T20:26:36.000Z",
-      "summary": "Au sommaire de l'émission cette semaine: la démission du PDG de Nvidia Jensen Huang, après la révélation d'une relation extra-conjuguale avec une femme soupçonnée d'être une espionne chinoise; la reprise des discussions autour de la guerre en Ukraine à Abou Dhabi, une première en 8 mois; la première session houleuse de",
-      "image": "https://s.france24.com/media/display/61ae4c10-df98-11f1-9250-3f371022a770/w:1024/p:16x9/TK065089-A-01-20261105.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/affaire-nvidia-guerre-en-ukraine-tractations-en-israel-et-sort-de-christ-5d40009d02.html"
-    },
-    {
-      "title": "Panne mondiale Microsoft: la firme présente ses excuses et écarte la piste d'une cyberattaque",
-      "url": "https://www.rfi.fr/fr/%C3%A9conomie/20261113-panne-mondiale-microsoft-la-firme-pr%C3%A9sente-ses-excuses-et-%C3%A9carte-la-piste-d-une-cyberattaque",
-      "source": "RFI",
-      "publishedAt": "2026-11-13T19:34:12.000Z",
-      "summary": "Microsoft s'est excusé vendredi 13 novembre pour la panne mondiale de ses logiciels qui perturbe depuis la veille de nombreux services publics et entreprises dans le monde, affirmant qu'elle était liée à « un problème technique » et non de l'ordre de la cyberattaque.",
-      "image": "https://s.rfi.fr/media/display/5e340d16-df90-11f1-bc24-695cb59fade5/w:1024/p:16x9/AP26317359595657.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/panne-mondiale-microsoft-la-firme-presente-ses-excuses-et-ecarte-la-pist-f45bfb35ea.html"
-    },
-    {
-      "title": "Un radar américain détruit par l'Iran ? Cette image modifiée par IA montre une destruction ancienne",
-      "url": "https://www.france24.com/fr/moyen-orient/20261113-un-radar-am%C3%A9ricain-d%C3%A9truit-par-l-iran-cette-image-modifi%C3%A9e-par-ia-montre-une-destruction-ancienne",
-      "source": "France 24",
-      "publishedAt": "2026-11-13T17:53:20.000Z",
-      "summary": "Le 13 novembre, l'Iran a affirmé avoir détruit un radar américain à Bahreïn, ce que les États-Unis démentent. Une image satellite modifiée par IA, censée prouver l'attaque iranienne, a ensuite circulé en ligne. Elle avait été publiée dès juin, après de précédentes attaques iraniennes qui avaient bien endommagé un site ",
-      "image": "https://s.france24.com/media/display/5cc3e246-df84-11f1-a0be-29048b396e03/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-36.png",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-radar-americain-detruit-par-l-iran-cette-image-modifiee-par-ia-montre-877adea04b.html"
     }
   ]
 }
