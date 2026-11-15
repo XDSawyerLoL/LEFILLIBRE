@@ -1,97 +1,173 @@
 {
-  "updatedAt": "2026-11-15T08:01:44.947Z",
+  "updatedAt": "2026-11-15T15:37:35.648Z",
   "items": [
     {
-      "title": "Google : l’IA capte tant de recherches que des annonceurs n’arrivent plus à dépenser leur budget",
-      "url": "https://www.01net.com/actualites/google-lia-capte-tant-de-recherches-que-des-annonceurs-narrivent-plus-a-depenser-leur-budget.html",
+      "title": "Un avion que vous n’entendez pas peut révéler où vous avez tourné une vidéo",
+      "url": "https://www.01net.com/actualites/un-avion-que-vous-nentendez-pas-peut-reveler-ou-vous-avez-tourne-une-video.html",
       "source": "01net",
-      "publishedAt": "2026-11-15T07:52:17.000Z",
-      "summary": "Aux États-Unis, des annonceurs voient leurs campagnes tourner à vide, les réponses de l'IA retenant les internautes loin des liens sponsorisés. La France, elle, vit un étrange sursis : le mode IA y reste sans publicité.",
-      "image": "https://www.01net.com/app/uploads/2026/07/google-lance-apercus-mode-ia-france-1344x896.jpg",
+      "publishedAt": "2026-11-15T15:13:45.000Z",
+      "summary": "Une vidéo sans le moindre indice visuel, un fond sonore anodin, et pourtant : deux avions que personne n’entend ont suffi à retrouver le lieu exact de l’enregistrement. Votre téléphone capte ces signatures à chaque tournage.",
+      "image": "https://www.01net.com/app/uploads/2026/07/avion-vol-1344x896.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-l-ia-capte-tant-de-recherches-que-des-annonceurs-n-arrivent-plus--ac32a35de0.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-avion-que-vous-n-entendez-pas-peut-reveler-ou-vous-avez-tourne-une-vi-db74c7ae51.html"
     },
     {
-      "title": "Le Xiaomi 17T Pro mise sur un zoom optique x5, une batterie XXL et -250 € pour séduire pendant le pré Black Friday",
-      "url": "https://www.frandroid.com/bons-plans/3321625_le-xiaomi-17t-pro-mise-sur-un-zoom-optique-x5-une-batterie-xxl-et-250-e-pour-seduire-pendant-le-pre-black-friday",
+      "title": "J’ai roulé 700 km en Chine en Omoda 4, le SUV hybride de Chery qui menace les constructeurs européens",
+      "url": "https://www.frandroid.com/marques/chery/3315815_jai-roule-700-km-en-chine-en-omoda-4-le-suv-hybride-que-renault-et-volkswagen-ne-voient-pas-arriver-dun-bon-oeil",
       "source": "Frandroid",
-      "publishedAt": "2026-11-15T06:49:00.000Z",
-      "summary": "Le Xiaomi 17T Pro, lancé fin mai par Xiaomi, mise gros sur le bloc photo et l'autonomie. Vous le retrouvez à 653 euros au lieu de 903 euros pour le Black Friday.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/xiaomi-17t-pro-preblackfriday-2026.jpg?resize=1200,675&key=9bc1da7a",
+      "publishedAt": "2026-11-15T15:01:00.000Z",
+      "summary": "Un an après son arrivée en France, le groupe chinois Chery lancera début 2027 son Omoda 4, un SUV compact pensé pour l’Europe et la France en particulier. Avant l’arrivée de sa version électrique, nous avons déjà pu rouler 700 km au volant de l’Omoda 4 hybride en Chine.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/nass-m-omoda-4-jean-baptiste-passieux-9.jpg?resize=1200,675&key=98833ca4",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-xiaomi-17t-pro-mise-sur-un-zoom-optique-x5-une-batterie-xxl-et-250-po-64773f22f3.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-roule-700-km-en-chine-en-omoda-4-le-suv-hybride-de-chery-qui-menace-8bcc86a25c.html"
     },
     {
-      "title": "Côte d'Ivoire: «Un acharnement», les exilés burkinabè répondent au régime militaire à Ouagadougou",
-      "url": "https://www.rfi.fr/fr/afrique/20261115-c%C3%B4te-d-ivoire-un-acharnement-les-exil%C3%A9s-burkinab%C3%A8-r%C3%A9pondent-au-r%C3%A9gime-militaire-%C3%A0-ouagadougou",
+      "title": "Francophonie: à Phnom Penh, dernières tractations avant la désignation du prochain secrétaire général",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261115-francophonie-%C3%A0-phnom-penh-derni%C3%A8res-tractations-avant-la-d%C3%A9signation-du-prochain-secr%C3%A9taire-g%C3%A9n%C3%A9ral",
       "source": "RFI",
-      "publishedAt": "2026-11-15T07:57:50.000Z",
-      "summary": "Au Burkina Faso, d’anciens responsables politiques, militaires, ou journalistes sont aujourd’hui dans le viseur de la justice. Certains font l’objet de mandats d’arrêt et de demandes d’extradition. Ces personnes - en exil - sont poursuivies officiellement sur la base d'accusations comme « apologie du terrorisme » ou « ",
-      "image": "https://s.rfi.fr/media/display/8d332e3a-0f31-11ea-a28c-005056a9aa4d/w:1024/p:16x9/000_d46lp_0.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cote-d-ivoire-un-acharnement-les-exiles-burkinabe-repondent-au-regime-mi-547ddff588.html"
+      "publishedAt": "2026-11-15T15:17:18.000Z",
+      "summary": "Après l'ouverture, dimanche 15 novembre, du XXe sommet de la Francophonie à Phnom Penh, au Cambodge, la question demeure : qui sera le prochain ou la prochaine secrétaire générale de l'Organisation internationale de la Francophonie (OIF) ? Le président français, Emmanuel Macron, a de nouveau parlé à son homologue rwand",
+      "image": "https://s.rfi.fr/media/display/9bc748a0-e107-11f1-a1b1-f71d22e7fea9/w:1024/p:16x9/OIF-CAMBODGE-KAGAME-TOUADERA-TSHISEKEDI.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/francophonie-a-phnom-penh-dernieres-tractations-avant-la-designation-du--064ff4b1bd.html"
     },
     {
-      "title": "Francophonie: le XXe sommet de Phnom Penh s'ouvre sur fond de tensions",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261115-francophonie-le-xxe-sommet-de-phnom-penh-s-ouvre-sur-fond-de-tensions",
-      "source": "RFI",
-      "publishedAt": "2026-11-15T07:36:15.000Z",
-      "summary": "Le XXe sommet de la Francophonie s'est ouvert ce matin à Phnom Penh, sur fond de tensions autour de l'élection du ou de la future secrétaire générale de l'OIF.",
-      "image": "https://s.rfi.fr/media/display/42eb54fa-e0c2-11f1-b342-3f371022a770/w:1024/p:16x9/000-D7HC7ZD.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/francophonie-le-xxe-sommet-de-phnom-penh-s-ouvre-sur-fond-de-tensions-a9c95be0f7.html"
+      "title": "Le travail du photoreporter Antoni Lallican en Ukraine raconté dans un livre hommage",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-le-travail-du-photoreporter-antoni-lallican-en-ukraine-racont%C3%A9-dans-un-livre-hommage",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T14:03:37.000Z",
+      "summary": "Tué le 3 octobre 2025 alors qu'il travaillait en Ukraine, le photojournaliste français Antoni Lallican laisse derrière lui un important travail consacré au Donbass. L'ouvrage \"Le soleil de l'Ukraine se lève dans le Donbass\", publié en français, en anglais et en ukrainien, rassemble une partie de ses photographies. Aïda",
+      "image": "https://s.france24.com/media/display/d167e5f2-e0fb-11f1-bc47-5f54d898a954/w:1024/p:16x9/FR-20261115-141702-142744-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-travail-du-photoreporter-antoni-lallican-en-ukraine-raconte-dans-un-l-fff3189a47.html"
     },
     {
-      "title": "Chine: posséder un drone est désormais interdit à Pékin, au nom de la sécurité",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261115-chine-poss%C3%A9der-un-drone-est-d%C3%A9sormais-interdit-%C3%A0-p%C3%A9kin-au-nom-de-la-s%C3%A9curit%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-11-15T07:32:27.000Z",
-      "summary": "À partir de ce dimanche 15 novembre 2026, la capitale chinoise adopte sa réglementation la plus stricte sur les drones. Les autorités veulent éviter les risques dans le ciel, quitte à complètement bouleverser le quotidien des particuliers et des professionnels de l’image.",
-      "image": "https://s.rfi.fr/media/display/e9acb2f6-e0c3-11f1-8b89-3f371022a770/w:1024/p:16x9/000-C899964.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chine-posseder-un-drone-est-desormais-interdit-a-pekin-au-nom-de-la-secu-36fd9593b5.html"
+      "title": "Explosions à Bahreïn, l'Iran revendique une attaque contre une base américaine",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-explosions-%C3%A0-bahre%C3%AFn-l-iran-revendique-une-attaque-contre-une-base-am%C3%A9ricaine",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T13:51:58.000Z",
+      "summary": "L'Iran revendique une attaque de drones contre un site militaire américain à Bahreïn. L'opération aurait eu lieu tôt dans la matinée, entre 4 h 30 et 6 h, alors que les tensions dans la région semblaient s'apaiser. Les habitants ont rapidement été invités à se mettre à l'abri. Les précisions de Léa Delfolie, correspond",
+      "image": "https://s.france24.com/media/display/62ec2daa-e0fa-11f1-a35d-5f54d898a954/w:1024/p:16x9/FR-20261115-140430-140707-CS-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/explosions-a-bahrein-l-iran-revendique-une-attaque-contre-une-base-ameri-c5c13dd021.html"
     },
     {
-      "title": "En marge de l'Asean, les Philippines et l'Australie signent un accord de défense",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261115-en-marge-de-l-asean-les-philippines-et-l-australie-signent-un-accord-de-d%C3%A9fense",
-      "source": "RFI",
-      "publishedAt": "2026-11-15T06:37:09.000Z",
-      "summary": "Le 49e sommet de l’Asean s’ouvre ce dimanche 15 novembre à Manille. Pendant trois jours, les dirigeants et délégations vont se pencher sur les dossiers les plus sensibles et pressants de la région. En marge de ce rendez-vous diplomatique, les Philippines et l'Australie ont signé un accord destiné à renforcer leur coopé",
-      "image": "https://s.rfi.fr/media/display/aba4fab4-e0b8-11f1-8cbe-29048b396e03/w:1024/p:16x9/AP26319138094230.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-marge-de-l-asean-les-philippines-et-l-australie-signent-un-accord-de--532b9d3aef.html"
+      "title": "Manifestations en Espagne, naufrage au Sénégal, retour du pape au Pérou : la semaine en images",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-manifestations-espagne-naufrage-senegal-retour-pape-perou-semaine-en-images",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T13:30:56.000Z",
+      "summary": "Retour sur les temps forts de l'actualité de la semaine écoulée et sur ses images les plus marquantes : un naufrage de pirogue meurtrier au large de la côte nord-ouest du Sénégal, les grèves générales pour le logement en Espagne et le pape Léon XIV de retour dans son ancien diocèse au Pérou, dans le cadre d'une intense",
+      "image": "https://s.france24.com/media/display/16926fb2-e0e8-11f1-b2bb-5f54d898a954/w:1024/p:16x9/2026-11-14T225151Z-1773168410-RC2XNOAB3YQ0-RTRMADP-3-POPE-LATAM-PERU.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/manifestations-en-espagne-naufrage-au-senegal-retour-du-pape-au-perou-la-b2fdb2f2d9.html"
     },
     {
-      "title": "Haïti: dernier jour pour les inscriptions aux élections présidentielle et législatives de 2027",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-ha%C3%AFti-dernier-jour-pour-les-inscriptions-aux-%C3%A9lections-pr%C3%A9sidentielle-et-l%C3%A9gislatives-de-2027",
-      "source": "RFI",
-      "publishedAt": "2026-11-15T06:10:22.000Z",
-      "summary": "En Haïti, la course à la présidence prend progressivement forme. Alors que les inscriptions des candidats à la présidence, au Sénat et à la Chambre des députés seront closes ce dimanche 15 novembre à 0h locale, une trentaine de personnalités politiques ont déjà manifesté leur intention de briguer la magistrature suprêm",
-      "image": "https://s.rfi.fr/media/display/de923ec2-e0b4-11f1-9d3a-f71d22e7fea9/w:1024/p:16x9/AP26296749961821.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/haiti-dernier-jour-pour-les-inscriptions-aux-elections-presidentielle-et-75cec0392d.html"
+      "title": "Guerre en Ukraine : des drones évacuent les soldats blessés du front",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-guerre-en-ukraine-des-drones-%C3%A9vacuent-les-soldats-bless%C3%A9s-du-front",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T12:59:41.000Z",
+      "summary": "Sur le front ukrainien, les drones ne servent plus seulement à mener des frappes. Ils sont aussi utilisés pour évacuer des soldats blessés, dans des zones où les secours sont devenus particulièrement dangereux. L'entreprise ukrainienne Skyfall a développé le drone Stargate, conçu pour l'évacuation médicale. Rencontre à",
+      "image": "https://s.france24.com/media/display/2aa85db6-e0f4-11f1-9bcb-695cb59fade5/w:1024/p:16x9/capture-e17a3120.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-des-drones-evacuent-les-soldats-blesses-du-front-e7499c3de4.html"
     },
     {
-      "title": "Présidentielle au Cap-Vert: six candidats en lice, le PAICV espère rester au pouvoir",
-      "url": "https://www.rfi.fr/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-cinq-candidats-en-lice-le-paicv-esp%C3%A8re-rester-au-pouvoir",
+      "title": "Que pensent les Ukrainiens de la proposition d'échanger le Donbass contre l'intégration à l'Otan?",
+      "url": "https://www.rfi.fr/fr/europe/20261115-que-pensent-les-ukrainiens-de-la-proposition-d-%C3%A9changer-le-donbass-contre-l-int%C3%A9gration-%C3%A0-l-otan",
       "source": "RFI",
-      "publishedAt": "2026-11-15T04:57:11.000Z",
-      "summary": "Ce 15 novembre, les Cap-Verdiens choisissent leur président. Six mois après des législatives marquées par la victoire et le retour du PAICV à la tête du gouvernement, le chef de l’État, cadre du parti, espère l’emporter à nouveau et rempiler pour cinq ans. Face à lui, cinq candidats, dont la représentante du MPD, princ",
-      "image": "https://s.rfi.fr/media/display/fbd55782-df68-11f1-903e-695cb59fade5/w:1024/p:16x9/2026-11-13T065056Z-1524907945-RC2UMOATG9XE-RTRMADP-3-CAPEVERDE-ELECTION-PREVIEW.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-cap-vert-six-candidats-en-lice-le-paicv-espere-rester--abab25cd46.html"
+      "publishedAt": "2026-11-15T12:08:21.000Z",
+      "summary": "Céder le Donbass à la Russie contre une adhésion de l’Ukraine à l’Otan : c’est l’idée proposée à Volodymyr Zelensky par les émissaires américains à l'issue des négociations entre Washington, Moscou et Kiev la semaine dernière. C’est la première fois qu’une telle piste est évoquée. Le président ukrainien ne s’y opposera",
+      "image": "https://s.rfi.fr/media/display/409711e6-e0e8-11f1-9a6f-f71d22e7fea9/w:1024/p:16x9/AP26316810454758.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/que-pensent-les-ukrainiens-de-la-proposition-d-echanger-le-donbass-contr-42c692f53f.html"
     },
     {
-      "title": "Nigeria: une cinquantaine de morts dans des affrontements entre gangs et milices locales dans le nord du pays",
-      "url": "https://www.rfi.fr/fr/afrique/20261115-nigeria-une-cinquantaine-de-morts-dans-des-affrontements-entre-gangs-et-milices-locales-dans-le-nord-du-pays",
-      "source": "RFI",
-      "publishedAt": "2026-11-15T04:12:32.000Z",
-      "summary": "Des miliciens du village de Zoma, dans l'État de Zamfara, ont tendu une embuscade, jeudi 12 novembre, à des « bandits » en réaction aux pillages, aux enlèvements et aux vols de bétail perpétrés par les bandes armées qui terrorisent la région. Les affrontements ont fait plus de 50 morts, selon des habitants de la locali",
-      "image": "https://s.rfi.fr/media/display/4e7abe6a-8667-11f1-8626-005056bf30b7/w:1024/p:16x9/000-1N34NU.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nigeria-une-cinquantaine-de-morts-dans-des-affrontements-entre-gangs-et--37d20a05bb.html"
+      "title": "De retour dans les Andes péruviennes, le pape Léon XIV s'inquiète de l'exode rural",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20261115-perou-retour-andes-pape-l%C3%A9on-xiv-inquiet-exode-rural-pauvret%C3%A9",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T11:06:47.000Z",
+      "summary": "En visite dans la région de Cajamarca, où le taux de pauvreté est le plus élevé du Pérou, le pape Léon XIV s'est inquiété samedi de la \"souffrance\" des populations rurales contraintes à l'exode. Lorsqu'il était évêque de Chiclayo, entre 2015 et 2023, il se rendait régulièrement dans cette région montagneuse, où il avai",
+      "image": "https://s.france24.com/media/display/1e4a9246-e0e0-11f1-a218-29048b396e03/w:1024/p:16x9/000-D7HD3NR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/de-retour-dans-les-andes-peruviennes-le-pape-leon-xiv-s-inquiete-de-l-ex-0be1f7da41.html"
     },
     {
-      "title": "COP31: plusieurs milliers de personnes manifestent pour faire converger droits humains et justice climatique",
-      "url": "https://www.rfi.fr/fr/environnement/20261115-cop31-les-droits-humains-et-la-justice-climatique-au-coeur-d-une-marche-de-plusieurs-milliers-de-personnes",
+      "title": "Hongrie : 17,7 millions d'euros saisis dans une enquête visant un ancien ministre",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-hongrie-17-7-millions-d-euros-saisis-dans-une-enqu%C3%AAte-visant-un-ancien-ministre",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T10:59:07.000Z",
+      "summary": "L'agence anticorruption hongroise affirme avoir saisi 17,7 millions d'euros en liquide, notamment enterrés dans des forêts, dans le cadre d'une enquête visant Miklos Sesztak, ancien ministre du Développement national sous Viktor Orban. Il est soupçonné d'avoir accepté des pots-de-vin dans une affaire liée à l'achat, pa",
+      "image": "https://s.france24.com/media/display/425e96c0-e0e3-11f1-90df-3f371022a770/w:1024/p:16x9/capture-d830eb91.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/hongrie-17-7-millions-d-euros-saisis-dans-une-enquete-visant-un-ancien-m-71684ce4f4.html"
+    },
+    {
+      "title": "L'Iran revendique des frappes de drones contre une base américaine au Bahreïn",
+      "url": "https://www.france24.com/fr/moyen-orient/20261115-iran-revendique-frappes-drones-contre-base-am%C3%A9ricaine-au-bahre%C3%AFn",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T10:21:15.000Z",
+      "summary": "Les Gardiens de la Révolution ont revendiqué des frappes de drones dimanche matin sur une base militaire américaine située au Bahreïn. Il s'agit de la deuxième attaque iranienne en trois jours contre ce petit État insulaire du Golfe, ce qui confirme une reprise des tensions dans la région après une période d'accalmie.",
+      "image": "https://s.france24.com/media/display/3bb0cb5a-e0d8-11f1-a866-3f371022a770/w:1024/p:16x9/000-99GY7E6-1.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-iran-revendique-des-frappes-de-drones-contre-une-base-americaine-au-ba-d97da6339c.html"
+    },
+    {
+      "title": "Des milliers de Portugais manifestent contre la crise du logement et la vie chère",
+      "url": "https://www.rfi.fr/fr/europe/20261115-des-milliers-de-portugais-manifestent-contre-la-crise-du-logement-et-la-vie-ch%C3%A8re",
       "source": "RFI",
-      "publishedAt": "2026-11-15T03:37:29.000Z",
-      "summary": "Quelque 10 000 personnes ont manifesté samedi 14 novembre dans le centre d’Antalya, la station balnéaire où se déroule la 31e Conférence des Nations unies sur le climat. Sous étroite surveillance policière, des groupes ont porté les droits de l’homme et la crise climatique au cœur de leur message. Du Bangladesh à l’Oug",
-      "image": "https://s.rfi.fr/media/display/ab30a1c0-e07a-11f1-ad7f-695cb59fade5/w:1024/p:16x9/GBD-9075.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cop31-plusieurs-milliers-de-personnes-manifestent-pour-faire-converger-d-2d31a7dd52.html"
+      "publishedAt": "2026-11-15T10:13:04.000Z",
+      "summary": "La crise du logement, sujet majeur du débat public au Portugal depuis plusieurs semaines, a de nouveau mobilisé samedi 14 novembre des milliers de personnes dans les rues de Lisbonne et d'une trentaine d'autres villes. La grogne a été lancée à la suite de l'adoption en première lecture par le Parlement portugais d'un p",
+      "image": "https://s.rfi.fr/media/display/bb583482-e0d4-11f1-84b6-29048b396e03/w:1024/p:16x9/AP26318666792713.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-milliers-de-portugais-manifestent-contre-la-crise-du-logement-et-la--dd2d6a4e72.html"
+    },
+    {
+      "title": "Zelensky veut consulter les Ukrainiens sur d'éventuelles concessions territoriales",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-zelensky-veut-consulter-les-ukrainiens-sur-d-%C3%A9ventuelles-concessions-territoriales",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T10:09:47.000Z",
+      "summary": "Volodymyr Zelensky affirme que les États-Unis ont proposé à l'Ukraine des concessions territoriales en échange d'une adhésion à l'OTAN. Le président ukrainien dit vouloir consulter la population sur une éventuelle cession du Donbass, et affirme également que la Russie a refusé une trêve énergétique. Les précisions de N",
+      "image": "https://s.france24.com/media/display/a5ec4a86-e0dc-11f1-9592-5f54d898a954/w:1024/p:16x9/capture-f7be14c9.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/zelensky-veut-consulter-les-ukrainiens-sur-d-eventuelles-concessions-ter-2f9af2db3f.html"
+    },
+    {
+      "title": "Jordanie : les assaillants de l'attaque contre l'église orthodoxe de Karak condamnés à mort",
+      "url": "https://www.france24.com/fr/moyen-orient/20261115-jordanie-assaillants-attaque-%C3%A9glise-orthodoxe-karak-peine-de-mort",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T09:49:40.000Z",
+      "summary": "Trois hommes ont été reconnus coupables dimanche de l'attaque meurtrière contre une église grecque-orthodoxe à Karak le mois dernier. Après que le roi Abdallah II a promis les peines \"les plus sévères\" contre les assaillants, la justice jordanienne a prononcé la peine de mort.",
+      "image": "https://s.france24.com/media/display/eb10e528-e0d1-11f1-ba89-695cb59fade5/w:1024/p:16x9/AP26299487770405.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/jordanie-les-assaillants-de-l-attaque-contre-l-eglise-orthodoxe-de-karak-d02cc5d8df.html"
+    },
+    {
+      "title": "Fuite de données géante à La Poste : « 22 millions de personnes sont concernées » par une cyberattaque massive",
+      "url": "https://www.01net.com/actualites/fuite-donnees-geante-poste-22-millions-personnes-concernees-cyberattaque-massive.html",
+      "source": "01net",
+      "publishedAt": "2026-11-15T14:05:47.000Z",
+      "summary": "Maileva, une filiale de La Poste spécialisée dans l'envoi de courriers pour les entreprises, a été piratée. Les noms, les prénoms et les adresses postales de 22 millions de personnes ont été dérobés. Le groupe a porté plainte. On vous dit tout ce qu'il faut savoir sur cette nouvelle fuite massive.",
+      "image": "https://www.01net.com/app/uploads/2026/01/boite-aux-lettres-la-poste-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/fuite-de-donnees-geante-a-la-poste-22-millions-de-personnes-sont-concern-9d34c76902.html"
+    },
+    {
+      "title": "Méta, Google, Microsoft ... L'Europe sous perfusion technologique ?",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-m%C3%A9ta-google-microsoft-l-europe-sous-perfusion-technologique",
+      "source": "France 24",
+      "publishedAt": "2026-11-15T14:01:24.000Z",
+      "summary": "La panne mondiale de l'écosystème de Microsoft relance les interrogations sur la dépendance technologique de l'Europe. Notre invité Guillaume Limare, auteur de \"Vivre sans Google\", analyse cet incident et ce qu'il révèle de la place prise par les géants américains du numérique dans les infrastructures européennes.",
+      "image": "https://s.france24.com/media/display/ab2a2cf0-e0fc-11f1-ac14-29048b396e03/w:1024/p:16x9/capture-b2818faa.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/meta-google-microsoft-l-europe-sous-perfusion-technologique-ec8c97031f.html"
+    },
+    {
+      "title": "SpaceX rattrape l'étage supérieur de sa mégafusée Starship, une première et une prouesse technique",
+      "url": "https://www.rfi.fr/fr/science/20261115-spacex-rattrape-l-%C3%A9tage-sup%C3%A9rieur-de-sa-m%C3%A9gafus%C3%A9e-starship-une-premi%C3%A8re-et-une-prouesse-technique",
+      "source": "RFI",
+      "publishedAt": "2026-11-15T13:59:46.000Z",
+      "summary": "C'est une première et une prouesse technique. L'entreprise SpaceX d'Elon Musk a réussi à rattraper l'imposant étage supérieur de sa mégafusée Starship. Après plus de 22 heures de vol dans l'espace, le vaisseau est revenu dans l'atmosphère et s'est glissé entre les bras métalliques gigantesques de sa tour de lancement b",
+      "image": "https://s.rfi.fr/media/display/5632d324-e0f6-11f1-91e8-3f371022a770/w:1024/p:16x9/AP26319029709872.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/spacex-rattrape-l-etage-superieur-de-sa-megafusee-starship-une-premiere--51caa24e36.html"
+    },
+    {
+      "title": "Ce Black Friday est sans doute votre dernière chance pour acheter un smartphone ou un PC à un prix décent avant très longtemps",
+      "url": "https://www.frandroid.com/culture-tech/economie/3320139_ce-black-friday-est-sans-doute-votre-derniere-chance-pour-acheter-un-smartphone-ou-un-pc-a-un-prix-decent-avant-tres-longtemps",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-15T13:01:00.000Z",
+      "summary": "La pénurie de mémoire fait grimper les prix des smartphones, PC et consoles depuis un an, et rien n'annonce d'accalmie avant 2028. Dans ce contexte, le Black Friday du 27 novembre 2026 a de bonnes chances d'être la dernière fenêtre pour acheter à des prix qu'on qualifiera bientôt de « raisonnables ». On vous explique p",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/black-friday-2026-attention-prix.jpg?resize=1200,675&key=800770b6",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ce-black-friday-est-sans-doute-votre-derniere-chance-pour-acheter-un-sma-4e97a98016.html"
     }
   ]
 }
