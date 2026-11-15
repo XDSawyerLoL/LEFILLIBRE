@@ -1,99 +1,97 @@
 {
-  "updatedAt": "2026-11-15T01:18:07.490Z",
+  "updatedAt": "2026-11-15T08:01:44.947Z",
   "items": [
     {
-      "title": "Un centre international dédié à l'IA de défense ouvre ses portes à Rennes",
-      "url": "https://www.rfi.fr/fr/podcasts/lignes-de-d%C3%A9fense/20261114-un-centre-international-d%C3%A9di%C3%A9-%C3%A0-l-ia-de-d%C3%A9fense-ouvre-ses-portes-%C3%A0-rennes",
+      "title": "Google : l’IA capte tant de recherches que des annonceurs n’arrivent plus à dépenser leur budget",
+      "url": "https://www.01net.com/actualites/google-lia-capte-tant-de-recherches-que-des-annonceurs-narrivent-plus-a-depenser-leur-budget.html",
+      "source": "01net",
+      "publishedAt": "2026-11-15T07:52:17.000Z",
+      "summary": "Aux États-Unis, des annonceurs voient leurs campagnes tourner à vide, les réponses de l'IA retenant les internautes loin des liens sponsorisés. La France, elle, vit un étrange sursis : le mode IA y reste sans publicité.",
+      "image": "https://www.01net.com/app/uploads/2026/07/google-lance-apercus-mode-ia-france-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-l-ia-capte-tant-de-recherches-que-des-annonceurs-n-arrivent-plus--ac32a35de0.html"
+    },
+    {
+      "title": "Le Xiaomi 17T Pro mise sur un zoom optique x5, une batterie XXL et -250 € pour séduire pendant le pré Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3321625_le-xiaomi-17t-pro-mise-sur-un-zoom-optique-x5-une-batterie-xxl-et-250-e-pour-seduire-pendant-le-pre-black-friday",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-15T06:49:00.000Z",
+      "summary": "Le Xiaomi 17T Pro, lancé fin mai par Xiaomi, mise gros sur le bloc photo et l'autonomie. Vous le retrouvez à 653 euros au lieu de 903 euros pour le Black Friday.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/xiaomi-17t-pro-preblackfriday-2026.jpg?resize=1200,675&key=9bc1da7a",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-xiaomi-17t-pro-mise-sur-un-zoom-optique-x5-une-batterie-xxl-et-250-po-64773f22f3.html"
+    },
+    {
+      "title": "Côte d'Ivoire: «Un acharnement», les exilés burkinabè répondent au régime militaire à Ouagadougou",
+      "url": "https://www.rfi.fr/fr/afrique/20261115-c%C3%B4te-d-ivoire-un-acharnement-les-exil%C3%A9s-burkinab%C3%A8-r%C3%A9pondent-au-r%C3%A9gime-militaire-%C3%A0-ouagadougou",
       "source": "RFI",
-      "publishedAt": "2026-11-14T23:16:05.000Z",
-      "summary": "L'intelligence artificielle (IA) entre dans les opérations militaires. Un centre international va ouvrir ses portes à Rennes (Ille-et-Vilaine), dans l'ouest de la France, le 20 novembre 2026. Il vise à stimuler l'adoption de l'IA par plusieurs armées européennes et à diffuser les bonnes pratiques. L'objectif est bien d",
-      "image": "https://s.rfi.fr/media/display/32a5f8ae-99db-11f0-bd8f-005056bf30b7/w:1024/p:16x9/AP25217533289484.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-centre-international-dedie-a-l-ia-de-defense-ouvre-ses-portes-a-renne-e1a202df07.html"
+      "publishedAt": "2026-11-15T07:57:50.000Z",
+      "summary": "Au Burkina Faso, d’anciens responsables politiques, militaires, ou journalistes sont aujourd’hui dans le viseur de la justice. Certains font l’objet de mandats d’arrêt et de demandes d’extradition. Ces personnes - en exil - sont poursuivies officiellement sur la base d'accusations comme « apologie du terrorisme » ou « ",
+      "image": "https://s.rfi.fr/media/display/8d332e3a-0f31-11ea-a28c-005056a9aa4d/w:1024/p:16x9/000_d46lp_0.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cote-d-ivoire-un-acharnement-les-exiles-burkinabe-repondent-au-regime-mi-547ddff588.html"
     },
     {
-      "title": "Enseignement supérieur en Afrique : l'UM6P, un modèle d'excellence à suivre ?",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261114-enseignement-sup%C3%A9rieur-en-afrique-l-um6p-un-mod%C3%A8le-d-excellence-%C3%A0-suivre",
-      "source": "France 24",
-      "publishedAt": "2026-11-14T22:24:21.000Z",
-      "summary": "L'Afrique peut-elle former ses propres élites sans les envoyer étudier à l'étranger ? Au Maroc, l'Université Mohammed VI Polytechnique (UM6P) s'impose parmi les établissements africains les mieux classés à l'international. Recherche, intelligence artificielle, robotique, agriculture : l'université mise sur des formatio",
-      "image": "https://s.france24.com/media/display/33ef4b46-e077-11f1-a070-3f371022a770/w:1024/p:16x9/FR-20261114-215038-215826-CS-01.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/enseignement-superieur-en-afrique-l-um6p-un-modele-d-excellence-a-suivre-12c61db0fe.html"
-    },
-    {
-      "title": "Mouvement social en France: un «acte V» marqué par une affluence un peu moindre",
-      "url": "https://www.rfi.fr/fr/france/20261115-mouvement-social-en-france-un-acte-v-marqu%C3%A9-par-une-affluence-un-peu-moindre",
+      "title": "Francophonie: le XXe sommet de Phnom Penh s'ouvre sur fond de tensions",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261115-francophonie-le-xxe-sommet-de-phnom-penh-s-ouvre-sur-fond-de-tensions",
       "source": "RFI",
-      "publishedAt": "2026-11-15T00:02:20.000Z",
-      "summary": "Protection des enfants et adolescents, opposition au « permis de tuer » des forces de l'ordre, salaires, moyens pour l'enseignement : différentes manifestations ont rythmé, ce samedi 14 novembre, l'acte V du mouvement contre la vie chère,. Il y a eu un peu moins d'affluence et de tensions que lors des précédentes manif",
-      "image": "https://s.rfi.fr/media/display/b26970b6-e07a-11f1-9ee0-5f54d898a954/w:1024/p:16x9/2026-11-14T154842Z-1728763676-RC2QNOANOSF3-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mouvement-social-en-france-un-acte-v-marque-par-une-affluence-un-peu-moi-3c336e2cde.html"
+      "publishedAt": "2026-11-15T07:36:15.000Z",
+      "summary": "Le XXe sommet de la Francophonie s'est ouvert ce matin à Phnom Penh, sur fond de tensions autour de l'élection du ou de la future secrétaire générale de l'OIF.",
+      "image": "https://s.rfi.fr/media/display/42eb54fa-e0c2-11f1-b342-3f371022a770/w:1024/p:16x9/000-D7HC7ZD.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/francophonie-le-xxe-sommet-de-phnom-penh-s-ouvre-sur-fond-de-tensions-a9c95be0f7.html"
     },
     {
-      "title": "Présidence de la Francophonie : Louise Mushikiwabo \"candidate jusqu'au bout\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261114-pr%C3%A9sidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout",
-      "source": "France 24",
-      "publishedAt": "2026-11-14T22:12:50.000Z",
-      "summary": "C’est une information révélée par nos confrères de Jeune Afrique : la France aurait demandé au Rwanda de retirer sa candidature pour le poste de secrétaire général de l’Organisation Internationale de la Francophone. Les pays membres sont en ce moment réunis au Cambodge et doivent choisir qui sera à la tête de l’OIF. Et",
-      "image": "https://s.france24.com/media/display/5c4068b4-e077-11f1-9670-5f54d898a954/w:1024/p:16x9/FRDN-JOURNAL-AFRIQUE-261114-2027-Ep-75.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidence-de-la-francophonie-louise-mushikiwabo-candidate-jusqu-au-bout-b5df48c8d8.html"
-    },
-    {
-      "title": "Acte V du mouvement social : des revendications variées, une affluence en baisse",
-      "url": "https://www.france24.com/fr/france/20261114-acte-v-du-mouvement-social-des-revendications-vari%C3%A9es-une-affluence-en-baisse",
-      "source": "France 24",
-      "publishedAt": "2026-11-14T21:43:20.000Z",
-      "summary": "Lors de l'acte V du mouvement social qui ébranle la France, quelque 106 000 à 200 000 personnes ont défilé samedi dans toute la France, selon les chiffres du ministère de l'Intérieur et l'intersyndicale jeune (Union étudiante, USL, Fage, Unef). Quelques incidents se sont produits et des journalistes ont été agressés.",
-      "image": "https://s.france24.com/media/display/a840c416-e072-11f1-b800-f71d22e7fea9/w:1024/p:16x9/2026-11-14T161721Z-1217346689-RC2SNOASVFNM-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/acte-v-du-mouvement-social-des-revendications-variees-une-affluence-en-b-8e5022d867.html"
-    },
-    {
-      "title": "Israël: le bras de fer Eisenkot-Netanyahu se poursuit, la formation d'un gouvernement piétine",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261114-isra%C3%ABl-le-bras-de-fer-eisenkot-netanyahu-se-poursuit-la-formation-d-un-gouvernement-pi%C3%A9tine",
+      "title": "Chine: posséder un drone est désormais interdit à Pékin, au nom de la sécurité",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261115-chine-poss%C3%A9der-un-drone-est-d%C3%A9sormais-interdit-%C3%A0-p%C3%A9kin-au-nom-de-la-s%C3%A9curit%C3%A9",
       "source": "RFI",
-      "publishedAt": "2026-11-14T21:22:27.000Z",
-      "summary": "En Israël, la formation du prochain gouvernement tourne au duel. Alors que Gadi Eisenkot détient depuis une semaine le mandat pour bâtir une coalition, Benyamin Netanyahu multiplie les appels à une union nationale face à une menace iranienne. Mais Gadi Eisenkot, lui, dénonce une manœuvre politique. Une rencontre entre ",
-      "image": "https://s.rfi.fr/media/display/4c03e508-e071-11f1-b1a4-f71d22e7fea9/w:1024/p:16x9/ISRAEL-BENYAMIN-NETANYAHU-GADI-EISENKOT.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-le-bras-de-fer-eisenkot-netanyahu-se-poursuit-la-formation-d-un-g-bc9c1995fe.html"
+      "publishedAt": "2026-11-15T07:32:27.000Z",
+      "summary": "À partir de ce dimanche 15 novembre 2026, la capitale chinoise adopte sa réglementation la plus stricte sur les drones. Les autorités veulent éviter les risques dans le ciel, quitte à complètement bouleverser le quotidien des particuliers et des professionnels de l’image.",
+      "image": "https://s.rfi.fr/media/display/e9acb2f6-e0c3-11f1-8b89-3f371022a770/w:1024/p:16x9/000-C899964.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chine-posseder-un-drone-est-desormais-interdit-a-pekin-au-nom-de-la-secu-36fd9593b5.html"
     },
     {
-      "title": "Israël : Eisenkot accuse Netanyahu d'entraver la formation d'un gouvernement",
-      "url": "https://www.france24.com/fr/moyen-orient/20261114-isra%C3%ABl-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouvernement",
-      "source": "France 24",
-      "publishedAt": "2026-11-14T21:14:10.000Z",
-      "summary": "Alors que Benjamin Netanyahu plaide pour un gouvernement d'union nationale, son rival Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a dénoncé samedi les \"ruses\" du Premier ministre sortant. Des discussions entre leurs partis sont déjà prévues dimanche.",
-      "image": "https://s.france24.com/media/display/c3264e3e-dd4f-11f1-a6a1-3f371022a770/w:1024/p:16x9/AP26314586138425.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-eisenkot-accuse-netanyahu-d-entraver-la-formation-d-un-gouverneme-c727c43b46.html"
+      "title": "En marge de l'Asean, les Philippines et l'Australie signent un accord de défense",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261115-en-marge-de-l-asean-les-philippines-et-l-australie-signent-un-accord-de-d%C3%A9fense",
+      "source": "RFI",
+      "publishedAt": "2026-11-15T06:37:09.000Z",
+      "summary": "Le 49e sommet de l’Asean s’ouvre ce dimanche 15 novembre à Manille. Pendant trois jours, les dirigeants et délégations vont se pencher sur les dossiers les plus sensibles et pressants de la région. En marge de ce rendez-vous diplomatique, les Philippines et l'Australie ont signé un accord destiné à renforcer leur coopé",
+      "image": "https://s.rfi.fr/media/display/aba4fab4-e0b8-11f1-8cbe-29048b396e03/w:1024/p:16x9/AP26319138094230.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-marge-de-l-asean-les-philippines-et-l-australie-signent-un-accord-de--532b9d3aef.html"
     },
     {
-      "title": "Macron dénonce \"ceux qui veulent rationner\" l’aide à l’Ukraine et \"l’obliger à une paix injuste\"",
-      "url": "https://www.france24.com/fr/france/20261114-macron-d%C3%A9nonce-ceux-qui-veulent-rationner-l-aide-%C3%A0-l-ukraine-et-l-obliger-%C3%A0-une-paix-injuste",
-      "source": "France 24",
-      "publishedAt": "2026-11-14T20:02:07.000Z",
-      "summary": "Dans un message publié sur son compte X, Emmanuel Macron a estimé samedi que \"rationner les moyens de l'Ukraine\" était \"la recette pour la guerre d'après\". Le président de la République a appelé à ne pas diminuer les aides à l'Ukraine, comme la candidate du Rassemblement national Marine Le Pen l'a précédemment envisagé",
-      "image": "https://s.france24.com/media/display/b003a0ce-ce6b-11f1-a0f5-23d55109f116/w:1024/p:16x9/AP26295395173953-1.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/macron-denonce-ceux-qui-veulent-rationner-l-aide-a-l-ukraine-et-l-oblige-dd3ceb7b0e.html"
+      "title": "Haïti: dernier jour pour les inscriptions aux élections présidentielle et législatives de 2027",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-ha%C3%AFti-dernier-jour-pour-les-inscriptions-aux-%C3%A9lections-pr%C3%A9sidentielle-et-l%C3%A9gislatives-de-2027",
+      "source": "RFI",
+      "publishedAt": "2026-11-15T06:10:22.000Z",
+      "summary": "En Haïti, la course à la présidence prend progressivement forme. Alors que les inscriptions des candidats à la présidence, au Sénat et à la Chambre des députés seront closes ce dimanche 15 novembre à 0h locale, une trentaine de personnalités politiques ont déjà manifesté leur intention de briguer la magistrature suprêm",
+      "image": "https://s.rfi.fr/media/display/de923ec2-e0b4-11f1-9d3a-f71d22e7fea9/w:1024/p:16x9/AP26296749961821.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/haiti-dernier-jour-pour-les-inscriptions-aux-elections-presidentielle-et-75cec0392d.html"
     },
     {
-      "title": "La cyberattaque d'une filiale de La Poste entraîne un vol de données touchant 22 millions de personnes",
-      "url": "https://www.france24.com/fr/france/20261114-la-cyberattaque-d-une-filiale-de-la-poste-entra%C3%AEne-un-vol-de-donn%C3%A9es-touchant-22-millions-de-personnes",
-      "source": "France 24",
-      "publishedAt": "2026-11-14T20:50:52.000Z",
-      "summary": "Maileva, filiale du groupe La Poste, a été victime d'une cyberattaque mi-septembre ayant conduit au vol des coordonnées de 22 millions de personnes. L'an dernier, une cyberattaque revendiquée par des hackers prorusses avait déjà touché La Poste à quelques jours de Noël.",
-      "image": "https://s.france24.com/media/display/c5181990-e068-11f1-b53d-5f54d898a954/w:1024/p:16x9/000-C3K727T.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-cyberattaque-d-une-filiale-de-la-poste-entraine-un-vol-de-donnees-tou-5ed7b251f3.html"
+      "title": "Présidentielle au Cap-Vert: six candidats en lice, le PAICV espère rester au pouvoir",
+      "url": "https://www.rfi.fr/fr/afrique/20261115-pr%C3%A9sidentielle-au-cap-vert-cinq-candidats-en-lice-le-paicv-esp%C3%A8re-rester-au-pouvoir",
+      "source": "RFI",
+      "publishedAt": "2026-11-15T04:57:11.000Z",
+      "summary": "Ce 15 novembre, les Cap-Verdiens choisissent leur président. Six mois après des législatives marquées par la victoire et le retour du PAICV à la tête du gouvernement, le chef de l’État, cadre du parti, espère l’emporter à nouveau et rempiler pour cinq ans. Face à lui, cinq candidats, dont la représentante du MPD, princ",
+      "image": "https://s.rfi.fr/media/display/fbd55782-df68-11f1-903e-695cb59fade5/w:1024/p:16x9/2026-11-13T065056Z-1524907945-RC2UMOATG9XE-RTRMADP-3-CAPEVERDE-ELECTION-PREVIEW.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-au-cap-vert-six-candidats-en-lice-le-paicv-espere-rester--abab25cd46.html"
     },
     {
-      "title": "Après l'échec du premier étage, SpaceX tente de rattraper le second étage de sa fusée Starship",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261114-apr%C3%A8s-l-%C3%A9chec-du-premier-%C3%A9tage-spacex-tente-de-rattraper-le-second-%C3%A9tage-de-sa-fus%C3%A9e-starship",
-      "source": "France 24",
-      "publishedAt": "2026-11-14T20:38:41.000Z",
-      "summary": "Après avoir renoncé vendredi à rattraper le premier étage de sa mégafusée Starship en raison d'un incident technique, l'entreprise SpaceX d'Elon Musk veut samedi tenter d'en récupérer le second après plus de 22 heures de vol, ce qui constituerait une prouesse technique.",
-      "image": "https://s.france24.com/media/display/8cb1e4b2-e05b-11f1-b193-5f54d898a954/w:1024/p:16x9/2026-11-14T012408Z-750862810-RC2ANOA0O8FL-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-l-echec-du-premier-etage-spacex-tente-de-rattraper-le-second-etage-079231063e.html"
+      "title": "Nigeria: une cinquantaine de morts dans des affrontements entre gangs et milices locales dans le nord du pays",
+      "url": "https://www.rfi.fr/fr/afrique/20261115-nigeria-une-cinquantaine-de-morts-dans-des-affrontements-entre-gangs-et-milices-locales-dans-le-nord-du-pays",
+      "source": "RFI",
+      "publishedAt": "2026-11-15T04:12:32.000Z",
+      "summary": "Des miliciens du village de Zoma, dans l'État de Zamfara, ont tendu une embuscade, jeudi 12 novembre, à des « bandits » en réaction aux pillages, aux enlèvements et aux vols de bétail perpétrés par les bandes armées qui terrorisent la région. Les affrontements ont fait plus de 50 morts, selon des habitants de la locali",
+      "image": "https://s.rfi.fr/media/display/4e7abe6a-8667-11f1-8626-005056bf30b7/w:1024/p:16x9/000-1N34NU.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nigeria-une-cinquantaine-de-morts-dans-des-affrontements-entre-gangs-et--37d20a05bb.html"
+    },
+    {
+      "title": "COP31: plusieurs milliers de personnes manifestent pour faire converger droits humains et justice climatique",
+      "url": "https://www.rfi.fr/fr/environnement/20261115-cop31-les-droits-humains-et-la-justice-climatique-au-coeur-d-une-marche-de-plusieurs-milliers-de-personnes",
+      "source": "RFI",
+      "publishedAt": "2026-11-15T03:37:29.000Z",
+      "summary": "Quelque 10 000 personnes ont manifesté samedi 14 novembre dans le centre d’Antalya, la station balnéaire où se déroule la 31e Conférence des Nations unies sur le climat. Sous étroite surveillance policière, des groupes ont porté les droits de l’homme et la crise climatique au cœur de leur message. Du Bangladesh à l’Oug",
+      "image": "https://s.rfi.fr/media/display/ab30a1c0-e07a-11f1-ad7f-695cb59fade5/w:1024/p:16x9/GBD-9075.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cop31-plusieurs-milliers-de-personnes-manifestent-pour-faire-converger-d-2d31a7dd52.html"
     }
   ]
 }
