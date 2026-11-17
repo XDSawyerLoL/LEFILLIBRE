@@ -1,135 +1,180 @@
 {
-  "updatedAt": "2026-11-17T00:29:53.470Z",
+  "updatedAt": "2026-11-17T08:20:26.872Z",
   "items": [
     {
-      "title": "17 novembre : comment une rumeur a propagé l'idée d'une panne en France",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261116-17-novembre-comment-une-rumeur-a-propag%C3%A9-l-id%C3%A9e-d-une-panne-en-france",
-      "source": "France 24",
-      "publishedAt": "2026-11-16T20:53:33.000Z",
-      "summary": "Depuis plusieurs semaines, des publications mettent en garde contre une panne générale d'Internet, d'électricité et de transports en France notamment, pour le 17 novembre. Une rumeur basée sur l'exagération de certains faits véridiques couplés à des théories complotistes et à des évènements récents bien réels qui alime",
-      "image": "https://s.france24.com/media/display/dfbdf7d8-e1fd-11f1-9350-3f371022a770/w:1024/p:16x9/FRAN261116-2115-Live-CS2115.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/17-novembre-comment-une-rumeur-a-propage-l-idee-d-une-panne-en-france-122d3b1d0a.html"
-    },
-    {
-      "title": "Maileva : nouvelle cyberattaque contre une société française",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261116-maileva-nouvelle-cyberattaque-contre-une-soci%C3%A9t%C3%A9-fran%C3%A7aise",
-      "source": "France 24",
-      "publishedAt": "2026-11-16T19:57:51.000Z",
-      "summary": "C'est le plus récent piratage informatique d'une société française : Maileva, filiale de La Poste, s'est vu dérober les coordonnées de 22 millions de clients (nom, prénom et adresse postale). Elle est la dernière victime d'une longue liste de victimes de cyberattaques en France, après le Crédit Mutuel Arkéa la semaine ",
-      "image": "https://s.france24.com/media/display/42cd69b6-e1eb-11f1-9f5b-3f371022a770/w:1024/p:16x9/XX-NW-OOV-ECO-MAILEVA-PIRATAGE-MANENT-Laure-transfer.png",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/maileva-nouvelle-cyberattaque-contre-une-societe-francaise-fac91c9265.html"
-    },
-    {
-      "title": "États-Unis : un juge annule les limites de visa pour étudiants et journalistes, Trump fait appel",
-      "url": "https://www.france24.com/fr/am%C3%A9riques/20261117-etats-unis-juge-federal-annule-limites-visa-etudiants-journalistes-etrangers-donal-trump-appel",
-      "source": "France 24",
-      "publishedAt": "2026-11-17T00:02:25.000Z",
-      "summary": "Les restrictions de séjour pour les étudiants et les journalistes étrangers ordonnées par l'administration Trump ont été annulées lundi par un juge fédéral qui considère la nouvelle règlementation \"arbitraire\". Le gouvernement républicain a d'ores et déjà fait appel.",
-      "image": "https://s.france24.com/media/display/c246dcf8-e219-11f1-a4d4-3f371022a770/w:1024/p:16x9/AP26320528463458.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-un-juge-annule-les-limites-de-visa-pour-etudiants-et-journali-07c4914263.html"
-    },
-    {
-      "title": "Francophonie : l'avenir du français se joue-t-il en Afrique ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261116-francophonie-l-avenir-du-fran%C3%A7ais-se-joue-t-il-en-afrique",
-      "source": "France 24",
-      "publishedAt": "2026-11-16T23:11:50.000Z",
-      "summary": "Au Cambodge, le sommet de la Francophonie s’est achevé ce lundi sur le report d’un an de l’élection à la tête de l’organisation. En cause notamment : les tensions entre la République démocratique du Congo et le Rwanda. La secrétaire générale, la Rwandaise Louise Mushikiwabo, reste donc en poste jusqu’au prochain scruti",
-      "image": "https://s.france24.com/media/display/9d28d0dc-e211-11f1-98c2-5f54d898a954/w:1024/p:16x9/FRAN261116-2339-Live-CS2339.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/francophonie-l-avenir-du-francais-se-joue-t-il-en-afrique-36ada8db7c.html"
-    },
-    {
-      "title": "Impôts, logement, Smic... les candidats à la présidentielle débattent de leurs propositions",
-      "url": "https://www.france24.com/fr/france/20261116-imp%C3%B4ts-logement-smic-les-candidats-%C3%A0-la-pr%C3%A9sidentielle-d%C3%A9battent-de-leurs-propositions",
-      "source": "France 24",
-      "publishedAt": "2026-11-16T22:39:30.000Z",
-      "summary": "Les candidats à la présidentielle française Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal ont débattu lundi sur les inégalités, le pouvoir d’achat et la solidarité, lors d’un débat organisé en région parisienne dans un entrepôt des Restos du Cœur en l’absence d’Édouard Philipp",
-      "image": "https://s.france24.com/media/display/42d470aa-e1fd-11f1-8ae5-29048b396e03/w:1024/p:16x9/ed3c088ea9257dd439b036c7fb6d4d1fbf16b421.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/impots-logement-smic-les-candidats-a-la-presidentielle-debattent-de-leur-58dc144764.html"
-    },
-    {
-      "title": "Ukraine : Marine Le Pen confirme à l'ambassadeur la fin de l'aide financière si elle est élue",
-      "url": "https://www.france24.com/fr/france/20261116-ukraine-marine-le-pen-confirme-%C3%A0-l-ambassadeur-la-fin-de-l-aide-financi%C3%A8re-si-elle-est-%C3%A9lue",
-      "source": "France 24",
-      "publishedAt": "2026-11-16T21:46:15.000Z",
-      "summary": "Los d'une rencontre lundi avec l'ambassadeur d'Ukraine à Paris, Marine Le Pen a réaffirmé que si elle était élue à l'Élysée \"l'état des finances publiques de la France ne permett(rait) plus d'aider financièrement l'Ukraine dans les prochains mois\", selon un communiqué du Rassemblement national.",
-      "image": "https://s.france24.com/media/display/dd96f602-e203-11f1-bbcc-f71d22e7fea9/w:1024/p:16x9/000-D76N2G3.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-marine-le-pen-confirme-a-l-ambassadeur-la-fin-de-l-aide-financie-ac67ec593b.html"
-    },
-    {
-      "title": "Francophonie : face à l'impasse, l'élection du secrétaire général repoussée d'un an",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261116-francophonie-face-%C3%A0-l-impasse-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral-repouss%C3%A9e-d-un-an",
-      "source": "France 24",
-      "publishedAt": "2026-11-16T21:39:37.000Z",
-      "summary": "L'élection du secrétaire général de l'Organisation internationale de la Francophonie (OIF), au coeur d'un bras de fer entre République démocratique du Congo et Rwanda, a été reportée d'un an lundi faute de consensus, un \"compromis\" diversement accueilli. La sortante rwandaise Louise Mushikiwabo, qui a dénoncé des \"pres",
-      "image": "https://s.france24.com/media/display/87938ef6-e202-11f1-951a-f71d22e7fea9/w:1024/p:16x9/FRAN261116-2142-Live-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/francophonie-face-a-l-impasse-l-election-du-secretaire-general-repoussee-e992123e0b.html"
-    },
-    {
-      "title": "Ouganda: deux ans après l'arrestation de l'opposant Kizza Besigye, sa famille alerte sur son état de santé",
-      "url": "https://www.rfi.fr/fr/afrique/20261116-ouganda-deux-ans-apr%C3%A8s-l-arrestation-de-l-opposant-kizza-besigye-sa-famille-alerte-sur-son-%C3%A9tat-de-sant%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-11-16T20:56:42.000Z",
-      "summary": "Le 16 novembre 2024, l'opposant ougandais Kizza Besigye était arrêté à Nairobi, au Kenya. Deux ans plus tard, son épouse Winnie Byanyima réclame sa libération pour lui permettre de recevoir des soins spécialisés. Interrogée par RFI ce 16 novembre 2026, elle met aussi en cause les discussions politiques proposées par le",
-      "image": "https://s.rfi.fr/media/display/aba0d8c0-c36e-11f0-8ec3-005056bfb2b6/w:1024/p:16x9/Kizza-Besigye-NOVEMBER-A-REUTERS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ouganda-deux-ans-apres-l-arrestation-de-l-opposant-kizza-besigye-sa-fami-29fea000f2.html"
-    },
-    {
-      "title": "L’Ukraine au pied du mur ?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261116-l-ukraine-au-pied-du-mur",
-      "source": "France 24",
-      "publishedAt": "2026-11-16T19:19:41.000Z",
-      "summary": "Kiev fait face à un moment décisif. Tandis que l’aide financière à l’Ukraine est remise en question dans la campagne présidentielle en France mais aussi au sein de l’Europe, les Etats-Unis proposent à Volodymyr Zelensky de se retirer du Donbass en échange de l’entrée du pays dans l’OTAN. À l'orée de son 5ème hiver de g",
-      "image": "https://s.france24.com/media/display/d00e4e44-de17-11f1-bda1-5f54d898a954/w:1024/p:16x9/2026-11-11T190959Z-1804496691-RC2ULOAAJ0M2-RTRMADP-3-UKRAINE-CRISIS-IRELAND.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-ukraine-au-pied-du-mur-5f6743c783.html"
-    },
-    {
-      "title": "Espagne: Lula da Silva soutient Pedro Sanchez avant les législatives anticipées du 29 novembre",
-      "url": "https://www.rfi.fr/fr/europe/20261116-espagne-lula-da-silva-soutient-pedro-sanchez-avant-les-l%C3%A9gislatives-anticip%C3%A9es-du-29-novembre",
-      "source": "RFI",
-      "publishedAt": "2026-11-16T18:53:42.000Z",
-      "summary": "Le Premier ministre espagnol Pedro Sanchez a reçu, lundi 16 novembre, le soutien du président brésilien Lula da Silva à Madrid, à moins de deux semaines des élections législatives anticipées du 29 novembre. Au pouvoir depuis 2018, le dirigeant socialiste espère inverser la tendance des sondages, qui donnent une majorit",
-      "image": "https://s.rfi.fr/media/display/6c241fe8-e1e7-11f1-90be-f71d22e7fea9/w:1024/p:16x9/AP26320393432966.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-lula-da-silva-soutient-pedro-sanchez-avant-les-legislatives-anti-aaf714c7cc.html"
-    },
-    {
-      "title": "Trump évoque une possible rencontre avec Kim Jong-un en Chine cette semaine",
-      "url": "https://fr.euronews.com/2026/11/16/trump-evoque-une-possible-rencontre-avec-kim-jong-un-en-chine-cette-semaine",
-      "source": "Euronews",
-      "publishedAt": "2026-11-16T18:43:44.000Z",
-      "summary": "Donald Trump prévoit d'évoquer le désarmement nucléaire lors de ses rencontres avec le président russe Vladimir Poutine et le président chinois Xi Jinping à Shenzhen, en Chine, cette semaine.",
-      "image": "https://images.euronews.com/articles/stories/09/99/47/85/696x392_cmsv2_cd76b49a-e5e1-5304-9d6b-20bd2d6d7f62-9994785.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-evoque-une-possible-rencontre-avec-kim-jong-un-en-chine-cette-sema-a24c05f84b.html"
-    },
-    {
-      "title": "Emmanuel Macron assure avoir fait de son mieux malgré des \"erreurs\"",
-      "url": "https://www.france24.com/fr/france/20261116-macron-assure-avoir-fait-de-son-mieux-malgr%C3%A9-des-erreurs",
-      "source": "France 24",
-      "publishedAt": "2026-11-16T18:35:29.000Z",
-      "summary": "Emmanuel Macron a posté, lundi, un message sur X en forme de bilan pour les 10 ans de l'annonce de sa première candidature à l'Élysée. \"J'ai fait de mon mieux\", a-t-il assuré, tout en concédant \"parfois des erreurs\", à six mois de la fin de son second mandat.",
-      "image": "https://s.france24.com/media/display/7f1d673a-e1ec-11f1-9596-f71d22e7fea9/w:1024/p:16x9/7f6d81c95ab87a584e5082fe94983065fe1e7685.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/emmanuel-macron-assure-avoir-fait-de-son-mieux-malgre-des-erreurs-a32a962254.html"
-    },
-    {
-      "title": "Échec du lancement du lanceur Vulcan, 40 satellites Internet d'Amazon non déployés",
-      "url": "https://fr.euronews.com/2026/11/16/echec-du-lancement-du-lanceur-vulcan-40-satellites-internet-damazon-non-deployes",
-      "source": "Euronews",
-      "publishedAt": "2026-11-16T19:30:56.000Z",
-      "summary": "Une fusée Vulcan de United Launch Alliance a subi une panne en vol minutes après le décollage depuis la Floride, laissant 40 satellites internet d'Amazon incapables d'atteindre l'orbite.",
-      "image": "https://images.euronews.com/articles/stories/09/99/51/53/696x392_cmsv2_a8eba40b-63b0-5781-96bb-17616888a4b8-9995153.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/echec-du-lancement-du-lanceur-vulcan-40-satellites-internet-d-amazon-non-93cdc6aea3.html"
-    },
-    {
-      "title": "Après Android TV, Claude aide à rendre le Monsieur Cuisine Connect de Lidl beaucoup plus fluide : voici comment on a fait",
-      "url": "https://www.frandroid.com/marques/lidl/3324921_apres-android-tv-claude-aide-a-rendre-le-monsieur-cuisine-connect-de-lidl-beaucoup-plus-fluide-voici-comment-on-a-fait",
+      "title": "1100 W, 110 Nm de couple et transmission électronique : le nouveau vélo électrique urbain d’Amflow est juste dément",
+      "url": "https://www.frandroid.com/survoltes/velo-electrique/3325471_1100-w-110-nm-de-couple-et-transmission-electronique-le-nouveau-velo-electrique-urbain-damflow-est-juste-dement",
       "source": "Frandroid",
-      "publishedAt": "2026-11-16T19:00:00.000Z",
-      "summary": "Après Android TV, c’est au tour du Monsieur Cuisine Connect de Lidl de retrouver toute sa fluidité. Nous avons installé Toque, une interface gratuite et open source que Claude Code ou Codex peuvent aider à mettre en place : le gain de réactivité est saisissant sur notre robot. Recettes Lidl, recherche intelligente, cui",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/monsieur-cuisine-toque-frandroid8.jpg?resize=1200,675&key=2b875d38",
+      "publishedAt": "2026-11-17T08:16:53.000Z",
+      "summary": "Après les VTTAE et un premier tout-chemin réussi, le premier vélo urbain électrique Amflow UE Carbon débarque avec le même objectif : offrir un équipement complet, avec un cadre en carbone et un moteur Avinox M2, pour un tarif très compétitif.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/amflow-ue-carbon-velo-electrique-ville.jpg?resize=1200,675&key=f312a76f",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-android-tv-claude-aide-a-rendre-le-monsieur-cuisine-connect-de-lid-21bdf72164.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/1100-w-110-nm-de-couple-et-transmission-electronique-le-nouveau-velo-ele-ad791ce6df.html"
+    },
+    {
+      "title": "La version la plus récente de l’Amazon Echo Show 8 profite d’une remise de 41 % à l’occasion du Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3324887_la-version-la-plus-recente-de-lamazon-echo-show-8-profite-dune-remise-de-41-a-loccasion-du-black-friday",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-17T08:13:00.000Z",
+      "summary": "Renouvelé l'an dernier, l'Amazon Echo Show 8 peut devenir le point central de votre maison connectée. Pendant le Black Friday, Amazon l'affiche à 129,99 euros au lieu de 219,99 euros.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/amazon-echo-show-8-black-friday-2026.jpg?resize=1200,675&key=cd3f20df",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-version-la-plus-recente-de-l-amazon-echo-show-8-profite-d-une-remise--c14da43ae7.html"
+    },
+    {
+      "title": "Nouvelle journée de manifestations et de grève partout en France",
+      "url": "https://www.rfi.fr/fr/france/20261117-nouvelle-journ%C3%A9e-de-mobilisation-et-de-gr%C3%A8ve-partout-en-france",
+      "source": "RFI",
+      "publishedAt": "2026-11-17T07:24:44.000Z",
+      "summary": "Les 5,8 millions d'agents publics sont appelés à se mobiliser ce mardi 17 novembre pour tenter d'obtenir des hausses de salaires en pleine discussion sur le budget 2027, et quelques jours après l'annonce de mesures en faveur des agents les plus modestes, jugées insuffisantes par les syndicats.",
+      "image": "https://s.rfi.fr/media/display/907da2c0-e254-11f1-a480-695cb59fade5/w:1024/p:16x9/000-C9NL4RW.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-journee-de-manifestations-et-de-greve-partout-en-france-f0c526dfac.html"
+    },
+    {
+      "title": "En direct : nouvelle journée de mobilisation et de grève dans la fonction publique",
+      "url": "https://www.france24.com/fr/france/20261117-en-direct-nouvelle-journ%C3%A9e-mobilisation-gr%C3%A8ve-fonction-publique-gilets-jaunes-pouvoir-achat-%C3%A9tudiants-lyc%C3%A9ens",
+      "source": "France 24",
+      "publishedAt": "2026-11-17T06:57:54.000Z",
+      "summary": "Les syndicats appellent les agents de la fonction publique à une nouvelle journée d'action mardi pour protester contre la vie chère. Des dizaines de manifestations sont prévues à travers le pays, auxquelles doivent également participer des organisations étudiantes et de Gilets jaunes qui entendent poursuivre la mobilis",
+      "image": "https://s.france24.com/media/display/a1081aa0-e252-11f1-b1a9-695cb59fade5/w:1024/p:16x9/000-D6JM7MR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-nouvelle-journee-de-mobilisation-et-de-greve-dans-la-fonction--18dcb4b914.html"
+    },
+    {
+      "title": "La Russie frappe deux ponts majeurs à Kiev, l'Ukraine cible à nouveau la Crimée",
+      "url": "https://www.rfi.fr/fr/europe/20261117-la-russie-frappe-deux-ponts-majeurs-%C3%A0-kiev-l-ukraine-cible-%C3%A0-nouveau-la-crim%C3%A9e",
+      "source": "RFI",
+      "publishedAt": "2026-11-17T06:54:32.000Z",
+      "summary": "La Russie a frappé deux ponts majeurs à Kiev, et l'Ukraine a visé le pont de Crimée pour la deuxième nuit d'affilée. Ces attaques sont hautement symboliques car elles interviennent deux jours avant une rencontre en Chine entre les chefs d'État russe, américain et chinois.",
+      "image": "https://s.rfi.fr/media/display/63468264-e253-11f1-9b57-29048b396e03/w:1024/p:16x9/000-D7KG3CQ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-russie-frappe-deux-ponts-majeurs-a-kiev-l-ukraine-cible-a-nouveau-la--91c216e9de.html"
+    },
+    {
+      "title": "Nvidia ne veut pas d’un retour de Jensen Huang, malgré la pression de la Silicon Valley",
+      "url": "https://www.frandroid.com/marques/nvidia/3325647_nvidia-ne-veut-pas-dun-retour-de-jensen-huang-malgre-la-pression-de-la-silicon-valley",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-17T06:31:46.000Z",
+      "summary": "Poussé à la démission par ses nombreuses affaires de mœurs, Jensen Huang manigancerait supposément une grande opération de retour en grâce, mais le conseil d’administration de l’entreprise ne le voit pas de cet œil.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/jensen-huang.png?resize=1200,675&key=46aa7404",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nvidia-ne-veut-pas-d-un-retour-de-jensen-huang-malgre-la-pression-de-la--70b402c01c.html"
+    },
+    {
+      "title": "Dans les lycées, le personnel éducatif éprouvé après deux mois de mobilisation",
+      "url": "https://www.france24.com/fr/france/20261117-dans-les-lyc%C3%A9es-mobilis%C3%A9s-le-personnel-%C3%A9ducatif-%C3%A9prouv%C3%A9-apr%C3%A8s-deux-mois-de-mobilisation",
+      "source": "France 24",
+      "publishedAt": "2026-11-17T06:29:49.000Z",
+      "summary": "Alors que 25 lycées étaient toujours perturbés lundi en Île-de-France, selon la région, France 24 a échangé avec des personnels éducatifs de trois établissements. Enseignants et membres de la vie scolaire témoignent, après deux mois de mobilisation, des relations dégradées avec les directions, de l'inquiétude pour les ",
+      "image": "https://s.france24.com/media/display/73b80f7e-e1f3-11f1-8864-3f371022a770/w:1024/p:16x9/000-D2CW8YR.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/dans-les-lycees-le-personnel-educatif-eprouve-apres-deux-mois-de-mobilis-a85a062304.html"
+    },
+    {
+      "title": "Impôts, logement, Smic: ce qu'il faut retenir du débat entre cinq candidats à la présidentielle française",
+      "url": "https://www.rfi.fr/fr/france/20261117-imp%C3%B4ts-logement-smic-ce-qu-il-faut-retenir-du-d%C3%A9bat-entre-cinq-candidats-%C3%A0-la-pr%C3%A9sidentielle-fran%C3%A7aise",
+      "source": "RFI",
+      "publishedAt": "2026-11-17T05:48:15.000Z",
+      "summary": "Les inégalités, le pouvoir d'achat et la solidarité. Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau et Gabriel Attal ont débattu lundi 16 novembre de ces vastes sujets de société appelés à façonner la campagne présidentielle en France, en l'absence d'Édouard Philippe retenu au Havre.",
+      "image": "https://s.rfi.fr/media/display/ef9b22fc-e248-11f1-8174-29048b396e03/w:1024/p:16x9/2026-11-16T195542Z-1218950731-RC27POAK0Z4K-RTRMADP-3-FRANCE-POLITICS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/impots-logement-smic-ce-qu-il-faut-retenir-du-debat-entre-cinq-candidats-cad1cc6db2.html"
+    },
+    {
+      "title": "La Chine fait voler un avion électrique à 10 moteurs : l’Europe est définitivement à la traîne",
+      "url": "https://www.01net.com/actualites/la-chine-fait-voler-un-avion-electrique-a-10-moteurs-leurope-est-definitivement-a-la-traine.html",
+      "source": "01net",
+      "publishedAt": "2026-11-17T08:02:03.000Z",
+      "summary": "La Chine vient de franchir une étape majeure dans l'aviation électrique. Le constructeur Comac a réussi à faire voler un appareil de 19 places propulsé par dix moteurs électriques. Le tout en seulement trois ans, ce qui montre le retard américain et européen.",
+      "image": "https://www.01net.com/app/uploads/2026/11/comac-CE-25A.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-chine-fait-voler-un-avion-electrique-a-10-moteurs-l-europe-est-defini-ebc6567c62.html"
+    },
+    {
+      "title": "Nextcloud Office : la réponse européenne à Microsoft Office est enfin disponible pour tous",
+      "url": "https://www.frandroid.com/culture-tech/web/3325679_nextcloud-office-la-reponse-europeenne-a-microsoft-office-est-enfin-disponible-pour-tous",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-17T07:40:48.000Z",
+      "summary": "Pris dans un imbroglio de licence d’utilisation et d’image de marque, Nextcloud Office a tout de même réussi à sortir sa suite d’outils pour la bureautique destinée à concurrencer celle de Microsoft.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/nextcloud-office-desktop-spreadsheet-1-scaled-1.webp?resize=1200,675&key=8a537558",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nextcloud-office-la-reponse-europeenne-a-microsoft-office-est-enfin-disp-f8636d151f.html"
+    },
+    {
+      "title": "L’iPhone Duo aura finalement droit à la reconnaissance faciale",
+      "url": "https://www.01net.com/actualites/liphone-duo-aura-finalement-droit-a-la-reconnaissance-faciale.html",
+      "source": "01net",
+      "publishedAt": "2026-11-17T07:40:29.000Z",
+      "summary": "La deuxième beta développeur d’iOS 27.3 réserve une bonne surprise aux possesseurs d’iPhone Duo. Apple introduit finalement la reconnaissance faciale pour déverrouiller son iPhone pliant.",
+      "image": "https://www.01net.com/app/uploads/2026/11/Test-iPhone-Duo-avis-01net-15-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-iphone-duo-aura-finalement-droit-a-la-reconnaissance-faciale-8c00d6d4b6.html"
+    },
+    {
+      "title": "C’est le moment de changer d’ordinateur puisque le MacBook Air M5 perd 200 euros pendant le Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3324805_cest-le-moment-de-changer-dordinateur-puisque-le-macbook-air-m5-perd-200-euros-pendant-le-black-friday",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-17T07:33:00.000Z",
+      "summary": "Le MacBook Air M5 conserve le design des modèles précédents, mais profite d'un gain de puissance appréciable avec l'arrivée de la puce M5. Cette génération passe aussi à 512 Go de stockage de base. Apple a toutefois augmenté son prix de 200 euros fin juin, à 1 399 euros. La Fnac le ramène à son prix de lancement, soit ",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/copie-de-preblackfriday-frandroid-solo-11-2.png?resize=1200,675&key=7ae60b00",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/c-est-le-moment-de-changer-d-ordinateur-puisque-le-macbook-air-m5-perd-2-ff03e85a69.html"
+    },
+    {
+      "title": "Huawei lance une sous-marque, six ans après avoir vendu Honor",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3325669_huawei-lance-une-sous-marque-six-ans-apres-avoir-vendu-honor",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-17T07:30:06.000Z",
+      "summary": "Six ans après avoir cédé Honor, Huawei relance une sous-marque, Osta. Son premier smartphone reprend le format large du Pura X View, avec une caméra en moins et beaucoup d'IA en plus&nbsp;: de quoi se demander ce que Huawei vend vraiment, un téléphone ou un assistant.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/capture-decran-2026-11-17-a-082143.png?resize=1200,675&key=d24c27e0",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/huawei-lance-une-sous-marque-six-ans-apres-avoir-vendu-honor-5881cafc60.html"
+    },
+    {
+      "title": "Sans Jensen Huang, Nvidia présente quand même son prochain GPU record",
+      "url": "https://www.frandroid.com/marques/3325663_sans-jensen-huang-nvidia-presente-quand-meme-son-prochain-gpu-record",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-17T07:21:55.000Z",
+      "summary": "Nvidia a présenté ce lundi 16 novembre le Rubin HPC, un GPU pour le calcul scientifique doté de «&nbsp;plus de 50&nbsp;000&nbsp;» cœurs CUDA, attendu en 2028. L'annonce arrive quatre jours après la démission de Jensen Huang.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/nvidia-rubin-hpc.jpg?resize=1200,675&key=7aa29205",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sans-jensen-huang-nvidia-presente-quand-meme-son-prochain-gpu-record-98ff21ce29.html"
+    },
+    {
+      "title": "Plus de 1 000 km d’autonomie à 37 000 € ? Ce SUV BYD n’arrivera pas chez nous de sitôt",
+      "url": "https://www.01net.com/actualites/plus-1-000-km-autonomie-37-000-euros-suv-byd-arrivera-pas-chez-nous.html",
+      "source": "01net",
+      "publishedAt": "2026-11-17T07:21:34.000Z",
+      "summary": "BYD ouvre en Chine les commandes du Denza N8, un grand SUV électrique haut de gamme. Avec 1 003 km d’autonomie, l’engin ne craint guère les longues distances. Hélas, malgré son allonge, il ne pourra pas arriver chez nous.",
+      "image": "https://www.01net.com/app/uploads/2026/11/denza-n8-3-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/plus-de-1-000-km-d-autonomie-a-37-000-ce-suv-byd-n-arrivera-pas-chez-nou-36292d21ca.html"
+    },
+    {
+      "title": "Olala mini : la première IA française d’OVHcloud tient sur un PC sans carte graphique dédiée",
+      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3325653_olala-mini-la-premiere-ia-francaise-dovhcloud-tient-sur-un-pc-sans-carte-graphique-dediee",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-17T07:08:02.000Z",
+      "summary": "OVHcloud dévoile Olala mini, un petit modèle d'IA open source entraîné sur des supercalculateurs publics européens et capable de tourner sur un simple processeur. Sur le papier, l'hébergeur roubaisien coche toutes les cases de la souveraineté&nbsp;; il lui manque encore des preuves.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/hxtla2uxsaagi7h.jpeg?resize=1200,675&key=5a223634",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/olala-mini-la-premiere-ia-francaise-d-ovhcloud-tient-sur-un-pc-sans-cart-6ecd97b36a.html"
+    },
+    {
+      "title": "Facebook a espionné les photos prises par 20 millions de smartphones, comment désactiver cet accès par défaut ?",
+      "url": "https://www.01net.com/actualites/facebook-a-espionne-les-photos-prises-par-20-millions-de-smartphones-comment-desactiver-cet-acces-par-defaut.html",
+      "source": "01net",
+      "publishedAt": "2026-11-17T06:54:56.000Z",
+      "summary": "Depuis 2023, l'application Facebook pour Android pioche dans la galerie des téléphones pour suggérer des publications, photos jamais partagées comprises. Le gendarme italien des données personnelles vient de facturer la pratique : 805 millions d'euros.",
+      "image": "https://www.01net.com/app/uploads/2025/10/facebook-logo-01net-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/facebook-a-espionne-les-photos-prises-par-20-millions-de-smartphones-com-565bbf0160.html"
+    },
+    {
+      "title": "Intersport casse le prix de son Nakamura Crosscity LTD pendant le Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3325137_intersport-casse-le-prix-de-son-nakamura-crosscity-ltd-pendant-le-black-friday",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-17T06:20:00.000Z",
+      "summary": "Intersport profite du Black Friday pour brader le Nakamura Crosscity LTD. Il est actuellement vendu pour moins de 700 euros. L'occasion d'acheter un vélo confortable qui permet même de rouler sur des chemins.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/copie-de-preblackfriday-frandroid-solo-13-1.png?resize=1200,675&key=c6104989",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/intersport-casse-le-prix-de-son-nakamura-crosscity-ltd-pendant-le-black--aad0f06085.html"
     }
   ]
 }
