@@ -1,116 +1,168 @@
 {
-  "updatedAt": "2026-11-19T03:50:22.036Z",
+  "updatedAt": "2026-11-19T12:20:15.965Z",
   "items": [
     {
-      "title": "Corée du Sud: la triche via les lunettes connectées perturbe l'examen d'entrée à l'université",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261119-cor%C3%A9e-du-sud-la-triche-via-les-lunettes-connect%C3%A9es-perturbe-l-examen-d-entr%C3%A9e-%C3%A0-l-universit%C3%A9",
-      "source": "RFI",
-      "publishedAt": "2026-11-19T03:24:51.000Z",
-      "summary": "Jeudi 19 novembre, plus de 550 000 lycéens sud-coréens passent leur examen d'entrée à l'université. Mais cette année, les lunettes connectées dotées d'intelligence artificielle (IA), capables d'afficher sur les verres les réponses du test, sèment la panique. Le risque de triche étant très important, le ministère de l'É",
-      "image": "https://s.rfi.fr/media/display/8578735e-e38b-11f1-8b76-c5c0357b2a0c/w:1024/p:16x9/LUNETTES-INTELLIGENTES-CONNECTEES-INTELLIGENCE-ARTIFICIELLE.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/coree-du-sud-la-triche-via-les-lunettes-connectees-perturbe-l-examen-d-e-f4a2214c74.html"
-    },
-    {
-      "title": "GTA 6 est disponible en France : suivez le lancement du jeu en direct",
-      "url": "https://www.frandroid.com/produits-android/console/3327829_gta-6-sortie-suivre-en-direct",
+      "title": "Black Friday : le prix de cette tablette Oppo avec écran 2,8K 120 Hz et une grosse batterie chute de 29 %",
+      "url": "https://www.frandroid.com/bons-plans/3330477_black-friday-le-prix-de-cette-tablette-oppo-avec-ecran-28k-120-hz-et-une-grosse-batterie-chute-de-29",
       "source": "Frandroid",
-      "publishedAt": "2026-11-18T23:01:04.000Z",
-      "summary": "Suivez toutes les informations en direct autour de la sortie imminente de GTA 6.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/gta-6-en-direct.jpg?resize=1200,675&key=286ef2b9",
+      "publishedAt": "2026-11-19T12:11:00.000Z",
+      "summary": "L'Oppo Pad 5 est une tablette tactile avec de sérieux arguments pour le multimédia et les usages familiaux que vous retrouvez à 283,99 euros au lieu de 399 euros sur Amazon.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/oppo-pad-5-black-friday-2026.jpg?resize=1200,675&key=d1b63795",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/gta-6-est-disponible-en-france-suivez-le-lancement-du-jeu-en-direct-c44e96306d.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/black-friday-le-prix-de-cette-tablette-oppo-avec-ecran-2-8k-120-hz-et-un-f52f283d24.html"
     },
     {
-      "title": "«Génocide» des Rohingya en Birmanie: une décision historique attendue de la Cour internationale de justice",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261119-g%C3%A9nocide-des-rohingya-en-birmanie-une-d%C3%A9cision-historique-attendue-de-la-cour-internationale-de-justice",
-      "source": "RFI",
-      "publishedAt": "2026-11-19T03:24:57.000Z",
-      "summary": "La Cour internationale de justice (CIJ), plus haute instance judiciaire de l'ONU, doit rendre ce jeudi 19 novembre sa décision sur les accusations de « génocide » visant la Birmanie pour les atrocités commises contre la minorité musulmane des Rohingya en 2017. Un jugement particulièrement attendu, qui pourrait avoir de",
-      "image": "https://s.rfi.fr/media/display/778c655c-e3a4-11f1-910e-1ba7ddfab527/w:1024/p:16x9/000-92DP8YQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/genocide-des-rohingya-en-birmanie-une-decision-historique-attendue-de-la-3e8eefa349.html"
-    },
-    {
-      "title": "Soudan: le chef des paramilitaires FSR de nouveau condamné à mort par contumace",
-      "url": "https://www.rfi.fr/fr/afrique/20261119-soudan-le-chef-des-paramilitaires-fsr-de-nouveau-condamn%C3%A9-%C3%A0-mort-par-contumace",
-      "source": "RFI",
-      "publishedAt": "2026-11-19T03:24:42.000Z",
-      "summary": "Au Soudan, le tribunal antiterroriste de Port-Soudan a condamné par contumace à la peine capitale, ce mercredi 18 novembre, le chef des Forces de soutien rapide (FSR), Mohamed Hamdan Dagalo, dit Hemetti, ainsi que ses deux frères, Abdelrahim et Al-Kouni, et onze autres commandants. Au total, quatorze accusés ont été co",
-      "image": "https://s.rfi.fr/media/display/089a194c-1a91-11f0-b418-005056bf30b7/w:1024/p:16x9/000_32C438Q.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/soudan-le-chef-des-paramilitaires-fsr-de-nouveau-condamne-a-mort-par-con-21ff8e2041.html"
-    },
-    {
-      "title": "Shenzhen : une rencontre tripartite \"pas comparable avec Yalta\", selon Pascal Boniface",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-shenzhen-une-rencontre-tripartite-pas-comparable-avec-yalta-selon-pascal-boniface",
-      "source": "France 24",
-      "publishedAt": "2026-11-19T02:27:24.000Z",
-      "summary": "Pour la première fois, Xi Jinping, Vladimir Poutine et Donald Trump seront ensemble. La comparaison avec Yalta est évidente : \"c'est le fait que ce sont les trois grands leaders qui se partagent le monde. Sauf que Yalta, on avait vraiment réglé les problèmes, ça a duré une semaine, là, je doute qu'il y ait des avancées",
-      "image": "https://s.france24.com/media/display/b58415d0-e39a-11f1-ba8f-1ba7ddfab527/w:1024/p:16x9/FR-20261118-220412-221311-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/shenzhen-une-rencontre-tripartite-pas-comparable-avec-yalta-selon-pascal-f5cbe20bb4.html"
-    },
-    {
-      "title": "Sommet de Shenzen en direct : une rencontre historique entre Trump, Poutine et Xi",
-      "url": "https://www.france24.com/fr/asie-pacifique/20261119-sommet-apec-en-direct-rencontres-diplomatiques-attendues-shenzhen-trump-poutine-xi-jinping",
-      "source": "France 24",
-      "publishedAt": "2026-11-19T00:00:34.000Z",
-      "summary": "Les trois chefs d'État les plus puissants au monde s'affichent ensemble, jeudi, à Shenzen, en Chine, où s'est ouvert le sommet de la Coopération économique Asie-Pacifique (Apec). En marge de cet événement, une réunion tripartite est prévue dans la journée entre Donald Trump, Vladimir Poutine et Xi Jinping. Une première",
-      "image": "https://s.france24.com/media/display/9734827a-e3c9-11f1-8ccd-ff16da94d1fe/w:1024/p:16x9/2026-11-19T030408Z-2074341856-RC2RQOAJQ487-RTRMADP-3-APEC-SUMMIT.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sommet-de-shenzen-en-direct-une-rencontre-historique-entre-trump-poutine-56e19c3872.html"
-    },
-    {
-      "title": "Apec : une réunion bilatérale entre Donald Trump et Xi Jinping, avant la rencontre tripartite",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261118-apec-une-r%C3%A9union-bilat%C3%A9rale-entre-donald-trump-et-xi-jinping-avant-la-rencontre-tripartite",
-      "source": "France 24",
-      "publishedAt": "2026-11-18T23:56:49.000Z",
-      "summary": "Xi Jinping est venu accueillir en personne Donald Trump à son arrivée sur le sol chinois. \"Mais ces démonstrations d'affection ne cachent pas les points de tensions entre Washington et Pékin\" qui donne le ton de la réunion bilatérale qui aura lieu ce jeudi, explique Baptiste Fallevoz, le correspondant de France 24 à Sh",
-      "image": "https://s.france24.com/media/display/06b1882a-e3a0-11f1-9d09-ff16da94d1fe/w:1024/p:16x9/NW295994-O-01-20261118-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apec-une-reunion-bilaterale-entre-donald-trump-et-xi-jinping-avant-la-re-0a0fdbae52.html"
-    },
-    {
-      "title": "\"Femmeblancherie\" : le procès de la haine des femmes",
-      "url": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261118-femmeblancherie-le-proc%C3%A8s-de-la-haine-des-femmes",
-      "source": "France 24",
-      "publishedAt": "2026-11-18T23:18:12.000Z",
-      "summary": "Ce mercredi s’est ouvert le procès de sept membres du canal Telegram « Femmeblancherie » au tribunal judiciaire de Paris. Appels aux féminicides et aux viols, fichages racistes et homophobes, plusieurs dizaines d’abonnés sont accusés d’une trentaine de crimes et délits, dont « provocation publique à commettre un crime ",
-      "image": "https://s.france24.com/media/display/3a6bb852-e3a5-11f1-b778-6d75ed565170/w:1024/p:16x9/FRAN261118-2339-Live-CS2339.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/femmeblancherie-le-proces-de-la-haine-des-femmes-f988333cca.html"
-    },
-    {
-      "title": "Présidentielle : Marine Tondelier \"prête à travailler à une coalition\" autour de Jean-Luc Mélenchon",
-      "url": "https://www.france24.com/fr/france/20261118-presidentielle-2027-election-marine-tondelier-ecologistes-prete-travailler-coalition-autour-jean-luc-melenchon-la-france-insoumise-soutien",
-      "source": "France 24",
-      "publishedAt": "2026-11-18T22:39:24.000Z",
-      "summary": "Qualifiant la dynamique de campagne de Jean-Luc Mélenchon d'\"indéniable\", la candidate des Écologistes à la présidentielle, Marine Tondelier, a dit, mercredi sur France 2, être \"prête\" à \"travailler à une coalition\" avec l'Insoumis. Dans les sondages, elle est créditée de 2 à 4 % des intentions de vote alors que Jean-L",
-      "image": "https://s.france24.com/media/display/2fab2b82-e3a0-11f1-9252-c5c0357b2a0c/w:1024/p:16x9/000-D7ED2CR.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-marine-tondelier-prete-a-travailler-a-une-coalition-autou-59fd6ec5ad.html"
-    },
-    {
-      "title": "États-Unis: le démocrate Hakeem Jeffries bientôt à la présidence de la Chambre des représentants",
-      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261118-%C3%A9tats-unis-le-d%C3%A9mocrate-hakeem-jeffries-bient%C3%B4t-%C3%A0-la-pr%C3%A9sidence-de-la-chambre-des-repr%C3%A9sentants",
-      "source": "RFI",
-      "publishedAt": "2026-11-18T22:38:02.000Z",
-      "summary": "Après le tsunami démocrate aux élections de mi-mandat, Hakeem Jeffries a été désigné, mercredi 18 novembre par les députés, comme chef de la prochaine majorité, à une écrasante majorité. L'élu de New York sera officiellement titulaire du poste le 3 janvier 2027, lorsque la nouvelle majorité prendra les rênes du Congrès",
-      "image": "https://s.rfi.fr/media/display/ab3cc634-e3a0-11f1-8ce5-c5c0357b2a0c/w:1024/p:16x9/ETATS-UNIS-HAKEEM-JEFFRIES.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-le-democrate-hakeem-jeffries-bientot-a-la-presidence-de-la-ch-3a3f854239.html"
-    },
-    {
-      "title": "Pont de Crimée attaqué : vrais dégâts, fausses vidéos",
-      "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261118-pont-de-crim%C3%A9e-attaqu%C3%A9-vrais-d%C3%A9g%C3%A2ts-fausses-vid%C3%A9os",
-      "source": "France 24",
-      "publishedAt": "2026-11-18T22:03:19.000Z",
-      "summary": "L’Ukraine a, par deux nuits consécutives de frappes, partiellement détruit le pont de Crimée, cet axe stratégique pour la Russie, qui relie au territoire russe la péninsule annexée par Moscou en 2014. Si l'édifice a effectivement été lourdement endommagé, plusieurs vidéos manipulatoires ont présenté des dégâts qui n'ex",
-      "image": "https://s.france24.com/media/display/983f4e18-e39a-11f1-9d1c-6d75ed565170/w:1024/p:16x9/FRAN261118-2222-Live-CS2222.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pont-de-crimee-attaque-vrais-degats-fausses-videos-3d48cee88b.html"
-    },
-    {
-      "title": "Google lance Gemini 4 Neon, son quatrième modèle d’IA en moins de 2 mois… et on s’y perd un peu",
-      "url": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3329689_google-lance-gemini-4-neon-son-quatrieme-modele-dia-en-moins-de-2-mois-et-on-sy-perd-un-peu",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-18T22:33:34.000Z",
-      "summary": "Google a lancé Gemini 4 Neon, un modèle d'IA ouvert aux abonnés Google AI Pro dans l'application Gemini. C'est le quatrième modèle Gemini 4 en sept semaines, après Argon, Carbon et Hydrogen.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/gemini-4-neon.jpeg?resize=1200,675&key=d94b937a",
+      "title": "« CRITIQUE » : après le chaos PHP2Shell, PHP alerte sur de nouvelles failles de sécurité",
+      "url": "https://www.01net.com/actualites/critique-apres-le-chaos-php2shell-php-alerte-sur-de-nouvelles-failles-de-securite.html",
+      "source": "01net",
+      "publishedAt": "2026-11-19T12:00:38.000Z",
+      "summary": "Moins d’un mois après PHP2Shell, PHP, le langage informatique qui fait tourner près de 70 % des sites web dans le monde, annonce de nouvelles failles « critiques ». Des correctifs seront rapidement déployés pour colmater les vulnérabilités.",
+      "image": "https://www.01net.com/app/uploads/2026/10/cyberattaque-php-chine-serveurs-1344x756.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/google-lance-gemini-4-neon-son-quatrieme-modele-d-ia-en-moins-de-2-mois--364c18e7ec.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/critique-apres-le-chaos-php2shell-php-alerte-sur-de-nouvelles-failles-de-6f865bb865.html"
+    },
+    {
+      "title": "Xi-Poutine-Trump : une rencontre inédite, mais peu de détails sur son contenu",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-xi-poutine-trump-une-rencontre-in%C3%A9dite-mais-peu-de-d%C3%A9tails-sur-son-contenu",
+      "source": "France 24",
+      "publishedAt": "2026-11-19T12:11:45.000Z",
+      "summary": "Un sommet tripartite inédit entre présidents chinois, russe et américain, réunissant Xi Jinping, Vladimir Poutine et Donald Trump, s'est achevé jeudi à Shenzhen, dans le sud de la Chine, après une rencontre d'environ 80 minutes.",
+      "image": "https://s.france24.com/media/display/565a8552-e404-11f1-8038-7908c4e1a3c7/w:1024/p:16x9/FR-20261119-110142-110645-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/xi-poutine-trump-une-rencontre-inedite-mais-peu-de-details-sur-son-conte-8c4f1a2471.html"
+    },
+    {
+      "title": "🔴 La Birmanie a commis un génocide à l'encontre des Rohingya, statue la Cour internationale de justice",
+      "url": "https://www.france24.com/fr/asie-pacifique/20261119-la-cij-juge-les-forces-birmanes-coupables-d-avoir-tu%C3%A9-des-milliers-de-civils-rohingyas",
+      "source": "France 24",
+      "publishedAt": "2026-11-19T11:53:27.000Z",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-birmanie-a-commis-un-genocide-a-l-encontre-des-rohingya-statue-la-cou-4b3bf5c691.html"
+    },
+    {
+      "title": "La Birmanie a commis un génocide à l'encontre des Rohingyas, estime la Cour internationale de justice",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261119-la-birmanie-a-commis-un-g%C3%A9nocide-sur-la-minorit%C3%A9-rohingya-estime-la-cour-internationale-de-justice",
+      "source": "RFI",
+      "publishedAt": "2026-11-19T11:37:43.000Z",
+      "summary": "La Cour internationale de justice (CIJ), organe de l'ONU qui donne son avis sur des questions de droit international, a estimé jeudi 19 novembre que des actes de génocide ont bien été commis concernant la minorité musulmane rohingya. Le président de la cour, Yuji Iwasawa, qui examinait les faits, a déclaré que, selon l",
+      "image": "https://s.rfi.fr/media/display/ad88cb8c-e3fe-11f1-b6ce-1ba7ddfab527/w:1024/p:16x9/2026-11-19T091224Z-1527449319-RC2XQOA1B9GY-RTRMADP-3-MYANMAR-ROHINGYA-WORLD-COURT.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-birmanie-a-commis-un-genocide-a-l-encontre-des-rohingyas-estime-la-co-3bd9e3f03d.html"
+    },
+    {
+      "title": "Un impact économique \"très limité\" et un héritage au \"bilan mitigé\" pour les JO de Paris",
+      "url": "https://www.france24.com/fr/sports/20261119-bilan-cour-des-comptes-jeux-olympiques-paris-2024-impact-%C3%A9conomique-limit%C3%A9-h%C3%A9ritage-bilan-mitig%C3%A9",
+      "source": "France 24",
+      "publishedAt": "2026-11-19T10:45:08.000Z",
+      "summary": "Dans un rapport publié jeudi, la Cour des comptes dresse un \"bilan mitigé\" et \"contrasté\" de l'héritage des JO de Paris 2024 en termes d'appropriation des équipements, d'activité physique à l'école, d'inclusion ou encore de logement, et confirme un impact économique \"très limité\" de l'événement. À l’approche des JO d’h",
+      "image": "https://s.france24.com/media/display/6831aebc-e400-11f1-8743-7908c4e1a3c7/w:1024/p:16x9/AP24217500110131.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-impact-economique-tres-limite-et-un-heritage-au-bilan-mitige-pour-les-e2a90e0ae1.html"
+    },
+    {
+      "title": "138 km/h sur une trottinette électrique : la police saisit deux bolides hors normes",
+      "url": "https://www.01net.com/actualites/138-km-h-sur-trottinette-electrique-police-saisit-deux-bolides-hors-normes.html",
+      "source": "01net",
+      "publishedAt": "2026-11-19T10:45:04.000Z",
+      "summary": "La police locale de Valence a intercepté deux trottinettes électriques modifiées capables de rouler à la vitesse ahurissante de 138 km/h sur les pistes cyclables. Les engins ont été immédiatement saisis et une enquête a été ouverte concernant les vendeurs de ces kits de débridage.",
+      "image": "https://www.01net.com/app/uploads/2026/11/trottinette-debridee-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/138-km-h-sur-une-trottinette-electrique-la-police-saisit-deux-bolides-ho-51a739831c.html"
+    },
+    {
+      "title": "Midterms 2026: Elon Musk dit se sentir «un peu idiot» d'avoir dépensé autant d'argent dans les élections",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261119-midterms-2026-elon-musk-un-peu-idiot-avoir-d%C3%A9pens%C3%A9-argent-%C3%A9lections",
+      "source": "RFI",
+      "publishedAt": "2026-11-19T10:42:16.000Z",
+      "summary": "Le multimilliardaire ultraconservateur Elon Musk a indiqué mercredi 18 novembre se « sentir un peu idiot » d'avoir dépensé près d'un demi-milliard de dollars pour financer des campagnes de candidats républicains aux élections de novembre, qui ont été largement remportées par les démocrates.",
+      "image": "https://s.rfi.fr/media/display/d275c138-e404-11f1-b992-1ba7ddfab527/w:1024/p:16x9/AP26308785206793.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/midterms-2026-elon-musk-dit-se-sentir-un-peu-idiot-d-avoir-depense-autan-465526645d.html"
+    },
+    {
+      "title": "Le Danemark ratifie l'accord de sécurité avec les États-Unis et le Groenland",
+      "url": "https://www.france24.com/fr/europe/20261119-le-danemark-ratifie-l-accord-de-s%C3%A9curit%C3%A9-avec-les-%C3%A9tats-unis-et-le-groenland",
+      "source": "France 24",
+      "publishedAt": "2026-11-19T10:15:37.000Z",
+      "summary": "Les députés danois ont voté jeudi en faveur d'un texte ratifiant un accord avec les États-Unis, permettant la construction de deux nouvelles bases américaines dans le sud et l'est du Groenland. Il prévoit aussi l'installation du système de défense antimissile voulu par Donald Trump.",
+      "image": "https://s.france24.com/media/display/337a8fc4-e3fe-11f1-82a1-c5c0357b2a0c/w:1024/p:16x9/AP26266587574802.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-danemark-ratifie-l-accord-de-securite-avec-les-etats-unis-et-le-groen-ac41392a44.html"
+    },
+    {
+      "title": "La Coalition des volontaires pour l'Ukraine à Berlin concurrencée par le sommet tripartite en Chine",
+      "url": "https://www.france24.com/fr/europe/20261119-coalition-volontaires-ukraine-berlin-sommet-tripartite-chine-poutine-jinping-trump-zelensky",
+      "source": "France 24",
+      "publishedAt": "2026-11-19T09:57:24.000Z",
+      "summary": "L'Allemagne accueille jeudi une trentaine d'alliés de l'Ukraine, à l'heure où l'Europe veut consolider sa place à la table de négociations de paix mais aussi trouver des fonds pour l'effort de guerre ukrainien. Cette réunion se tient le même jour que la rencontre trilatérale entre les présidents américain, chinois et r",
+      "image": "https://s.france24.com/media/display/17c5f5fe-e3f7-11f1-9c2e-6d75ed565170/w:1024/p:16x9/000-78MX2G3.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/la-coalition-des-volontaires-pour-l-ukraine-a-berlin-concurrencee-par-le-898d083787.html"
+    },
+    {
+      "title": "En Corée du Sud, les femmes prostituées de force sur les bases américaines demandent réparation",
+      "url": "https://www.france24.com/fr/%C3%A9missions/focus/20261119-coree-sud-prostituees-de-force-bases-am%C3%A9ricaines-demandent-r%C3%A9paration",
+      "source": "France 24",
+      "publishedAt": "2026-11-19T09:46:15.000Z",
+      "summary": "Elles seraient des dizaines de milliers de femmes à avoir travaillé, souvent contre leur gré, dans les bordels organisés et gérés par l’État sud-coréen à destination des soldats américains stationnés dans le pays après la Seconde Guerre mondiale. Ces femmes racontent aujourd’hui, après des années de silence, des viols,",
+      "image": "https://s.france24.com/media/display/937659ce-e3fb-11f1-b17d-6d75ed565170/w:1024/p:16x9/capture-fae65078.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-coree-du-sud-les-femmes-prostituees-de-force-sur-les-bases-americaine-d53a1c256a.html"
+    },
+    {
+      "title": "Sénégal: le président fait passer par décret la loi de finances rectificative rejetée par la majorité parlementaire",
+      "url": "https://www.rfi.fr/fr/en-bref/20261119-s%C3%A9n%C3%A9gal-la-pr%C3%A9sidence-annonce-la-mise-en-vigueur-par-d%C3%A9cret-de-la-loi-de-finances-rectificative-2026-rejet%C3%A9e-%C3%A0-l-assembl%C3%A9e-nationale-par-le-parti-majoritaire",
+      "source": "RFI",
+      "publishedAt": "2026-11-19T09:45:26.000Z",
+      "summary": "Au Sénégal, la Présidence a annoncé ce 19 novembre 2026 que le chef de l’État « a décidé de la mise en vigueur du projet de loi de finances rectificative (LFR) pour l’année 2026 à travers » un décret. Une LFR rejetée par les Patriotes africains du Sénégal pour le travail, l'éthique et la fraternité (Pastef) largement m",
+      "image": "https://s.rfi.fr/media/display/31d6b7c4-562d-11f1-b141-005056bfb2b6/w:1024/p:16x9/SENEGAL-BASSIROU-DIOMAYE-FAYE-PRESIDENT-1.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/senegal-le-president-fait-passer-par-decret-la-loi-de-finances-rectifica-3b73c2785c.html"
+    },
+    {
+      "title": "Les alliés de l'Ukraine en sommet à Berlin, un oeil sur Trump, Poutine et Xi",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-les-alli%C3%A9s-de-l-ukraine-en-sommet-%C3%A0-berlin-un-oeil-sur-trump-poutine-et-xi",
+      "source": "France 24",
+      "publishedAt": "2026-11-19T08:49:27.000Z",
+      "summary": "Les ⁠principaux alliés européens ​de l'Ukraine prévoient de manifester jeudi leur soutien à Kiev lors d'une ​réunion à Berlin à laquelle participeront également les émissaires américains Steve Witkoff et Jared Kushner.",
+      "image": "https://s.france24.com/media/display/dee18a22-e3f2-11f1-9c82-7908c4e1a3c7/w:1024/p:16x9/FR-20261119-091152-091525-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-allies-de-l-ukraine-en-sommet-a-berlin-un-oeil-sur-trump-poutine-et--9d1d2976a1.html"
+    },
+    {
+      "title": "Chili: mobilisation contre les coupes budgétaires du gouvernement de José Antonio Kast",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261119-chili-mobilisation-contre-les-coupes-budg%C3%A9taires-du-gouvernement-de-jos%C3%A9-antonio-kast",
+      "source": "RFI",
+      "publishedAt": "2026-11-19T08:45:50.000Z",
+      "summary": "Mercredi 18 novembre, le principal syndicat des travailleurs du Chili, la CUT a appelé étudiants, mouvements féministes et quartiers populaires à une mobilisation nationale contre les coupes budgétaires du gouvernement d’extrême droite de José Antonio Kast. Des marches ont eu lieu dans tout le pays.",
+      "image": "https://s.rfi.fr/media/display/19ac4d0c-e3f5-11f1-bcc3-ff16da94d1fe/w:1024/p:16x9/2026-11-18T173653Z-1144473104-RC2EQOAJQOEO-RTRMADP-3-CHILE-PROTEST.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/chili-mobilisation-contre-les-coupes-budgetaires-du-gouvernement-de-jose-c7c347a6f0.html"
+    },
+    {
+      "title": "Trump-Poutine-Xi : début de la rencontre trilatérale historique",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261119-trump-poutine-xi-d%C3%A9but-de-la-rencontre-trilat%C3%A9rale-historique",
+      "source": "France 24",
+      "publishedAt": "2026-11-19T08:35:45.000Z",
+      "summary": "🇨🇳 La rencontre tripartite historique entre Trump, Poutine et Xi Jinping a débuté à Shenzhen, où s'est ouvert le sommet de la Coopération économique Asie-Pacifique (#Apec). ➡️ En marge de cet événement, une réunion entre les présidents américain et russe, puis entre Trump et Xi, a eu lieu tôt ce matin, avant la réuni",
+      "image": "https://s.france24.com/media/display/b147b4b4-e3f3-11f1-b0de-7908c4e1a3c7/w:1024/p:16x9/vignette-VF.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-poutine-xi-debut-de-la-rencontre-trilaterale-historique-ae55488958.html"
+    },
+    {
+      "title": "\"C'est mon ami\", lance Trump en retrouvant Poutine à Shenzhen",
+      "url": "https://fr.euronews.com/video/2026/11/19/a-shenzhen-trump-salue-poutine-comme-mon-ami-avant-des-pourparlers-avec-xi",
+      "source": "Euronews",
+      "publishedAt": "2026-11-19T07:56:58.000Z",
+      "summary": "Donald Trump a salué Vladimir Poutine comme son \"ami\" lors d'une rencontre à Shenzhen. Leur entretien de 40 minutes a précédé des pourparlers trilatéraux avec le président chinois Xi Jinping.",
+      "image": "https://images.euronews.com/articles/stories/09/99/91/73/696x392_cmsv2_678521ac-0eca-5fc8-8f53-a4f62cfaa8d9-9999173.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/c-est-mon-ami-lance-trump-en-retrouvant-poutine-a-shenzhen-7a0e5f01c0.html"
+    },
+    {
+      "title": "États-Unis: à Caracas, Pete Hegseth annonce un accord de coopération militaire avec le Venezuela",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261119-venezuela-visite-pete-hegseth-annonce-accord-de-coop%C3%A9ration-militaire-alejandro-bettancourt",
+      "source": "RFI",
+      "publishedAt": "2026-11-19T07:55:23.000Z",
+      "summary": "C'est le plus haut responsable américain à visiter le Venezuela depuis l'opération militaire étatsunienne qui a abouti à la capture en janvier dernier de Nicolas Maduro. Le secrétaire d’État à la Défense américain, Pete Hegseth, était mercredi à Caracas pour une visite surprise au cours de laquelle il a été reçu par la",
+      "image": "https://s.rfi.fr/media/display/257de7f6-e3e8-11f1-96e7-1ba7ddfab527/w:1024/p:16x9/AP26322720470518.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/etats-unis-a-caracas-pete-hegseth-annonce-un-accord-de-cooperation-milit-e07e161cf2.html"
+    },
+    {
+      "title": "Ukraine : quatre morts et au moins 13 blessés dans une frappe russe à Odessa",
+      "url": "https://fr.euronews.com/video/2026/11/19/ukraine-quatre-morts-et-au-moins-13-blesses-dans-une-frappe-russe-a-odessa",
+      "source": "Euronews",
+      "publishedAt": "2026-11-19T07:46:31.000Z",
+      "summary": "Des frappes russes contre le centre historique d'Odessa ont tué quatre personnes et blessé au moins 13 autres le mercredi 18 novembre 2026, selon l'administration militaire de la ville.",
+      "image": "https://images.euronews.com/articles/stories/09/99/90/36/696x392_cmsv2_7a81b3d7-374f-5fa0-ae03-ff59a82d1502-9999036.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-quatre-morts-et-au-moins-13-blesses-dans-une-frappe-russe-a-odes-d29c953974.html"
     }
   ]
 }
