@@ -1,117 +1,79 @@
 {
-  "updatedAt": "2026-11-22T00:33:45.916Z",
+  "updatedAt": "2026-11-22T07:11:25.019Z",
   "items": [
     {
-      "title": "Inde: l'opposition accuse Meta de censure politique au profit du pouvoir",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261121-inde-l-opposition-accuse-meta-de-censure-politique-au-profit-du-pouvoir",
-      "source": "RFI",
-      "publishedAt": "2026-11-21T20:57:54.000Z",
-      "summary": "En Inde, plusieurs bureaux de Meta ont été pris d’assaut vendredi 20 novembre par les jeunes du Parti du Congrès, la principale force d’opposition. Ils accusent la maison mère de Facebook et d’Instagram de censure politique au profit du pouvoir. Ces jeunes partisans ont donné un ultimatum de sept jours au géant américa",
-      "image": "https://s.rfi.fr/media/display/87251a06-a239-11f1-89ee-005056bf30b7/w:1024/p:16x9/AP23263482924395.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/inde-l-opposition-accuse-meta-de-censure-politique-au-profit-du-pouvoir-7d673b437a.html"
-    },
-    {
-      "title": "iPhone Air vs Mate 90 Air : Huawei veut prouver qu’un smartphone fin peut tenir une grosse journée",
-      "url": "https://www.frandroid.com/marques/huawei/3333855_iphone-air-vs-mate-90-air-huawei-veut-prouver-quun-smartphone-fin-peut-tenir-une-grosse-journee",
+      "title": "L’héritière de la Samsung Galaxy Watch Ultra est sortie, mais la première montre baroudeuse de la marque reste recommandable, surtout à moins de 400 € pendant le Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3333105_lheritiere-de-la-samsung-galaxy-watch-ultra-est-sortie-mais-la-premiere-montre-baroudeuse-de-la-marque-reste-recommandable-surtout-a-moins-de-400-e-pendant-le-black-friday",
       "source": "Frandroid",
-      "publishedAt": "2026-11-21T20:00:00.000Z",
-      "summary": "Faute d'avoir convaincu les acheteurs, Apple et Samsung ont mis leurs smartphones ultrafins en sourdine. Huawei relance pourtant la catégorie avec un Mate 90 Air qui embarquerait, selon les dernières fuites, une batterie deux fois plus généreuse que celle de l'iPhone Air.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/mate-90-air.png?resize=1200,675&key=30edf9df",
+      "publishedAt": "2026-11-22T06:52:00.000Z",
+      "summary": "Oui, la Samsung Galaxy Watch Ultra 2 est sortie cet été, mais son aînée, la Galaxy Watch Ultra, reste une bonne montre robuste taillée pour les sportifs. Elle est aussi nettement moins chère que la Galaxy Watch Ultra 2 : Amazon la propose à 349,99 euros au lieu de 699,99 euros pendant le Black Friday.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/samsung-galaxy-watch-ultra-black-friday-2026.jpg?resize=1200,675&key=a07596d8",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/iphone-air-vs-mate-90-air-huawei-veut-prouver-qu-un-smartphone-fin-peut--1c924bb1e0.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-heritiere-de-la-samsung-galaxy-watch-ultra-est-sortie-mais-la-premiere-e6369c8090.html"
     },
     {
-      "title": "Madagascar: dans les classes intégrées, enfants handicapés et valides apprennent ensemble",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-afrique/20261121-madagascar-dans-les-classes-int%C3%A9gr%C3%A9es-enfants-handicap%C3%A9s-et-valides-apprennent-ensemble",
+      "title": "Lucid Cosmos : ce nouveau SUV électrique abordable veut faire trembler le Tesla Model Y en Europe",
+      "url": "https://www.01net.com/actualites/lucid-cosmos-nouveau-suv-electrique-abordable-trembler-tesla-model-y-europe.html",
+      "source": "01net",
+      "publishedAt": "2026-11-22T07:02:24.000Z",
+      "summary": "Lucid est déjà présent en Europe avec la berline Air et le SUV Gravity. Mais ces modèles demeurent extrêmement chers. Pour mieux pénétrer le marché, la marque américaine annonce le Cosmos, un véhicule plus compact et donc moins cher.",
+      "image": "https://www.01net.com/app/uploads/2026/11/lucid-cosmos-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/lucid-cosmos-ce-nouveau-suv-electrique-abordable-veut-faire-trembler-le--3fdd373e15.html"
+    },
+    {
+      "title": "Au Liban du Sud, la guerre n'a jamais cessé à Tyr, une ville qui survit plus qu'elle ne vit",
+      "url": "https://www.rfi.fr/fr/moyen-orient/20261122-au-liban-du-sud-la-guerre-n-a-jamais-cess%C3%A9-%C3%A0-tyr-une-ville-qui-survit-plus-qu-elle-ne-vit",
       "source": "RFI",
-      "publishedAt": "2026-11-21T23:25:13.000Z",
-      "summary": "À Madagascar, plus d’un enfant handicapé sur deux ne va pas à l’école, selon l’Unicef. Pour leur ouvrir les portes, l’État a créé en 2009 les « classes intégrées » : des classes à part, au cœur d’écoles ordinaires. Mais elles restent rares. À Antananarivo, une association les fait vivre grâce aux parents.",
-      "image": "https://s.rfi.fr/media/display/a9a5ec64-8e5d-11ef-9dd5-005056bfb2b6/w:1024/p:16x9/2024.10.19%20samedi%20-%20RFI%20archive%20-%20Madagascar%20-%20Antananarivo%C2%A9Yann%20Guichaoua%20-%20Getty%20Images.JPG",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/madagascar-dans-les-classes-integrees-enfants-handicapes-et-valides-appr-8e2b16f7c6.html"
+      "publishedAt": "2026-11-22T07:01:32.000Z",
+      "summary": "Sous le vrombissement des drones israéliens, la ville de Tyr tente de renouer avec une vie normale, entre commerces désertés, port au ralenti et patrimoine privé de touristes. Malgré le retour d’une partie de ses habitants et les efforts des autorités locales, la reconstruction tarde et la menace des frappes reste omni",
+      "image": "https://s.rfi.fr/media/display/95f794ec-e36f-11f1-96b8-1ba7ddfab527/w:1024/p:16x9/Photo-1-21.jpeg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-liban-du-sud-la-guerre-n-a-jamais-cesse-a-tyr-une-ville-qui-survit-pl-d8058e5d21.html"
     },
     {
-      "title": "Colombie: les ravages d'El Niño et ses conséquences sur le café",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261121-colombie-les-ravages-d-el-ni%C3%B1o-et-ses-cons%C3%A9quences-sur-le-caf%C3%A9",
+      "title": "Trois jours après la rencontre Trump-Xi-Poutine, les Britanniques réaffirment leur soutien à l'Ukraine",
+      "url": "https://www.rfi.fr/fr/europe/20261122-trois-jours-apr%C3%A8s-la-rencontre-trump-xi-poutine-les-britanniques-r%C3%A9affirment-leur-soutien-%C3%A0-l-ukraine",
       "source": "RFI",
-      "publishedAt": "2026-11-21T23:14:33.000Z",
-      "summary": "La Colombie retient son souffle face à El Niño. Depuis septembre, ce phénomène climatique frappe l’Amérique latine, et le pays est particulièrement exposé. Les experts redoutent un épisode d’une intensité exceptionnelle, qui pourrait se prolonger au moins jusqu’en février 2027. Les premières conséquences se font déjà s",
-      "image": "https://s.rfi.fr/media/display/1e9061a4-e5fe-11f1-8d35-6b451f569414/w:1024/p:16x9/1-IMG-2860.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/colombie-les-ravages-d-el-nino-et-ses-consequences-sur-le-cafe-c53c33c72b.html"
+      "publishedAt": "2026-11-22T06:12:47.000Z",
+      "summary": "Le secrétaire d'État britannique à la Défense, Wes Streeting, était à Kiev samedi 21 novembre. Il y a rencontré Volodymyr Zelensky afin de montrer que l'Europe était toujours unie dans son soutien à l'Ukraine, quelques jours après une « déclaration de paix » lors de la rencontre trilatérale entre Vladimir Poutine, Xi J",
+      "image": "https://s.rfi.fr/media/display/fe432932-e638-11f1-ae27-6b451f569414/w:1024/p:16x9/AP26325404656006.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trois-jours-apres-la-rencontre-trump-xi-poutine-les-britanniques-reaffir-3e761fcf46.html"
     },
     {
-      "title": "COP31: le flou règne toujours à Antalya, des délégations ont commencé à partir",
-      "url": "https://www.rfi.fr/fr/environnement/20261121-cop31-le-flou-r%C3%A8gne-toujours-%C3%A0-antalya-des-d%C3%A9l%C3%A9gations-ont-commenc%C3%A9-%C3%A0-partir",
+      "title": "Génocide des Rohingyas: la décision historique de la CIJ peut-elle faire jurisprudence?",
+      "url": "https://www.rfi.fr/fr/monde/20261122-g%C3%A9nocide-des-rohingyas-la-d%C3%A9cision-historique-de-la-cij-peut-elle-faire-jurisprudence",
       "source": "RFI",
-      "publishedAt": "2026-11-21T22:46:52.000Z",
-      "summary": "Toujours pas de texte à la COP31, où de nombreux délégués commencent à s’inquiéter sérieusement de la tournure de cette fin de négociations. La situation s’enlise. Les options actuellement sur la table ne convainquent personne. Le flou règne sur l’issue de la COP alors que des délégations ont commencé à quitter les lie",
-      "image": "https://s.rfi.fr/media/display/b8d9a94e-e5fb-11f1-9a78-ebb478925cf0/w:1024/p:16x9/AP26325783289684.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cop31-le-flou-regne-toujours-a-antalya-des-delegations-ont-commence-a-pa-e9e3ca33e7.html"
+      "publishedAt": "2026-11-22T05:59:59.000Z",
+      "summary": "La Cour internationale de justice a estimé jeudi 19 novembre que des actes de génocide ont bien été commis concernant la minorité musulmane rohingya dans le nord de l'État de Rakhine en Birmanie. Ce jugement inédit pourrait-il avoir des répercussions sur le droit international ?",
+      "image": "https://s.rfi.fr/media/display/778c655c-e3a4-11f1-910e-1ba7ddfab527/w:1024/p:16x9/000-92DP8YQ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/genocide-des-rohingyas-la-decision-historique-de-la-cij-peut-elle-faire--2e6f6628e2.html"
     },
     {
-      "title": "Opposé à l'accueil de demandeurs d'asile, un second village anglais proclame son indépendance",
-      "url": "https://www.rfi.fr/fr/europe/20261121-oppos%C3%A9-%C3%A0-l-accueil-de-demandeurs-d-asile-un-second-village-anglais-proclame-son-ind%C3%A9pendance",
-      "source": "RFI",
-      "publishedAt": "2026-11-21T22:37:54.000Z",
-      "summary": "Dans le Suffolk, un village anglais a voté symboliquement pour quitter le Royaume-Uni. À Barnham, les habitants protestent contre un projet gouvernemental d'hébergement de demandeurs d'asile sur une ancienne base militaire.",
-      "image": "https://s.rfi.fr/media/display/d51c170e-e5fb-11f1-832e-1bac47ab2f5d/w:1024/p:16x9/Entrance-to-RAF-Barnham-geograph-org-uk-4703233.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/oppose-a-l-accueil-de-demandeurs-d-asile-un-second-village-anglais-procl-f44dcf3516.html"
-    },
-    {
-      "title": "L'Iran affirme que la Russie et la Chine s'opposent à un changement de sa doctrine nucléaire",
-      "url": "https://www.rfi.fr/fr/moyen-orient/20261121-l-iran-affirme-que-la-russie-et-la-chine-s-opposent-%C3%A0-un-changement-de-sa-doctrine-nucl%C3%A9aire",
-      "source": "RFI",
-      "publishedAt": "2026-11-21T21:51:55.000Z",
-      "summary": "Le ministère iranien des Affaires étrangères, Abbas Araghchi, a déclaré que la Russie et la Chine rejetaient un changement dans la doctrine nucléaire du pays, alors que des voix s'élèvent en interne en faveur d'une réorientation, a rapporté un média d'État.",
-      "image": "https://s.rfi.fr/media/display/73c01242-e585-11f1-9cb2-ebb478925cf0/w:1024/p:16x9/AP26320292627257.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-iran-affirme-que-la-russie-et-la-chine-s-opposent-a-un-changement-de-s-aa89a5df16.html"
-    },
-    {
-      "title": "Présidentielle 2027: la stratégie d'Éric Zemmour pour retrouver de l'élan",
-      "url": "https://www.rfi.fr/fr/france/20261121-pr%C3%A9sidentielle-2027-la-strat%C3%A9gie-d-%C3%A9ric-zemmour-pour-retrouver-de-l-%C3%A9lan",
-      "source": "RFI",
-      "publishedAt": "2026-11-21T20:42:34.000Z",
-      "summary": "Officiellement candidat depuis 10 jours, le candidat d’extrême droite Éric Zemmour a lancé sa campagne avec un meeting à Toulon ce samedi 21 novembre. Proche des 5 % dans les sondages, l’ancien journaliste repart de loin. Outre un appel à une « primaire de droite », Éric Zemmour opte aussi pour une stratégie différente",
-      "image": "https://s.rfi.fr/media/display/f52321b2-e5e9-11f1-823e-1bac47ab2f5d/w:1024/p:16x9/000-D8989XQ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-la-strategie-d-eric-zemmour-pour-retrouver-de-l-elan-32759a1659.html"
-    },
-    {
-      "title": "France: soupçonné de fuites liées au RN, le préfet Moutouh demande à être relevé de ses fonctions",
-      "url": "https://www.rfi.fr/fr/france/20261121-france-soup%C3%A7onn%C3%A9-de-fuites-li%C3%A9es-au-rn-le-pr%C3%A9fet-moutouh-demande-%C3%A0-%C3%AAtre-relev%C3%A9-de-ses-fonctions",
-      "source": "RFI",
-      "publishedAt": "2026-11-21T20:38:27.000Z",
-      "summary": "Le préfet de la région Centre-Val de Loire, Hugues Moutouh, soupçonné d'être impliqué dans des fuites sur des enquêtes mettant en cause le RN, a annoncé samedi 21 novembre avoir demandé à être relevé de ses fonctions.",
-      "image": "https://s.rfi.fr/media/display/283a599c-e5e7-11f1-8b4e-13439ca2fe89/w:1024/p:16x9/000-36JG3AL.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-soupconne-de-fuites-liees-au-rn-le-prefet-moutouh-demande-a-etre--54e6789b18.html"
-    },
-    {
-      "title": "Israël : Gadi Eisenkot invite le parti de Benjamin Netanyahu à des négociations de coalition",
-      "url": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition",
+      "title": "En direct : la Finlande dénonce une attaque de drone ukrainien contre un cargo russe en mer Baltique",
+      "url": "https://www.france24.com/fr/europe/20261122-en-direct-la-finlande-d%C3%A9nonce-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique",
       "source": "France 24",
-      "publishedAt": "2026-11-21T20:29:02.000Z",
-      "summary": "Le centriste Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le parti du premier ministre sortant, Benyamin Netanyahu à des pourparlers en vue d’une éventuelle coalition, a annoncé, samedi, son parti.",
-      "image": "https://s.france24.com/media/display/70936d94-e5e9-11f1-943b-13439ca2fe89/w:1024/p:16x9/000-D6U96RP.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/israel-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-a-des-negocia-7440078280.html"
+      "publishedAt": "2026-11-22T05:55:48.000Z",
+      "summary": "La Finlande a repéré samedi une attaque de drone ukrainien visant un cargo russe en mer Baltique, qui a pris feu, le Premier ministre Petteri Orpo affirmant que \"l'Ukraine a le droit de se défendre contre l'agresseur\". Suivez les derniers développements sur notre direct.",
+      "image": "https://s.france24.com/media/display/a9646dea-e638-11f1-a162-13439ca2fe89/w:1024/p:16x9/2026-11-21T172716Z-814389303-RC2HSOAW4CD6-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-VESSEL.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-la-finlande-denonce-une-attaque-de-drone-ukrainien-contre-un-c-830628c2ea.html"
     },
     {
-      "title": "Pneus usés, usines solaires chinoises dans le rouge, moteurs passés au crible : la semaine de Survoltés",
-      "url": "https://www.frandroid.com/survoltes/3333091_pneus-uses-usines-solaires-chinoises-dans-le-rouge-moteurs-passes-au-crible-la-semaine-de-survoltes",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-21T19:01:00.000Z",
-      "summary": "Des gommes qui partent en particules, du magnésium chinois dans les moteurs, des usines solaires qui perdent des milliards. Cette semaine, Survoltés a regardé de près ce que coûtent vraiment la voiture électrique et les énergies renouvelables, du pneu jusqu'à la pale d'éolienne.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/09/pneu-bridgeston-recycle.jpg?resize=1200,675&key=22dfbb3b",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/pneus-uses-usines-solaires-chinoises-dans-le-rouge-moteurs-passes-au-cri-9237a1603e.html"
+      "title": "COP31: une nuit de négociations, un nouveau texte, mais toujours pas de mention des énergies fossiles",
+      "url": "https://www.rfi.fr/fr/environnement/20261122-cop31-une-nuit-de-n%C3%A9gociations-un-nouveau-texte-mais-toujours-pas-de-mention-des-%C3%A9nergies-fossiles",
+      "source": "RFI",
+      "publishedAt": "2026-11-22T05:17:50.000Z",
+      "summary": "La COP31 sur le climat en Turquie entre dans une phase décisive avec une proposition de décision finale, où l'absence de référence aux énergies fossiles pourrait braquer une partie des participants dimanche.",
+      "image": "https://s.rfi.fr/media/display/9d864214-e633-11f1-bb0e-e56ab3dc0809/w:1024/p:16x9/AP26325798691497.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cop31-une-nuit-de-negociations-un-nouveau-texte-mais-toujours-pas-de-men-f891456961.html"
     },
     {
-      "title": "Avec 5000 Lumens et une image 4K sur 250″, le vidéoprojecteur laser Xgimi Titan perd 1000 € pendant le Black Friday",
-      "url": "https://www.frandroid.com/bons-plans/3331059_avec-5000-lumens-et-une-image-4k-sur-250-le-videoprojecteur-laser-xgimi-titan-perd-1000-e-pendant-le-black-friday",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-21T18:35:00.000Z",
-      "summary": "Le Xgimi Titan est un vidéoprojecteur laser qui affiche de la 4K avec une grande luminosité pour transformer une pièce dédiée en salle de cinéma. Vous le retrouvez à 2 499 euros sur Amazon pour le Black Friday, alors qu'il est affiché 3 999 euros sur la boutique officielle de Xgimi.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/xgimi-titan-black-friday-2026.jpg?resize=1200,675&key=de52ad0c",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/avec-5000-lumens-et-une-image-4k-sur-250-le-videoprojecteur-laser-xgimi--303cbd26ef.html"
+      "title": "Mali: des jihadistes du JNIM attaquent l’armée et ses supplétifs dans la région de Ségou",
+      "url": "https://www.rfi.fr/fr/afrique/20261122-mali-des-jihadistes-du-jnim-attaquent-l-arm%C3%A9e-et-ses-suppl%C3%A9tifs-dans-la-r%C3%A9gion-de-s%C3%A9gou",
+      "source": "RFI",
+      "publishedAt": "2026-11-22T04:06:48.000Z",
+      "summary": "Au moins deux positions de l’armée malienne et de ses partenaires russes d’Africa Corps ont été attaquées samedi 21 novembre 2026 dans le centre du pays. Le groupe de soutien à l’islam et aux musulmans (Jnim) a revendiqué ces attaques qui ont fait plusieurs victimes dans les rangs de l’armée.",
+      "image": "https://s.rfi.fr/media/display/ee2d4236-e61e-11f1-8cf6-ebb478925cf0/w:1024/p:16x9/Carte-Niono.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-des-jihadistes-du-jnim-attaquent-l-armee-et-ses-suppletifs-dans-la--5278d38288.html"
     }
   ]
 }
