@@ -1,172 +1,98 @@
 {
-  "updatedAt": "2026-11-27T20:18:14.575Z",
+  "updatedAt": "2026-11-28T02:51:14.181Z",
   "items": [
     {
-      "title": "Guerre en Ukraine, Nvidia, législatives en Espagne, verdict de la CAN",
-      "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20261127-guerre-en-ukraine-nvidia-l%C3%A9gislatives-en-espagne-verdict-de-la-can",
+      "title": "Essor des data centers : faut-il débrancher l'IA?",
+      "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
       "source": "France 24",
-      "publishedAt": "2026-11-27T19:49:29.000Z",
-      "summary": "Au sommaire de l'émission cette semaine : l'extension de la guerre russo-ukrainienne et l'échec de l'Union européenne à s'accorder sur un nouveau prêt pour l'Ukraine ; le retour de Jensen Huang à la tête de l'entreprise Nvidia, orchestré par Donald Trump ; les élections législatives anticipées en Espagne et le verdict ",
-      "image": "https://s.france24.com/media/display/6a597382-ea9a-11f1-a179-174dac1c1bf0/w:1024/p:16x9/FR-20261127-191322-195612-CS-01.jpg",
+      "publishedAt": "2026-11-27T23:27:59.000Z",
+      "summary": "Cette semaine Elon Musk a obtenu le feu vert pour envoyer des data centers dans l'espace ! Jusqu'où ira la course à l'intelligence artificielle? Pour le président de la plateforme Café IA, Gilles Babinet, la logique actuelle \"est plutôt une logique d'accélération\".",
+      "image": "https://s.france24.com/media/display/11ca1bbe-eaad-11f1-b7b9-1991d4929b54/w:1024/p:16x9/FR-20261127-213008-214018-CS.jpg",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/guerre-en-ukraine-nvidia-legislatives-en-espagne-verdict-de-la-can-6fc903ee89.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/essor-des-data-centers-faut-il-debrancher-l-ia-e8073169f9.html"
     },
     {
-      "title": "Après les 60 fps, les 180 fps : la surenchère des vidéos de GTA 6 sur PC continue",
-      "url": "https://www.frandroid.com/produits-android/console/3344171_apres-les-60-fps-les-180-fps-la-surenchere-des-videos-de-gta-6-sur-pc-continue",
+      "title": "Darty brade le kit Starlink V4 Lite pour le Black Friday : 100 euros de moins pour avoir Internet partout",
+      "url": "https://www.frandroid.com/bons-plans/3344197_darty-brade-le-kit-starlink-v4-lite-pour-le-black-friday-100-euros-de-moins-pour-avoir-internet-partout",
       "source": "Frandroid",
-      "publishedAt": "2026-11-27T19:23:13.000Z",
-      "summary": "Une vidéo promet GTA 6 à 180&nbsp;images par seconde sur PC, en format ultra-large et avec ray tracing. Le compteur oublie simplement de préciser que cinq images sur six sont inventées par la carte graphique, alors que les vrais portages pirates plafonnent encore autour de 20 à 30&nbsp;images par seconde.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/4k-hdr-grand-theft-auto-6-analyse-technique-par-digital-foundry-le-jeu-de-la-generation-4-10-screenshot.png?resize=1200,675&key=15f44c95",
+      "publishedAt": "2026-11-27T21:25:48.000Z",
+      "summary": "Le kit Starlink Standard V4 Lite (2026) est la solution d'accès à Internet par satellite de SpaceX pour les foyers ruraux et les zones reculées, là où fibre et 4G restent insuffisantes ou absentes. Il est disponible chez Darty à 249,99 euros au lieu de 349,99 euros pour le Black Friday.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/starlink-v4-lite-black-friday-2026.jpg?resize=1200,675&key=01048fc4",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-les-60-fps-les-180-fps-la-surenchere-des-videos-de-gta-6-sur-pc-co-3e12f1f514.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/darty-brade-le-kit-starlink-v4-lite-pour-le-black-friday-100-euros-de-mo-314bffeecc.html"
     },
     {
-      "title": "Côte d'Ivoire : 234 détenus en marge de la présidentielle de 2025 libérés",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-c%C3%B4te-d-ivoire-234-d%C3%A9tenus-en-marge-de-la-pr%C3%A9sidentielle-de-2025-lib%C3%A9r%C3%A9s",
+      "title": "Présidentielle 2027: la dynamique David Lisnard à la loupe",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-pr%C3%A9sidentielle-2027-la-dynamique-david-lisnard-%C3%A0-la-loupe",
       "source": "France 24",
-      "publishedAt": "2026-11-27T19:13:40.000Z",
-      "summary": "🇨🇮 En Côte d’Ivoire, 234 personnes arrêtées en marge de la présidentielle d’octobre 2025 ont été libérées. Elles étaient notamment soupçonnées de troubles à l’ordre public. Les juges ont estimé les charges insuffisantes pour justifier des poursuites, selon le gouvernement.",
-      "image": "https://s.france24.com/media/display/2178c4a2-ea94-11f1-b154-f9cf020caef6/w:1024/p:16x9/Couv-CIV-Prisonniers-lib%C3%A9r%C3%A9s.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/cote-d-ivoire-234-detenus-en-marge-de-la-presidentielle-de-2025-liberes-a341d34314.html"
+      "publishedAt": "2026-11-27T23:42:44.000Z",
+      "summary": "Gros plan sur le phénomène David Lisnard qui réalise cette semaine une percée dans les sondages et se hisse directement à la troisième place des intentions de vote. Pour Damien Lecomte, docteur en Sciences politiques, le candidat de Nouvelle Energie bénéficie d'un \"effet de nouveauté\" et n'est pas associé au bilan d'Em",
+      "image": "https://s.france24.com/media/display/a79122b0-eaac-11f1-8824-1991d4929b54/w:1024/p:16x9/FR-20261127-220838-221538-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-la-dynamique-david-lisnard-a-la-loupe-d4bd10f3e5.html"
     },
     {
-      "title": "Législatives en Nouvelle-Zélande : le parti centriste Opportunity faiseur de roi",
-      "url": "https://fr.euronews.com/2026/11/27/legislatives-en-nouvelle-zelande-le-parti-centriste-opportunity-faiseur-de-roi",
-      "source": "Euronews",
-      "publishedAt": "2026-11-27T18:48:32.000Z",
-      "summary": "Le décompte final a montré un soutien accru aux petits partis situés aux extrêmes idéologiques. Au total, 2,8 millions de votes ont été exprimés.",
-      "image": "https://images.euronews.com/articles/stories/10/01/04/18/696x392_cmsv2_a8d4b928-8ff5-5841-b392-240685dee23a-10010418.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-nouvelle-zelande-le-parti-centriste-opportunity-faiseur--5a30d0c478.html"
-    },
-    {
-      "title": "Arancha Gonzalez Laya : \"Poutine fait peur aux Européens, pour qu'on arrête de financer l'Ukraine\"",
-      "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261127-arancha-gonzalez-laya-poutine-fait-peur-aux-europ%C3%A9ens-pour-qu-on-arr%C3%AAte-de-financer-l-ukraine",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T18:42:50.000Z",
-      "summary": "Notre invitée est la doyenne de l'École des affaires internationales de Sciences Po Paris, Arancha Gonzalez Laya. Ancienne ministre des Affaires étrangères du gouvernement du Premier ministre espagnol Pedro Sanchez, son parcours l'a aussi menée aux Nations unies et à l'Organisation mondiale du commerce (OMC).",
-      "image": "https://s.france24.com/media/display/dd734bf4-ea4a-11f1-88f7-81bc2b1dcd65/w:1024/p:16x9/PHOTO-ARANCHA-GONZALEZ-LAYA.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/arancha-gonzalez-laya-poutine-fait-peur-aux-europeens-pour-qu-on-arrete--68c65b3484.html"
-    },
-    {
-      "title": "SFR attaqué par ses propres boutiques, qui craignent de ne pas survivre au rachat",
-      "url": "https://www.frandroid.com/marques/sfr/3344147_sfr-attaque-par-ses-propres-boutiques-qui-craignent-de-ne-pas-survivre-au-rachat",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-27T18:37:33.000Z",
-      "summary": "Près d'une boutique SFR sur deux est tenue par un commerçant indépendant, et ces derniers assignent l'opérateur en justice. Leurs 1&nbsp;500 salariés n'entrent dans aucune des garanties d'emploi promises par Orange, Bouygues Telecom et Free.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/08/boutique-sfr-grande-rue-de-la-croix-rousse-lyon-juin-2023-scaled.jpeg?resize=1200,675&key=9a82d1a4",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/sfr-attaque-par-ses-propres-boutiques-qui-craignent-de-ne-pas-survivre-a-7c6621ca88.html"
-    },
-    {
-      "title": "Bangladesh: l'éventuel retour de Sheikh Hasina met le feu au pays et l'Inde dans l'impasse",
-      "url": "https://www.rfi.fr/fr/podcasts/l-asie-en-mouvement/20261127-bangladesh-l-%C3%A9ventuel-retour-de-sheikh-hasina-met-le-feu-au-pays-et-l-inde-dans-l-impasse",
+      "title": "Législatives en Espagne: le vote des jeunes penche de plus en plus à droite",
+      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261127-l%C3%A9gislatives-en-espagne-le-vote-des-jeunes-de-plus-en-plus-%C3%A0-droite",
       "source": "RFI",
-      "publishedAt": "2026-11-27T18:26:25.000Z",
-      "summary": "Coup de tonnerre au Bangladesh avec l'annonce de son ancienne Première ministre : Sheikh Hasina veut rentrer au pays le 16 décembre prochain, en dépit de sa condamnation à mort pour crimes contre l'humanité.",
-      "image": "https://s.rfi.fr/media/display/5255315c-9178-11f1-a66e-005056a90284/w:1024/p:16x9/000-C3FA8ZR.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/bangladesh-l-eventuel-retour-de-sheikh-hasina-met-le-feu-au-pays-et-l-in-ec6532f4a3.html"
+      "publishedAt": "2026-11-27T23:21:42.000Z",
+      "summary": "Nous sommes à la veille d'élections législatives en Espagne, prévues ce dimanche 29 novembre 2026. Le Parti populaire, de droite, est donné favori dans les sondages, juste devant le Parti socialiste du Premier ministre Pedro Sanchez. En troisième position : le parti d'extrême droite Vox, crédité de près de 20% des inte",
+      "image": "https://s.rfi.fr/media/display/58f7545c-eaa8-11f1-9d04-1991d4929b54/w:1024/p:16x9/AP26318001173819.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-espagne-le-vote-des-jeunes-penche-de-plus-en-plus-a-droi-13375c21e0.html"
     },
     {
-      "title": "Afrique du Sud : Cyril Ramaphosa évite la destitution dans \"l'affaire Phala Phala\"",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-afrique-du-sud-cyril-ramaphosa-%C3%A9vite-la-destitution-dans-l-affaire-phala-phala",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T18:14:03.000Z",
-      "summary": "🇿🇦 Cyril Ramaphosa échappe à une procédure de destitution liée au scandale de Phala Phala. Accusé d’avoir dissimulé un cambriolage survenu en 2020 dans sa ferme, le président sud-africain reste sous pression. L’affaire est loin d’être close.",
-      "image": "https://s.france24.com/media/display/b8d5cd88-ea83-11f1-ab5c-77d069279b82/w:1024/p:16x9/Couv-AF-DU-SUD-Ramaphosa.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/afrique-du-sud-cyril-ramaphosa-evite-la-destitution-dans-l-affaire-phala-b1e778d7d2.html"
-    },
-    {
-      "title": "Après l’hybride, le Zeekr 8X électrique lâche 925 ch pour défier le Range Rover",
-      "url": "https://www.frandroid.com/marques/zeekr/3343503_apres-lhybride-le-zeekr-8x-electrique-lache-925-ch-pour-defier-le-range-rover",
-      "source": "Frandroid",
-      "publishedAt": "2026-11-27T18:02:56.000Z",
-      "summary": "Déjà commercialisé en Chine en version hybride depuis avril, le grand SUV de Zeekr s'apprête à passer au tout électrique. Les documents du ministère chinois de l'Industrie en dévoilent les grandes lignes : un gabarit imposant, plus de 900 ch et une concurrence européenne en ligne de mire.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/img-6870.jpg?resize=1200,675&key=b5f9b42c",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/apres-l-hybride-le-zeekr-8x-electrique-lache-925-ch-pour-defier-le-range-c9282c9ffd.html"
-    },
-    {
-      "title": "RD Congo : le ton monte entre Kinshasa et l'armée ougandaise, déployée dans l'Est",
-      "url": "https://www.france24.com/fr/afrique/20261127-rd-congo-ton-monte-entre-kinshasa-arm%C3%A9e-ougandaise-d%C3%A9ploy%C3%A9e-est-lubero-nord-kivu",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T17:34:49.000Z",
-      "summary": "L'armée ougandaise a déclaré vendredi qu'elle prévoyait de se retirer de la ville de Lubero, dans l'est de la République démocratique du Congo, et a accusé des milices proches de Kinshasa de multiplier les exactions dans la région.",
-      "image": "https://s.france24.com/media/display/c2217142-ea80-11f1-be7e-77d069279b82/w:1024/p:16x9/AFP-20241220-36QY39P-v1-HighRes-DrcongoRwandaColnflictDisplaced.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/rd-congo-le-ton-monte-entre-kinshasa-et-l-armee-ougandaise-deployee-dans-35a53c340b.html"
-    },
-    {
-      "title": "Défense, UE, rigueur budgétaire: comment Jean-Luc Mélenchon est-il perçu en Allemagne?",
-      "url": "https://www.rfi.fr/fr/france/20261127-d%C3%A9fense-ue-rigueur-budg%C3%A9taire-comment-jean-luc-m%C3%A9lenchon-est-il-per%C3%A7u-en-allemagne",
+      "title": "Les journalistes menacés et agressés pendant les manifestations en France",
+      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20261127-les-journalistes-menac%C3%A9s-et-agress%C3%A9s-pendant-les-manifestations-en-france",
       "source": "RFI",
-      "publishedAt": "2026-11-27T17:28:01.000Z",
-      "summary": "Le candidat à la présidentielle 2027 de La France insoumise, Jean-Luc Mélenchon, est actuellement en déplacement en Allemagne. Il doit y présenter un livre qui sort en allemand dans un cinéma de Berlin, ce vendredi 27 novembre dans la soirée. La visite du leader de LFI dans ce pays n'est pas anodine en raison des criti",
-      "image": "https://s.rfi.fr/media/display/44e18fd6-ea7c-11f1-b1aa-1991d4929b54/w:1024/p:16x9/2026-11-16T201716Z-1136734044-RC28POAG8YL6-RTRMADP-3-FRANCE-POLITICS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/defense-ue-rigueur-budgetaire-comment-jean-luc-melenchon-est-il-percu-en-6016539f8b.html"
+      "publishedAt": "2026-11-27T23:20:46.000Z",
+      "summary": "À l'occasion des manifestations lycéennes et contre la vie chère, la Chronique des médias aborde la question des violences exercées en France à l'encontre des journalistes.",
+      "image": "https://s.rfi.fr/media/display/81f98ffc-eaba-11f1-aeeb-81bc2b1dcd65/w:1024/p:16x9/AP26290576893704.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-journalistes-menaces-et-agresses-pendant-les-manifestations-en-franc-7c17d505ca.html"
     },
     {
-      "title": "Plots de chantier, jets d’œufs : pas encore arrivés chez nous, les robotaxis ont la vie dure",
-      "url": "https://www.01net.com/actualites/plots-de-chantier-jets-doeufs-pas-encore-arrives-chez-nous-les-robotaxis-ont-la-vie-dure.html",
-      "source": "01net",
-      "publishedAt": "2026-11-27T17:12:54.000Z",
-      "summary": "À Denver, un seul homme a visé les voitures sans conducteur de Waymo au moins 30 fois, œufs et plots de chantier à l'appui. La justice locale a tranché, et aucun robotaxi ne roule encore en France.",
-      "image": "https://www.01net.com/app/uploads/2026/05/waymo-1344x896.jpg",
+      "title": "Erasmus+ France au Salon des maires et des collectivités locales à Paris",
+      "url": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20261127-erasmus-france-au-salon-des-maires-et-des-collectivit%C3%A9s-locales-%C3%A0-paris",
+      "source": "RFI",
+      "publishedAt": "2026-11-27T23:16:15.000Z",
+      "summary": "Les agences Erasmus+ France ont participé au Salon des maires et des collectivités locales, qui s'est tenu cette semaine à Paris du 24 au 26 novembre. Quel est le sens de cette participation ? Quel est l'apport de ce programme européen aux collectivités territoriales en France ? Nelly Fesseau, qui était présente à ce s",
+      "image": "https://s.rfi.fr/media/display/ce494cea-ea7d-11f1-9291-1991d4929b54/w:1024/p:16x9/erasmus-3.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/erasmus-france-au-salon-des-maires-et-des-collectivites-locales-a-paris-3eab77b39c.html"
+    },
+    {
+      "title": "Mali: les djihadistes du JNIM impose un blocus sur la ville de Tonka",
+      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
+      "source": "France 24",
+      "publishedAt": "2026-11-27T22:30:34.000Z",
+      "summary": "Les djihadistes du Groupe de Soutien à l’islam et aux musulmans (JNIM) affilié à Al-Qaïda, imposent depuis ce vendredi un blocus à Tonka, localité du nord du Mali… C’est l’installation depuis quelques semaines dans cette ville située dans la région de Tombouctou d’un détachement des forces russes d’Africa Corps et de l",
+      "image": "https://s.france24.com/media/display/b9b1409a-eaae-11f1-aaed-174dac1c1bf0/w:1024/p:16x9/DN00015972-VOD-00043850-01.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka-6801446964.html"
+    },
+    {
+      "title": "Taïwan: Chiang wan-an et Puma Shen au coude-à-coude pour la mairie de Taipei",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20261127-ta%C3%AFwan-chiang-wan-an-et-puma-shen-au-coude-%C3%A0-coude-pour-la-mairie-de-taipei",
+      "source": "RFI",
+      "publishedAt": "2026-11-27T20:56:37.000Z",
+      "summary": "La mairie de Taipei va-t-elle changer de couleur politique et durcir sa position vis-à-vis de Pékin ? Une journée électorale importante se tient ce samedi 28 novembre 2026 à Taïwan, où l'on vote pour désigner près de 11 000 élus locaux. Parmi eux, le poste clé de maire de Taipei, bastion du Kuomintang depuis trois déce",
+      "image": "https://s.rfi.fr/media/display/c8f90ed0-eaa3-11f1-ba58-174dac1c1bf0/w:1024/p:16x9/TAIWAN-PUMA-SHEN-CHIANG-WAN-AN.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/taiwan-chiang-wan-an-et-puma-shen-au-coude-a-coude-pour-la-mairie-de-tai-9cf91f522c.html"
+    },
+    {
+      "title": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
+      "url": "https://www.france24.com/fr/europe/20261127-trump-se-consid%C3%A8re-ami-poutine-pour-zelensky-cela-revient-se-dire-ami-hitler",
+      "source": "France 24",
+      "publishedAt": "2026-11-27T20:52:06.000Z",
+      "summary": "Volodymyr Zelensky a critiqué vendredi Donald Trump pour avoir qualifié Vladimir Poutine d'\"ami\", comparant le dirigeant russe à Adolf Hitler, lors d'un entretien accordé à la BBC. \"Il s'agit d'un agresseur et d'un tueur... il ne peut pas être considéré comme un ami\", a souligné le président ukrainien.",
+      "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-se-considere-l-ami-de-poutine-pour-zelensky-cela-revient-a-se-dire-0bdbe5085e.html"
+    },
+    {
+      "title": "Le prix de l’excellente caméra DJI Osmo Pocket 3 chute à seulement 229 € pour le Black Friday",
+      "url": "https://www.frandroid.com/bons-plans/3125883_le-prix-de-lexcellente-camera-dji-osmo-pocket-3-chute-a-seulement-229-euros-pour-le-black-friday",
+      "source": "Frandroid",
+      "publishedAt": "2026-11-27T21:01:16.000Z",
+      "summary": "La DJI Osmo Pocket 3 s'est rapidement imposée auprès des créateurs de contenu grâce à son format miniature et sa stabilisation d'exception. Lancée à 529 euros, mais maintenant plus habituellement vendue au prix de 429 euros, elle s'affiche aujourd'hui à seulement 229,99 euros pendant le Black Friday sur Boulanger.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/dji-osmo-pocket-3-black-friday-2026.jpg?resize=1200,675&key=4c314389",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/plots-de-chantier-jets-d-ufs-pas-encore-arrives-chez-nous-les-robotaxis--d7150b73b0.html"
-    },
-    {
-      "title": "\"Disciple de Marx\" et \"amateur\" de Beethoven : à Berlin, Mélenchon se défend d'être germanophobe",
-      "url": "https://www.france24.com/fr/france/20261127-allemagne-disciple-marx-amateur-beethoven-visite-berlin-m%C3%A9lenchon-livre-se-d%C3%A9fend-germanophobe",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T16:48:40.000Z",
-      "summary": "De passage à Berlin à l'occasion de la parution en allemand de son livre de 2023 \"Faites mieux !\", le candidat de La France insoumise à l'élection présidentielle s'est défendu d'être \"germanophobe\". \"C'est absurde\", a assuré Jean-Luc Mélenchon, qui s'est présenté comme une \"sorte de disciple de Karl Marx\", par ailleurs",
-      "image": "https://s.france24.com/media/display/6260b69e-dac9-11f1-8de7-a575454bc579/w:1024/p:16x9/000-D6RA7GJ.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/disciple-de-marx-et-amateur-de-beethoven-a-berlin-melenchon-se-defend-d--d99f1843b7.html"
-    },
-    {
-      "title": "Au Sénégal, Ousmane Sonko demande à Bassirou Diomaye Faye de dissoudre l'Assemblée",
-      "url": "https://www.france24.com/fr/afrique/20261127-s%C3%A9n%C3%A9gal-ousmane-sonko-conflit-rival-bassirou-diomaye-faye-dissolution-assembl%C3%A9e-%C3%A9lections-l%C3%A9gislatives-anticip%C3%A9es",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T16:32:24.000Z",
-      "summary": "Dans une vidéo adressée à ses partisans, le président de l'Assemblée nationale sénégalaise Ousmane Sonko a appelé jeudi soir le président Bassirou Diomaye Faye à dissoudre l'Assemblée et à organiser des législatives anticipées en 2027.",
-      "image": "https://s.france24.com/media/display/2d21baec-ea7c-11f1-a500-81bc2b1dcd65/w:1024/p:16x9/2026-11-18T223440Z-2119903424-RC29QOANVLJ6-RTRMADP-3-SENEGAL-ECONOMY.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/au-senegal-ousmane-sonko-demande-a-bassirou-diomaye-faye-de-dissoudre-l--72e7555b92.html"
-    },
-    {
-      "title": "Présidentielle française : cinq ans après, la guerre en Ukraine ne fait pas recette dans la campagne",
-      "url": "https://www.france24.com/fr/france/20261127-presidentielle-fran%C3%A7aise-cinq-ans-apr%C3%A8s-la-guerre-en-ukraine-ne-fait-pas-recette-dans-la-campagne",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T16:15:25.000Z",
-      "summary": "Après avoir largement dominé la campagne électorale de la précédente présidentielle, le conflit russo-ukrainien n’est pas pour le moment un thème majeur dans l’élection de 2027. Une configuration qui pénalise les candidats pro-européens, d’Édouard Philippe à Raphael Glucksmann, partisans d'une ligne ferme vis-à-vis de ",
-      "image": "https://s.france24.com/media/display/5bf85d84-a450-11f1-8d69-005056bf30b7/w:1024/p:16x9/france-debat.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-francaise-cinq-ans-apres-la-guerre-en-ukraine-ne-fait-pas-02284be17b.html"
-    },
-    {
-      "title": "Des pneus à nos assiettes : enquête sur une pollution toxique invisible",
-      "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-le-reportage/20261127-des-pneus-%C3%A0-nos-assiettes-enqu%C3%AAte-sur-une-pollution-toxique-invisible",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T16:03:36.000Z",
-      "summary": "Et si les pneus abandonnés en Méditerranée continuaient de polluer la mer des décennies après ? À Marseille, des bénévoles de l'ONG MerVeille dépolluent, seuls, la côte. Mais la pollution ne s'arrête pas là : chaque kilomètre parcouru en voiture libère des particules toxiques. Nous avons suivi les scientifiques qui les",
-      "image": "https://s.france24.com/media/display/5cbd7672-ea74-11f1-9106-174dac1c1bf0/w:1024/p:16x9/18782e2a-b7f1-4e69-9806-3681b805f3f5.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/des-pneus-a-nos-assiettes-enquete-sur-une-pollution-toxique-invisible-d3d49625e7.html"
-    },
-    {
-      "title": "Estonie-Russie : la fermeture de la frontière inquiète les habitants de Narva",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-estonie-russie-la-fermeture-de-la-fronti%C3%A8re-inqui%C3%A8te-les-habitants-de-narva",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T15:53:29.000Z",
-      "summary": "L'Estonie ferme ses cinq points de passage routiers avec la Russie à partir du 1er décembre 2026 à 7 h pour une durée initiale de six mois, sur fond d'accusations de sabotage et de menaces sécuritaires attribuées au renseignement russe.",
-      "image": "https://s.france24.com/media/display/5f84abf4-ea7a-11f1-bba5-81bc2b1dcd65/w:1024/p:16x9/FR-20261127-160858-161057-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/estonie-russie-la-fermeture-de-la-frontiere-inquiete-les-habitants-de-na-ec4d6d2f15.html"
-    },
-    {
-      "title": "Présidentielle 2027 : Lisnard donné à 12 %, Philippe dégringole",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-pr%C3%A9sidentielle-2027-lisnard-donn%C3%A9-%C3%A0-12-philippe-d%C3%A9gringole",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T15:39:54.000Z",
-      "summary": "Le candidat Horizons Edouard Philippe chute de quatre points à 8% des intentions de vote dans un sondage OpinionWay pour CNEWS publié jeudi, et se retrouve distancé par le libéral David Lisnard (12%), désormais troisième derrière Marine Le Pen et Jean-Luc Mélenchon.",
-      "image": "https://s.france24.com/media/display/7fd4b31c-ea71-11f1-b134-77d069279b82/w:1024/p:16x9/FR-20261127-143737-144357-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-lisnard-donne-a-12-philippe-degringole-bc991c05c9.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-prix-de-l-excellente-camera-dji-osmo-pocket-3-chute-a-seulement-229-p-359a4bf9e7.html"
     }
   ]
 }
