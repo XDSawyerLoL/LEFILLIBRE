@@ -1,98 +1,169 @@
 {
-  "updatedAt": "2026-11-28T02:51:14.181Z",
+  "updatedAt": "2026-11-28T11:10:55.804Z",
   "items": [
     {
-      "title": "Essor des data centers : faut-il débrancher l'IA?",
-      "url": "https://www.france24.com/fr/%C3%A9missions/la-question-qui-f%C3%A2che/20261127-essor-des-data-centers-faut-il-d%C3%A9brancher-l-ia",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T23:27:59.000Z",
-      "summary": "Cette semaine Elon Musk a obtenu le feu vert pour envoyer des data centers dans l'espace ! Jusqu'où ira la course à l'intelligence artificielle? Pour le président de la plateforme Café IA, Gilles Babinet, la logique actuelle \"est plutôt une logique d'accélération\".",
-      "image": "https://s.france24.com/media/display/11ca1bbe-eaad-11f1-b7b9-1991d4929b54/w:1024/p:16x9/FR-20261127-213008-214018-CS.jpg",
-      "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/essor-des-data-centers-faut-il-debrancher-l-ia-e8073169f9.html"
-    },
-    {
-      "title": "Darty brade le kit Starlink V4 Lite pour le Black Friday : 100 euros de moins pour avoir Internet partout",
-      "url": "https://www.frandroid.com/bons-plans/3344197_darty-brade-le-kit-starlink-v4-lite-pour-le-black-friday-100-euros-de-moins-pour-avoir-internet-partout",
+      "title": "J’ai testé le JMGO Iris Ultra Max : enfin un vidéoprojecteur 4K 120 Hz capable de rivaliser avec un TV gaming",
+      "url": "https://www.frandroid.com/marques/jmgo/3308171_jai-teste-le-jmgo-iris-ultra-max-enfin-un-videoprojecteur-4k-120-hz-capable-de-rivaliser-avec-un-tv-gaming",
       "source": "Frandroid",
-      "publishedAt": "2026-11-27T21:25:48.000Z",
-      "summary": "Le kit Starlink Standard V4 Lite (2026) est la solution d'accès à Internet par satellite de SpaceX pour les foyers ruraux et les zones reculées, là où fibre et 4G restent insuffisantes ou absentes. Il est disponible chez Darty à 249,99 euros au lieu de 349,99 euros pour le Black Friday.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/starlink-v4-lite-black-friday-2026.jpg?resize=1200,675&key=01048fc4",
+      "publishedAt": "2026-11-28T11:00:00.000Z",
+      "summary": "Affichant enfin un signal 4K à 120 Hz de bout en bout, ce vidéoprojecteur lifestyle triple laser profite d'un double iris pour l'optimisation du contraste, 6 500 lumens ISO annoncés et une balancelle motorisée. En voici mes impressions après quelques semaines passées avec lui.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/jmgo-iris-ultra-test-intro.jpg?resize=1200,675&key=2b629e03",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/darty-brade-le-kit-starlink-v4-lite-pour-le-black-friday-100-euros-de-mo-314bffeecc.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/j-ai-teste-le-jmgo-iris-ultra-max-enfin-un-videoprojecteur-4k-120-hz-cap-6c15d60775.html"
     },
     {
-      "title": "Présidentielle 2027: la dynamique David Lisnard à la loupe",
-      "url": "https://www.france24.com/fr/vid%C3%A9o/20261127-pr%C3%A9sidentielle-2027-la-dynamique-david-lisnard-%C3%A0-la-loupe",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T23:42:44.000Z",
-      "summary": "Gros plan sur le phénomène David Lisnard qui réalise cette semaine une percée dans les sondages et se hisse directement à la troisième place des intentions de vote. Pour Damien Lecomte, docteur en Sciences politiques, le candidat de Nouvelle Energie bénéficie d'un \"effet de nouveauté\" et n'est pas associé au bilan d'Em",
-      "image": "https://s.france24.com/media/display/a79122b0-eaac-11f1-8824-1991d4929b54/w:1024/p:16x9/FR-20261127-220838-221538-CS.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/presidentielle-2027-la-dynamique-david-lisnard-a-la-loupe-d4bd10f3e5.html"
-    },
-    {
-      "title": "Législatives en Espagne: le vote des jeunes penche de plus en plus à droite",
-      "url": "https://www.rfi.fr/fr/podcasts/reportage-international/20261127-l%C3%A9gislatives-en-espagne-le-vote-des-jeunes-de-plus-en-plus-%C3%A0-droite",
-      "source": "RFI",
-      "publishedAt": "2026-11-27T23:21:42.000Z",
-      "summary": "Nous sommes à la veille d'élections législatives en Espagne, prévues ce dimanche 29 novembre 2026. Le Parti populaire, de droite, est donné favori dans les sondages, juste devant le Parti socialiste du Premier ministre Pedro Sanchez. En troisième position : le parti d'extrême droite Vox, crédité de près de 20% des inte",
-      "image": "https://s.rfi.fr/media/display/58f7545c-eaa8-11f1-9d04-1991d4929b54/w:1024/p:16x9/AP26318001173819.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/legislatives-en-espagne-le-vote-des-jeunes-penche-de-plus-en-plus-a-droi-13375c21e0.html"
-    },
-    {
-      "title": "Les journalistes menacés et agressés pendant les manifestations en France",
-      "url": "https://www.rfi.fr/fr/podcasts/chronique-des-m%C3%A9dias/20261127-les-journalistes-menac%C3%A9s-et-agress%C3%A9s-pendant-les-manifestations-en-france",
-      "source": "RFI",
-      "publishedAt": "2026-11-27T23:20:46.000Z",
-      "summary": "À l'occasion des manifestations lycéennes et contre la vie chère, la Chronique des médias aborde la question des violences exercées en France à l'encontre des journalistes.",
-      "image": "https://s.rfi.fr/media/display/81f98ffc-eaba-11f1-aeeb-81bc2b1dcd65/w:1024/p:16x9/AP26290576893704.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/les-journalistes-menaces-et-agresses-pendant-les-manifestations-en-franc-7c17d505ca.html"
-    },
-    {
-      "title": "Erasmus+ France au Salon des maires et des collectivités locales à Paris",
-      "url": "https://www.rfi.fr/fr/podcasts/vivre-ailleurs/20261127-erasmus-france-au-salon-des-maires-et-des-collectivit%C3%A9s-locales-%C3%A0-paris",
-      "source": "RFI",
-      "publishedAt": "2026-11-27T23:16:15.000Z",
-      "summary": "Les agences Erasmus+ France ont participé au Salon des maires et des collectivités locales, qui s'est tenu cette semaine à Paris du 24 au 26 novembre. Quel est le sens de cette participation ? Quel est l'apport de ce programme européen aux collectivités territoriales en France ? Nelly Fesseau, qui était présente à ce s",
-      "image": "https://s.rfi.fr/media/display/ce494cea-ea7d-11f1-9291-1991d4929b54/w:1024/p:16x9/erasmus-3.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/erasmus-france-au-salon-des-maires-et-des-collectivites-locales-a-paris-3eab77b39c.html"
-    },
-    {
-      "title": "Mali: les djihadistes du JNIM impose un blocus sur la ville de Tonka",
-      "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261127-mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T22:30:34.000Z",
-      "summary": "Les djihadistes du Groupe de Soutien à l’islam et aux musulmans (JNIM) affilié à Al-Qaïda, imposent depuis ce vendredi un blocus à Tonka, localité du nord du Mali… C’est l’installation depuis quelques semaines dans cette ville située dans la région de Tombouctou d’un détachement des forces russes d’Africa Corps et de l",
-      "image": "https://s.france24.com/media/display/b9b1409a-eaae-11f1-aaed-174dac1c1bf0/w:1024/p:16x9/DN00015972-VOD-00043850-01.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mali-les-djihadistes-du-jnim-impose-un-blocus-sur-la-ville-de-tonka-6801446964.html"
-    },
-    {
-      "title": "Taïwan: Chiang wan-an et Puma Shen au coude-à-coude pour la mairie de Taipei",
-      "url": "https://www.rfi.fr/fr/asie-pacifique/20261127-ta%C3%AFwan-chiang-wan-an-et-puma-shen-au-coude-%C3%A0-coude-pour-la-mairie-de-taipei",
-      "source": "RFI",
-      "publishedAt": "2026-11-27T20:56:37.000Z",
-      "summary": "La mairie de Taipei va-t-elle changer de couleur politique et durcir sa position vis-à-vis de Pékin ? Une journée électorale importante se tient ce samedi 28 novembre 2026 à Taïwan, où l'on vote pour désigner près de 11 000 élus locaux. Parmi eux, le poste clé de maire de Taipei, bastion du Kuomintang depuis trois déce",
-      "image": "https://s.rfi.fr/media/display/c8f90ed0-eaa3-11f1-ba58-174dac1c1bf0/w:1024/p:16x9/TAIWAN-PUMA-SHEN-CHIANG-WAN-AN.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/taiwan-chiang-wan-an-et-puma-shen-au-coude-a-coude-pour-la-mairie-de-tai-9cf91f522c.html"
-    },
-    {
-      "title": "Trump se considère l'\"ami\" de Poutine ? Pour Zelensky, cela revient à se dire ami d'Hitler",
-      "url": "https://www.france24.com/fr/europe/20261127-trump-se-consid%C3%A8re-ami-poutine-pour-zelensky-cela-revient-se-dire-ami-hitler",
-      "source": "France 24",
-      "publishedAt": "2026-11-27T20:52:06.000Z",
-      "summary": "Volodymyr Zelensky a critiqué vendredi Donald Trump pour avoir qualifié Vladimir Poutine d'\"ami\", comparant le dirigeant russe à Adolf Hitler, lors d'un entretien accordé à la BBC. \"Il s'agit d'un agresseur et d'un tueur... il ne peut pas être considéré comme un ami\", a souligné le président ukrainien.",
-      "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/trump-se-considere-l-ami-de-poutine-pour-zelensky-cela-revient-a-se-dire-0bdbe5085e.html"
-    },
-    {
-      "title": "Le prix de l’excellente caméra DJI Osmo Pocket 3 chute à seulement 229 € pour le Black Friday",
-      "url": "https://www.frandroid.com/bons-plans/3125883_le-prix-de-lexcellente-camera-dji-osmo-pocket-3-chute-a-seulement-229-euros-pour-le-black-friday",
+      "title": "Auchan termine son Black Friday avec quatre TV TCL de 349 à 799 € qui misent sur la qualité d’image [Sponso]",
+      "url": "https://www.frandroid.com/produits-android/tv-connectee-produits/3329341_auchan-termine-son-black-friday-avec-quatre-tv-tcl-de-349-a-799-e-qui-misent-sur-la-qualite-dimage",
       "source": "Frandroid",
-      "publishedAt": "2026-11-27T21:01:16.000Z",
-      "summary": "La DJI Osmo Pocket 3 s'est rapidement imposée auprès des créateurs de contenu grâce à son format miniature et sa stabilisation d'exception. Lancée à 529 euros, mais maintenant plus habituellement vendue au prix de 429 euros, elle s'affiche aujourd'hui à seulement 229,99 euros pendant le Black Friday sur Boulanger.",
-      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/dji-osmo-pocket-3-black-friday-2026.jpg?resize=1200,675&key=4c314389",
+      "publishedAt": "2026-11-28T10:30:00.000Z",
+      "summary": "Un QLED de 50 pouces à 349 €, deux Mini LED de 55 pouces à 549 € et un grand 65 pouces à 799 €. Pour le Black Friday, Auchan met en avant quatre téléviseurs TCL qui répondent à des besoins différents, du streaming au jeu en 4K à 144 Hz.",
+      "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/p8l-resultat.jpg?resize=1200,675&key=cd36f01b",
       "category": "IA & Tech",
-      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/le-prix-de-l-excellente-camera-dji-osmo-pocket-3-chute-a-seulement-229-p-359a4bf9e7.html"
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/auchan-termine-son-black-friday-avec-quatre-tv-tcl-de-349-a-799-qui-mise-d271271c7c.html"
+    },
+    {
+      "title": "DIRECT - France: journée de mobilisation pour un acte VII rallié par la lutte contre les violences faites aux femmes",
+      "url": "https://www.rfi.fr/fr/france/20261128-direct-france-journ%C3%A9e-de-mobilisation-pour-un-acte-vii-ralli%C3%A9-par-la-lutte-contre-les-violences-faites-aux-femmes",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T10:53:43.000Z",
+      "summary": "De multiples appels à manifester ont de nouveau été lancés pour samedi partout en France, notamment contre les violences faites aux femmes, dans le contexte tendu d'une mobilisation sociale qui se poursuit en pleine campagne pour l'élection présidentielle de 2027.",
+      "image": "https://s.rfi.fr/media/display/bd3f0c8a-eb01-11f1-8131-1991d4929b54/w:1024/p:16x9/AP26325572482749.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/direct-france-journee-de-mobilisation-pour-un-acte-vii-rallie-par-la-lut-b03734278b.html"
+    },
+    {
+      "title": "Mexique : la ligne de dénonciation anti-cartels des États-Unis dénoncée comme ingérence",
+      "url": "https://fr.euronews.com/2026/11/28/mexique-la-ligne-de-denonciation-anti-cartels-des-etats-unis-denoncee-comme-ingerence",
+      "source": "Euronews",
+      "publishedAt": "2026-11-28T10:29:22.000Z",
+      "summary": "La présidente mexicaine Claudia Sheinbaum a dénoncé vendredi la ligne téléphonique américaine pour signaler les activités des cartels de la drogue comme une ingérence étrangère.",
+      "image": "https://images.euronews.com/articles/stories/10/01/22/52/696x392_cmsv2_afc6ba0e-8f81-585a-ba6b-097030b00a51-10012252.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/mexique-la-ligne-de-denonciation-anti-cartels-des-etats-unis-denoncee-co-ae4dd04714.html"
+    },
+    {
+      "title": "L'ONU alerte sur une aggravation de la faim dans le monde en raison des conflit et d'El Niño",
+      "url": "https://www.rfi.fr/fr/monde/20261128-l-onu-alerte-sur-une-aggravation-de-la-faim-dans-le-monde-en-raison-des-conflit-et-d-el-ni%C3%B1o",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T10:25:58.000Z",
+      "summary": "Dans les six mois à venir, la faim va s'aggraver à travers le monde. C'est l'alerte, lancée ce 27 novembre 2026 par l'Organisation onusienne pour l'alimentation et l'agriculture, la FAO, et le PAM, le programme alimentaire mondial. Parmi les raisons invoquées : les conflits qui ont causé des déplacements massifs de pop",
+      "image": "https://s.rfi.fr/media/display/7437d5dc-0f59-11f1-9b04-005056a97e36/w:1024/p:16x9/000-96EP2CQ.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/l-onu-alerte-sur-une-aggravation-de-la-faim-dans-le-monde-en-raison-des--deb838809a.html"
+    },
+    {
+      "title": "Élections en Victoria : les conservateurs espèrent battre le Labor d'Albanese",
+      "url": "https://fr.euronews.com/2026/11/28/elections-en-victoria-les-conservateurs-esperent-battre-le-labor-dalbanese",
+      "source": "Euronews",
+      "publishedAt": "2026-11-28T10:25:00.000Z",
+      "summary": "L'élection de l'État de Victoria pourrait porter un coup au parti travailliste du Premier ministre, qui dirige la région depuis 12 ans, au profit des conservateurs du pays.",
+      "image": "https://images.euronews.com/articles/stories/10/01/23/34/696x392_cmsv2_ec808402-94f2-542c-80a0-73548c8bb693-10012334.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-en-victoria-les-conservateurs-esperent-battre-le-labor-d-alban-ca4ac8aa94.html"
+    },
+    {
+      "title": "Élections législatives en Espagne: «Nous pouvons les qualifier d'historiques»",
+      "url": "https://www.rfi.fr/fr/europe/20261128-%C3%A9lections-l%C3%A9gislatives-en-espagne-nous-pouvons-les-qualifier-d-historiques",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T10:19:37.000Z",
+      "summary": "À moins de 24 heures des élections législatives, l’Espagne se trouve à un tournant politique. Après huit années au pouvoir, Pedro Sánchez joue son avenir dans un scrutin marqué par la crise du logement, la hausse du coût de la vie et la progression de Vox, parti d’extrême droite. Analyse des grands enjeux de ces électi",
+      "image": "https://s.rfi.fr/media/display/7c32703a-ea32-11f1-a4a1-1991d4929b54/w:1024/p:16x9/2026-11-26T223725Z-1198758866-RC2XVOA1OM2U-RTRMADP-3-SPAIN-ELECTION-DEBATE.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/elections-legislatives-en-espagne-nous-pouvons-les-qualifier-d-historiqu-3da9b8e1cd.html"
+    },
+    {
+      "title": "Espagne : l'immigration au cœur des élections",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20261128-espagne-l-immigration-au-c%C5%93ur-des-%C3%A9lections",
+      "source": "France 24",
+      "publishedAt": "2026-11-28T10:02:09.000Z",
+      "summary": "L’immigration est au cœur de la campagne électorale en Espagne, où deux visions s’opposent. Le gouvernement de Pedro Sánchez défend notamment la régularisation exceptionnelle des migrants, mais est critiqué pour sa gestion de leur arrivée massive à Ceuta, depuis le Maroc. À l’inverse, la droite, particulièrement le par",
+      "image": "https://s.france24.com/media/display/421d7104-eb10-11f1-b5fc-f9cf020caef6/w:1024/p:16x9/FR-20261128-100433-100636-CS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/espagne-l-immigration-au-c-ur-des-elections-948188deb0.html"
+    },
+    {
+      "title": "À la Une: veille d'élections législatives en Espagne",
+      "url": "https://www.rfi.fr/fr/podcasts/revue-de-presse-internationale/20261128-%C3%A0-la-une-veille-d-%C3%A9lections-l%C3%A9gislatives-en-espagne",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T09:52:48.000Z",
+      "image": "https://s.rfi.fr/media/display/d84d8160-eaec-11f1-890b-81bc2b1dcd65/w:1024/p:16x9/rp-inter-1.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/a-la-une-veille-d-elections-legislatives-en-espagne-df94814fbc.html"
+    },
+    {
+      "title": "Canada: la Cour suprême valide la loi sur la laïcité adoptée par le Québec",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261128-canada-la-cour-supr%C3%AAme-valide-la-loi-sur-la-la%C3%AFcit%C3%A9-adopt%C3%A9e-par-le-qu%C3%A9bec",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T09:04:31.000Z",
+      "summary": "La Cour suprême du Canada a tranché : le Québec pourra maintenir l’interdiction du port de signes religieux, en vigueur depuis 2019, pour certains agents publics, comme les enseignants ou les policiers. Une singularité dans un pays historiquement attaché au multiculturalisme. Cette victoire est saluée par le Premier mi",
+      "image": "https://s.rfi.fr/media/display/aea8f1b6-eb08-11f1-afa6-81bc2b1dcd65/w:1024/p:16x9/AP26331586075651.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/canada-la-cour-supreme-valide-la-loi-sur-la-laicite-adoptee-par-le-quebe-cb00639bf2.html"
+    },
+    {
+      "title": "Coup dur pour l’IPTV pirate : la police européenne frappe 57 services de streaming illégal",
+      "url": "https://www.01net.com/actualites/coup-dur-pour-liptv-pirate-la-police-europeenne-frappe-57-services-de-streaming-illegal.html",
+      "source": "01net",
+      "publishedAt": "2026-11-28T09:02:34.000Z",
+      "summary": "La guerre contre l’IPTV continue de battre son plein. Lors d’une opération coordonnée par Europol, les forces de l’ordre de onze pays ont perturbé les activités de 57 services de streaming illégal. Avec l’aide de Binance et Coinbase, les forces de l'ordre ont aussi pu pister plus de 26 millions d’euros de paiements en ",
+      "image": "https://www.01net.com/app/uploads/2026/08/iptv-football-streaming-1344x896.jpg",
+      "category": "IA & Tech",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/coup-dur-pour-l-iptv-pirate-la-police-europeenne-frappe-57-services-de-s-67eb212b8f.html"
+    },
+    {
+      "title": "Nouvelle journée de manifestation samedi, notamment contre les violences sexistes et sexuelles",
+      "url": "https://www.france24.com/fr/france/20261128-une-nouvelle-journ%C3%A9e-de-mobilisation-samedi-notamment-contre-les-violences-faites-aux-femmes",
+      "source": "France 24",
+      "publishedAt": "2026-11-28T08:37:06.000Z",
+      "summary": "Associations féministes, syndicats, mais aussi jeunes et gilets jaunes… De multiples appels à manifester ont de nouveau été lancés pour la journée de samedi partout en France, notamment contre les violences faites aux femmes dans le sillage de la journée internationale de lutte contre les violences faites aux femmes du",
+      "image": "https://s.france24.com/media/display/025202ae-b12e-11f1-a0d6-53b7617a3a51/w:1024/p:16x9/000-B8PL8KU.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/nouvelle-journee-de-manifestation-samedi-notamment-contre-les-violences--4f60db5a78.html"
+    },
+    {
+      "title": "Macron, comment dire adieu à l'Élysée et aux Français?",
+      "url": "https://www.rfi.fr/fr/podcasts/politique-le-choix-de-la-semaine/20261128-macron-comment-dire-adieu-%C3%A0-l-%C3%A9lys%C3%A9e-et-aux-fran%C3%A7ais",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T07:38:35.000Z",
+      "summary": "Emmanuel Macron va bientôt quitter l'Élysée. Dans moins de six mois, il devra céder la place à son successeur. Et, la question qui se pose pour lui est de trouver comment laisser une trace positive. Pour y parvenir, le chef de l'État n'a pas renoncé à prendre des initiatives.",
+      "image": "https://s.rfi.fr/media/display/d591313a-756f-11f1-8b7a-005056a90284/w:1024/p:16x9/2026-07-01T114726Z-2130995183-RC2Y4MAHTN0V-RTRMADP-3-FRANCE-POLITICS.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/macron-comment-dire-adieu-a-l-elysee-et-aux-francais-5258ff15aa.html"
+    },
+    {
+      "title": "En direct : la Russie affirme avoir abattu 1 246 drones ukrainiens dans la nuit",
+      "url": "https://www.france24.com/fr/europe/20261128-en-direct-la-russie-annonce-l-interception-de-plus-de-1-200-drones-ukrainiens",
+      "source": "France 24",
+      "publishedAt": "2026-11-28T07:24:32.000Z",
+      "summary": "La Russie a annoncé avoir abattu plus de 1 200 drones ukrainiens lancés sur son territoire, dont la région de Moscou, dans la nuit de vendredi à samedi. Suivez les dernières informations sur la guerre en Ukraine en direct.",
+      "image": "https://s.france24.com/media/display/2653445a-eafa-11f1-a4ee-174dac1c1bf0/w:1024/p:16x9/AP26327531590182.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/en-direct-la-russie-affirme-avoir-abattu-1-246-drones-ukrainiens-dans-la-c67559f5ba.html"
+    },
+    {
+      "title": "Ukraine: une académie forme des femmes au pilotage de drones",
+      "url": "https://www.rfi.fr/fr/europe/20261128-ukraine-une-acad%C3%A9mie-forme-des-femmes-au-pilotage-de-drones",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T07:16:23.000Z",
+      "summary": "En Ukraine, les drones font partie du quotidien de chacun. Ils ont révolutionné la ligne de front. La Russie s'en sert pour terroriser la population ukrainienne au quotidien et la défense aérienne ukrainienne s'en sert pour intercepter les drones kamikazes russes et lancer des opérations sur des cibles militaires et st",
+      "image": "https://s.rfi.fr/media/display/416f50ec-cd83-11f1-89c5-eb48fa034ddc/w:1024/p:16x9/AP26293532334072.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/ukraine-une-academie-forme-des-femmes-au-pilotage-de-drones-62958b8b53.html"
+    },
+    {
+      "title": "Serbie: Radomir Saisic, le candidat du mouvement étudiant à la présidentielle de décembre",
+      "url": "https://www.rfi.fr/fr/europe/20261128-serbie-radomir-saisic-le-candidat-du-mouvement-%C3%A9tudiant-%C3%A0-la-pr%C3%A9sidentielle-de-d%C3%A9cembre",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T06:15:10.000Z",
+      "summary": "24 heures après avoir convoqué, le 27 décembre, l'élection présidentielle anticipée en Serbie, les représentants de la liste étudiante ont annoncé ce 27 novembre 2026 qu'ils auraient un candidat à ce scrutin. Il s'agit de Radomir Saisic, le numéro un de la liste ayant remporté les législatives, le 25 octobre dernier.",
+      "image": "https://s.rfi.fr/media/display/44420f76-eaf2-11f1-bd4c-81bc2b1dcd65/w:1024/p:16x9/AP26331416736252.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/serbie-radomir-saisic-le-candidat-du-mouvement-etudiant-a-la-presidentie-7ecd33febf.html"
+    },
+    {
+      "title": "Un citoyen français détenu par l'ICE aux États-Unis: sa femme raconte son calvaire à RFI",
+      "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261128-un-citoyen-fran%C3%A7ais-d%C3%A9tenu-par-l-ice-aux-%C3%A9tats-unis-sa-femme-raconte-son-calvaire-%C3%A0-rfi",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T06:00:55.000Z",
+      "summary": "Allan vit aux États-Unis depuis onze ans. Arrêté le 15 octobre par la police de l'immigration à New York, il se trouve désormais en centre de rétention. Son épouse appelle à sa libération.",
+      "image": "https://s.rfi.fr/media/display/fb7ec77c-eadb-11f1-a829-81bc2b1dcd65/w:1024/p:16x9/Allan.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/un-citoyen-francais-detenu-par-l-ice-aux-etats-unis-sa-femme-raconte-son-c70c5e960d.html"
+    },
+    {
+      "title": "France: un expert psychologue livre son analyse au procès de la jihadiste Émilie König",
+      "url": "https://www.rfi.fr/fr/france/20261128-france-un-expert-psychologue-livre-son-analyse-au-proc%C3%A8s-de-la-jihadiste-%C3%A9milie-k%C3%B6nig",
+      "source": "RFI",
+      "publishedAt": "2026-11-28T05:44:29.000Z",
+      "summary": "L’heure de l’interrogatoire pour Emilie König, jugée par la Cour d’assises spéciale de Paris pour association de malfaiteurs terroriste, pour avoir rejoint le groupe État islamique en Syrie, en 2013, et en avoir fait une propagande zélée. Des faits qu'elle a reconnus dès le premier jour. Celle qui a aussi présenté ses ",
+      "image": "https://s.rfi.fr/media/display/631d6612-e8f3-11f1-b5ad-81da3ab2acbb/w:1024/p:16x9/emilie-konig-femmes-jihadistes.jpg",
+      "articleUrl": "https://xdsawyerlol.github.io/LEFILLIBRE/articles/france-un-expert-psychologue-livre-son-analyse-au-proces-de-la-jihadiste-0f431acba2.html"
     }
   ]
 }
